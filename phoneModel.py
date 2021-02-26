@@ -55,7 +55,7 @@ if __name__=='__main__':
                'samsung':'三星','zte':'中兴','letv':'乐视','honor':'荣耀','lenovo':'联想',
                '360shouji':'奇酷','nubia':'努比亚'}
 
-    pm=PhoneModel() # 初始 pm=PhoneModel(1),后续更新可不填
+    pm=PhoneModel() # 初始 pm=PhoneModel(0),后续更新可不填
     pm.get_all()
     pm.data_save()
 
