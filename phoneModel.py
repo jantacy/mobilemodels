@@ -46,7 +46,7 @@ class PhoneModel:
         self.brand_model.to_csv(os.path.join(project_path,'brand_model.csv'),index=False,encoding='utf-8-sig')
 
 if __name__=='__main__':
-    project_path=os.path.join(os.path.expanduser('~'),'resource','source','MobileModels')
+    project_path=os.path.join(os.path.expanduser('~'),'MobileModels')
     repo_address='https://github.com/KHwang9883/MobileModels.git'
 
     brand_map={'meizu':'魅族','smartisan':'锤子','vivo':'VIVO','realme':'REALME',
