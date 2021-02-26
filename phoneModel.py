@@ -6,7 +6,7 @@
 
 import os,re
 import pandas as pd
-from git import Repo
+from git import Repo # rely on gitpython
 
 class PhoneModel:
     def __init__(self,origin=1):
