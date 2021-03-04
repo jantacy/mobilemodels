@@ -43,7 +43,8 @@ class PhoneModel:
         self.brand_model=brand_model.reset_index(drop=True).drop_duplicates().reset_index(drop=True)
 
     def data_save(self):
-        self.brand_model.to_csv(os.path.join(project_path,'brand_model.csv'),index=False,encoding='utf-8-sig')
+        repo_path=os.path.dirname(os.path.realpath(__file__))
+        self.brand_model.to_csv(os.path.join(repo_path,'brand_model.csv'),index=False,encoding='utf-8-sig')
 
 if __name__=='__main__':
     project_path=os.path.join(os.path.expanduser('~'),'MobileModels')
