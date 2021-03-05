@@ -520,6 +520,15 @@ xiaomi,M2003J6A1I,小米, Redmi Note 9 Pro India
 xiaomi,M2003J6B1I,小米, Redmi Note 9 Pro Max India
 xiaomi,M2003J6B2G,小米, Redmi Note 9 Pro Global
 xiaomi,M2007J17C,小米, Redmi Note 9 Pro 5G China
+xiaomi,M2101K7AG,小米, Redmi Note 10 Global
+xiaomi,M2101K7AI,小米, Redmi Note 10 India
+xiaomi,M2101K7BG,小米, Redmi Note 10S Global
+xiaomi,M2101K7BN,小米, Redmi Note 10S Global (NFC)
+xiaomi,M2101K7BNY,小米, Redmi Note 10S Global (NFC)
+xiaomi,M2103K19Y,小米, Redmi Note 10 5G Global
+xiaomi,M2101K6G,小米, Redmi Note 10 Pro Global
+xiaomi,M2101K6P,小米, Redmi Note 10 Pro India
+xiaomi,M2101K6I,小米, Redmi Note 10 Pro Max India
 xiaomi,M2004J7AC,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,小米, Redmi 10X 4G China
@@ -1605,6 +1614,7 @@ mitv,L55M5-EC,小米电视, 小米全面屏电视 55 英寸 E55C
 mitv,L55M5-EX,小米电视, 小米全面屏电视 55 英寸 E55X
 mitv,L65M5-EA,小米电视, 小米全面屏电视 65 英寸 E65A
 mitv,L65M5-EC,小米电视, 小米全面屏电视 65 英寸 E65C
+mitv,L65M5-EA,小米电视, 小米全面屏电视 65 英寸 E65X
 mitv,L32M6-ES,小米电视, 小米全面屏电视 Pro 32 英寸 E32S
 mitv,L43M5-ES,小米电视, 小米全面屏电视 Pro 43 英寸 E43S
 mitv,L55M5-ES,小米电视, 小米全面屏电视 Pro 55 英寸 E55S
@@ -3069,6 +3079,8 @@ nubia,NX629J,努比亚, 红魔 3
 nubia,NX629J,努比亚, 红魔 3S
 nubia,NX659J,努比亚, 红魔 5G
 nubia,NX659J,努比亚, 红魔 5S
+nubia,NX669J,努比亚, 腾讯红魔游戏手机 6
+nubia,NX669J-P,努比亚, 腾讯红魔游戏手机 6 Pro
 nubia,NX601J,努比亚, nubia X6
 nubia,NX616J,努比亚, nubia X
 nubia,NX612J,努比亚, nubia V18
@@ -3905,6 +3917,15 @@ xiaomi,M2003J6A1R,小米, Redmi Note 9S 日本版 / 韩国版
 xiaomi,M2003J6A1I,小米, Redmi Note 9 Pro 印度版
 xiaomi,M2003J6B1I,小米, Redmi Note 9 Pro Max 印度版
 xiaomi,M2003J6B2G,小米, Redmi Note 9 Pro 国际版
+xiaomi,M2101K7AG,小米, Redmi Note 10 国际版
+xiaomi,M2101K7AI,小米, Redmi Note 10 印度版
+xiaomi,M2101K7BG,小米, Redmi Note 10S 国际版
+xiaomi,M2101K7BN,小米, Redmi Note 10S 国际版 (NFC)
+xiaomi,M2101K7BNY,小米, Redmi Note 10S 国际版 (NFC)
+xiaomi,M2103K19Y,小米, Redmi Note 10 5G 国际版
+xiaomi,M2101K6G,小米, Redmi Note 10 Pro 国际版
+xiaomi,M2101K6P,小米, Redmi Note 10 Pro 印度版
+xiaomi,M2101K6I,小米, Redmi Note 10 Pro Max 印度版
 xiaomi,M2004J7AC,小米, Redmi 10X 5G 全网通版
 xiaomi,M2004J7BC,小米, Redmi 10X Pro 5G 全网通版
 xiaomi,M2003J15SC,小米, Redmi 10X 4G 全网通版
