@@ -12,11 +12,12 @@ class PhoneModel:
     def __init__(self,origin=1):
         '''获取手机品牌型号'''
         if origin==0:# 拉取仓库
-            Repo.clone_from(repo_address,project_path)
+            repo=Repo.clone_from(repo_address,project_path)
         else: # 拉取最新数据
             repo = Repo(project_path)
             repo.remotes.origin.pull()
-
+        self.new_commit=repo.head.commit.hexsha
+        # 获取所有的品牌名
         self.brands=[brand for brand in os.listdir(os.path.join(project_path,'brands')) if brand.find('md')>0]
 
     def get_model(self,brand):
@@ -45,6 +46,9 @@ class PhoneModel:
     def data_save(self):
         repo_path=os.path.dirname(os.path.realpath(__file__))
         self.brand_model.to_csv(os.path.join(repo_path,'brand_model.csv'),index=False,encoding='utf-8-sig')
+        # 保存新的commit值
+        with open(os.path.join(project_path,'commit.log'),'wt') as file:
+            file.write(self.new_commit)
 
 if __name__=='__main__':
     project_path=os.path.join(os.path.expanduser('~'),'MobileModels')
@@ -56,7 +60,14 @@ if __name__=='__main__':
                'samsung':'三星','zte':'中兴','letv':'乐视','honor':'荣耀','lenovo':'联想',
                '360shouji':'奇酷','nubia':'努比亚'}
 
+    try:
+        with open(os.path.join(project_path,'commit.log'),'rt') as file:
+            last_commit=file.readline()
+    except FileNotFoundError:
+        last_commit=''
+
     pm=PhoneModel() # 初始 pm=PhoneModel(0),后续更新可不填
-    pm.get_all()
-    pm.data_save()
+    if pm.new_commit!=last_commit:
+        pm.get_all()
+        pm.data_save()
 
