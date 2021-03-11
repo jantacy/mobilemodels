@@ -30,7 +30,7 @@ class PhoneModel:
         for record in brand_info_list:
             record_list=record.replace('`','').split(':')
             for model in record_list[0].split(' '):
-                model_df.loc[len(model_df)]=(brand[:-3].split('_')[0],model,'en' if brand[:-3].endswith('en') else 'cn',brand_map.get(brand[:-3].split('_')[0],'其他'),record_list[1])
+                model_df.loc[len(model_df)]=(brand[:-3].split('_')[0],model,'en' if brand.find('_en')>0 else 'cn',brand_map.get(brand[:-3].split('_')[0],'其他'),record_list[1])
 
         return model_df
 
