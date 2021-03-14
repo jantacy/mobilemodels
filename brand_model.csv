@@ -550,6 +550,7 @@ xiaomi,M2001G7AC,en,小米, Redmi K30i 5G China
 xiaomi,M1912G7BE,en,小米, Redmi K30 4G China
 xiaomi,M1912G7BC,en,小米, Redmi K30 4G Chinese Carrier Version
 xiaomi,M2001J11C,en,小米, Redmi K30 Pro China
+xiaomi,M2001J11C,en,小米, Redmi K30 Pro Zoom Edition China
 xiaomi,M2001J11E,en,小米, Redmi K30 Pro Zoom Edition China
 xiaomi,M2006J10C,en,小米, Redmi K30 Ultra China
 xiaomi,M2007J3SC,en,小米, Redmi K30S Ultra China
@@ -863,9 +864,14 @@ oneplus,KB2005,cn,一加, OnePlus 8T 北美版
 oneplus,KB2007,cn,一加, OnePlus 8T T-Mobile 版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
-oneplus,BE2029,cn,一加, OnePlus Nord N10 北美版
-oneplus,BE2012,cn,一加, OnePlus Nord N100 国际版
+oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
+oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
+oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
+oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
+oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
+oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
+oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -1260,9 +1266,14 @@ oneplus,KB2005,en,一加, OnePlus 8T North America
 oneplus,KB2007,en,一加, OnePlus 8T T-Mobile
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
-oneplus,BE2029,en,一加, OnePlus Nord N10 North America
-oneplus,BE2012,en,一加, OnePlus Nord N100 Global
+oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
+oneplus,BE2026,en,一加, OnePlus Nord N10 North America
+oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
+oneplus,BE2029,en,一加, OnePlus Nord N10 Global
+oneplus,BE2011,en,一加, OnePlus Nord N100 North America
+oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
+oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
 letv,Letv,cn,乐视, 乐 1 通用版
 letv,X600,cn,乐视, 乐 1 通用版
 letv,Letv,cn,乐视, 乐 1 移动定制版
@@ -4049,6 +4060,7 @@ xiaomi,M2001G7AC,cn,小米, Redmi K30i 5G 全网通版
 xiaomi,M1912G7BE,cn,小米, Redmi K30 4G 全网通版
 xiaomi,M1912G7BC,cn,小米, Redmi K30 4G 运营商全网通版
 xiaomi,M2001J11C,cn,小米, Redmi K30 Pro 全网通版
+xiaomi,M2001J11C,cn,小米, Redmi K30 Pro 变焦版 全网通版
 xiaomi,M2001J11E,cn,小米, Redmi K30 Pro 变焦版 全网通版
 xiaomi,M2006J10C,cn,小米, Redmi K30 至尊纪念版 全网通版
 xiaomi,M2007J3SC,cn,小米, Redmi K30S 至尊纪念版 全网通版
