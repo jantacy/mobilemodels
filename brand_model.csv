@@ -35,6 +35,8 @@ realme,RMX2111,en,REALME, realme 7 5G
 realme,RMX2170,en,REALME, realme 7 Pro
 realme,RMX2103,en,REALME, realme 7i
 realme,RMX2104,en,REALME, realme 7i
+realme,RMX3085,en,REALME, realme 8 India
+realme,RMX3081,en,REALME, realme 8 Pro India
 realme,RMX1901,en,REALME, realme X
 realme,RMX1921,en,REALME, realme XT
 realme,RMX1922,en,REALME, realme XT
@@ -61,6 +63,7 @@ realme,RMX2021,en,REALME, realme C3 Global
 realme,RMX2022,en,REALME, realme C3 Global
 realme,RMX2027,en,REALME, realme C3 India
 realme,RMX2027,en,REALME, realme C3i Vietnam
+realme,RMX2183,en,REALME, realme C11
 realme,RMX2185,en,REALME, realme C11
 realme,RMX2189,en,REALME, realme C12
 realme,RMX2180,en,REALME, realme C15
@@ -99,6 +102,7 @@ realme,RMX2117,en,REALME, realme Q2 5G
 realme,RMX2173,en,REALME, realme Q2 Pro 5G
 realme,RMX2200,en,REALME, realme Q2i 5G
 realme,RMX2202,en,REALME, realme GT 5G
+realme,RMX3031,en,REALME, realme GT Neo 5G
 oppo,PAFM00,cn,OPPO, OPPO Find X 标准版 全网通版
 oppo,PAFT00,cn,OPPO, OPPO Find X 标准版 移动版
 oppo,PAHM00,cn,OPPO, OPPO Find X 超级闪充版/兰博基尼版 全网通版
@@ -280,6 +284,16 @@ xiaomi,M2007J17I,en,小米, Mi 10i India
 xiaomi,M2102J2SC,en,小米, Mi 10S China
 xiaomi,M2011K2G,en,小米, Mi 11 Global
 xiaomi,M2011K2C,en,小米, Mi 11 China
+xiaomi,M2102K1AC,en,小米, Mi 11 Pro China
+xiaomi,M2102K1C,en,小米, Mi 11 Ultra China
+xiaomi,M2102K1G,en,小米, Mi 11 Ultra Global
+xiaomi,M2101K9C,en,小米, Mi 11 Lite 5G China
+xiaomi,M2101K9G,en,小米, Mi 11 Lite 5G Global
+xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
+xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
+xiaomi,M2012K11G,en,小米, Mi 11i Global
+xiaomi,M2012K11AI,en,小米, Mi 11X India
+xiaomi,M2012K11I,en,小米, Mi 11X Pro India
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China
 xiaomi,2014619,en,小米, Mi Note China
@@ -307,6 +321,7 @@ xiaomi,M1803D5XC,en,小米, Mi MIX 2S China Unicom / China Telecom
 xiaomi,M1810E5A,en,小米, Mi MIX 3 Global
 xiaomi,M1810E5E,en,小米, Mi MIX 3 China
 xiaomi,M1810E5GG,en,小米, Mi MIX 3 5G
+xiaomi,M2011J18C,en,小米, MIX FOLD China
 xiaomi,2016002,en,小米, Mi Max Global
 xiaomi,2016001,en,小米, Mi Max China
 xiaomi,2016007,en,小米, Mi Max Prime
@@ -443,7 +458,7 @@ xiaomi,M2010J19SG,en,小米, Redmi 9T Global
 xiaomi,M2010J19SI,en,小米, Redmi 9 Power India
 xiaomi,M2010J19SR,en,小米, Redmi 9T Japan
 xiaomi,M2010J19ST,en,小米, Redmi 9T Thailand
-xiaomi,M2010J19SY,en,小米, Redmi 9T Global
+xiaomi,M2010J19SY,en,小米, Redmi 9T Global (NFC)
 xiaomi,M2010J19SL,en,小米, Redmi 9T Brazil
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
@@ -520,6 +535,7 @@ xiaomi,M2010J19SC,en,小米, Redmi Note 9 4G China
 xiaomi,M2007J22C,en,小米, Redmi Note 9 5G China
 xiaomi,M2007J22G,en,小米, Redmi Note 9T 5G Global
 xiaomi,M2007J22R,en,小米, Redmi Note 9T 5G Japan
+xiaomi,A001XM,en,小米, Redmi Note 9T 5G SoftBank
 xiaomi,M2003J6A1G,en,小米, Redmi Note 9S Global
 xiaomi,M2003J6A1R,en,小米, Redmi Note 9S Japan / Korea
 xiaomi,M2003J6A1I,en,小米, Redmi Note 9 Pro India
@@ -573,11 +589,14 @@ xiaomi,M1903C3GG,en,小米, Redmi Go Global
 xiaomi,M1903C3GH,en,小米, Redmi Go Global
 xiaomi,M1903C3GI,en,小米, Redmi Go India
 xiaomi,M1805E10A,en,小米, POCO F1
-xiaomi,M2004J11G,en,小米, POCO F2 Pro
+xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
+xiaomi,M2012K11AG,en,小米, POCO F3 Global
 xiaomi,M1912G7BI,en,小米, POCO X2 India
 xiaomi,M2007J20CI,en,小米, POCO X3 India
 xiaomi,M2007J20CG,en,小米, POCO X3 NFC Global
 xiaomi,M2007J20CT,en,小米, POCO X3 NFC Thailand
+xiaomi,M2102J20SG,en,小米, POCO X3 Pro Global
+xiaomi,M2102J20SI,en,小米, POCO X3 Pro India
 xiaomi,M2004J19PI,en,小米, POCO M2 India
 xiaomi,M2003J6CI,en,小米, POCO M2 Pro India
 xiaomi,M2010J19CG,en,小米, POCO M3 Global
@@ -596,6 +615,8 @@ xiaomi,KLE-A0,en,小米, Black Shark 3 China
 xiaomi,MBU-H0,en,小米, Black Shark 3 Pro Global
 xiaomi,MBU-A0,en,小米, Black Shark 3 Pro China
 xiaomi,KLE-A0,en,小米, Black Shark 3S China
+xiaomi,PRS-A0,en,小米, Black Shark 4 China
+xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -832,13 +853,13 @@ oneplus,ONEPLUS,cn,一加, OnePlus 6T 国际版
 oneplus,A6013,cn,一加, OnePlus 6T 国际版
 oneplus,GM1900,cn,一加, OnePlus 7 全网通版
 oneplus,GM1901,cn,一加, OnePlus 7 印度版
-oneplus,GM1903,cn,一加, OnePlus 7 欧洲版 
-oneplus,GM1905,cn,一加, OnePlus 7 国际版
+oneplus,GM1903,cn,一加, OnePlus 7 欧洲/国际版 
+oneplus,GM1905,cn,一加, OnePlus 7 北美版
 oneplus,GM1910,cn,一加, OnePlus 7 Pro 全网通版
 oneplus,GM1911,cn,一加, OnePlus 7 Pro 印度版
-oneplus,GM1913,cn,一加, OnePlus 7 Pro 欧洲版
-oneplus,GM1915,cn,一加, OnePlus 7 Pro T-Mobile 版
-oneplus,GM1917,cn,一加, OnePlus 7 Pro 国际/北美版
+oneplus,GM1913,cn,一加, OnePlus 7 Pro 国际版
+oneplus,GM1915,cn,一加, OnePlus 7 Pro 欧洲版
+oneplus,GM1917,cn,一加, OnePlus 7 Pro 北美/T-Mobile 版
 oneplus,GM1920,cn,一加, OnePlus 7 Pro 5G 欧洲版
 oneplus,GM1925,cn,一加, OnePlus 7 Pro 5G Sprint 版
 oneplus,HD1900,cn,一加, OnePlus 7T 全网通版
@@ -855,7 +876,7 @@ oneplus,IN2011,cn,一加, OnePlus 8 印度版
 oneplus,IN2013,cn,一加, OnePlus 8 欧洲/国际版
 oneplus,IN2015,cn,一加, OnePlus 8 北美版
 oneplus,IN2017,cn,一加, OnePlus 8 T-Mobile 版
-oneplus,IN2019,cn,一加, OnePlus 8 5G UW
+oneplus,IN2019,cn,一加, OnePlus 8 5G UW (Verzion)
 oneplus,IN2020,cn,一加, OnePlus 8 Pro 全网通版
 oneplus,IN2021,cn,一加, OnePlus 8 Pro 印度版
 oneplus,IN2023,cn,一加, OnePlus 8 Pro 欧洲/国际版
@@ -865,16 +886,29 @@ oneplus,KB2001,cn,一加, OnePlus 8T 印度版
 oneplus,KB2003,cn,一加, OnePlus 8T 欧洲/国际版
 oneplus,KB2005,cn,一加, OnePlus 8T 北美版
 oneplus,KB2007,cn,一加, OnePlus 8T T-Mobile 版
+oneplus,LE2100,cn,一加, OnePlus 9R 全网通版
+oneplus,LE2101,cn,一加, OnePlus 9R 印度版
+oneplus,LE2110,cn,一加, OnePlus 9 全网通版
+oneplus,LE2111,cn,一加, OnePlus 9 印度版
+oneplus,LE2113,cn,一加, OnePlus 9 欧洲/国际版
+oneplus,LE2115,cn,一加, OnePlus 9 北美版
+oneplus,LE2117,cn,一加, OnePlus 9 T-Mobile 版
+oneplus,LE2119,cn,一加, OnePlus 9 Verzion 版
+oneplus,LE2120,cn,一加, OnePlus 9 Pro 全网通版
+oneplus,LE2121,cn,一加, OnePlus 9 Pro 印度版
+oneplus,LE2123,cn,一加, OnePlus 9 Pro 欧洲/国际版
+oneplus,LE2125,cn,一加, OnePlus 9 Pro 北美版
+oneplus,LE2127,cn,一加, OnePlus 9 Pro T-Mobile 版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
-oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
 oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
+oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
 oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
-oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
 oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
+oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -957,6 +991,7 @@ honor,PCT-TL10,cn,荣耀, 荣耀 V20 移动 4G+ 版
 honor,OXF-AN00,cn,荣耀, 荣耀 V30 5G 全网通版
 honor,OXF-AN10,cn,荣耀, 荣耀 V30 PRO 5G 全网通版
 honor,YOK-AN10,cn,荣耀, 荣耀 V40 5G 全网通版
+honor,ALA-AN70,cn,荣耀, 荣耀 V40 轻奢版 5G 全网通版
 honor,NTS-AL00,cn,荣耀, 荣耀 Magic 全网通版
 honor,TNY-AL00,cn,荣耀, 荣耀 Magic 2 全网通版
 honor,TNY-AL10,cn,荣耀, 荣耀 Magic 2 3D 感光版
@@ -1094,6 +1129,8 @@ honor,AGS3-W09HN,cn,荣耀, 荣耀平板 6 10.1 英寸 Wi-Fi 版
 honor,AGS3-AL09HN,cn,荣耀, 荣耀平板 6 10.1 英寸 全网通版
 honor,AGR-W09HN,cn,荣耀, 荣耀平板 X6 9.7 英寸 Wi-Fi 版
 honor,AGR-AL09HN,cn,荣耀, 荣耀平板 X6 9.7 英寸 全网通版
+honor,AGM3-W09HN,cn,荣耀, 荣耀平板 7 10.1 英寸 Wi-Fi 版
+honor,AGM3-AL09HN,cn,荣耀, 荣耀平板 7 10.1 英寸 全网通版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -1234,13 +1271,13 @@ oneplus,ONEPLUS,en,一加, OnePlus 6T Global
 oneplus,A6013,en,一加, OnePlus 6T Global
 oneplus,GM1900,en,一加, OnePlus 7 China
 oneplus,GM1901,en,一加, OnePlus 7 India
-oneplus,GM1903,en,一加, OnePlus 7 EU
-oneplus,GM1905,en,一加, OnePlus 7 Global
+oneplus,GM1903,en,一加, OnePlus 7 EU / Global
+oneplus,GM1905,en,一加, OnePlus 7 NA
 oneplus,GM1910,en,一加, OnePlus 7 Pro China
 oneplus,GM1911,en,一加, OnePlus 7 Pro India
-oneplus,GM1913,en,一加, OnePlus 7 Pro EU
-oneplus,GM1915,en,一加, OnePlus 7 Pro T-Mobile
-oneplus,GM1917,en,一加, OnePlus 7 Pro Global / North America
+oneplus,GM1913,en,一加, OnePlus 7 Pro Global
+oneplus,GM1915,en,一加, OnePlus 7 Pro EU
+oneplus,GM1917,en,一加, OnePlus 7 Pro North America / T-Mobile
 oneplus,GM1920,en,一加, OnePlus 7 Pro 5G EU
 oneplus,GM1925,en,一加, OnePlus 7 Pro 5G Sprint
 oneplus,HD1900,en,一加, OnePlus 7T China
@@ -1257,7 +1294,7 @@ oneplus,IN2011,en,一加, OnePlus 8 India
 oneplus,IN2013,en,一加, OnePlus 8 EU / Global
 oneplus,IN2015,en,一加, OnePlus 8 North America
 oneplus,IN2017,en,一加, OnePlus 8 T-Mobile
-oneplus,IN2019,en,一加, OnePlus 8 5G UW
+oneplus,IN2019,en,一加, OnePlus 8 5G UW (Verzion)
 oneplus,IN2020,en,一加, OnePlus 8 Pro China
 oneplus,IN2021,en,一加, OnePlus 8 Pro India
 oneplus,IN2023,en,一加, OnePlus 8 Pro EU / Global
@@ -1267,16 +1304,29 @@ oneplus,KB2001,en,一加, OnePlus 8T India
 oneplus,KB2003,en,一加, OnePlus 8T EU / Global
 oneplus,KB2005,en,一加, OnePlus 8T North America
 oneplus,KB2007,en,一加, OnePlus 8T T-Mobile
+oneplus,LE2100,en,一加, OnePlus 9R China
+oneplus,LE2101,en,一加, OnePlus 9R India
+oneplus,LE2110,en,一加, OnePlus 9 China
+oneplus,LE2111,en,一加, OnePlus 9 India
+oneplus,LE2113,en,一加, OnePlus 9 EU / Global
+oneplus,LE2115,en,一加, OnePlus 9 North America
+oneplus,LE2117,en,一加, OnePlus 9 T-Mobile
+oneplus,LE2119,en,一加, OnePlus 9 Verzion
+oneplus,LE2120,en,一加, OnePlus 9 Pro China
+oneplus,LE2121,en,一加, OnePlus 9 Pro India
+oneplus,LE2123,en,一加, OnePlus 9 Pro EU / Global
+oneplus,LE2125,en,一加, OnePlus 9 Pro North America
+oneplus,LE2127,en,一加, OnePlus 9 Pro T-Mobile
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
-oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
 oneplus,BE2029,en,一加, OnePlus Nord N10 Global
+oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
 oneplus,BE2011,en,一加, OnePlus Nord N100 North America
-oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
+oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 letv,Letv,cn,乐视, 乐 1 通用版
 letv,X600,cn,乐视, 乐 1 通用版
 letv,Letv,cn,乐视, 乐 1 移动定制版
@@ -1533,6 +1583,8 @@ vivo,V2024A,cn,VIVO, iQOO 5 5G 全网通版
 vivo,V2025A,cn,VIVO, iQOO 5 Pro 5G 全网通版
 vivo,V2049A,cn,VIVO, iQOO 7 5G 全网通版
 vivo,V2055A,cn,VIVO, iQOO Neo5 5G 全网通版
+vivo,V2073A,cn,VIVO, iQOO Z3 5G 全网通版
+vivo,V2106A,cn,VIVO, iQOO U3x 5G 全网通版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -1737,6 +1789,7 @@ realme,RMX2117,cn,REALME, realme Q2 5G
 realme,RMX2173,cn,REALME, realme Q2 Pro 5G
 realme,RMX2200,cn,REALME, realme Q2i 5G
 realme,RMX2202,cn,REALME, realme GT 5G
+realme,RMX3031,cn,REALME, realme GT Neo 5G
 realme,CPH1859,cn,REALME, realme 1
 realme,CPH1861,cn,REALME, realme 1
 realme,RMX1805,cn,REALME, realme 2
@@ -1770,6 +1823,8 @@ realme,RMX2111,cn,REALME, realme 7 5G
 realme,RMX2170,cn,REALME, realme 7 Pro
 realme,RMX2103,cn,REALME, realme 7i
 realme,RMX2104,cn,REALME, realme 7i
+realme,RMX3085,cn,REALME, realme 8 印度版
+realme,RMX3081,cn,REALME, realme 8 Pro 印度版
 realme,RMX1921,cn,REALME, realme XT
 realme,RMX1922,cn,REALME, realme XT
 realme,RMX1992,cn,REALME, realme X2 印度版
@@ -1794,6 +1849,7 @@ realme,RMX2021,cn,REALME, realme C3 国际版
 realme,RMX2022,cn,REALME, realme C3 国际版
 realme,RMX2027,cn,REALME, realme C3 印度版
 realme,RMX2027,cn,REALME, realme C3i
+realme,RMX2183,cn,REALME, realme C11
 realme,RMX2185,cn,REALME, realme C11
 realme,RMX2189,cn,REALME, realme C12
 realme,RMX2180,cn,REALME, realme C15
@@ -3447,6 +3503,12 @@ zte,ZTE,cn,中兴, 中兴天机 Axon 11 5G 行业版
 zte,A2021H,cn,中兴, 中兴天机 Axon 11 5G 行业版
 zte,ZTE,cn,中兴, 中兴天机 Axon 20 5G
 zte,A2121,cn,中兴, 中兴天机 Axon 20 5G
+zte,ZTE,cn,中兴, 中兴 S30
+zte,9030N,cn,中兴, 中兴 S30
+zte,ZTE,cn,中兴, 中兴 S30 Pro
+zte,A2122H,cn,中兴, 中兴 S30 Pro
+zte,ZTE,cn,中兴, 中兴 S30 SE
+zte,8030N,cn,中兴, 中兴 S30 SE
 zte,ZTE,cn,中兴, 中兴 Blade A2 Plus
 zte,BV0730,cn,中兴, 中兴 Blade A2 Plus
 zte,ZTE,cn,中兴, 中兴 Blade A2S
@@ -3793,6 +3855,16 @@ xiaomi,M2007J17I,cn,小米, 小米 10i 印度版
 xiaomi,M2102J2SC,cn,小米, 小米 10S 全网通版
 xiaomi,M2011K2C,cn,小米, 小米 11 全网通版
 xiaomi,M2011K2G,cn,小米, 小米 11 国际版
+xiaomi,M2102K1AC,cn,小米, 小米 11 Pro 全网通版
+xiaomi,M2102K1C,cn,小米, 小米 11 Ultra 全网通版
+xiaomi,M2102K1G,cn,小米, 小米 11 Ultra 国际版
+xiaomi,M2101K9C,cn,小米, 小米 11 青春版 全网通版
+xiaomi,M2101K9G,cn,小米, 小米 11 Lite 5G 国际版
+xiaomi,M2101K9AG,cn,小米, 小米 11 Lite 4G 国际版
+xiaomi,M2101K9AI,cn,小米, 小米 11 Lite 4G 印度版
+xiaomi,M2012K11G,cn,小米, 小米 11i 国际版
+xiaomi,M2012K11AI,cn,小米, 小米 11X 印度版
+xiaomi,M2012K11I,cn,小米, 小米 11X Pro 印度版
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -3820,6 +3892,7 @@ xiaomi,M1803D5XC,cn,小米, 小米 MIX 2S 联通电信定制版
 xiaomi,M1810E5E,cn,小米, 小米 MIX 3 全网通版
 xiaomi,M1810E5A,cn,小米, 小米 MIX 3 全网通版 (全球频段)
 xiaomi,M1810E5GG,cn,小米, 小米 MIX 3 5G
+xiaomi,M2011J18C,cn,小米, MIX FOLD
 xiaomi,2016001,cn,小米, 小米 Max 标准版 全网通版
 xiaomi,2016002,cn,小米, 小米 Max 标准版 国际版
 xiaomi,2016007,cn,小米, 小米 Max 高配版
@@ -3956,7 +4029,7 @@ xiaomi,M2010J19SG,cn,小米, Redmi 9T 国际版
 xiaomi,M2010J19SI,cn,小米, Redmi 9 Power 印度版
 xiaomi,M2010J19SR,cn,小米, Redmi 9T 日本版
 xiaomi,M2010J19ST,cn,小米, Redmi 9T 泰国版
-xiaomi,M2010J19SY,cn,小米, Redmi 9T 国际版
+xiaomi,M2010J19SY,cn,小米, Redmi 9T 国际版 (NFC)
 xiaomi,M2010J19SL,cn,小米, Redmi 9T 巴西版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
@@ -4033,6 +4106,7 @@ xiaomi,M2003J15SI,cn,小米, Redmi Note 9 印度版
 xiaomi,M2003J15SG,cn,小米, Redmi Note 9 国际版 (有 NFC)
 xiaomi,M2007J22G,cn,小米, Redmi Note 9T 5G 国际版
 xiaomi,M2007J22R,cn,小米, Redmi Note 9T 5G 日本版
+xiaomi,A001XM,cn,小米, Redmi Note 9T 5G SoftBank 版
 xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G 全网通版
 xiaomi,M2003J6A1G,cn,小米, Redmi Note 9S 国际版
 xiaomi,M2003J6A1R,cn,小米, Redmi Note 9S 日本版 / 韩国版
@@ -4086,11 +4160,14 @@ xiaomi,M1903C3GG,cn,小米, Redmi Go 国际版
 xiaomi,M1903C3GH,cn,小米, Redmi Go 国际版
 xiaomi,M1903C3GI,cn,小米, Redmi Go 印度版
 xiaomi,M1805E10A,cn,小米, POCO F1
-xiaomi,M2004J11G,cn,小米, POCO F2 Pro
+xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
+xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
 xiaomi,M1912G7BI,cn,小米, POCO X2 印度版
 xiaomi,M2007J20CI,cn,小米, POCO X3 印度版
 xiaomi,M2007J20CG,cn,小米, POCO X3 NFC 国际版
 xiaomi,M2007J20CT,cn,小米, POCO X3 NFC 泰国版
+xiaomi,M2102J20SG,cn,小米, POCO X3 Pro 国际版
+xiaomi,M2102J20SI,cn,小米, POCO X3 Pro 印度版
 xiaomi,M2004J19PI,cn,小米, POCO M2 印度版
 xiaomi,M2003J6CI,cn,小米, POCO M2 Pro 印度版
 xiaomi,M2010J19CG,cn,小米, POCO M3 国际版
@@ -4109,3 +4186,5 @@ xiaomi,KLE-H0,cn,小米, 黑鲨游戏手机 3 国际版
 xiaomi,MBU-A0,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
 xiaomi,MBU-H0,cn,小米, 黑鲨游戏手机 3 Pro 国际版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
+xiaomi,PRS-A0,cn,小米, 黑鲨游戏手机 4 全网通版
+xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
