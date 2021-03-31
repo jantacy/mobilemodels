@@ -95,6 +95,8 @@ realme,RMX2111,en,REALME, realme V5 5G China
 realme,RMX2112,en,REALME, realme V5 5G China Mobile
 realme,RMX3121,en,REALME, realme V11 5G China
 realme,RMX3122,en,REALME, realme V11 5G China Mobile
+realme,RMX3141,en,REALME, realme V13 5G China
+realme,RMX3142,en,REALME, realme V13 5G China Mobile
 realme,RMX3092,en,REALME, realme V15 5G China
 realme,RMX3093,en,REALME, realme V15 5G China Mobile
 realme,RMX1971,en,REALME, realme Q
@@ -1767,29 +1769,31 @@ realme,RMX1901,cn,REALME, realme X
 realme,RMX1851,cn,REALME, realme X 青春版
 realme,RMX1991,cn,REALME, realme X2
 realme,RMX1931,cn,REALME, realme X2 Pro
-realme,RMX2051,cn,REALME, realme X50 5G 全网通版
-realme,RMX2025,cn,REALME, realme X50 5G 移动版
-realme,RMX2071,cn,REALME, realme X50 Pro 5G
-realme,RMX2072,cn,REALME, realme X50 Pro 玩家版
-realme,RMX2141,cn,REALME, realme X50m 5G
-realme,RMX2142,cn,REALME, realme X50m 5G
-realme,RMX2052,cn,REALME, realme X50t 5G
-realme,RMX2176,cn,REALME, realme X7 5G
-realme,RMX2121,cn,REALME, realme X7 Pro 5G
-realme,RMX2200,cn,REALME, realme V3 5G 全网通版
-realme,RMX2201,cn,REALME, realme V3 5G 移动版
-realme,RMX2111,cn,REALME, realme V5 5G 全网通版
-realme,RMX2112,cn,REALME, realme V5 5G 移动版
-realme,RMX3121,cn,REALME, realme V11 5G 全网通版
-realme,RMX3122,cn,REALME, realme V11 5G 移动版
-realme,RMX3092,cn,REALME, realme V15 5G 全网通版
-realme,RMX3093,cn,REALME, realme V15 5G 移动版
-realme,RMX1971,cn,REALME, realme Q
-realme,RMX2117,cn,REALME, realme Q2 5G
-realme,RMX2173,cn,REALME, realme Q2 Pro 5G
-realme,RMX2200,cn,REALME, realme Q2i 5G
-realme,RMX2202,cn,REALME, realme GT 5G
-realme,RMX3031,cn,REALME, realme GT Neo 5G
+realme,RMX2051,cn,REALME, realme 真我 X50 5G 全网通版
+realme,RMX2025,cn,REALME, realme 真我 X50 5G 移动版
+realme,RMX2071,cn,REALME, realme 真我 X50 Pro 5G
+realme,RMX2072,cn,REALME, realme 真我 X50 Pro 玩家版
+realme,RMX2141,cn,REALME, realme 真我 X50m 5G
+realme,RMX2142,cn,REALME, realme 真我 X50m 5G
+realme,RMX2052,cn,REALME, realme 真我 X50t 5G
+realme,RMX2176,cn,REALME, realme 真我 X7 5G
+realme,RMX2121,cn,REALME, realme 真我 X7 Pro 5G
+realme,RMX2200,cn,REALME, realme 真我 V3 5G 全网通版
+realme,RMX2201,cn,REALME, realme 真我 V3 5G 移动版
+realme,RMX2111,cn,REALME, realme 真我 V5 5G 全网通版
+realme,RMX2112,cn,REALME, realme 真我 V5 5G 移动版
+realme,RMX3121,cn,REALME, realme 真我 V11 5G 全网通版
+realme,RMX3122,cn,REALME, realme 真我 V11 5G 移动版
+realme,RMX3141,cn,REALME, realme 真我 V13 5G 全网通版
+realme,RMX3142,cn,REALME, realme 真我 V13 5G 移动版
+realme,RMX3092,cn,REALME, realme 真我 V15 5G 全网通版
+realme,RMX3093,cn,REALME, realme 真我 V15 5G 移动版
+realme,RMX1971,cn,REALME, realme 真我 Q
+realme,RMX2117,cn,REALME, realme 真我 Q2 5G
+realme,RMX2173,cn,REALME, realme 真我 Q2 Pro 5G
+realme,RMX2200,cn,REALME, realme 真我 Q2i 5G
+realme,RMX2202,cn,REALME, realme 真我 GT 5G
+realme,RMX3031,cn,REALME, realme 真我 GT Neo 5G
 realme,CPH1859,cn,REALME, realme 1
 realme,CPH1861,cn,REALME, realme 1
 realme,RMX1805,cn,REALME, realme 2
