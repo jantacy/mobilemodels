@@ -292,10 +292,10 @@ xiaomi,M2102J2SC,en,小米, Mi 10S China
 xiaomi,M2011K2G,en,小米, Mi 11 Global
 xiaomi,M2011K2C,en,小米, Mi 11 China
 xiaomi,M2102K1AC,en,小米, Mi 11 Pro China
-xiaomi,M2102K1C,en,小米, Mi 11 Ultra China
 xiaomi,M2102K1G,en,小米, Mi 11 Ultra Global
-xiaomi,M2101K9C,en,小米, Mi 11 Lite 5G China
+xiaomi,M2102K1C,en,小米, Mi 11 Ultra China
 xiaomi,M2101K9G,en,小米, Mi 11 Lite 5G Global
+xiaomi,M2101K9C,en,小米, Mi 11 Lite 5G China
 xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
 xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
 xiaomi,M2012K11G,en,小米, Mi 11i Global
@@ -542,7 +542,7 @@ xiaomi,M2010J19SC,en,小米, Redmi Note 9 4G China
 xiaomi,M2007J22C,en,小米, Redmi Note 9 5G China
 xiaomi,M2007J22G,en,小米, Redmi Note 9T 5G Global
 xiaomi,M2007J22R,en,小米, Redmi Note 9T 5G Japan
-xiaomi,A001XM,en,小米, Redmi Note 9T 5G SoftBank
+xiaomi,A001XM,en,小米, Redmi Note 9T 5G Japan (SoftBank)
 xiaomi,M2003J6A1G,en,小米, Redmi Note 9S Global
 xiaomi,M2003J6A1R,en,小米, Redmi Note 9S Japan / Korea
 xiaomi,M2003J6A1I,en,小米, Redmi Note 9 Pro India
@@ -4127,7 +4127,7 @@ xiaomi,M2003J15SI,cn,小米, Redmi Note 9 印度版
 xiaomi,M2003J15SG,cn,小米, Redmi Note 9 国际版 (有 NFC)
 xiaomi,M2007J22G,cn,小米, Redmi Note 9T 5G 国际版
 xiaomi,M2007J22R,cn,小米, Redmi Note 9T 5G 日本版
-xiaomi,A001XM,cn,小米, Redmi Note 9T 5G SoftBank 版
+xiaomi,A001XM,cn,小米, Redmi Note 9T 5G 日本版 (SoftBank)
 xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G 全网通版
 xiaomi,M2003J6A1G,cn,小米, Redmi Note 9S 国际版
 xiaomi,M2003J6A1R,cn,小米, Redmi Note 9S 日本版 / 韩国版
