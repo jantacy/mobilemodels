@@ -88,22 +88,23 @@ realme,RMX2051,en,REALME, realme X50 5G China
 realme,RMX2025,en,REALME, realme X50 5G China Mobile
 realme,RMX2071,en,REALME, realme X50 Pro 5G
 realme,RMX2072,en,REALME, realme X50 Pro Play
-realme,RMX2141,en,REALME, realme X50m 5G
-realme,RMX2142,en,REALME, realme X50m 5G
+realme,RMX2141,en,REALME, realme X50m 5G China
+realme,RMX2142,en,REALME, realme X50m 5G Carrier version
 realme,RMX2052,en,REALME, realme X50t 5G
 realme,RMX2176,en,REALME, realme X7 5G
 realme,RMX3115,en,REALME, realme X7 Pro Premium Edition 5G China
-realme,RMX3116,en,REALME, realme X7 Pro Premium Edition 5G China Mobile
+realme,RMX3116,en,REALME, realme X7 Pro Premium Edition 5G Carrier version
 realme,RMX2200,en,REALME, realme V3 5G China
-realme,RMX2201,en,REALME, realme V3 5G China Mobile
+realme,RMX2201,en,REALME, realme V3 5G Carrier version
 realme,RMX2111,en,REALME, realme V5 5G China
-realme,RMX2112,en,REALME, realme V5 5G China Mobile
+realme,RMX2112,en,REALME, realme V5 5G Carrier version
 realme,RMX3121,en,REALME, realme V11 5G China
-realme,RMX3122,en,REALME, realme V11 5G China Mobile
+realme,RMX3122,en,REALME, realme V11 5G Carrier version
 realme,RMX3041,en,REALME, realme V13 5G China
-realme,RMX3042,en,REALME, realme V13 5G China Mobile
+realme,RMX3042,en,REALME, realme V13 5G Carrier version
+realme,RMX3043,en,REALME, realme V13 5G Carrier version
 realme,RMX3092,en,REALME, realme V15 5G China
-realme,RMX3093,en,REALME, realme V15 5G China Mobile
+realme,RMX3093,en,REALME, realme V15 5G Carrier version
 realme,RMX1971,en,REALME, realme Q
 realme,RMX2117,en,REALME, realme Q2 5G
 realme,RMX2173,en,REALME, realme Q2 Pro 5G
@@ -554,7 +555,9 @@ xiaomi,M2101K7AI,en,小米, Redmi Note 10 India
 xiaomi,M2101K7BG,en,小米, Redmi Note 10S Global
 xiaomi,M2101K7BN,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BNY,en,小米, Redmi Note 10S Global (NFC)
-xiaomi,M2103K19Y,en,小米, Redmi Note 10 5G Global
+xiaomi,M2101K7BL,en,小米, Redmi Note 10S Brazil
+xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
+xiaomi,M2103K19Y,en,小米, Redmi Note 10 5G Global (NFC)
 xiaomi,M2101K6G,en,小米, Redmi Note 10 Pro Global
 xiaomi,M2101K6T,en,小米, Redmi Note 10 Pro Thailand
 xiaomi,M2101K6R,en,小米, Redmi Note 10 Pro Japan
@@ -1780,22 +1783,23 @@ realme,RMX2025,cn,REALME, realme 真我 X50 5G 移动版
 realme,RMX2071,cn,REALME, realme 真我 X50 Pro 5G
 realme,RMX2072,cn,REALME, realme 真我 X50 Pro 玩家版
 realme,RMX2141,cn,REALME, realme 真我 X50m 5G
-realme,RMX2142,cn,REALME, realme 真我 X50m 5G
+realme,RMX2142,cn,REALME, realme 真我 X50m 5G 运营商定制版
 realme,RMX2052,cn,REALME, realme 真我 X50t 5G
 realme,RMX2176,cn,REALME, realme 真我 X7 5G
 realme,RMX2121,cn,REALME, realme 真我 X7 Pro 5G
 realme,RMX3115,cn,REALME, realme 真我 X7 Pro 至尊版 5G 全网通版
-realme,RMX3116,cn,REALME, realme 真我 X7 Pro 至尊版 5G 移动版
+realme,RMX3116,cn,REALME, realme 真我 X7 Pro 至尊版 5G 运营商定制版
 realme,RMX2200,cn,REALME, realme 真我 V3 5G 全网通版
-realme,RMX2201,cn,REALME, realme 真我 V3 5G 移动版
+realme,RMX2201,cn,REALME, realme 真我 V3 5G 运营商定制版
 realme,RMX2111,cn,REALME, realme 真我 V5 5G 全网通版
-realme,RMX2112,cn,REALME, realme 真我 V5 5G 移动版
+realme,RMX2112,cn,REALME, realme 真我 V5 5G 运营商定制版
 realme,RMX3121,cn,REALME, realme 真我 V11 5G 全网通版
-realme,RMX3122,cn,REALME, realme 真我 V11 5G 移动版
+realme,RMX3122,cn,REALME, realme 真我 V11 5G 运营商定制版
 realme,RMX3041,cn,REALME, realme 真我 V13 5G 全网通版
-realme,RMX3042,cn,REALME, realme 真我 V13 5G 移动版
+realme,RMX3042,cn,REALME, realme 真我 V13 5G 运营商定制版
+realme,RMX3043,cn,REALME, realme 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, realme 真我 V15 5G 全网通版
-realme,RMX3093,cn,REALME, realme 真我 V15 5G 移动版
+realme,RMX3093,cn,REALME, realme 真我 V15 5G 运营商定制版
 realme,RMX1971,cn,REALME, realme 真我 Q
 realme,RMX2117,cn,REALME, realme 真我 Q2 5G
 realme,RMX2173,cn,REALME, realme 真我 Q2 Pro 5G
@@ -4139,7 +4143,9 @@ xiaomi,M2101K7AI,cn,小米, Redmi Note 10 印度版
 xiaomi,M2101K7BG,cn,小米, Redmi Note 10S 国际版
 xiaomi,M2101K7BN,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BNY,cn,小米, Redmi Note 10S 国际版 (NFC)
-xiaomi,M2103K19Y,cn,小米, Redmi Note 10 5G 国际版
+xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 巴西版
+xiaomi,M2103K19G,cn,小米, Redmi Note 10 5G 国际版
+xiaomi,M2103K19Y,cn,小米, Redmi Note 10 5G 国际版 (NFC)
 xiaomi,M2101K6G,cn,小米, Redmi Note 10 Pro 国际版
 xiaomi,M2101K6T,cn,小米, Redmi Note 10 Pro 泰国版
 xiaomi,M2101K6R,cn,小米, Redmi Note 10 Pro 日本版
