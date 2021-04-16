@@ -18,7 +18,7 @@ class PhoneModel:
             repo.remotes.origin.pull()
         self.new_commit=repo.head.commit.hexsha
         # 获取所有的品牌名
-        self.brands=[brand for brand in os.listdir(os.path.join(repo_path,'brands')) if brand.endswith('md')>0]
+        self.brands=[brand for brand in os.listdir(os.path.join(repo_path,'brands')) if brand.endswith('md')]
 
     def get_model(self,brand):
         '''读取原始数据'''
