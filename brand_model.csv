@@ -1,4 +1,43 @@
 ﻿brand,model,area,brand_name,model_name
+mitv,L32M5-AI,en,小米电视, Mi LED Smart TV 4A 32
+mitv,L40M5-5AIN,en,小米电视, Mi LED Smart TV 4A 40
+mitv,L43M5-AI,en,小米电视, Mi LED Smart TV 4A 43
+mitv,L32M5-AL,en,小米电视, Mi LED Smart TV 4A Pro 32
+mitv,L43M5-AN,en,小米电视, Mi LED Smart TV 4A Pro 43
+mitv,L49M5-AN,en,小米电视, Mi LED Smart TV 4A Pro 49
+mitv,L32M6-EI,en,小米电视, Mi TV 4A 32 Horizon
+mitv,L43M6-EI,en,小米电视, Mi TV 4A 43 Horizon
+mitv,L55M5-AI,en,小米电视, Mi LED Smart TV 4 55
+mitv,L55M5-AN,en,小米电视, Mi LED Smart TV 4 Pro 55
+mitv,L32M5-AN,en,小米电视, Mi LED Smart TV 4C Pro 32
+mitv,L43M4-4AIN,en,小米电视, Mi TV 4X 43
+mitv,L50M5-5AIN,en,小米电视, Mi TV 4X 50
+mitv,L55M4-4XINA,en,小米电视, Mi LED Smart TV 4X Pro 55
+mitv,L55M5-5XIN,en,小米电视, Mi TV 4X 55
+mitv,L65M5-5SIN,en,小米电视, Mi TV 4X 65
+mitv,L55M6-EQG,en,小米电视, Mi QLED TV Q1 4K 55
+mitv,L50M6-RA,en,小米电视, Redmi Smart TV X50
+mitv,L55M6-RA,en,小米电视, Redmi Smart TV X55
+mitv,L65M6-RA,en,小米电视, Redmi Smart TV X65
+mitv,MDZ-22-AB,en,小米电视, Mi Box 4K
+mitv,L32M5-AN,en,小米电视, Mi TV 4 / 4A 32
+mitv,L43M5-AN,en,小米电视, Mi TV 4 / 4A 43
+mitv,L55M5-5XIN,en,小米电视, Mi TV 4 55
+mitv,L32M6-EI,en,小米电视, Mi TV 4 32 Bezel-less
+mitv,L43M6-EI,en,小米电视, Mi TV 4 43 Bezel-less
+mitv,L55M6-EQG,en,小米电视, Mi TV 4 55 Bezel-less 4K
+mitv,L32M5-5ARU,en,小米电视, Mi TV 4A 32
+mitv,L43M5-5ARU,en,小米电视, Mi TV 4S 43
+mitv,L50M5-5ARU,en,小米电视, Mi TV 4S 50
+mitv,L55M5-5ARU,en,小米电视, Mi TV 4S 55
+mitv,L32M5-5ASP,en,小米电视, Mi TV 4A 32
+mitv,L43M5-5ASP,en,小米电视, Mi TV 4S 43
+mitv,L55M5-5ASP,en,小米电视, Mi TV 4S 55
+mitv,L65M5-5ASP,en,小米电视, Mi TV 4S 65
+mitv,L75M6-ESG,en,小米电视, Mi TV Q1 75
+mitv,MDZ-16-AB,en,小米电视, Mi Box
+mitv,MDZ-22-AB,en,小米电视, Mi Box S
+mitv,MDZ-24-AA,en,小米电视, Mi TV Stick
 realme,CPH1859,en,REALME, realme 1
 realme,CPH1861,en,REALME, realme 1
 realme,RMX1805,en,REALME, realme 2
@@ -204,6 +243,7 @@ oppo,PDKM00,cn,OPPO, OPPO A92s 全网通版
 oppo,PDKT00,cn,OPPO, OPPO A92s 移动版
 oppo,PEHM00,cn,OPPO, OPPO A93 全网通版
 oppo,PEHT00,cn,OPPO, OPPO A93 移动版
+oppo,PELM00,cn,OPPO, OPPO A95 全网通版
 oppo,PBCM30,cn,OPPO, OPPO K1 全网通版
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
@@ -1675,6 +1715,13 @@ mitv,L65M5-ES,cn,小米电视, 小米全面屏电视 Pro 65 英寸 E65S
 mitv,L75M5-ES,cn,小米电视, 小米全面屏电视 Pro 75 英寸 E75S
 mitv,L55M5-AB,cn,小米电视, 小米电视 55 英寸 全面屏 PRO
 mitv,L65M5-4,cn,小米电视, 小米电视 65 英寸 全面屏 PRO
+mitv,L32M7-EA,cn,小米电视, 小米电视 EA32 2022 款
+mitv,L40M7-EA,cn,小米电视, 小米电视 EA40 2022 款
+mitv,L43M7-EA,cn,小米电视, 小米电视 EA43 2022 款
+mitv,L50M7-EA,cn,小米电视, 小米电视 EA50 2022 款
+mitv,L55M7-EA,cn,小米电视, 小米电视 EA55 2022 款
+mitv,L65M7-EA,cn,小米电视, 小米电视 EA65 2022 款
+mitv,L75M7-EA,cn,小米电视, 小米电视 EA75 2022 款
 mitv,L65M5-BH,cn,小米电视, 小米壁画电视 65 英寸
 mitv,L75M5-BH,cn,小米电视, 小米壁画电视 75 英寸
 mitv,L65M5-OD,cn,小米电视, 小米电视 大师 65 英寸 OLED
@@ -1709,37 +1756,6 @@ mitv,MDZ-20-AA,cn,小米电视, 小米盒子 4c
 mitv,MDZ-23-AA,cn,小米电视, 小米盒子 4 SE
 mitv,MDZ-25-AA,cn,小米电视, 小米盒子 4S
 mitv,MDZ-26-AA,cn,小米电视, 小米盒子 4S Pro
-mitv,L32M5-AI,cn,小米电视, Mi LED Smart TV 4A 32
-mitv,L40M5-5AIN,cn,小米电视, Mi LED Smart TV 4A 40
-mitv,L43M5-AI,cn,小米电视, Mi LED Smart TV 4A 43
-mitv,L32M5-AL,cn,小米电视, Mi LED Smart TV 4A Pro 32
-mitv,L43M5-AN,cn,小米电视, Mi LED Smart TV 4A Pro 43
-mitv,L49M5-AN,cn,小米电视, Mi LED Smart TV 4A Pro 49
-mitv,L32M6-EI,cn,小米电视, Mi TV 4A 32 Horizon
-mitv,L43M6-EI,cn,小米电视, Mi TV 4A 43 Horizon
-mitv,L55M5-AI,cn,小米电视, Mi LED Smart TV 4 55
-mitv,L55M5-AN,cn,小米电视, Mi LED Smart TV 4 Pro 55
-mitv,L32M5-AN,cn,小米电视, Mi LED Smart TV 4C Pro 32
-mitv,L43M4-4AIN,cn,小米电视, Mi TV 4X 43
-mitv,L50M5-5AIN,cn,小米电视, Mi TV 4X 50
-mitv,L55M4-4XINA,cn,小米电视, Mi LED Smart TV 4X Pro 55
-mitv,L55M5-5XIN,cn,小米电视, Mi TV 4X 55
-mitv,L65M5-5SIN,cn,小米电视, Mi TV 4X 65
-mitv,L55M6-EQG,cn,小米电视, Mi QLED TV 4K 55
-mitv,MDZ-22-AB,cn,小米电视, Mi Box 4K
-mitv,L32M5-AN,cn,小米电视, Mi TV 4A 32
-mitv,L43M5-AN,cn,小米电视, Mi TV 4A 43
-mitv,L32M5-5ARU,cn,小米电视, Mi TV 4A 32
-mitv,L43M5-5ARU,cn,小米电视, Mi TV 4S 43
-mitv,L50M5-5ARU,cn,小米电视, Mi TV 4S 50
-mitv,L55M5-5ARU,cn,小米电视, Mi TV 4S 55
-mitv,L32M5-5ASP,cn,小米电视, Mi TV 4A 32
-mitv,L43M5-5ASP,cn,小米电视, Mi TV 4S 43
-mitv,L55M5-5ASP,cn,小米电视, Mi TV 4S 55
-mitv,L65M5-5ASP,cn,小米电视, Mi TV 4S 65
-mitv,MDZ-16-AB,cn,小米电视, Mi Box
-mitv,MDZ-22-AB,cn,小米电视, Mi Box S
-mitv,MDZ-24-AA,cn,小米电视, Mi TV Stick
 realme,RMX1901,cn,REALME, realme X
 realme,RMX1851,cn,REALME, realme X 青春版
 realme,RMX1991,cn,REALME, realme X2
