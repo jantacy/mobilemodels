@@ -603,11 +603,12 @@ xiaomi,M2007J17C,en,小米, Redmi Note 9 Pro 5G China
 xiaomi,M2101K7AG,en,小米, Redmi Note 10 Global
 xiaomi,M2101K7AI,en,小米, Redmi Note 10 India
 xiaomi,M2101K7BG,en,小米, Redmi Note 10S Global
+xiaomi,M2101K7BI,en,小米, Redmi Note 10S India
 xiaomi,M2101K7BN,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BNY,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BL,en,小米, Redmi Note 10S Brazil
 xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
-xiaomi,M2103K19Y,en,小米, Redmi Note 10 5G Global (NFC)
+xiaomi,M2103K19Y,en,小米, Redmi Note 10 5G Global
 xiaomi,M2101K6G,en,小米, Redmi Note 10 Pro Global
 xiaomi,M2101K6T,en,小米, Redmi Note 10 Pro Thailand
 xiaomi,M2101K6R,en,小米, Redmi Note 10 Pro Japan
@@ -663,6 +664,8 @@ xiaomi,M2003J6CI,en,小米, POCO M2 Pro India
 xiaomi,M2010J19CG,en,小米, POCO M3 Global
 xiaomi,M2010J19CT,en,小米, POCO M3 Thailand
 xiaomi,M2010J19CI,en,小米, POCO M3 India
+xiaomi,M2103K19PG,en,小米, POCO M3 Pro 5G Global
+xiaomi,M2103K19PY,en,小米, POCO M3 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,SKR-H0,en,小米, Black Shark Global
 xiaomi,SKR-A0,en,小米, Black Shark China
@@ -1183,6 +1186,8 @@ honor,AGR-W09HN,cn,荣耀, 荣耀平板 X6 9.7 英寸 Wi-Fi 版
 honor,AGR-AL09HN,cn,荣耀, 荣耀平板 X6 9.7 英寸 全网通版
 honor,AGM3-W09HN,cn,荣耀, 荣耀平板 7 10.1 英寸 Wi-Fi 版
 honor,AGM3-AL09HN,cn,荣耀, 荣耀平板 7 10.1 英寸 全网通版
+honor,KOB2-W09HN,cn,荣耀, 荣耀平板 X7 8 英寸 Wi-Fi 版
+honor,KOB2-AL00HN,cn,荣耀, 荣耀平板 X7 8 英寸 全网通版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -1241,6 +1246,10 @@ honor,BohL-WDQ9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R5 (8GB+256GB)
 honor,BohL-WFQ9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R5 (16GB+512GB)
 honor,BohL-WFP9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R7
 honor,BDR-WFH9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i5 & i7
+honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
+honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
+honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
+honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
 honor,HBL-W19,cn,荣耀, 荣耀 MagicBook Pro i5
 honor,HBL-W29,cn,荣耀, 荣耀 MagicBook Pro i7
 honor,HBL-W19L,cn,荣耀, 荣耀 MagicBook Pro 科技尝鲜版 i5
@@ -4012,11 +4021,12 @@ xiaomi,M2003J6B2G,cn,小米, Redmi Note 9 Pro 国际版
 xiaomi,M2101K7AG,cn,小米, Redmi Note 10 国际版
 xiaomi,M2101K7AI,cn,小米, Redmi Note 10 印度版
 xiaomi,M2101K7BG,cn,小米, Redmi Note 10S 国际版
+xiaomi,M2101K7BI,cn,小米, Redmi Note 10S 印度版
 xiaomi,M2101K7BN,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BNY,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 巴西版
 xiaomi,M2103K19G,cn,小米, Redmi Note 10 5G 国际版
-xiaomi,M2103K19Y,cn,小米, Redmi Note 10 5G 国际版 (NFC)
+xiaomi,M2103K19Y,cn,小米, Redmi Note 10 5G 国际版
 xiaomi,M2101K6G,cn,小米, Redmi Note 10 Pro 国际版
 xiaomi,M2101K6T,cn,小米, Redmi Note 10 Pro 泰国版
 xiaomi,M2101K6R,cn,小米, Redmi Note 10 Pro 日本版
@@ -4072,6 +4082,8 @@ xiaomi,M2003J6CI,cn,小米, POCO M2 Pro 印度版
 xiaomi,M2010J19CG,cn,小米, POCO M3 国际版
 xiaomi,M2010J19CT,cn,小米, POCO M3 泰国版
 xiaomi,M2010J19CI,cn,小米, POCO M3 印度版
+xiaomi,M2103K19PG,cn,小米, POCO M3 Pro 5G 国际版
+xiaomi,M2103K19PY,cn,小米, POCO M3 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,SKR-A0,cn,小米, 黑鲨游戏手机 全网通版
 xiaomi,SKR-H0,cn,小米, 黑鲨游戏手机 国际版
