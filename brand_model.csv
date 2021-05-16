@@ -2743,6 +2743,10 @@ samsung,SM-N9700,cn,三星, Galaxy Note10
 samsung,SM-N9760,cn,三星, Galaxy Note10+ 5G
 samsung,SM-N9810,cn,三星, Galaxy Note20 5G
 samsung,SM-N9860,cn,三星, Galaxy Note20 Ultra 5G
+samsung,SM-F9000,cn,三星, Galaxy Fold
+samsung,SM-F7000,cn,三星, Galaxy Z Flip
+samsung,SM-F7070,cn,三星, Galaxy Z Flip 5G
+samsung,SM-F9160,cn,三星, Galaxy Z Fold2 5G
 samsung,SM-A3000,cn,三星, Galaxy A3 公开版
 samsung,SM-A3009,cn,三星, Galaxy A3 电信定制版
 samsung,SM-A5000,cn,三星, Galaxy A5 公开版
@@ -2775,11 +2779,8 @@ samsung,SM-A9080,cn,三星, Galaxy A90 5G
 samsung,SM-A5160,cn,三星, Galaxy A51 5G
 samsung,SM-A7160,cn,三星, Galaxy A71 5G
 samsung,SM-A5260,cn,三星, Galaxy A52 5G
+samsung,SM-E5260,cn,三星, Galaxy F52 5G
 samsung,SM-M3070,cn,三星, Galaxy M30s
-samsung,SM-F9000,cn,三星, Galaxy Fold
-samsung,SM-F7000,cn,三星, Galaxy Z Flip
-samsung,SM-F7070,cn,三星, Galaxy Z Flip 5G
-samsung,SM-F9160,cn,三星, Galaxy Z Fold2 5G
 samsung,SM-C5000,cn,三星, Galaxy C5
 samsung,SM-C5010,cn,三星, Galaxy C5 Pro 全网通版
 samsung,SM-C5018,cn,三星, Galaxy C5 Pro 4G+
