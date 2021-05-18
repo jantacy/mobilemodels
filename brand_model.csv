@@ -1047,9 +1047,9 @@ honor,OXF-AN10,cn,荣耀, 荣耀 V30 PRO 5G 全网通版
 honor,YOK-AN10,cn,荣耀, 荣耀 V40 5G 全网通版
 honor,ALA-AN70,cn,荣耀, 荣耀 V40 轻奢版 5G 全网通版
 honor,NTS-AL00,cn,荣耀, 荣耀 Magic 全网通版
-honor,TNY-AL00,cn,荣耀, 荣耀 Magic 2 全网通版
-honor,TNY-AL10,cn,荣耀, 荣耀 Magic 2 3D 感光版
-honor,TNY-TL00,cn,荣耀, 荣耀 Magic 2 移动 4G+ 版
+honor,TNY-AL00,cn,荣耀, 荣耀 Magic2 全网通版
+honor,TNY-AL10,cn,荣耀, 荣耀 Magic2 3D 感光版
+honor,TNY-TL00,cn,荣耀, 荣耀 Magic2 移动 4G+ 版
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -1107,10 +1107,12 @@ honor,AKA-AL10,cn,荣耀, 荣耀 Play4T 全网通版
 honor,AQM-AL10,cn,荣耀, 荣耀 Play4T Pro 全网通版
 honor,TNNH-AN00,cn,荣耀, 荣耀 Play4 5G 全网通版
 honor,OXP-AN00,cn,荣耀, 荣耀 Play4 Pro 5G 全网通版
+honor,HJC-AN90,cn,荣耀, 荣耀 Play5 5G 全网通版
+honor,KOZ-AL40,cn,荣耀, 荣耀畅玩 20 全网通版
 honor,NZA-AL00,cn,荣耀, 荣耀 Play5T 活力版 全网通版
-honor,EDI-AL10,cn,荣耀, 荣耀 Note 8 全网通版
-honor,EDI-DL00,cn,荣耀, 荣耀 Note 8 移动/联通版
-honor,RVL-AL09,cn,荣耀, 荣耀 Note 10 全网通版
+honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
+honor,EDI-DL00,cn,荣耀, 荣耀 Note8 移动/联通版
+honor,RVL-AL09,cn,荣耀, 荣耀 Note10 全网通版
 honor,H30-T00,cn,荣耀, 荣耀 3C 移动 3G 版 (4GB)
 honor,H30-T10,cn,荣耀, 荣耀 3C 移动 3G 版 (8GB)
 honor,H30-U10,cn,荣耀, 荣耀 3C 联通 3G 版
