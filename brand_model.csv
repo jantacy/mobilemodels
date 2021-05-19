@@ -2530,6 +2530,8 @@ huawei,KLVL-WFE9,cn,华为, HUAWEI MateBook 14 (2020) R7
 huawei,KLVD-WDH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
 huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
 huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
+huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
+huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
 huawei,NBZ-WBH9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+256GB)
 huawei,NBZ-WBM9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+512GB)
 huawei,NBZ-WBE9,cn,华为, HUAWEI MateBook B3-410 i7
@@ -2553,6 +2555,10 @@ huawei,HD65KANA,cn,华为," 华为智慧屏 S 65"" (3GB+16GB)"
 huawei,HD65KANS,cn,华为," 华为智慧屏 S Pro 65"" (3GB+32GB)"
 huawei,HD75KANA,cn,华为," 华为智慧屏 S 75"" (3GB+16GB)"
 huawei,HD75KANS,cn,华为," 华为智慧屏 S Pro 75"" (3GB+32GB)"
+huawei,HD55DESY,cn,华为," 华为智慧屏 SE 55"" 畅连通话版 (2GB+16GB)"
+huawei,HD55DESZ,cn,华为," 华为智慧屏 SE 55"" 畅连通话版 (2GB+16GB)"
+huawei,HD65DESY,cn,华为," 华为智慧屏 SE 65"" 畅连通话版 (2GB+16GB)"
+huawei,HD65DESZ,cn,华为," 华为智慧屏 SE 65"" 畅连通话版 (2GB+16GB)"
 huawei,U9500,cn,华为, 华为 Ascend D1
 huawei,U9500E,cn,华为, 华为 Ascend D1 XL
 huawei,U9510,cn,华为, 华为 Ascend D1 四核
