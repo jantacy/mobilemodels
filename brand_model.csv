@@ -107,6 +107,7 @@ realme,RMX2027,en,REALME, realme C3 India
 realme,RMX2027,en,REALME, realme C3i Vietnam
 realme,RMX2185,en,REALME, realme C11
 realme,RMX2186,en,REALME, realme C11
+realme,RMX3231,en,REALME, realme C11 2021
 realme,RMX2184,en,REALME, realme C12
 realme,RMX2189,en,REALME, realme C12
 realme,RMX2180,en,REALME, realme C15
@@ -116,6 +117,8 @@ realme,RMX2195,en,REALME, realme C15 Qualcomm Edition
 realme,RMX2101,en,REALME, realme C17
 realme,RMX3063,en,REALME, realme C20
 realme,RMX3201,en,REALME, realme C21
+realme,RMX3202,en,REALME, realme C21
+realme,RMX3203,en,REALME, realme C21
 realme,RMX3191,en,REALME, realme C25
 realme,RMX3193,en,REALME, realme C25
 realme,RMX1831,en,REALME, realme U1
@@ -1897,6 +1900,7 @@ realme,RMX2027,cn,REALME, realme C3 印度版
 realme,RMX2027,cn,REALME, realme C3i
 realme,RMX2185,cn,REALME, realme C11
 realme,RMX2186,cn,REALME, realme C11
+realme,RMX3231,cn,REALME, realme C11 2021
 realme,RMX2184,cn,REALME, realme C12
 realme,RMX2189,cn,REALME, realme C12
 realme,RMX2180,cn,REALME, realme C15
@@ -1906,6 +1910,8 @@ realme,RMX2195,cn,REALME, realme C15 高通版
 realme,RMX2101,cn,REALME, realme C17
 realme,RMX3063,cn,REALME, realme C20
 realme,RMX3201,cn,REALME, realme C21
+realme,RMX3202,cn,REALME, realme C21
+realme,RMX3203,cn,REALME, realme C21
 realme,RMX3191,cn,REALME, realme C25
 realme,RMX3193,cn,REALME, realme C25
 realme,RMX1831,cn,REALME, realme U1
@@ -3178,6 +3184,7 @@ nubia,NX659J,cn,努比亚, 红魔 5G
 nubia,NX659J,cn,努比亚, 红魔 5S
 nubia,NX669J,cn,努比亚, 腾讯红魔游戏手机 6
 nubia,NX669J-P,cn,努比亚, 腾讯红魔游戏手机 6 Pro
+nubia,NX666J,cn,努比亚, 腾讯红魔游戏手机 6R
 nubia,NX601J,cn,努比亚, nubia X6
 nubia,NX616J,cn,努比亚, nubia X
 nubia,NX612J,cn,努比亚, nubia V18
