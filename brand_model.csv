@@ -3001,6 +3001,14 @@ apple,A2228,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网)"
 apple,A2231,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (国行)"
 apple,A2229,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网)"
 apple,A2233,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络) (国行)"
+apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 8GB RAM)"
+apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 16GB RAM)"
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (国行)"
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (国行)"
+apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 8GB RAM)"
+apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 16GB RAM)"
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (国行)"
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (国行)"
 apple,A1432,cn,苹果, iPad mini (无线局域网)
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) (国行)
 apple,A1489,cn,苹果, iPad mini 2 (无线局域网)
@@ -3128,6 +3136,14 @@ apple,A2068,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂�
 apple,A2230,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络)"
 apple,A2069,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络)"
 apple,A2232,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络)"
+apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM)"
+apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (毫米波)"
+apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
+apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (毫米波)"
+apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM)"
+apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (毫米波)"
+apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
+apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (毫米波)"
 apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A2124,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2126,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
@@ -3381,6 +3397,22 @@ apple,A2229,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi"
 apple,A2069,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular"
 apple,A2232,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular"
 apple,A2233,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)"
+apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (8GB RAM)"
+apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (16GB RAM)"
+apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM)"
+apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
+apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
+apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM)"
+apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
+apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (8GB RAM)"
+apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (16GB RAM)"
+apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM)"
+apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
+apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
+apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM)"
+apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
 apple,A1432,en,苹果, iPad mini Wi-Fi
 apple,A1454,en,苹果, iPad mini Wi-Fi + Cellular
 apple,A1455,en,苹果, iPad mini Wi-Fi + Cellular (China mainland)
