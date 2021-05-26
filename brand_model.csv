@@ -621,11 +621,13 @@ xiaomi,M2101K7BNY,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BL,en,小米, Redmi Note 10S Brazil
 xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
 xiaomi,M2103K19Y,en,小米, Redmi Note 10 5G Global
+xiaomi,M2103K19C,en,小米, Redmi Note 10 5G China
 xiaomi,M2101K6G,en,小米, Redmi Note 10 Pro Global
 xiaomi,M2101K6T,en,小米, Redmi Note 10 Pro Thailand
 xiaomi,M2101K6R,en,小米, Redmi Note 10 Pro Japan
 xiaomi,M2101K6P,en,小米, Redmi Note 10 Pro India
 xiaomi,M2101K6I,en,小米, Redmi Note 10 Pro Max India
+xiaomi,M2104K10AC,en,小米, Redmi Note 10 Pro 5G China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
@@ -691,6 +693,7 @@ xiaomi,KLE-A0,en,小米, Black Shark 3 China
 xiaomi,MBU-H0,en,小米, Black Shark 3 Pro Global
 xiaomi,MBU-A0,en,小米, Black Shark 3 Pro China
 xiaomi,KLE-A0,en,小米, Black Shark 3S China
+xiaomi,PRS-H0,en,小米, Black Shark 4 Global
 xiaomi,PRS-A0,en,小米, Black Shark 4 China
 xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
 nokia,TA-1000,cn,诺基亚, Nokia 6
@@ -4110,6 +4113,7 @@ xiaomi,M2101K7BI,cn,小米, Redmi Note 10S 印度版
 xiaomi,M2101K7BN,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BNY,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 巴西版
+xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G 全网通版
 xiaomi,M2103K19G,cn,小米, Redmi Note 10 5G 国际版
 xiaomi,M2103K19Y,cn,小米, Redmi Note 10 5G 国际版
 xiaomi,M2101K6G,cn,小米, Redmi Note 10 Pro 国际版
@@ -4117,6 +4121,7 @@ xiaomi,M2101K6T,cn,小米, Redmi Note 10 Pro 泰国版
 xiaomi,M2101K6R,cn,小米, Redmi Note 10 Pro 日本版
 xiaomi,M2101K6P,cn,小米, Redmi Note 10 Pro 印度版
 xiaomi,M2101K6I,cn,小米, Redmi Note 10 Pro Max 印度版
+xiaomi,M2104K10AC,cn,小米, Redmi Note 10 Pro 5G 全网通版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G 全网通版
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G 全网通版
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G 全网通版
@@ -4183,4 +4188,5 @@ xiaomi,MBU-A0,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
 xiaomi,MBU-H0,cn,小米, 黑鲨游戏手机 3 Pro 国际版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
 xiaomi,PRS-A0,cn,小米, 黑鲨游戏手机 4 全网通版
+xiaomi,PRS-H0,cn,小米, 黑鲨游戏手机 4 国际版
 xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
