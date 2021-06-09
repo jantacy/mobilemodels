@@ -2889,48 +2889,52 @@ samsung,SM-G8508S,cn,三星, Galaxy Alpha
 samsung,SM-E7000,cn,三星, Galaxy E7 公开版
 samsung,SM-E7009,cn,三星, Galaxy E7 电信定制版
 samsung,SM-T700,cn,三星, Galaxy Tab S 8.4 WLAN
-samsung,SM-T705C,cn,三星, Galaxy Tab S 8.4 4G
+samsung,SM-T705C,cn,三星, Galaxy Tab S 8.4 LTE
 samsung,SM-T800,cn,三星, Galaxy Tab S 10.5 WLAN
-samsung,SM-T805C,cn,三星, Galaxy Tab S 10.5 4G
+samsung,SM-T805C,cn,三星, Galaxy Tab S 10.5 LTE
 samsung,SM-T710,cn,三星, Galaxy Tab S2 8.0 WLAN (Exynos)
-samsung,SM-T715C,cn,三星, Galaxy Tab S2 8.0 4G (Exynos)
+samsung,SM-T715C,cn,三星, Galaxy Tab S2 8.0 LTE (Exynos)
 samsung,SM-T713,cn,三星, Galaxy Tab S2 8.0 WLAN (高通)
-samsung,SM-T719C,cn,三星, Galaxy Tab S2 8.0 4G (高通)
+samsung,SM-T719C,cn,三星, Galaxy Tab S2 8.0 LTE (高通)
 samsung,SM-T810,cn,三星, Galaxy Tab S2 9.7 WLAN (Exynos)
-samsung,SM-T815C,cn,三星, Galaxy Tab S2 9.7 4G (Exynos)
+samsung,SM-T815C,cn,三星, Galaxy Tab S2 9.7 LTE (Exynos)
 samsung,SM-T813,cn,三星, Galaxy Tab S2 9.7 WLAN (高通)
-samsung,SM-T819C,cn,三星, Galaxy Tab S2 9.7 4G (高通)
+samsung,SM-T819C,cn,三星, Galaxy Tab S2 9.7 LTE (高通)
 samsung,SM-T820,cn,三星, Galaxy Tab S3 WLAN
-samsung,SM-T825C,cn,三星, Galaxy Tab S3 4G
+samsung,SM-T825C,cn,三星, Galaxy Tab S3 LTE
 samsung,SM-T830,cn,三星, Galaxy Tab S4 WLAN
-samsung,SM-T835C,cn,三星, Galaxy Tab S4 4G
+samsung,SM-T835C,cn,三星, Galaxy Tab S4 LTE
 samsung,SM-T720,cn,三星, Galaxy Tab S5e WLAN
-samsung,SM-T725C,cn,三星, Galaxy Tab S5e 4G
+samsung,SM-T725C,cn,三星, Galaxy Tab S5e LTE
 samsung,SM-T860,cn,三星, Galaxy Tab S6 WLAN
 samsung,SM-P610,cn,三星, Galaxy Tab S6 Lite WLAN
-samsung,SM-P615C,cn,三星, Galaxy Tab S6 Lite 4G
+samsung,SM-P615C,cn,三星, Galaxy Tab S6 Lite LTE
 samsung,SM-T870,cn,三星, Galaxy Tab S7 WLAN
 samsung,SM-T970,cn,三星, Galaxy Tab S7+ WLAN
+samsung,SM-T730,cn,三星, Galaxy Tab S7 FE WLAN
+samsung,SM-T735C,cn,三星, Galaxy Tab S7 FE LTE
 samsung,SM-T350,cn,三星, Galaxy Tab A 8.0 WLAN
-samsung,SM-T355C,cn,三星, Galaxy Tab A 8.0 4G
+samsung,SM-T355C,cn,三星, Galaxy Tab A 8.0 LTE
 samsung,SM-T550,cn,三星, Galaxy Tab A 9.7 WLAN
-samsung,SM-T555C,cn,三星, Galaxy Tab A 9.7 4G
+samsung,SM-T555C,cn,三星, Galaxy Tab A 9.7 LTE
 samsung,SM-T580,cn,三星, Galaxy Tab A (2016) 10.1 WLAN
-samsung,SM-T585C,cn,三星, Galaxy Tab A (2016) 10.1 4G
+samsung,SM-T585C,cn,三星, Galaxy Tab A (2016) 10.1 LTE
 samsung,SM-P583,cn,三星, Galaxy Tab A (2016) with S Pen 10.1 WLAN
-samsung,SM-P588C,cn,三星, Galaxy Tab A (2016) with S Pen 10.1 4G
+samsung,SM-P588C,cn,三星, Galaxy Tab A (2016) with S Pen 10.1 LTE
 samsung,SM-T380,cn,三星, Galaxy Tab A (2017) 8.0 WLAN
-samsung,SM-T385C,cn,三星, Galaxy Tab A (2017) 8.0 4G
+samsung,SM-T385C,cn,三星, Galaxy Tab A (2017) 8.0 LTE
 samsung,SM-T590,cn,三星, Galaxy Tab A (2018) 10.5 WLAN
-samsung,SM-T595C,cn,三星, Galaxy Tab A (2018) 10.5 4G
+samsung,SM-T595C,cn,三星, Galaxy Tab A (2018) 10.5 LTE
 samsung,SM-T290,cn,三星, Galaxy Tab A (2019) 8.0 WLAN
-samsung,SM-T295C,cn,三星, Galaxy Tab A (2019) 8.0 4G
+samsung,SM-T295C,cn,三星, Galaxy Tab A (2019) 8.0 LTE
 samsung,SM-T510,cn,三星, Galaxy Tab A (2019) 10.1 WLAN
-samsung,SM-T500,cn,三星, Galaxy Tab A7 WLAN
-samsung,SM-T505C,cn,三星, Galaxy Tab A7 4G
+samsung,SM-T500,cn,三星, Galaxy Tab A7 10.4 WLAN
+samsung,SM-T505C,cn,三星, Galaxy Tab A7 10.4 LTE
+samsung,SM-T220,cn,三星, Galaxy Tab A7 Lite 8.7 WLAN
+samsung,SM-T225C,cn,三星, Galaxy Tab A7 Lite 8.7 LTE
 samsung,SM-T230,cn,三星, Galaxy Tab4 7.0 WLAN
 samsung,SM-T231,cn,三星, Galaxy Tab4 7.0 3G
-samsung,SM-T239C,cn,三星, Galaxy Tab4 7.0 VE 4G
+samsung,SM-T239C,cn,三星, Galaxy Tab4 7.0 VE LTE
 samsung,SM-T330,cn,三星, Galaxy Tab4 8.0 WLAN
 samsung,SM-T331,cn,三星, Galaxy Tab4 8.0 3G
 samsung,SM-T530,cn,三星, Galaxy Tab4 10.1 WLAN
