@@ -341,8 +341,8 @@ xiaomi,M2001J1E,en,小米, Mi 10 Pro China
 xiaomi,M2001J1C,en,小米, Mi 10 Pro China
 xiaomi,M2002J9G,en,小米, Mi 10 Lite Global
 xiaomi,M2002J9S,en,小米, Mi 10 Lite Korea
-xiaomi,M2002J9R,en,小米, Mi 10 Lite Japan
-xiaomi,XIG01,en,小米, Mi 10 Lite Japan (NTT docomo)
+xiaomi,M2002J9R,en,小米, Mi 10 Lite Japan (KDDI)
+xiaomi,XIG01,en,小米, Mi 10 Lite Japan (KDDI)
 xiaomi,M2002J9E,en,小米, Mi 10 Lite Zoom China
 xiaomi,M2007J1SC,en,小米, Mi 10 Ultra China
 xiaomi,M2007J3SY,en,小米, Mi 10T Global
@@ -605,7 +605,7 @@ xiaomi,M2003J15SG,en,小米, Redmi Note 9 Global (NFC)
 xiaomi,M2010J19SC,en,小米, Redmi Note 9 4G China
 xiaomi,M2007J22C,en,小米, Redmi Note 9 5G China
 xiaomi,M2007J22G,en,小米, Redmi Note 9T 5G Global
-xiaomi,M2007J22R,en,小米, Redmi Note 9T 5G Japan
+xiaomi,M2007J22R,en,小米, Redmi Note 9T 5G Japan (SoftBank)
 xiaomi,A001XM,en,小米, Redmi Note 9T 5G Japan (SoftBank)
 xiaomi,M2003J6A1G,en,小米, Redmi Note 9S Global
 xiaomi,M2003J6A1R,en,小米, Redmi Note 9S Japan / Korea
@@ -691,13 +691,21 @@ xiaomi,SKW-H0,en,小米, Black Shark 2 Global
 xiaomi,SKW-A0,en,小米, Black Shark 2 China
 xiaomi,DLT-H0,en,小米, Black Shark 2 Pro Global
 xiaomi,DLT-A0,en,小米, Black Shark 2 Pro China
+xiaomi,SHARK,en,小米, Black Shark 3 Global
 xiaomi,KLE-H0,en,小米, Black Shark 3 Global
+xiaomi,SHARK,en,小米, Black Shark 3 China
 xiaomi,KLE-A0,en,小米, Black Shark 3 China
+xiaomi,SHARK,en,小米, Black Shark 3 Pro Global
 xiaomi,MBU-H0,en,小米, Black Shark 3 Pro Global
+xiaomi,SHARK,en,小米, Black Shark 3 Pro China
 xiaomi,MBU-A0,en,小米, Black Shark 3 Pro China
+xiaomi,SHARK,en,小米, Black Shark 3S China
 xiaomi,KLE-A0,en,小米, Black Shark 3S China
+xiaomi,SHARK,en,小米, Black Shark 4 Global
 xiaomi,PRS-H0,en,小米, Black Shark 4 Global
+xiaomi,SHARK,en,小米, Black Shark 4 China
 xiaomi,PRS-A0,en,小米, Black Shark 4 China
+xiaomi,SHARK,en,小米, Black Shark 4 Pro China
 xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
@@ -3859,8 +3867,8 @@ xiaomi,M2001J1G,cn,小米, 小米 10 Pro 国际版
 xiaomi,M2002J9E,cn,小米, 小米 10 青春版 全网通版
 xiaomi,M2002J9G,cn,小米, 小米 10 Lite 国际版
 xiaomi,M2002J9S,cn,小米, 小米 10 Lite 韩国版
-xiaomi,M2002J9R,cn,小米, 小米 10 Lite 日本版
-xiaomi,XIG01,cn,小米, 小米 10 Lite 日本版 (NTT docomo)
+xiaomi,M2002J9R,cn,小米, 小米 10 Lite 日本版 (KDDI)
+xiaomi,XIG01,cn,小米, 小米 10 Lite 日本版 (KDDI)
 xiaomi,M2007J1SC,cn,小米, 小米 10 至尊纪念版 全网通版
 xiaomi,M2007J3SY,cn,小米, 小米 10T 国际版
 xiaomi,M2007J3SP,cn,小米, 小米 10T 印度版
@@ -4122,7 +4130,7 @@ xiaomi,M2003J15SS,cn,小米, Redmi Note 9 国际版 (无 NFC)
 xiaomi,M2003J15SI,cn,小米, Redmi Note 9 印度版
 xiaomi,M2003J15SG,cn,小米, Redmi Note 9 国际版 (有 NFC)
 xiaomi,M2007J22G,cn,小米, Redmi Note 9T 5G 国际版
-xiaomi,M2007J22R,cn,小米, Redmi Note 9T 5G 日本版
+xiaomi,M2007J22R,cn,小米, Redmi Note 9T 5G 日本版 (SoftBank)
 xiaomi,A001XM,cn,小米, Redmi Note 9T 5G 日本版 (SoftBank)
 xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G 全网通版
 xiaomi,M2003J6A1G,cn,小米, Redmi Note 9S 国际版
@@ -4208,11 +4216,19 @@ xiaomi,SKW-A0,cn,小米, 黑鲨游戏手机 2 全网通版
 xiaomi,SKW-H0,cn,小米, 黑鲨游戏手机 2 国际版
 xiaomi,DLT-A0,cn,小米, 黑鲨游戏手机 2 Pro 全网通版
 xiaomi,DLT-H0,cn,小米, 黑鲨游戏手机 2 Pro 国际版
+xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3 全网通版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3 全网通版
+xiaomi,SHARK,cn,小米, 黑鲨游戏手机 3 国际版
 xiaomi,KLE-H0,cn,小米, 黑鲨游戏手机 3 国际版
+xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
 xiaomi,MBU-A0,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
+xiaomi,SHARK,cn,小米, 黑鲨游戏手机 3 Pro 国际版
 xiaomi,MBU-H0,cn,小米, 黑鲨游戏手机 3 Pro 国际版
+xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
+xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 全网通版
 xiaomi,PRS-A0,cn,小米, 黑鲨游戏手机 4 全网通版
+xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 国际版
 xiaomi,PRS-H0,cn,小米, 黑鲨游戏手机 4 国际版
+xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
 xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
