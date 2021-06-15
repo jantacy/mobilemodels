@@ -131,10 +131,11 @@ realme,RMX2191,en,REALME, realme Narzo 20 Global
 realme,RMX2193,en,REALME, realme Narzo 20 India
 realme,RMX2161,en,REALME, realme Narzo 20 Pro India
 realme,RMX2050,en,REALME, realme Narzo 20A India
-realme,RMX2156,en,REALME, realme Narzo 30 Asia-Pacific
-realme,RMX3241,en,REALME, realme Narzo 30 EU
-realme,RMX2117,en,REALME, realme Narzo 30 Pro India
+realme,RMX2156,en,REALME, realme Narzo 30 4G
+realme,RMX3241,en,REALME, realme Narzo 30 5G
+realme,RMX2117,en,REALME, realme Narzo 30 Pro 5G India
 realme,RMX3171,en,REALME, realme Narzo 30A India
+realme,RMX2202,en,REALME, realme GT 5G
 realme,RMX1851,en,REALME, realme X Lite
 realme,RMX1991,en,REALME, realme X2 China
 realme,RMX2051,en,REALME, realme X50 5G China
@@ -165,7 +166,6 @@ realme,RMX3161,en,REALME, realme Q3 5G
 realme,RMX2205,en,REALME, realme Q3 Pro 5G
 realme,RMX3142,en,REALME, realme Q3 Pro Carnival Edition 5G
 realme,RMX3042,en,REALME, realme Q3i 5G
-realme,RMX2202,en,REALME, realme GT 5G
 realme,RMX3031,en,REALME, realme GT Neo 5G
 realme,RMX3350,en,REALME, realme GT Neo Flash 5G
 oppo,PAFM00,cn,OPPO, OPPO Find X 标准版 全网通版
@@ -720,6 +720,7 @@ nokia,TA-1172,cn,诺基亚, Nokia X71
 nokia,TA-1117,cn,诺基亚, Nokia 3.1 Plus
 nokia,TA-1335,cn,诺基亚, Nokia C1 Plus
 nokia,TA-1258,cn,诺基亚, Nokia C3
+nokia,TA-1388,cn,诺基亚, Nokia C20 Plus
 huawei,MT7-L09,en,华为, HUAWEI Ascend Mate 7 Single SIM
 huawei,MT7-TL10,en,华为, HUAWEI Ascend Mate 7 Dual SIM
 huawei,CRR-L09,en,华为, HUAWEI Mate S Single SIM
@@ -1961,10 +1962,11 @@ realme,RMX2191,cn,REALME, realme Narzo 20 国际版
 realme,RMX2193,cn,REALME, realme Narzo 20 印度版
 realme,RMX2161,cn,REALME, realme Narzo 20 Pro 印度版
 realme,RMX2050,cn,REALME, realme Narzo 20A 印度版
-realme,RMX2156,cn,REALME, realme Narzo 30 亚太版
-realme,RMX3241,cn,REALME, realme Narzo 30 欧洲版
-realme,RMX2117,cn,REALME, realme Narzo 30 Pro 印度版
+realme,RMX2156,cn,REALME, realme Narzo 30 4G
+realme,RMX3241,cn,REALME, realme Narzo 30 5G
+realme,RMX2117,cn,REALME, realme Narzo 30 Pro 5G 印度版
 realme,RMX3171,cn,REALME, realme Narzo 30A 印度版
+realme,RMX2202,cn,REALME, realme GT 5G
 meizu,M8,en,魅族, Meizu M8
 meizu,M8SE,en,魅族, Meizu M8 SE
 meizu,M9,en,魅族, Meizu M9
