@@ -120,8 +120,11 @@ realme,RMX3063,en,REALME, realme C20
 realme,RMX3201,en,REALME, realme C21
 realme,RMX3202,en,REALME, realme C21
 realme,RMX3203,en,REALME, realme C21
+realme,RMX3261,en,REALME, realme C21Y
 realme,RMX3191,en,REALME, realme C25
 realme,RMX3193,en,REALME, realme C25
+realme,RMX3195,en,REALME, realme C25s
+realme,RMX3197,en,REALME, realme C25s
 realme,RMX1831,en,REALME, realme U1
 realme,RMX1833,en,REALME, realme U1
 realme,RMX2002,en,REALME, realme Narzo Indonesia
@@ -360,6 +363,7 @@ xiaomi,M2102K1G,en,小米, Mi 11 Ultra Global
 xiaomi,M2102K1C,en,小米, Mi 11 Ultra China
 xiaomi,M2101K9G,en,小米, Mi 11 Lite 5G Global
 xiaomi,M2101K9C,en,小米, Mi 11 Lite 5G China
+xiaomi,M2101K9R,en,小米, Mi 11 Lite 5G Japan
 xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
 xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
 xiaomi,M2012K11G,en,小米, Mi 11i Global
@@ -618,7 +622,6 @@ xiaomi,M2101K7AG,en,小米, Redmi Note 10 Global
 xiaomi,M2101K7AI,en,小米, Redmi Note 10 India
 xiaomi,M2101K7BG,en,小米, Redmi Note 10S Global
 xiaomi,M2101K7BI,en,小米, Redmi Note 10S India
-xiaomi,M2101K7BN,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BNY,en,小米, Redmi Note 10S Global (NFC)
 xiaomi,M2101K7BL,en,小米, Redmi Note 10S Brazil
 xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
@@ -1966,8 +1969,11 @@ realme,RMX3063,cn,REALME, realme C20
 realme,RMX3201,cn,REALME, realme C21
 realme,RMX3202,cn,REALME, realme C21
 realme,RMX3203,cn,REALME, realme C21
+realme,RMX3261,cn,REALME, realme C21Y
 realme,RMX3191,cn,REALME, realme C25
 realme,RMX3193,cn,REALME, realme C25
+realme,RMX3195,cn,REALME, realme C25s
+realme,RMX3197,cn,REALME, realme C25s
 realme,RMX1831,cn,REALME, realme U1
 realme,RMX1833,cn,REALME, realme U1
 realme,RMX2002,cn,REALME, realme Narzo 印度尼西亚版
@@ -3910,6 +3916,7 @@ xiaomi,M2102K1C,cn,小米, 小米 11 Ultra 全网通版
 xiaomi,M2102K1G,cn,小米, 小米 11 Ultra 国际版
 xiaomi,M2101K9C,cn,小米, 小米 11 青春版 全网通版
 xiaomi,M2101K9G,cn,小米, 小米 11 Lite 5G 国际版
+xiaomi,M2101K9R,cn,小米, 小米 11 Lite 5G 日本版
 xiaomi,M2101K9AG,cn,小米, 小米 11 Lite 4G 国际版
 xiaomi,M2101K9AI,cn,小米, 小米 11 Lite 4G 印度版
 xiaomi,M2012K11G,cn,小米, 小米 11i 国际版
@@ -4168,7 +4175,6 @@ xiaomi,M2101K7AG,cn,小米, Redmi Note 10 国际版
 xiaomi,M2101K7AI,cn,小米, Redmi Note 10 印度版
 xiaomi,M2101K7BG,cn,小米, Redmi Note 10S 国际版
 xiaomi,M2101K7BI,cn,小米, Redmi Note 10S 印度版
-xiaomi,M2101K7BN,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BNY,cn,小米, Redmi Note 10S 国际版 (NFC)
 xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 巴西版
 xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G 全网通版
