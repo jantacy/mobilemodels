@@ -1625,22 +1625,6 @@ vivo,V2072A,cn,VIVO, vivo S9 5G 全网通版
 vivo,V2048A,cn,VIVO, vivo S9e 5G 全网通版
 vivo,V2121A,cn,VIVO, vivo S10 5G 全网通版
 vivo,V2121A,cn,VIVO, vivo S10 Pro 5G 全网通版
-vivo,V1731CA,cn,VIVO, vivo Y73 全网通版
-vivo,V1732A,cn,VIVO, vivo Y81 全网通版
-vivo,V1732T,cn,VIVO, vivo Y81 移动全网通版
-vivo,V1732A,cn,VIVO, vivo Y81s 全网通版
-vivo,V1732T,cn,VIVO, vivo Y81s 移动全网通版
-vivo,V1730EA,cn,VIVO, vivo Y89 全网通版
-vivo,V1818CA,cn,VIVO, vivo Y91 全网通版
-vivo,V1818CT,cn,VIVO, vivo Y91 移动全网通版
-vivo,V1818A,cn,VIVO, vivo Y93 全网通版
-vivo,V1818T,cn,VIVO, vivo Y93 移动全网通版
-vivo,V1818CA,cn,VIVO, vivo Y93s 全网通版
-vivo,V1818CT,cn,VIVO, vivo Y93s 移动全网通版
-vivo,V1818CA,cn,VIVO, vivo Y93 标准版 全网通版
-vivo,V1818CT,cn,VIVO, vivo Y93 标准版 移动全网通版
-vivo,V1813A,cn,VIVO, vivo Y97 全网通版
-vivo,V1813T,cn,VIVO, vivo Y97 移动全网通版
 vivo,V1901A,cn,VIVO, vivo Y3 全网通版
 vivo,V1901T,cn,VIVO, vivo Y3 移动全网通版
 vivo,V1930A,cn,VIVO, vivo Y3 标准版 全网通版
@@ -1666,9 +1650,26 @@ vivo,V2002A,cn,VIVO, vivo Y51s 5G 全网通版
 vivo,V2057A,cn,VIVO, vivo Y52s 5G 全网通版
 vivo,V2054A,cn,VIVO, vivo Y52s (t1 版) 5G 全网通版
 vivo,V2111A,cn,VIVO, vivo Y53s 5G 全网通版
+vivo,V2069A,cn,VIVO, vivo Y53s (t1 版) 5G 全网通版
 vivo,V2002A,cn,VIVO, vivo Y70s 5G 全网通版
 vivo,V2002A,cn,VIVO, vivo Y70t 5G 全网通版
+vivo,V1731CA,cn,VIVO, vivo Y73 全网通版
 vivo,V2031A,cn,VIVO, vivo Y73s 5G 全网通版
+vivo,V1732A,cn,VIVO, vivo Y81 全网通版
+vivo,V1732T,cn,VIVO, vivo Y81 移动全网通版
+vivo,V1732A,cn,VIVO, vivo Y81s 全网通版
+vivo,V1732T,cn,VIVO, vivo Y81s 移动全网通版
+vivo,V1730EA,cn,VIVO, vivo Y89 全网通版
+vivo,V1818CA,cn,VIVO, vivo Y91 全网通版
+vivo,V1818CT,cn,VIVO, vivo Y91 移动全网通版
+vivo,V1818A,cn,VIVO, vivo Y93 全网通版
+vivo,V1818T,cn,VIVO, vivo Y93 移动全网通版
+vivo,V1818CA,cn,VIVO, vivo Y93s 全网通版
+vivo,V1818CT,cn,VIVO, vivo Y93s 移动全网通版
+vivo,V1818CA,cn,VIVO, vivo Y93 标准版 全网通版
+vivo,V1818CT,cn,VIVO, vivo Y93 标准版 移动全网通版
+vivo,V1813A,cn,VIVO, vivo Y97 全网通版
+vivo,V1813T,cn,VIVO, vivo Y97 移动全网通版
 vivo,V1801A0,cn,VIVO, vivo Z1 全网通版
 vivo,V1730DA,cn,VIVO, vivo Z1i 全网通版
 vivo,V1730DT,cn,VIVO, vivo Z1i 移动全网通版
