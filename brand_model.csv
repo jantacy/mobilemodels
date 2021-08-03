@@ -630,6 +630,8 @@ xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
 xiaomi,M2103K19Y,en,小米, Redmi Note 10T Global
 xiaomi,M2103K19I,en,小米, Redmi Note 10T 5G India
 xiaomi,M2103K19C,en,小米, Redmi Note 10 5G China
+xiaomi,2104K19J,en,小米, Redmi Note 10 JE Japan (KDDI)
+xiaomi,XIG02,en,小米, Redmi Note 10 JE Japan (KDDI)
 xiaomi,M2101K6G,en,小米, Redmi Note 10 Pro Global
 xiaomi,M2101K6T,en,小米, Redmi Note 10 Pro Thailand
 xiaomi,M2101K6R,en,小米, Redmi Note 10 Pro Japan
@@ -995,14 +997,17 @@ oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
-oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
 oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
+oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
 oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
+oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
 oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
-oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
+oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
+oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
 oneplus,EB2101,cn,一加, OnePlus Nord CE 5G 印度版
 oneplus,EB2103,cn,一加, OnePlus Nord CE 5G 欧洲/国际版
+oneplus,DN2101,cn,一加, OnePlus Nord 2 5G 印度版
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -1423,14 +1428,17 @@ oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
-oneplus,BE2029,en,一加, OnePlus Nord N10 Global
 oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
+oneplus,BE2029,en,一加, OnePlus Nord N10 Global
 oneplus,BE2011,en,一加, OnePlus Nord N100 North America
+oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
-oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
+oneplus,DE2117,en,一加, OnePlus Nord N200 North America
+oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
 oneplus,EB2101,en,一加, OnePlus Nord CE 5G India
 oneplus,EB2103,en,一加, OnePlus Nord CE 5G EU / Global
+oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
 letv,X600,cn,乐视, 乐 1 通用版
 letv,X608,cn,乐视, 乐 1 移动定制版
 letv,X500,cn,乐视, 乐 1s 通用版
@@ -4198,6 +4206,8 @@ xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G 全网通版
 xiaomi,M2103K19G,cn,小米, Redmi Note 10 5G 国际版
 xiaomi,M2103K19Y,cn,小米, Redmi Note 10T 国际版
 xiaomi,M2103K19I,cn,小米, Redmi Note 10T 5G 印度版
+xiaomi,2104K19J,cn,小米, Redmi Note 10 JE 日本版 (KDDI)
+xiaomi,XIG02,cn,小米, Redmi Note 10 JE 日本版 (KDDI)
 xiaomi,M2101K6G,cn,小米, Redmi Note 10 Pro 国际版
 xiaomi,M2101K6T,cn,小米, Redmi Note 10 Pro 泰国版
 xiaomi,M2101K6R,cn,小米, Redmi Note 10 Pro 日本版
