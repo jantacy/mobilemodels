@@ -279,6 +279,12 @@ oppo,PCNT00,cn,OPPO, OPPO K5 移动版
 oppo,PCLM50,cn,OPPO, OPPO K7 全网通版
 oppo,PERM00,cn,OPPO, OPPO K7x 全网通版
 oppo,PEXM00,cn,OPPO, OPPO K9 全网通版
+oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
+oppo,OW19W2,cn,OPPO, OPPO Watch 41mm
+oppo,OW19W3,cn,OPPO, OPPO Watch 46mm ECG/精钢版
+oppo,OW20W1,cn,OPPO, OPPO Watch 2 46mm eSIM 版
+oppo,OW20W2,cn,OPPO, OPPO Watch 2 42mm 蓝牙版/eSIM 版
+oppo,OW20W3,cn,OPPO, OPPO Watch 2 46mm ECG
 xiaomi,MI-ONE,en,小米, Mi 1 WCDMA
 xiaomi,PLUS,en,小米, Mi 1 WCDMA
 xiaomi,MI-ONE,en,小米, Mi 1 CDMA
@@ -717,6 +723,8 @@ xiaomi,SHARK,en,小米, Black Shark 4 China
 xiaomi,PRS-A0,en,小米, Black Shark 4 China
 xiaomi,SHARK,en,小米, Black Shark 4 Pro China
 xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
+xiaomi,XMWT01,en,小米, Mi Watch
+xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -964,13 +972,13 @@ oneplus,HD1907,cn,一加, OnePlus 7T T-Mobile 版
 oneplus,HD1910,cn,一加, OnePlus 7T Pro 全网通版
 oneplus,HD1911,cn,一加, OnePlus 7T Pro 印度版
 oneplus,HD1913,cn,一加, OnePlus 7T Pro 欧洲/国际版
-oneplus,HD1925,cn,一加, OnePlus 7T Pro 5G
+oneplus,HD1925,cn,一加, OnePlus 7T Pro 5G T-Mobile 版 / OnePlus Concept One
 oneplus,IN2010,cn,一加, OnePlus 8 全网通版
 oneplus,IN2011,cn,一加, OnePlus 8 印度版
 oneplus,IN2013,cn,一加, OnePlus 8 欧洲/国际版
-oneplus,IN2015,cn,一加, OnePlus 8 北美版
+oneplus,IN2015,cn,一加, OnePlus 8 Visible 北美版
 oneplus,IN2017,cn,一加, OnePlus 8 T-Mobile 版
-oneplus,IN2019,cn,一加, OnePlus 8 5G UW (Verzion)
+oneplus,IN2019,cn,一加, OnePlus 8 UW Verzion 版
 oneplus,IN2020,cn,一加, OnePlus 8 Pro 全网通版
 oneplus,IN2021,cn,一加, OnePlus 8 Pro 印度版
 oneplus,IN2023,cn,一加, OnePlus 8 Pro 欧洲/国际版
@@ -997,17 +1005,18 @@ oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
-oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
 oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
+oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
 oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
 oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
 oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
 oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
 oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
-oneplus,EB2101,cn,一加, OnePlus Nord CE 5G 印度版
-oneplus,EB2103,cn,一加, OnePlus Nord CE 5G 欧洲/国际版
-oneplus,DN2101,cn,一加, OnePlus Nord 2 5G 印度版
+oneplus,EB2101,cn,一加, OnePlus Nord CE 印度版
+oneplus,EB2103,cn,一加, OnePlus Nord CE 欧洲/国际版
+oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
+oneplus,DN2103,cn,一加, OnePlus Nord 2 欧洲版
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -1395,13 +1404,13 @@ oneplus,HD1907,en,一加, OnePlus 7T T-Mobile
 oneplus,HD1910,en,一加, OnePlus 7T Pro China
 oneplus,HD1911,en,一加, OnePlus 7T Pro India
 oneplus,HD1913,en,一加, OnePlus 7T Pro EU / Global
-oneplus,HD1925,en,一加, OnePlus 7T Pro 5G
+oneplus,HD1925,en,一加, OnePlus 7T Pro 5G T-Mobile / OnePlus Concept One
 oneplus,IN2010,en,一加, OnePlus 8 China
 oneplus,IN2011,en,一加, OnePlus 8 India
 oneplus,IN2013,en,一加, OnePlus 8 EU / Global
-oneplus,IN2015,en,一加, OnePlus 8 North America
+oneplus,IN2015,en,一加, OnePlus 8 Visible North America
 oneplus,IN2017,en,一加, OnePlus 8 T-Mobile
-oneplus,IN2019,en,一加, OnePlus 8 5G UW (Verzion)
+oneplus,IN2019,en,一加, OnePlus 8 UW Verzion
 oneplus,IN2020,en,一加, OnePlus 8 Pro China
 oneplus,IN2021,en,一加, OnePlus 8 Pro India
 oneplus,IN2023,en,一加, OnePlus 8 Pro EU / Global
@@ -1428,17 +1437,18 @@ oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
-oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
 oneplus,BE2029,en,一加, OnePlus Nord N10 Global
+oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
 oneplus,BE2011,en,一加, OnePlus Nord N100 North America
 oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
 oneplus,DE2117,en,一加, OnePlus Nord N200 North America
 oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
-oneplus,EB2101,en,一加, OnePlus Nord CE 5G India
-oneplus,EB2103,en,一加, OnePlus Nord CE 5G EU / Global
+oneplus,EB2101,en,一加, OnePlus Nord CE India
+oneplus,EB2103,en,一加, OnePlus Nord CE EU / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
+oneplus,DN2103,en,一加, OnePlus Nord 2 5G EU
 letv,X600,cn,乐视, 乐 1 通用版
 letv,X608,cn,乐视, 乐 1 移动定制版
 letv,X500,cn,乐视, 乐 1s 通用版
@@ -1585,6 +1595,9 @@ oppo,CPH2121,en,OPPO, OPPO A93
 oppo,CPH2123,en,OPPO, OPPO A93
 oppo,CPH2203,en,OPPO, OPPO A94
 oppo,CPH1955,en,OPPO, OPPO K3
+oppo,OW19W6,en,OPPO, OPPO Watch 41mm Wi-Fi
+oppo,OW19W8,en,OPPO, OPPO Watch 46mm Wi-Fi
+oppo,OW19W12,en,OPPO, OPPO Watch 46mm LTE
 vivo,V1821A,cn,VIVO, vivo NEX 双屏版 全网通版
 vivo,V1821T,cn,VIVO, vivo NEX 双屏版 移动全网通版
 vivo,V1923A,cn,VIVO, vivo NEX 3 全网通版
@@ -4293,3 +4306,5 @@ xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 国际版
 xiaomi,PRS-H0,cn,小米, 黑鲨游戏手机 4 国际版
 xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
 xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
+xiaomi,XMWT01,cn,小米, 小米手表
+xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
