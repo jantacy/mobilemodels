@@ -405,7 +405,8 @@ xiaomi,M1803D5XC,en,小米, Mi MIX 2S China Unicom / China Telecom
 xiaomi,M1810E5A,en,小米, Mi MIX 3 Global
 xiaomi,M1810E5E,en,小米, Mi MIX 3 China
 xiaomi,M1810E5GG,en,小米, Mi MIX 3 5G
-xiaomi,M2011J18C,en,小米, MIX FOLD China
+xiaomi,M2011J18C,en,小米, Mi MIX FOLD China
+xiaomi,2106118C,en,小米, Mi MIX 4 China
 xiaomi,2016002,en,小米, Mi Max Global
 xiaomi,2016001,en,小米, Mi Max China
 xiaomi,2016007,en,小米, Mi Max Prime
@@ -434,6 +435,10 @@ xiaomi,MCE91,en,小米, Mi Pad 3
 xiaomi,M1806D9W,en,小米, Mi Pad 4 Wi-Fi
 xiaomi,M1806D9E,en,小米, Mi Pad 4 LTE
 xiaomi,M1806D9PE,en,小米, Mi Pad 4 Plus LTE
+xiaomi,21051182G,en,小米, Mi Pad 5 Global
+xiaomi,21051182C,en,小米, Mi Pad 5 China
+xiaomi,M2105K81AC,en,小米, Mi Pad 5 Pro Wi-Fi
+xiaomi,M2105K81C,en,小米, Mi Pad 5 Pro 5G
 xiaomi,2013022,en,小米, Redmi 1 TD-SCDMA
 xiaomi,2013023,en,小米, Redmi 1 WCDMA
 xiaomi,2013029,en,小米, Redmi 1S WCDMA
@@ -1819,6 +1824,8 @@ mitv,L75M6-5,cn,小米电视, 小米电视 5 75 英寸
 mitv,L55M6-5P,cn,小米电视, 小米电视 5 Pro 55 英寸
 mitv,L65M6-5P,cn,小米电视, 小米电视 5 Pro 65 英寸
 mitv,L75M6-5P,cn,小米电视, 小米电视 5 Pro 75 英寸
+mitv,L55M7-Z2,cn,小米电视, 小米电视 6 OLED 55 英寸
+mitv,L65M7-Z2,cn,小米电视, 小米电视 6 OLED 65 英寸
 mitv,L55M7-Z1,cn,小米电视, 小米电视 6 至尊版 55 英寸
 mitv,L65M7-Z1,cn,小米电视, 小米电视 6 至尊版 65 英寸
 mitv,L75M7-Z1,cn,小米电视, 小米电视 6 至尊版 75 英寸
@@ -1859,6 +1866,7 @@ mitv,L65M5-OD,cn,小米电视, 小米电视 大师 65 英寸 OLED
 mitv,L55M6-TM,cn,小米电视, 小米电视 大师 (小米透明电视) 55 英寸
 mitv,L82M6-4K,cn,小米电视, 小米电视 大师 82 英寸
 mitv,L82M6-8KP,cn,小米电视, 小米电视 大师 82 英寸 至尊纪念版
+mitv,O77M8-MAS,cn,小米电视, 小米电视 大师 77 英寸 OLED
 mitv,L40M5-RA,cn,小米电视, Redmi 红米电视 40 英寸 R40A
 mitv,L42R7-RA,cn,小米电视, Redmi 智能电视 42 英寸
 mitv,L70M5-RA,cn,小米电视, Redmi 红米电视 70 英寸 R70A
@@ -3992,7 +4000,8 @@ xiaomi,M1803D5XC,cn,小米, 小米 MIX 2S 联通电信定制版
 xiaomi,M1810E5E,cn,小米, 小米 MIX 3 全网通版
 xiaomi,M1810E5A,cn,小米, 小米 MIX 3 全网通版 (全球频段)
 xiaomi,M1810E5GG,cn,小米, 小米 MIX 3 5G
-xiaomi,M2011J18C,cn,小米, MIX FOLD
+xiaomi,M2011J18C,cn,小米, MIX FOLD 小米折叠屏手机
+xiaomi,2106118C,cn,小米, 小米 MIX 4 全网通版
 xiaomi,2016001,cn,小米, 小米 Max 标准版 全网通版
 xiaomi,2016002,cn,小米, 小米 Max 标准版 国际版
 xiaomi,2016007,cn,小米, 小米 Max 高配版
@@ -4021,6 +4030,10 @@ xiaomi,MCE91,cn,小米, 小米平板 3
 xiaomi,M1806D9W,cn,小米, 小米平板 4 Wi-Fi 版
 xiaomi,M1806D9E,cn,小米, 小米平板 4 LTE 版
 xiaomi,M1806D9PE,cn,小米, 小米平板 4 Plus LTE 版
+xiaomi,21051182C,cn,小米, 小米平板 5 国行版
+xiaomi,21051182G,cn,小米, 小米平板 5 国际版
+xiaomi,M2105K81AC,cn,小米, 小米平板 5 Pro Wi-Fi 版
+xiaomi,M2105K81C,cn,小米, 小米平板 5 Pro 5G 版
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
 xiaomi,2013029,cn,小米, 红米 1S 联通版
