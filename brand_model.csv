@@ -2386,6 +2386,7 @@ realme,RMX2181,cn,REALME, realme C15
 realme,RMX2183,cn,REALME, realme C15
 realme,RMX2195,cn,REALME, realme C15 高通版
 realme,RMX2101,cn,REALME, realme C17
+realme,RMX3061,cn,REALME, realme C20
 realme,RMX3063,cn,REALME, realme C20
 realme,RMX3201,cn,REALME, realme C21
 realme,RMX3202,cn,REALME, realme C21
@@ -2405,7 +2406,7 @@ realme,RMX2193,cn,REALME, realme Narzo 20 印度版
 realme,RMX2161,cn,REALME, realme Narzo 20 Pro 印度版
 realme,RMX2050,cn,REALME, realme Narzo 20A 印度版
 realme,RMX2156,cn,REALME, realme Narzo 30 4G
-realme,RMX3241,cn,REALME, realme Narzo 30 5G
+realme,RMX3242,cn,REALME, realme Narzo 30 5G
 realme,RMX2117,cn,REALME, realme Narzo 30 Pro 5G 印度版
 realme,RMX3171,cn,REALME, realme Narzo 30A 印度版
 realme,RMX2202,cn,REALME, realme GT 5G
@@ -3984,6 +3985,7 @@ realme,RMX2181,en,REALME, realme C15
 realme,RMX2183,en,REALME, realme C15
 realme,RMX2195,en,REALME, realme C15 Qualcomm Edition
 realme,RMX2101,en,REALME, realme C17
+realme,RMX3061,en,REALME, realme C20
 realme,RMX3063,en,REALME, realme C20
 realme,RMX3201,en,REALME, realme C21
 realme,RMX3202,en,REALME, realme C21
@@ -4003,7 +4005,7 @@ realme,RMX2193,en,REALME, realme Narzo 20 India
 realme,RMX2161,en,REALME, realme Narzo 20 Pro India
 realme,RMX2050,en,REALME, realme Narzo 20A India
 realme,RMX2156,en,REALME, realme Narzo 30 4G
-realme,RMX3241,en,REALME, realme Narzo 30 5G
+realme,RMX3242,en,REALME, realme Narzo 30 5G
 realme,RMX2117,en,REALME, realme Narzo 30 Pro 5G India
 realme,RMX3171,en,REALME, realme Narzo 30A India
 realme,RMX2202,en,REALME, realme GT 5G
@@ -4115,6 +4117,7 @@ vivo,V2057A,cn,VIVO, vivo Y52s 5G 全网通版
 vivo,V2054A,cn,VIVO, vivo Y52s (t1 版) 5G 全网通版
 vivo,V2111A,cn,VIVO, vivo Y53s 5G 全网通版
 vivo,V2069A,cn,VIVO, vivo Y53s (t1 版) 5G 全网通版
+vivo,V2123A,cn,VIVO, vivo Y53s (t2 版) 5G 全网通版
 vivo,V2002A,cn,VIVO, vivo Y70s 5G 全网通版
 vivo,V2002A,cn,VIVO, vivo Y70t 5G 全网通版
 vivo,V1731CA,cn,VIVO, vivo Y73 全网通版
@@ -4163,6 +4166,8 @@ vivo,V1955A,cn,VIVO, iQOO 3 5G 全网通版
 vivo,V2024A,cn,VIVO, iQOO 5 5G 全网通版
 vivo,V2025A,cn,VIVO, iQOO 5 Pro 5G 全网通版
 vivo,V2049A,cn,VIVO, iQOO 7 5G 全网通版
+vivo,V2136A,cn,VIVO, iQOO 8 5G 全网通版
+vivo,V2141A,cn,VIVO, iQOO 8 Pro 5G 全网通版
 vivo,V1914A,cn,VIVO, iQOO Neo 全网通版
 vivo,V1914T,cn,VIVO, iQOO Neo 移动全网通版
 vivo,V1936A,cn,VIVO, iQOO Neo 855 版 全网通版
