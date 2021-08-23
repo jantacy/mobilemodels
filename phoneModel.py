@@ -32,7 +32,7 @@ class PhoneModel:
             if record_list[1]=='**':
                 continue
             model_str=record_list[0].replace(brand[:-3].split('_')[0].upper(),'').strip()
-            model_list=model_str.split(' ')
+            model_list=[x for x in model_str.split(' ') if x not in ('SHARK','HUAWEI','Letv','Le')]
             head=model_list[0][:3]
             tail=model_list[0][-3:]
             if all([x.startswith(head) or x.endswith(tail) or x.find('-')>0 for x in model_list]):
