@@ -1668,6 +1668,15 @@ samsung,SM-T320,cn,三星, Galaxy Tab PRO 8.4 WLAN
 samsung,SM-T321,cn,三星, Galaxy Tab PRO 8.4 3G
 samsung,SM-T520,cn,三星, Galaxy Tab PRO 10.1 WLAN
 samsung,SM-W700,cn,三星, Galaxy TabPro S WLAN
+oneplus,A0001,en,一加, OnePlus One
+oneplus,A1001,en,一加, OnePlus One
+oneplus,A2001,en,一加, OnePlus 2 China
+oneplus,A2003,en,一加, OnePlus 2 Global
+oneplus,A2005,en,一加, OnePlus 2 North America
+oneplus,E1000,en,一加, OnePlus X China
+oneplus,E1001,en,一加, OnePlus X China
+oneplus,E1003,en,一加, OnePlus X Global
+oneplus,E1005,en,一加, OnePlus X North America
 oneplus,A3000,en,一加, OnePlus 3 China / North America
 oneplus,A3003,en,一加, OnePlus 3 Global
 oneplus,A3000,en,一加, OnePlus 3T North America
@@ -1874,6 +1883,15 @@ honor,YAL-L41,en,荣耀, HONOR 20 PRO Dual SIM
 honor,HRY-AL00Ta,en,荣耀, HONOR 20i Dual SIM
 honor,OXF-N29,en,荣耀, HONOR View30 PRO Dual SIM
 honor,OXF-AN10,en,荣耀, HONOR View30 PRO Dual SIM
+oneplus,A0001,cn,一加, OnePlus One 移动版
+oneplus,A1001,cn,一加, OnePlus One 联通版
+oneplus,A2001,cn,一加, OnePlus 2
+oneplus,A2003,cn,一加, OnePlus 2 国际版
+oneplus,A2005,cn,一加, OnePlus 2 北美版
+oneplus,E1001,cn,一加, OnePlus X 移动/联通版
+oneplus,E1000,cn,一加, OnePlus X 全网通版
+oneplus,E1003,cn,一加, OnePlus X 国际版
+oneplus,E1005,cn,一加, OnePlus X 北美版
 oneplus,A3000,cn,一加, OnePlus 3 全网通版
 oneplus,A3003,cn,一加, OnePlus 3 国际版
 oneplus,A3010,cn,一加, OnePlus 3T 全网通版
