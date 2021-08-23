@@ -29,11 +29,15 @@ class PhoneModel:
         model_df=pd.DataFrame(columns=['brand','model','area','brand_name','model_name'])
         for record in brand_info_list:
             record_list=record.replace('`','').split(':')
-            model=record_list[0]
             if record_list[1]=='**':
                 continue
-            model_df.loc[len(model_df)]=(brand[:-3].split('_')[0],model,'en' if brand.find('_en')>0 else 'cn',brand_map.get(brand[:-3].split('_')[0],'其他'),record_list[1])
-
+            model_str=record_list[0].replace(brand[:-3].split('_')[0].upper(),'').trim()
+            model_list=model_str.split(' ')
+            head=model_list[0][:3]
+            tail=model_list[0][-3:]
+            if all([x.startswith(head) or x.endswith(tail) or x.find('-')>0 for x in model_list]):
+                for model in model_list:
+                    model_df.loc[len(model_df)]=(brand[:-3].split('_')[0],model,'en' if brand.find('_en')>0 else 'cn',brand_map.get(brand[:-3].split('_')[0],'其他'),record_list[1])
         return model_df
 
     def get_all(self):
@@ -72,5 +76,4 @@ if __name__=='__main__':
     if pm.new_commit!=last_commit:
         pm.get_all()
         pm.data_save()
-
 
