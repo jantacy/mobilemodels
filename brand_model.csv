@@ -445,21 +445,13 @@ xiaomi,SKW-A0,cn,小米, 黑鲨游戏手机 2 全网通版
 xiaomi,SKW-H0,cn,小米, 黑鲨游戏手机 2 国际版
 xiaomi,DLT-A0,cn,小米, 黑鲨游戏手机 2 Pro 全网通版
 xiaomi,DLT-H0,cn,小米, 黑鲨游戏手机 2 Pro 国际版
-xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3 全网通版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3 全网通版
-xiaomi,SHARK,cn,小米, 黑鲨游戏手机 3 国际版
 xiaomi,KLE-H0,cn,小米, 黑鲨游戏手机 3 国际版
-xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
 xiaomi,MBU-A0,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
-xiaomi,SHARK,cn,小米, 黑鲨游戏手机 3 Pro 国际版
 xiaomi,MBU-H0,cn,小米, 黑鲨游戏手机 3 Pro 国际版
-xiaomi,SHARK,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
-xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 全网通版
 xiaomi,PRS-A0,cn,小米, 黑鲨游戏手机 4 全网通版
-xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 国际版
 xiaomi,PRS-H0,cn,小米, 黑鲨游戏手机 4 国际版
-xiaomi,SHARK,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
 xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
 xiaomi,XMWT01,cn,小米, 小米手表
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
@@ -796,7 +788,12 @@ honor,LOK-360,cn,荣耀, 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
 honor,LOK-360C,cn,荣耀, 荣耀智慧屏 X1 65 英寸 (2GB+16GB)
 honor,LOK-360S,cn,荣耀, 荣耀智慧屏 X1 65 英寸 (4GB+32GB)
 honor,LOK-370,cn,荣耀, 荣耀智慧屏 X1 75 英寸
-honor,HUAWEI,cn,荣耀, 荣耀 3 outdoor
+honor,U8860,cn,荣耀, Honor 联通版
+honor,C8860E,cn,荣耀, Honor 电信版
+honor,T8950,cn,荣耀, Honor+ 移动版
+honor,U8950D,cn,荣耀, Honor+ 联通版
+honor,C8950D,cn,荣耀, Honor+ 电信版
+honor,U9508,cn,荣耀, 荣耀四核爱享版
 honor,HN3-U01,cn,荣耀, 荣耀 3 outdoor
 meizu,M8,en,魅族, Meizu M8
 meizu,M8SE,en,魅族, Meizu M8 SE
@@ -3519,21 +3516,13 @@ xiaomi,SKW-H0,en,小米, Black Shark 2 Global
 xiaomi,SKW-A0,en,小米, Black Shark 2 China
 xiaomi,DLT-H0,en,小米, Black Shark 2 Pro Global
 xiaomi,DLT-A0,en,小米, Black Shark 2 Pro China
-xiaomi,SHARK,en,小米, Black Shark 3 Global
 xiaomi,KLE-H0,en,小米, Black Shark 3 Global
-xiaomi,SHARK,en,小米, Black Shark 3 China
 xiaomi,KLE-A0,en,小米, Black Shark 3 China
-xiaomi,SHARK,en,小米, Black Shark 3 Pro Global
 xiaomi,MBU-H0,en,小米, Black Shark 3 Pro Global
-xiaomi,SHARK,en,小米, Black Shark 3 Pro China
 xiaomi,MBU-A0,en,小米, Black Shark 3 Pro China
-xiaomi,SHARK,en,小米, Black Shark 3S China
 xiaomi,KLE-A0,en,小米, Black Shark 3S China
-xiaomi,SHARK,en,小米, Black Shark 4 Global
 xiaomi,PRS-H0,en,小米, Black Shark 4 Global
-xiaomi,SHARK,en,小米, Black Shark 4 China
 xiaomi,PRS-A0,en,小米, Black Shark 4 China
-xiaomi,SHARK,en,小米, Black Shark 4 Pro China
 xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
 xiaomi,XMWT01,en,小米, Mi Watch
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
@@ -3559,6 +3548,28 @@ smartisan,DT1902A,cn,锤子, 坚果 Pro 3 (白色)
 smartisan,DT2002C,cn,锤子, 坚果 R2
 smartisan,DT2003A,cn,锤子, Smartisan TNT go 有线版
 smartisan,DT2003C,cn,锤子, Smartisan TNT go 无线版
+letv,X600,cn,乐视, 乐 1 通用版
+letv,X608,cn,乐视, 乐 1 移动定制版
+letv,X500,cn,乐视, 乐 1s 通用版
+letv,X501,cn,乐视, 乐 1s 太子妃版
+letv,X508,cn,乐视, 乐 1s 移动定制版
+letv,X502,cn,乐视, 乐 1s 未知版本
+letv,X800,cn,乐视, 乐 1 Pro 通用版
+letv,X800+,cn,乐视, 乐 1 Pro 全网通版
+letv,X900,cn,乐视, 乐 Max 通用版
+letv,X900+,cn,乐视, 乐 Max 全网通版
+letv,X906,cn,乐视, 乐 Max 电信定制版
+letv,X620,cn,乐视, 乐 2 (MTK) 全网通版
+letv,X621,cn,乐视, 乐 2 (MTK) 全网通版
+letv,X625,cn,乐视, 乐 2 Pro 全网通版
+letv,X520,cn,乐视, 乐 2 (高通) 全网通版
+letv,X521,cn,乐视, 乐 2 (高通) 全网通版
+letv,X525,cn,乐视, 乐 2 (高通) 全网通版
+letv,X528,cn,乐视, 乐 2 (高通) 移动定制版
+letv,X529,cn,乐视, 乐 2 (高通) 未知版本
+letv,X820,cn,乐视, 乐 Max 2 全网通版
+letv,X822,cn,乐视, 乐 Max 2 电信定制版
+letv,X910,cn,乐视, 乐 Max Pro
 letv,LEX622,cn,乐视, 乐 S3 全网通版
 letv,LEX626,cn,乐视, 乐 S3 全网通版
 letv,LEX623,cn,乐视, 乐 S3 未知版本
