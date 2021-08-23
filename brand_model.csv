@@ -1028,7 +1028,8 @@ huawei,NOP-AN00,cn,华为, HUAWEI Mate 40 Pro+ 5G 全网通版
 huawei,NOP-AN00,cn,华为, HUAWEI Mate 40 RS 保时捷设计
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
-huawei,TET-AN00 TET-AN10,cn,华为, HUAWEI Mate X2 5G 全网通版
+huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G 全网通版
+huawei,TET-AN10,cn,华为, HUAWEI Mate X2 5G 全网通版
 huawei,TET-AN50,cn,华为, HUAWEI Mate X2 5G 全网通版
 huawei,TET-AL00,cn,华为, HUAWEI Mate X2 4G 全网通版
 huawei,U9200,cn,华为, 华为 Ascend P1
@@ -1173,6 +1174,8 @@ huawei,POT-AL10,cn,华为, HUAWEI 麦芒 8 全网通版
 huawei,TNN-AN00,cn,华为, 华为麦芒 9 5G 全网通版
 huawei,TIT-AL00,cn,华为, 华为畅享 5 全网通版
 huawei,TIT-TL00,cn,华为, 华为畅享 5 移动 4G 版
+huawei,TIT-CL00,cn,华为, 华为畅享 5 电信 4G 版
+huawei,TIT-CL10,cn,华为, 华为畅享 5 电信 4G 版
 huawei,TAG-AL00,cn,华为, 华为畅享 5S 全网通版
 huawei,TAG-TL00,cn,华为, 华为畅享 5S 移动 4G 版
 huawei,TAG-CL00,cn,华为, 华为畅享 5S 电信 4G 版
@@ -1281,7 +1284,8 @@ huawei,MRX-W19,cn,华为, HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 huawei,MRX-W39,cn,华为, HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB)
 huawei,MRX-AL19,cn,华为, HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB)
 huawei,MRX-AN19,cn,华为, HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
-huawei,MRR-W29 MRR-W39,cn,华为, HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+huawei,MRR-W29,cn,华为, HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+huawei,MRR-W39,cn,华为, HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 huawei,WGR-W09,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
 huawei,WGR-W19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
 huawei,WGR-AN19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
