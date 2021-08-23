@@ -31,7 +31,7 @@ class PhoneModel:
             record_list=record.replace('`','').split(':')
             if record_list[1]=='**':
                 continue
-            model_str=record_list[0].replace(brand[:-3].split('_')[0].upper(),'').trim()
+            model_str=record_list[0].replace(brand[:-3].split('_')[0].upper(),'').strip()
             model_list=model_str.split(' ')
             head=model_list[0][:3]
             tail=model_list[0][-3:]
