@@ -141,7 +141,7 @@ xiaomi,M1810E5E,cn,小米, 小米 MIX 3 全网通版
 xiaomi,M1810E5A,cn,小米, 小米 MIX 3 全网通版 (全球频段)
 xiaomi,M1810E5GG,cn,小米, 小米 MIX 3 5G
 xiaomi,M2011J18C,cn,小米, MIX FOLD 小米折叠屏手机
-xiaomi,2106118C,cn,小米, 小米 MIX 4 全网通版
+xiaomi,2106118C,cn,小米, Xiaomi MIX 4 全网通版
 xiaomi,2016001,cn,小米, 小米 Max 标准版 全网通版
 xiaomi,2016002,cn,小米, 小米 Max 标准版 国际版
 xiaomi,2016007,cn,小米, 小米 Max 高配版
@@ -283,8 +283,10 @@ xiaomi,M2010J19SI,cn,小米, Redmi 9 Power 印度版
 xiaomi,M2010J19SR,cn,小米, Redmi 9T 日本版
 xiaomi,M2010J19ST,cn,小米, Redmi 9T 泰国版
 xiaomi,M2010J19SY,cn,小米, Redmi 9T 国际版 (NFC)
-xiaomi,M2010J19SL,cn,小米, Redmi 9T 巴西版
+xiaomi,M2010J19SL,cn,小米, Redmi 9T 拉美版
 xiaomi,21061119AG,cn,小米, Redmi 10 国际版
+xiaomi,21061119AL,cn,小米, Redmi 10 拉美版
+xiaomi,21061119BI,cn,小米, Redmi 10 Prime 印度版
 xiaomi,21061119DG,cn,小米, Redmi 10 国际版 (NFC)
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
@@ -372,7 +374,7 @@ xiaomi,M2101K7AI,cn,小米, Redmi Note 10 印度版
 xiaomi,M2101K7BG,cn,小米, Redmi Note 10S 国际版
 xiaomi,M2101K7BI,cn,小米, Redmi Note 10S 印度版
 xiaomi,M2101K7BNY,cn,小米, Redmi Note 10S 国际版 (NFC)
-xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 巴西版
+xiaomi,M2101K7BL,cn,小米, Redmi Note 10S 拉美版
 xiaomi,M2103K19C,cn,小米, Redmi Note 10 5G 全网通版
 xiaomi,M2103K19G,cn,小米, Redmi Note 10 5G 国际版
 xiaomi,M2103K19Y,cn,小米, Redmi Note 10T 国际版
@@ -3398,8 +3400,10 @@ xiaomi,M2010J19SI,en,小米, Redmi 9 Power India
 xiaomi,M2010J19SR,en,小米, Redmi 9T Japan
 xiaomi,M2010J19ST,en,小米, Redmi 9T Thailand
 xiaomi,M2010J19SY,en,小米, Redmi 9T Global (NFC)
-xiaomi,M2010J19SL,en,小米, Redmi 9T Brazil
+xiaomi,M2010J19SL,en,小米, Redmi 9T Latin America
 xiaomi,21061119AG,en,小米, Redmi 10 Global
+xiaomi,21061119AL,en,小米, Redmi 10 Latin America
+xiaomi,21061119BI,en,小米, Redmi 10 Prime India
 xiaomi,21061119DG,en,小米, Redmi 10 Global (NFC)
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
@@ -3487,7 +3491,7 @@ xiaomi,M2101K7AI,en,小米, Redmi Note 10 India
 xiaomi,M2101K7BG,en,小米, Redmi Note 10S Global
 xiaomi,M2101K7BI,en,小米, Redmi Note 10S India
 xiaomi,M2101K7BNY,en,小米, Redmi Note 10S Global (NFC)
-xiaomi,M2101K7BL,en,小米, Redmi Note 10S Brazil
+xiaomi,M2101K7BL,en,小米, Redmi Note 10S Latin America
 xiaomi,M2103K19G,en,小米, Redmi Note 10 5G Global
 xiaomi,M2103K19Y,en,小米, Redmi Note 10T Global
 xiaomi,M2103K19I,en,小米, Redmi Note 10T 5G India
