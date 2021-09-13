@@ -1023,8 +1023,13 @@ honor,Nbl-WAQ9HNL,cn,荣耀, 荣耀 MagicBook 14 科技尝鲜版 R5
 honor,Nbl-WAP9HNL,cn,荣耀, 荣耀 MagicBook 14 科技尝鲜版 R7
 honor,NblL-WFQ9HN,cn,荣耀, 荣耀 MagicBook 14 2020 R5
 honor,NblL-WFP9HN,cn,荣耀, 荣耀 MagicBook 14 2020 R7
-honor,NDR-WFH9HN,cn,荣耀, 荣耀 MagicBook 14 2021 i5 & i7
-honor,NIR-WAP9HNRP,cn,荣耀, 荣耀 MagicBook 14 SE 2021 R7
+honor,NDR-WFH9HN,cn,荣耀, 荣耀 MagicBook 14 2021 i5 
+honor,NDR-WFE9HN,cn,荣耀, 荣耀 MagicBook 14 2021 i7
+honor,NLR-WAQ9HNRP,cn,荣耀, 荣耀 MagicBook 14 SE 2021 R5
+honor,NLR-WAQ9HNR,cn,荣耀, 荣耀 MagicBook 14 SE 2021 R5
+honor,NMH-WDQ9HN,cn,荣耀, 荣耀 MagicBook 14 2021 锐龙版 R5 (8GB+256GB)
+honor,NMH-WFQ9HN,cn,荣耀, 荣耀 MagicBook 14 2021 锐龙版 R5 (16GB+512GB)
+honor,NMH-WFP9HN,cn,荣耀, 荣耀MagicBook 14 2021款 锐龙版 R7 (16GB+512GB)
 honor,Boh-WAH9HN,cn,荣耀, 荣耀 MagicBook 15 i5
 honor,Boh-WAH9HNP,cn,荣耀, 荣耀 MagicBook 15 i5 (16GB+512GB)
 honor,Boh-WAE9HN,cn,荣耀, 荣耀 MagicBook 15 i7
@@ -1036,7 +1041,11 @@ honor,Boh-WAP9HNL,cn,荣耀, 荣耀 MagicBook 15 科技尝鲜版 R7
 honor,BohL-WDQ9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R5 (8GB+256GB)
 honor,BohL-WFQ9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R5 (16GB+512GB)
 honor,BohL-WFP9HN,cn,荣耀, 荣耀 MagicBook 15 2020 R7
-honor,BDR-WFH9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i5 & i7
+honor,BDR-WFH9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i5
+honor,BDR-WFE9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i7
+honor,BMH-WDQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 锐龙版 R5 (8GB+256GB)
+honor,BMH-WFQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 锐龙版 R5 (16GB+512GB)
+honor,BMH-WFP9HN,cn,荣耀, 荣耀 MagicBook 15 2021 锐龙版 R7
 honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
 honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
@@ -1944,6 +1953,9 @@ huawei,HNL-WFP9,cn,华为, HUAWEI MateBook 13 (2020) R7
 huawei,WRTD-WDH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
 huawei,WRTD-WFH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
 huawei,WRTD-WFE9,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+huawei,EMD-W58,cn,华为, HUAWEI MateBook 13s i5 (8GB+512GB)
+huawei,EMD-W56,cn,华为, HUAWEI MateBook 13s i5 (16GB+512GB)
+huawei,EMD-W76,cn,华为, HUAWEI MateBook 13s i7 (16GB+512GB)
 huawei,KLV-W19,cn,华为, HUAWEI MateBook 14 i5
 huawei,KLV-W19DL,cn,华为, HUAWEI MateBook 14 i5 Linux 版
 huawei,KLV-W29,cn,华为, HUAWEI MateBook 14 i7
@@ -1955,14 +1967,28 @@ huawei,KLVL-WFE9,cn,华为, HUAWEI MateBook 14 (2020) R7
 huawei,KLVD-WDH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
 huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
 huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
+huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
+huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
+huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
 huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
 huawei,NBZ-WBH9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+256GB)
 huawei,NBZ-WBM9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+512GB)
 huawei,NBZ-WBE9,cn,华为, HUAWEI MateBook B3-410 i7
+huawei,NDZ-WDH9A,cn,华为, HUAWEI MateBook B3-420 i5 (8GB+512GB)
+huawei,NDZ-WFH9A,cn,华为, HUAWEI MateBook B3-420 i5 (16GB+512GB)
+huawei,NDZ-WFE9A,cn,华为, HUAWEI MateBook B3-420 i7
 huawei,BBZ-WBH9,cn,华为, HUAWEI MateBook B3-510 i5
 huawei,BBZ-WBE9,cn,华为, HUAWEI MateBook B3-510 i7
+huawei,BDZ-WDH9A,cn,华为, HUAWEI MateBook B3-520 i5 (8GB+512GB)
+huawei,BDZ-WFH9A,cn,华为, HUAWEI MateBook B3-520 i5 (16GB+512GB)
+huawei,BDZ-WFE9A,cn,华为, HUAWEI MateBook B3-520 i7
 huawei,KLCZ-WDH9,cn,华为, HUAWEI MateBook B5-420
+huawei,KLDZ-WDH9AQ,cn,华为, HUAWEI MateBook B5-430 i5 (8GB+512GB)
+huawei,KLDZ-WFH9A,cn,华为, HUAWEI MateBook B5-430 i5 (16GB+512GB)
+huawei,KLDZ-WFE9A,cn,华为, HUAWEI MateBook B5-430 i7
+huawei,MDZ-WFH9A,cn,华为, HUAWEI MateBook B7 i5
+huawei,MDZ-WFE9A,cn,华为, HUAWEI MateBook B7 i7
 huawei,HEGE-550,cn,华为, 华为智慧屏 V55i-A (4GB+64GB)
 huawei,HEGE-550B,cn,华为, 华为智慧屏 V55i-B (4GB+32GB)
 huawei,HEGE-560,cn,华为, 华为智慧屏 V65
@@ -1983,10 +2009,15 @@ huawei,HD65KANA,cn,华为, 华为智慧屏 S 65 (3GB+16GB)
 huawei,HD65KANS,cn,华为, 华为智慧屏 S Pro 65 (3GB+32GB)
 huawei,HD75KANA,cn,华为, 华为智慧屏 S 75 (3GB+16GB)
 huawei,HD75KANS,cn,华为, 华为智慧屏 S Pro 75 (3GB+32GB)
-huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 (2GB+16GB)
-huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 (2GB+16GB)
-huawei,HD65DESY,cn,华为, 华为智慧屏 SE 65 畅连通话版 (2GB+16GB)
-huawei,HD65DESZ,cn,华为, 华为智慧屏 SE 65 畅连通话版 (2GB+16GB)
+huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
+huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
+huawei,HD55DESY,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+huawei,HD55DESV,cn,华为, 华为智慧屏 SE 55 畅连通话版 4K (2GB+16GB)
+huawei,HD65DESA,cn,华为, 华为智慧屏 SE 65 (2GB+16GB)
+huawei,HD65DESZ,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P (2GB+16GB)
+huawei,HD65DESY,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+huawei,HD65DESV,cn,华为, 华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)
+huawei,HD75DESA,cn,华为, 华为智慧屏 SE 75 (2GB+16GB)
 huawei,U9500,cn,华为, 华为 Ascend D1
 huawei,U9500E,cn,华为, 华为 Ascend D1 XL
 huawei,U9510,cn,华为, 华为 Ascend D1 四核
