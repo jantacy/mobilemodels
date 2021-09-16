@@ -111,6 +111,7 @@ xiaomi,M2101K9R,cn,小米, 小米 11 Lite 5G 日本版
 xiaomi,M2101K9AG,cn,小米, 小米 11 Lite 4G 国际版
 xiaomi,M2101K9AI,cn,小米, 小米 11 Lite 4G 印度版
 xiaomi,2109119DG,cn,小米, Xiaomi 11 Lite 5G NE 国际版
+xiaomi,2109119DI,cn,小米, Xiaomi 11 Lite 5G NE 印度版
 xiaomi,M2012K11G,cn,小米, 小米 11i 国际版
 xiaomi,M2012K11AI,cn,小米, 小米 11X 印度版
 xiaomi,M2012K11I,cn,小米, 小米 11X Pro 印度版
@@ -3009,12 +3010,16 @@ mitv,L32M6-EI,en,小米电视, Mi TV 4A 32 Horizon
 mitv,L43M6-EI,en,小米电视, Mi TV 4A 43 Horizon
 mitv,L55M5-AI,en,小米电视, Mi LED Smart TV 4 55
 mitv,L55M5-AN,en,小米电视, Mi LED Smart TV 4 Pro 55
+mitv,L32M6-INC,en,小米电视, Mi TV 4C 32
 mitv,L32M5-AN,en,小米电视, Mi LED Smart TV 4C Pro 32
 mitv,L43M4-4AIN,en,小米电视, Mi TV 4X 43
 mitv,L50M5-5AIN,en,小米电视, Mi TV 4X 50
 mitv,L55M4-4XINA,en,小米电视, Mi LED Smart TV 4X Pro 55
 mitv,L55M5-5XIN,en,小米电视, Mi TV 4X 55
 mitv,L65M5-5SIN,en,小米电视, Mi TV 4X 65
+mitv,L43M6-ES,en,小米电视, Mi TV 5X 43
+mitv,L50M6-ES,en,小米电视, Mi TV 5X 50
+mitv,L55M6-ES,en,小米电视, Mi TV 5X 55
 mitv,L55M6-EQG,en,小米电视, Mi QLED TV Q1 4K 55
 mitv,L75M6-ESG,en,小米电视, Mi QLED TV Q1 75
 mitv,L50M6-RA,en,小米电视, Redmi Smart TV X50
@@ -3035,6 +3040,14 @@ mitv,L32M5-5ASP,en,小米电视, Mi TV 4A 32
 mitv,L43M5-5ASP,en,小米电视, Mi TV 4S 43
 mitv,L55M5-5ASP,en,小米电视, Mi TV 4S 55
 mitv,L65M5-5ASP,en,小米电视, Mi TV 4S 65
+mitv,L32M6-6AEU,en,小米电视, Mi TV P1 32
+mitv,L43M6-6AEU,en,小米电视, Mi TV P1 43
+mitv,L50M6-6AEU,en,小米电视, Mi TV P1 50
+mitv,L55M6-6AEU,en,小米电视, Mi TV P1 55
+mitv,L32M6-6ARG,en,小米电视, Mi TV P1 32
+mitv,L43M6-6ARG,en,小米电视, Mi TV P1 43
+mitv,L50M6-6ARG,en,小米电视, Mi TV P1 50
+mitv,L55M6-6ARG,en,小米电视, Mi TV P1 55
 mitv,L75M6-ESG,en,小米电视, Mi TV Q1 75
 mitv,MDZ-16-AB,en,小米电视, Mi Box
 mitv,MDZ-22-AB,en,小米电视, Mi Box S
@@ -3278,6 +3291,7 @@ xiaomi,M2101K9R,en,小米, Mi 11 Lite 5G Japan
 xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
 xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
 xiaomi,2109119DG,en,小米, Xiaomi 11 Lite 5G NE Global
+xiaomi,2109119DI,en,小米, Xiaomi 11 Lite 5G NE India
 xiaomi,M2012K11G,en,小米, Mi 11i Global
 xiaomi,M2012K11AI,en,小米, Mi 11X India
 xiaomi,M2012K11I,en,小米, Mi 11X Pro India
