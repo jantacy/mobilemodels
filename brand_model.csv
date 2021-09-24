@@ -561,12 +561,14 @@ realme,RMX2040,en,REALME, realme Narzo 10 India
 realme,RMX2020,en,REALME, realme Narzo 10A India
 realme,RMX2191,en,REALME, realme Narzo 20 Global
 realme,RMX2193,en,REALME, realme Narzo 20 India
-realme,RMX2161,en,REALME, realme Narzo 20 Pro India
-realme,RMX2050,en,REALME, realme Narzo 20A India
+realme,RMX2161,en,REALME, realme Narzo 20 Pro
+realme,RMX2050,en,REALME, realme Narzo 20A
 realme,RMX2156,en,REALME, realme Narzo 30 4G
 realme,RMX3242,en,REALME, realme Narzo 30 5G
-realme,RMX2117,en,REALME, realme Narzo 30 Pro 5G India
-realme,RMX3171,en,REALME, realme Narzo 30A India
+realme,RMX2117,en,REALME, realme Narzo 30 Pro 5G
+realme,RMX3171,en,REALME, realme Narzo 30A
+realme,RMX3430,en,REALME, realme Narzo 50A
+realme,RMX3231,en,REALME, realme Narzo 50i
 realme,RMX2202,en,REALME, realme GT 5G
 realme,RMX3360,en,REALME, realme GT Master Edition
 realme,RMP2102,en,REALME, realme Pad
@@ -2185,45 +2187,65 @@ apple,A2099,en,苹果, iPhone XS (China Mobile)
 apple,A1921,en,苹果, iPhone XS Max (North America)
 apple,A2101,en,苹果, iPhone XS Max (GSM)
 apple,A2102,en,苹果, iPhone XS Max (Japan)
-apple,A2104,en,苹果, iPhone XS Max (Dual nano-SIMs)
+apple,A2104,en,苹果," iPhone XS Max (China mainland, Hong Kong, Macao)"
 apple,A2103,en,苹果, iPhone XS Max (China Mobile)
 apple,A1984,en,苹果, iPhone XR (North America)
 apple,A2105,en,苹果, iPhone XR (GSM)
 apple,A2106,en,苹果, iPhone XR (Japan)
-apple,A2108,en,苹果, iPhone XR (Dual nano-SIMs)
+apple,A2108,en,苹果," iPhone XR (China mainland, Hong Kong, Macao)"
 apple,A2107,en,苹果, iPhone XR (China Mobile)
 apple,A2111,en,苹果, iPhone 11 (North America)
-apple,A2223,en,苹果, iPhone 11 (Dual nano-SIMs)
-apple,A2221,en,苹果, iPhone 11 (Rest of the world)
+apple,A2223,en,苹果," iPhone 11 (China mainland, Hong Kong, Macao)"
 apple,A2222,en,苹果, iPhone 11 (China Mobile)
+apple,A2221,en,苹果, iPhone 11 (Rest of the world)
 apple,A2160,en,苹果, iPhone 11 Pro (North America)
-apple,A2217,en,苹果, iPhone 11 Pro (Dual nano-SIMs)
-apple,A2215,en,苹果, iPhone 11 Pro (Rest of the world)
+apple,A2217,en,苹果," iPhone 11 Pro (China mainland, Hong Kong, Macao)"
 apple,A2216,en,苹果, iPhone 11 Pro (China Mobile)
+apple,A2215,en,苹果, iPhone 11 Pro (Rest of the world)
 apple,A2161,en,苹果, iPhone 11 Pro Max (North America)
-apple,A2220,en,苹果, iPhone 11 Pro Max (Dual nano-SIMs)
-apple,A2218,en,苹果, iPhone 11 Pro Max (Rest of the world)
+apple,A2220,en,苹果," iPhone 11 Pro Max (China mainland, Hong Kong, Macao)"
 apple,A2219,en,苹果, iPhone 11 Pro Max (China Mobile)
+apple,A2218,en,苹果, iPhone 11 Pro Max (Rest of the world)
 apple,A2275,en,苹果, iPhone SE (2nd generation) (North America)
-apple,A2296,en,苹果, iPhone SE (2nd generation) (Rest of the world)
 apple,A2298,en,苹果, iPhone SE (2nd generation) (China mainland)
 apple,A2297,en,苹果, iPhone SE (2nd generation) (China Mobile)
+apple,A2296,en,苹果, iPhone SE (2nd generation) (Rest of the world)
 apple,A2176,en,苹果, iPhone 12 mini (United States)
 apple,A2398,en,苹果," iPhone 12 mini (Canada, Japan)"
-apple,A2399,en,苹果, iPhone 12 mini (Rest of the world)
 apple,A2400,en,苹果, iPhone 12 mini (China mainland)
+apple,A2399,en,苹果, iPhone 12 mini (Rest of the world)
 apple,A2172,en,苹果, iPhone 12 (United States)
 apple,A2402,en,苹果," iPhone 12 (Canada, Japan)"
+apple,A2404,en,苹果," iPhone 12 (China mainland, Hong Kong, Macao)"
 apple,A2403,en,苹果, iPhone 12 (Rest of the world)
-apple,A2404,en,苹果, iPhone 12 (Dual nano-SIMs)
 apple,A2341,en,苹果, iPhone 12 Pro (United States)
 apple,A2406,en,苹果," iPhone 12 Pro (Canada, Japan)"
+apple,A2408,en,苹果," iPhone 12 Pro (China mainland, Hong Kong, Macao)"
 apple,A2407,en,苹果, iPhone 12 Pro (Rest of the world)
-apple,A2408,en,苹果, iPhone 12 Pro (Dual nano-SIMs)
 apple,A2342,en,苹果, iPhone 12 Pro Max (United States)
 apple,A2410,en,苹果," iPhone 12 Pro Max (Canada, Japan)"
+apple,A2412,en,苹果," iPhone 12 Pro Max (China mainland, Hong Kong, Macao)"
 apple,A2411,en,苹果, iPhone 12 Pro Max (Rest of the world)
-apple,A2412,en,苹果, iPhone 12 Pro Max (Dual nano-SIMs)
+apple,A2481,en,苹果, iPhone 13 mini (United States)
+apple,A2626,en,苹果," iPhone 13 mini (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2629,en,苹果, iPhone 13 mini (China mainland)
+apple,A2630,en,苹果," iPhone 13 mini (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2628,en,苹果, iPhone 13 mini (Rest of the world)
+apple,A2482,en,苹果, iPhone 13 (United States)
+apple,A2631,en,苹果," iPhone 13 (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2634,en,苹果," iPhone 13 (China mainland, Hong Kong, Macao)"
+apple,A2635,en,苹果," iPhone 13 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2633,en,苹果, iPhone 13 (Rest of the world)
+apple,A2483,en,苹果, iPhone 13 Pro (United States)
+apple,A2636,en,苹果," iPhone 13 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2639,en,苹果," iPhone 13 Pro (China mainland, Hong Kong, Macao)"
+apple,A2640,en,苹果," iPhone 13 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2638,en,苹果, iPhone 13 Pro (Rest of the world)
+apple,A2484,en,苹果, iPhone 13 Pro Max (United States)
+apple,A2641,en,苹果," iPhone 13 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2644,en,苹果," iPhone 13 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A2645,en,苹果," iPhone 13 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2643,en,苹果, iPhone 13 Pro Max (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -2246,6 +2268,10 @@ apple,A2270,en,苹果, iPad (8th generation) Wi-Fi
 apple,A2428,en,苹果, iPad (8th generation) Wi-Fi + Cellular
 apple,A2429,en,苹果, iPad (8th generation) Wi-Fi + Cellular
 apple,A2430,en,苹果, iPad (8th generation) Wi-Fi + Cellular (China mainland)
+apple,A2602,en,苹果, iPad (9th generation) Wi-Fi
+apple,A2603,en,苹果, iPad (9th generation) Wi-Fi + Cellular
+apple,A2604,en,苹果, iPad (9th generation) Wi-Fi + Cellular
+apple,A2605,en,苹果, iPad (9th generation) Wi-Fi + Cellular (China mainland)
 apple,A1474,en,苹果, iPad Air Wi-Fi
 apple,A1475,en,苹果, iPad Air Wi-Fi + Cellular
 apple,A1476,en,苹果, iPad Air Wi-Fi + Cellular (TD-LTE)
@@ -2311,6 +2337,9 @@ apple,A2133,en,苹果, iPad mini (5th generation) Wi-Fi
 apple,A2124,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
 apple,A2126,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
 apple,A2125,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular (China mainland)
+apple,A2567,en,苹果, iPad mini (6th generation) Wi-Fi
+apple,A2568,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular
+apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
 apple,A1553,en,苹果," Apple Watch (1st generation, 38mm case)"
 apple,A1554,en,苹果," Apple Watch (1st generation, 42mm case)"
 apple,A1802,en,苹果, Apple Watch Series 1 (38mm case)
@@ -2592,6 +2621,10 @@ apple,A2400,cn,苹果, iPhone 12 mini (国行)
 apple,A2404,cn,苹果, iPhone 12 (国行)
 apple,A2408,cn,苹果, iPhone 12 Pro (国行)
 apple,A2412,cn,苹果, iPhone 12 Pro Max (国行)
+apple,A2629,cn,苹果, iPhone 13 mini (国行)
+apple,A2634,cn,苹果, iPhone 13 (国行)
+apple,A2639,cn,苹果, iPhone 13 Pro (国行)
+apple,A2644,cn,苹果, iPhone 13 Pro Max (国行)
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -2610,6 +2643,8 @@ apple,A2197,cn,苹果, iPad (第 7 代) (无线局域网)
 apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行)
 apple,A2270,cn,苹果, iPad (第 8 代) (无线局域网)
 apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行)
+apple,A2602,cn,苹果, iPad (第 9 代) (无线局域网)
+apple,A2605,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) (国行)
 apple,A1474,cn,苹果, iPad Air (无线局域网)
 apple,A1475,cn,苹果, iPad Air (无线局域网 + 蜂窝网络)
 apple,A1476,cn,苹果, iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)
@@ -2659,6 +2694,8 @@ apple,A1538,cn,苹果, iPad mini 4 (无线局域网)
 apple,A1550,cn,苹果, iPad mini 4 (无线局域网 + 蜂窝网络)
 apple,A2133,cn,苹果, iPad mini (第 5 代) (无线局域网)
 apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (国行)
+apple,A2567,cn,苹果, iPad mini (第 6 代) (无线局域网)
+apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (国行)
 apple,A1553,cn,苹果," Apple Watch (第 1 代, 38 毫米表壳)"
 apple,A1554,cn,苹果," Apple Watch (第 1 代, 42 毫米表壳)"
 apple,A1802,cn,苹果, Apple Watch Series 1 (38 毫米表壳)
@@ -2749,10 +2786,28 @@ apple,A2407,cn,苹果, iPhone 12 Pro (其他国家和地区)
 apple,A2342,cn,苹果, iPhone 12 Pro Max (美国)
 apple,A2410,cn,苹果, iPhone 12 Pro Max (加拿大，日本)
 apple,A2411,cn,苹果, iPhone 12 Pro Max (其他国家和地区)
+apple,A2481,cn,苹果, iPhone 13 mini (美国)
+apple,A2626,cn,苹果," iPhone 13 mini (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2630,cn,苹果," iPhone 13 mini (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2628,cn,苹果, iPhone 13 mini (其他国家和地区)
+apple,A2482,cn,苹果, iPhone 13 (美国)
+apple,A2631,cn,苹果," iPhone 13 (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2635,cn,苹果," iPhone 13 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2633,cn,苹果, iPhone 13 (其他国家和地区)
+apple,A2483,cn,苹果, iPhone 13 Pro (美国)
+apple,A2636,cn,苹果," iPhone 13 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2640,cn,苹果," iPhone 13 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2638,cn,苹果, iPhone 13 Pro (其他国家和地区)
+apple,A2484,cn,苹果, iPhone 13 Pro Max (美国)
+apple,A2641,cn,苹果," iPhone 13 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2645,cn,苹果," iPhone 13 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2643,cn,苹果, iPhone 13 Pro Max (其他国家和地区)
 apple,A1403,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
 apple,A1459,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络)
 apple,A2428,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
 apple,A2429,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
+apple,A2603,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络)
+apple,A2604,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络)
 apple,A2123,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
 apple,A2153,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
 apple,A1674,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络)
@@ -2769,6 +2824,7 @@ apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂
 apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A2124,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2126,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
+apple,A2568,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
 apple,A1860,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (北美)
 apple,A1889,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (欧亚)
 apple,A1861,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (北美)
@@ -2803,6 +2859,7 @@ realme,RMX2111,cn,REALME, 真我 V5 5G 全网通版
 realme,RMX2112,cn,REALME, 真我 V5 5G 运营商定制版
 realme,RMX3121,cn,REALME, 真我 V11 5G 全网通版
 realme,RMX3122,cn,REALME, 真我 V11 5G 运营商定制版
+realme,RMX3125,cn,REALME, 真我 V11s 5G 全网通版
 realme,RMX3041,cn,REALME, 真我 V13 5G 全网通版
 realme,RMX3043,cn,REALME, 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, 真我 V15 5G 全网通版
