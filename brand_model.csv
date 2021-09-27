@@ -111,7 +111,7 @@ xiaomi,M2101K9R,cn,小米, 小米 11 Lite 5G 日本版
 xiaomi,M2101K9AG,cn,小米, 小米 11 Lite 4G 国际版
 xiaomi,M2101K9AI,cn,小米, 小米 11 Lite 4G 印度版
 xiaomi,2109119DG,cn,小米, Xiaomi 11 Lite 5G NE 国际版
-xiaomi,2109119DI,cn,小米, Xiaomi 11 Lite 5G NE 印度版
+xiaomi,2109119DI,cn,小米, Xiaomi 11 Lite NE 印度版
 xiaomi,M2012K11G,cn,小米, 小米 11i 国际版
 xiaomi,M2012K11AI,cn,小米, 小米 11X 印度版
 xiaomi,M2012K11I,cn,小米, 小米 11X Pro 印度版
@@ -160,6 +160,7 @@ xiaomi,M1904F3BC,cn,小米, 小米 CC9 全网通版
 xiaomi,M1904F3BT,cn,小米, 小米 CC9 美图定制版
 xiaomi,M1906F9SC,cn,小米, 小米 CC9e 全网通版
 xiaomi,M1910F4E,cn,小米, 小米 CC9 Pro 全网通版
+xiaomi,2109119BC,cn,小米, Xiaomi Civi 全网通版
 xiaomi,M1901F9E,cn,小米, 小米 Play 全网通版
 xiaomi,M1901F9T,cn,小米, 小米 Play 移动 4G+ 版
 xiaomi,MDG2,cn,小米, 小米 A1 国际版
@@ -458,9 +459,9 @@ xiaomi,KLE-H0,cn,小米, 黑鲨游戏手机 3 国际版
 xiaomi,MBU-A0,cn,小米, 腾讯黑鲨游戏手机 3 Pro 全网通版
 xiaomi,MBU-H0,cn,小米, 黑鲨游戏手机 3 Pro 国际版
 xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
-xiaomi,PRS-A0,cn,小米, 黑鲨游戏手机 4 全网通版
-xiaomi,PRS-H0,cn,小米, 黑鲨游戏手机 4 国际版
-xiaomi,KSR-A0,cn,小米, 黑鲨游戏手机 4 Pro 全网通版
+xiaomi,PRS-A0,cn,小米, 黑鲨 4 全网通版
+xiaomi,PRS-H0,cn,小米, 黑鲨 4 国际版
+xiaomi,KSR-A0,cn,小米, 黑鲨 4 Pro 全网通版
 xiaomi,XMWT01,cn,小米, 小米手表
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
 realme,CPH1859,en,REALME, realme 1
@@ -3368,7 +3369,7 @@ xiaomi,M2101K9R,en,小米, Mi 11 Lite 5G Japan
 xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
 xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
 xiaomi,2109119DG,en,小米, Xiaomi 11 Lite 5G NE Global
-xiaomi,2109119DI,en,小米, Xiaomi 11 Lite 5G NE India
+xiaomi,2109119DI,en,小米, Xiaomi 11 Lite NE India
 xiaomi,M2012K11G,en,小米, Mi 11i Global
 xiaomi,M2012K11AI,en,小米, Mi 11X India
 xiaomi,M2012K11I,en,小米, Mi 11X Pro India
@@ -3417,6 +3418,7 @@ xiaomi,M1904F3BC,en,小米, Mi CC 9 China
 xiaomi,M1904F3BT,en,小米, Mi CC 9 Meitu Edition China
 xiaomi,M1906F9SC,en,小米, Mi CC 9e China
 xiaomi,M1910F4E,en,小米, Mi CC 9 Pro China
+xiaomi,2109119BC,en,小米, Xiaomi Civi China
 xiaomi,M1901F9E,en,小米, Mi Play
 xiaomi,M1901F9T,en,小米, Mi Play China Mobile
 xiaomi,MDG2,en,小米, Mi A1 Global
