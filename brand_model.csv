@@ -111,7 +111,7 @@ xiaomi,M2101K9R,cn,小米, 小米 11 Lite 5G 日本版
 xiaomi,M2101K9AG,cn,小米, 小米 11 Lite 4G 国际版
 xiaomi,M2101K9AI,cn,小米, 小米 11 Lite 4G 印度版
 xiaomi,2109119DG,cn,小米, Xiaomi 11 Lite 5G NE 国际版
-xiaomi,2109119DI,cn,小米, Xiaomi 11 Lite NE 印度版
+xiaomi,2109119DI,cn,小米, Xiaomi 11 Lite NE 5G 印度版
 xiaomi,M2012K11G,cn,小米, 小米 11i 国际版
 xiaomi,M2012K11AI,cn,小米, 小米 11X 印度版
 xiaomi,M2012K11I,cn,小米, 小米 11X Pro 印度版
@@ -278,12 +278,12 @@ xiaomi,M2004J19AG,cn,小米, Redmi 9 国际版 (NFC)
 xiaomi,M2006C3LC,cn,小米, Redmi 9A 全网通版
 xiaomi,M2006C3LG,cn,小米, Redmi 9A 国际版
 xiaomi,M2006C3LVG,cn,小米, Redmi 9AT 国际版
-xiaomi,M2006C3LI,cn,小米, Redmi 9A 印度版
-xiaomi,M2006C3LII,cn,小米, Redmi 9i 印度版
+xiaomi,M2006C3LI,cn,小米, Redmi 9A / Redmi 9A Sport 印度版
+xiaomi,M2006C3LII,cn,小米, Redmi 9i / Redmi 9i Sport 印度版
 xiaomi,M2006C3MG,cn,小米, Redmi 9C 国际版
 xiaomi,M2006C3MT,cn,小米, Redmi 9C 泰国版
 xiaomi,M2006C3MNG,cn,小米, Redmi 9C NFC 国际版
-xiaomi,M2006C3MII,cn,小米, Redmi 9 印度版
+xiaomi,M2006C3MII,cn,小米, Redmi 9 / Redmi 9 Activ 印度版
 xiaomi,M2010J19SG,cn,小米, Redmi 9T 国际版
 xiaomi,M2010J19SI,cn,小米, Redmi 9 Power 印度版
 xiaomi,M2010J19SR,cn,小米, Redmi 9T 日本版
@@ -3369,7 +3369,7 @@ xiaomi,M2101K9R,en,小米, Mi 11 Lite 5G Japan
 xiaomi,M2101K9AG,en,小米, Mi 11 Lite 4G Global
 xiaomi,M2101K9AI,en,小米, Mi 11 Lite 4G India
 xiaomi,2109119DG,en,小米, Xiaomi 11 Lite 5G NE Global
-xiaomi,2109119DI,en,小米, Xiaomi 11 Lite NE India
+xiaomi,2109119DI,en,小米, Xiaomi 11 Lite NE 5G India
 xiaomi,M2012K11G,en,小米, Mi 11i Global
 xiaomi,M2012K11AI,en,小米, Mi 11X India
 xiaomi,M2012K11I,en,小米, Mi 11X Pro India
@@ -3535,13 +3535,13 @@ xiaomi,M2004J19C,en,小米, Redmi 9 China
 xiaomi,M2004J19AG,en,小米, Redmi 9 Global (NFC)
 xiaomi,M2006C3LG,en,小米, Redmi 9A Global
 xiaomi,M2006C3LVG,en,小米, Redmi 9AT Global
-xiaomi,M2006C3LI,en,小米, Redmi 9A India
-xiaomi,M2006C3LII,en,小米, Redmi 9i India
+xiaomi,M2006C3LI,en,小米, Redmi 9A / Redmi 9A Sport India
+xiaomi,M2006C3LII,en,小米, Redmi 9i / Redmi 9i Sport India
 xiaomi,M2006C3LC,en,小米, Redmi 9A China
 xiaomi,M2006C3MG,en,小米, Redmi 9C Global
 xiaomi,M2006C3MT,en,小米, Redmi 9C Thailand
 xiaomi,M2006C3MNG,en,小米, Redmi 9C NFC Global
-xiaomi,M2006C3MII,en,小米, Redmi 9 India
+xiaomi,M2006C3MII,en,小米, Redmi 9 / Redmi 9 Activ India
 xiaomi,M2010J19SG,en,小米, Redmi 9T Global
 xiaomi,M2010J19SI,en,小米, Redmi 9 Power India
 xiaomi,M2010J19SR,en,小米, Redmi 9T Japan
