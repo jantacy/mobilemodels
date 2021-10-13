@@ -464,6 +464,8 @@ xiaomi,KLE-A0,cn,小米, 腾讯黑鲨游戏手机 3S 全网通版
 xiaomi,PRS-A0,cn,小米, 黑鲨 4 全网通版
 xiaomi,PRS-H0,cn,小米, 黑鲨 4 国际版
 xiaomi,KSR-A0,cn,小米, 黑鲨 4 Pro 全网通版
+xiaomi,PRS-A0,cn,小米, 黑鲨 4S 全网通版
+xiaomi,KSR-A0,cn,小米, 黑鲨 4S Pro 全网通版
 xiaomi,XMWT01,cn,小米, 小米手表
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
 realme,CPH1859,en,REALME, realme 1
@@ -893,7 +895,7 @@ honor,TEL-TN10,cn,荣耀, 荣耀 X10 5G 移动定制版
 honor,KKG-AN00,cn,荣耀, 荣耀 X10 Max 5G 全网通版
 honor,NTN-AN20,cn,荣耀, 荣耀 X20 5G 全网通版
 honor,CHL-AN00,cn,荣耀, 荣耀 X20 SE 5G 全网通版
-honor,KKG-AN70,cn,荣耀, 荣耀 X20 Max 5G 全网通版
+honor,KKG-AN70,cn,荣耀, 荣耀 X30 Max 5G 全网通版
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
 honor,JMM-TL00,cn,荣耀, 荣耀 V9 Play 移动定制标配版
@@ -3728,6 +3730,8 @@ xiaomi,KLE-A0,en,小米, Black Shark 3S China
 xiaomi,PRS-H0,en,小米, Black Shark 4 Global
 xiaomi,PRS-A0,en,小米, Black Shark 4 China
 xiaomi,KSR-A0,en,小米, Black Shark 4 Pro China
+xiaomi,PRS-A0,en,小米, Black Shark 4S China
+xiaomi,KSR-A0,en,小米, Black Shark 4S Pro China
 xiaomi,XMWT01,en,小米, Mi Watch
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
