@@ -19,6 +19,7 @@ class PhoneModel:
         repo = Repo(repo_path)
         repo.remotes.origin.pull()
         self.new_commit = repo.head.commit.hexsha
+        print("MobileModels latest commit: " + str(self.new_commit))
         # 获取所有的品牌名
         self.brands = [brand for brand in os.listdir(os.path.join(repo_path, 'brands')) if brand.endswith('md')]
 
