@@ -20,9 +20,18 @@ jobs:
     - name: Install gitpython
       run: |
         pip install gitpython
+    - name: Update MobileModels
+      run: |
+        cd MobileModels
+        git pull
+        git log
+        cd ..
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
+        python phoneModel.py
+        git status
+        git diff
 #    - name: Delete secrets config #删除机密
 #      run: |
 #        rm -f 2.py
