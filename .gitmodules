@@ -1,0 +1,3 @@
+[submodule "MobileModels"]
+	path = MobileModels
+	url = git@github.com:KHwang9883/MobileModels.git
