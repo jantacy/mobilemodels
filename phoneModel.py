@@ -24,8 +24,8 @@ class PhoneModel:
 
     def get_model(self, brand):
         """读取原始数据"""
-        with open(os.path.join(repo_path, 'brands', brand), 'rt') as file:
-            brand_info = file.read()
+        with open(os.path.join(repo_path, 'brands', brand), 'rt') as f:
+            brand_info = f.read()
         brand_info_list = [item for item in brand_info.split('\n') if re.match('`.+: ', item) is not None]
 
         model_df = pd.DataFrame(columns=['brand', 'model', 'area', 'brand_name', 'model_name'])
@@ -57,8 +57,8 @@ class PhoneModel:
         project_path = os.path.dirname(os.path.realpath(__file__))
         self.brand_model.to_csv(os.path.join(project_path, 'brand_model.csv'), index=False, encoding='utf-8-sig')
         # 保存新的commit值
-        with open(os.path.join(repo_path, 'commit.log'), 'wt') as file:
-            file.write(self.new_commit)
+        with open('sync.log', 'wt') as f:
+            f.write(self.new_commit)
 
 
 if __name__ == '__main__':
@@ -73,8 +73,8 @@ if __name__ == '__main__':
                  '360shouji': '奇酷', 'nubia': '努比亚'}
 
     try:
-        with open(os.path.join(repo_path, 'commit.log'), 'rt') as file:
-            last_commit = file.readline()
+        with open('sync.log', 'rt') as f:
+            last_commit = f.readline()
     except FileNotFoundError:
         last_commit = ''
 
@@ -82,3 +82,5 @@ if __name__ == '__main__':
     if pm.new_commit != last_commit:
         pm.get_all()
         pm.data_save()
+    else:
+        print("No update, skip.")
