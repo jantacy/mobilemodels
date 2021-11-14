@@ -22,9 +22,9 @@ jobs:
         pip install -r requirements.txt
     - name: Update MobileModels
       run: |
+        git submodule update --init --recursive
         cd MobileModels
         ls
-        git pull
         git log
         cd ..
     - name: Run
