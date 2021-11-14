@@ -34,7 +34,7 @@ jobs:
         python phoneModel.py
         git status
 #        git diff
-    - name: Commit # 提交更新，fork后请自行修改user信息
+    - name: Commit # 提交更新, fork后请自行修改user信息
       run: |
         git config --global user.email zhyi828@163.com
         git config --global user.name zhyi828
