@@ -64,7 +64,7 @@ class PhoneModel:
 if __name__ == '__main__':
     # repo_path = os.path.join(os.path.expanduser('~'), 'MobileModels')
     repo_path = './MobileModels/'
-    repo_address = 'https://github.com/KHwang9883/MobileModels.git'
+    # repo_address = 'https://github.com/KHwang9883/MobileModels.git'
 
     brand_map = {'meizu': '魅族', 'smartisan': '锤子', 'vivo': 'VIVO', 'realme': 'REALME',
                  'xiaomi': '小米', 'apple': '苹果', 'oppo': 'OPPO', 'nokia': '诺基亚',
