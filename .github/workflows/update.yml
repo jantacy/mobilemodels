@@ -12,7 +12,7 @@ jobs:
     if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
     - name: Checkout repository and submodules
-      uses: actions/checkout@master
+      uses: actions/checkout@v2
       with:
         submodules: recursive
     - name: Set up Python #安装python
@@ -33,19 +33,14 @@ jobs:
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
         python phoneModel.py
         git status
-        git diff
-#    - name: Delete secrets config #删除机密
-#      run: |
-#        rm -f 2.py
-#        rm -f configid.txt
-#        rm -f configkey.txt
-#    - name: Commit #上传新的refresh_token到仓库
-#      run: |
-#        git config --global user.email admin@nange.cn
-#        git config --global user.name 翠花
-#        git add .
-#        git commit -m "update new refresh_token" -a
-#    - name: Push changes
-#      uses: ad-m/github-push-action@master
-#      with:
-#        github_token: ${{ secrets.GITHUB_TOKEN }}
+#        git diff
+    - name: Commit # 提交更新，fork后请自行修改user信息
+      run: |
+        git config --global user.email zhyi828_bot@test.com
+        git config --global user.name zhyi828_bot
+        git add .
+        git commit -m "Sync with MobileModels" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }} # fork后自行配置GITHUB_TOKEN
