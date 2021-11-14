@@ -36,8 +36,8 @@ jobs:
 #        git diff
     - name: Commit # 提交更新，fork后请自行修改user信息
       run: |
-        git config --global user.email zhyi828_bot@test.com
-        git config --global user.name zhyi828_bot
+        git config --global user.email zhyi828@163.com
+        git config --global user.name zhyi828
         git add .
         git commit -m "Sync with MobileModels" -a
     - name: Push changes
