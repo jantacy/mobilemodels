@@ -1,0 +1,38 @@
+---
+name: Sync with MobileModels
+on:
+  schedule:
+    - cron: '43 10 * * *'
+
+jobs:
+   Task:
+    runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: Set up Python #安装python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install gitpython
+      run: |
+        pip install gitpython
+    - name: Run
+      run: |
+        echo `date +"%Y-%m-%d %H:%M:%S"` begin
+#    - name: Delete secrets config #删除机密
+#      run: |
+#        rm -f 2.py
+#        rm -f configid.txt
+#        rm -f configkey.txt
+#    - name: Commit #上传新的refresh_token到仓库
+#      run: |
+#        git config --global user.email admin@nange.cn
+#        git config --global user.name 翠花
+#        git add .
+#        git commit -m "update new refresh_token" -a
+#    - name: Push changes
+#      uses: ad-m/github-push-action@master
+#      with:
+#        github_token: ${{ secrets.GITHUB_TOKEN }}
