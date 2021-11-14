@@ -16,6 +16,7 @@ class PhoneModel:
         # if origin == 0:  # 拉取仓库
         #     repo = Repo.clone_from(repo_address, repo_path)
         # else:  # 拉取最新数据
+        print(repo_path)
         repo = Repo(repo_path)
         repo.remotes.origin.pull()
         self.new_commit = repo.head.commit.hexsha
