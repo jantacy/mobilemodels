@@ -23,6 +23,7 @@ jobs:
     - name: Update MobileModels
       run: |
         cd MobileModels
+        ls
         git pull
         git log
         cd ..
