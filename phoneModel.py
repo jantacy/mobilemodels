@@ -16,11 +16,11 @@ class PhoneModel:
         # if origin == 0:  # 拉取仓库
         #     repo = Repo.clone_from(repo_address, repo_path)
         # else:  # 拉取最新数据
-        print(repo_path)
         repo = Repo(repo_path)
         repo.remotes.origin.pull()
         self.new_commit = repo.head.commit.hexsha
         print("MobileModels latest commit: " + str(self.new_commit))
+        os.environ["LATEST_COMMIT"] = self.new_commit
         # 获取所有的品牌名
         self.brands = [brand for brand in os.listdir(os.path.join(repo_path, 'brands')) if brand.endswith('md')]
 

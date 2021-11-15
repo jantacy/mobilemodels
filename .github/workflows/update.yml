@@ -28,6 +28,7 @@ jobs:
         cd MobileModels
         ls
         git log
+        LATEST_COMMIT=`git log -1 --format="%H"`
         cd ..
     - name: Run
       run: |
@@ -40,7 +41,7 @@ jobs:
         git config --global user.email zhyi828@163.com
         git config --global user.name zhyi828
         git add .
-        git diff-index --quiet HEAD || git commit -m "Sync with MobileModels" -a
+        git diff-index --quiet HEAD || git commit -m "Sync with MobileModels ${LATEST_COMMIT}" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
