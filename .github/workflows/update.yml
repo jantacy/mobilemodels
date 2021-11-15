@@ -40,7 +40,7 @@ jobs:
         git config --global user.email zhyi828@163.com
         git config --global user.name zhyi828
         git add .
-        git commit -m "Sync with MobileModels" -a
+        git diff-index --quiet HEAD || git commit -m "Sync with MobileModels" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
