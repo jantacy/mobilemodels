@@ -33,7 +33,6 @@ jobs:
     - name: Run
       run: |
         echo `date +"%Y-%m-%d %H:%M:%S"` begin
-        git config pull.rebase false
         python phoneModel.py
         git status
 #        git diff
