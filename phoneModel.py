@@ -17,7 +17,7 @@ class PhoneModel:
         #     repo = Repo.clone_from(repo_address, repo_path)
         # else:  # 拉取最新数据
         repo = Repo(repo_path)
-        repo.remotes.origin.pull("--no-rebase")
+        repo.remotes.origin.pull()
         self.new_commit = repo.head.commit.hexsha
         print("MobileModels latest commit: " + str(self.new_commit))
         os.environ["LATEST_COMMIT"] = self.new_commit
