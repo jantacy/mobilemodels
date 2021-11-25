@@ -33,7 +33,7 @@ jobs:
         cd MobileModels
         ls
         git log
-        LATEST_COMMIT=`git log -1 --format="%H"`
+        export LATEST_COMMIT=`git log -1 --format="%H"`
         cd ..
     - name: Run
       run: |
