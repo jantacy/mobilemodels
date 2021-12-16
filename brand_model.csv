@@ -126,9 +126,11 @@ samsung,SM-A7070,cn,三星, Galaxy A70s
 samsung,SM-A8050,cn,三星, Galaxy A80
 samsung,SM-A9080,cn,三星, Galaxy A90 5G
 samsung,SM-A5160,cn,三星, Galaxy A51 5G
+samsung,SM-A715F,cn,三星, Galaxy A71 
 samsung,SM-A7160,cn,三星, Galaxy A71 5G
 samsung,SM-A5260,cn,三星, Galaxy A52 5G
 samsung,SM-E5260,cn,三星, Galaxy F52 5G
+samsung,SM-M115F,cn,三星, Galaxy M11
 samsung,SM-M3070,cn,三星, Galaxy M30s
 samsung,SM-C5000,cn,三星, Galaxy C5
 samsung,SM-C5010,cn,三星, Galaxy C5 Pro 全网通版
@@ -3194,6 +3196,7 @@ honor,TEL-TN10,cn,荣耀, 荣耀 X10 5G 移动定制版
 honor,KKG-AN00,cn,荣耀, 荣耀 X10 Max 5G 全网通版
 honor,NTN-AN20,cn,荣耀, 荣耀 X20 5G 全网通版
 honor,CHL-AN00,cn,荣耀, 荣耀 X20 SE 5G 全网通版
+honor,ANY-AN00,cn,荣耀, 荣耀 X30 5G 全网通版
 honor,TFY-AN00,cn,荣耀, 荣耀 X30i 5G 全网通版
 honor,KKG-AN70,cn,荣耀, 荣耀 X30 Max 5G 全网通版
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
@@ -3277,6 +3280,7 @@ honor,KSA-AL00,cn,荣耀, 荣耀畅玩 8 全网通版
 honor,KSA-TL00,cn,荣耀, 荣耀畅玩 8 移动 4G+ 版
 honor,KOZ-AL00,cn,荣耀, 荣耀畅玩 20 全网通版
 honor,HJC-LX9,cn,荣耀, 荣耀畅玩 20 Pro 全网通版
+honor,CMA-AN00,cn,荣耀, 荣耀畅玩 30 Plus 5G 全网通版
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
 honor,T1-821w,cn,荣耀, 荣耀平板优享版
