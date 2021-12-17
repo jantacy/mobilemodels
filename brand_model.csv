@@ -387,8 +387,8 @@ huawei,SPN-AL00,cn,华为, HUAWEI nova 5i Pro 全网通版
 huawei,SPN-TL00,cn,华为, HUAWEI nova 5i Pro 移动 4G+ 版
 huawei,SPN-AL00,cn,华为, HUAWEI nova 5z 全网通版
 huawei,SPN-TL00,cn,华为, HUAWEI nova 5z 移动 4G+ 版
-huawei,WLZ-AN00,cn,华为, HUAWEI nova 6 5G 全网通版
 huawei,WLZ-AL10,cn,华为, HUAWEI nova 6 4G 全网通版
+huawei,WLZ-AN00,cn,华为, HUAWEI nova 6 5G 全网通版
 huawei,JNY-AL10,cn,华为, HUAWEI nova 6 SE 全网通版
 huawei,JNY-TL10,cn,华为, HUAWEI nova 6 SE 移动全网通版
 huawei,JEF-AN00,cn,华为, HUAWEI nova 7 5G 全网通版
@@ -631,6 +631,8 @@ huawei,NbD-WFH9,cn,华为, HUAWEI MateBook D 14 (2021) i5
 huawei,NbD-WFE9,cn,华为, HUAWEI MateBook D 14 (2021) i7
 huawei,NbM-WFQ9,cn,华为, HUAWEI MateBook D 14 (2021) R5
 huawei,NbM-WFP9,cn,华为, HUAWEI MateBook D 14 (2021) R7
+huawei,NbDE-WFH9,cn,华为, HUAWEI MateBook D 14 (2022) i5
+huawei,NbDE-WFE9,cn,华为, HUAWEI MateBook D 14 (2022) i7
 huawei,Boh-WAQ9R,cn,华为, HUAWEI MateBook D 15 R5 (8GB+512GB)
 huawei,Boh-WAQ9RP,cn,华为, HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
 huawei,Boh-WAQ9L,cn,华为, HUAWEI MateBook D 15 R5 Linux 版
@@ -643,6 +645,8 @@ huawei,BoD-WFH9,cn,华为, HUAWEI MateBook D 15 (2021) i5
 huawei,BoD-WFE9,cn,华为, HUAWEI MateBook D 15 (2021) i7
 huawei,BoM-WFQ9,cn,华为, HUAWEI MateBook D 15 (2021) R5
 huawei,BoM-WFP9,cn,华为, HUAWEI MateBook D 15 (2021) R7
+huawei,BoDE-WFH9,cn,华为, HUAWEI MateBook D 15 (2022) i5
+huawei,BoDE-WFE9,cn,华为, HUAWEI MateBook D 15 (2022) i7
 huawei,BL-W09,cn,华为, HUAWEI MateBook E i3
 huawei,BL-W19,cn,华为, HUAWEI MateBook E i5
 huawei,PAK-AL09,cn,华为, HUAWEI MateBook E (2019)
@@ -3073,6 +3077,7 @@ honor,PLK-TL00,cn,荣耀, 荣耀 7 移动定制版
 honor,PLK-TL11H,cn,荣耀, 荣耀 7 移动增强版
 honor,PLK-UL00,cn,荣耀, 荣耀 7 双 4G 版
 honor,PLK-CL00,cn,荣耀, 荣耀 7 电信版
+honor,ATH-AL00,cn,荣耀, 荣耀 7i 全网通版
 honor,ATH-TL00H,cn,荣耀, 荣耀 7i 移动渠道版
 honor,ATH-TL00,cn,荣耀, 荣耀 7i 移动定制版
 honor,ATH-UL00,cn,荣耀, 荣耀 7i 双 4G 版
@@ -3129,6 +3134,7 @@ honor,RNA-AN00,cn,荣耀, 荣耀 50 Pro 5G 全网通版
 honor,RNA-TN00,cn,荣耀, 荣耀 50 Pro 5G 移动版
 honor,LSA-AN00,cn,荣耀, 荣耀 60 5G 全网通版
 honor,TNA-AN00,cn,荣耀, 荣耀 60 Pro 5G 全网通版
+honor,TNA-TN00,cn,荣耀, 荣耀 60 Pro 5G 移动版
 honor,KNT-AL10,cn,荣耀, 荣耀 V8 全网通版
 honor,KNT-AL20,cn,荣耀," 荣耀 V8 全网通版 (麒麟 955, 2K 显示屏)"
 honor,KNT-TL10,cn,荣耀, 荣耀 V8 移动版
@@ -3572,6 +3578,8 @@ mitv,MDZ-16-AA,en,小米电视, Mi Box
 mitv,MDZ-16-AB,en,小米电视, Mi Box
 mitv,MDZ-22-AB,en,小米电视, Mi Box S
 mitv,MDZ-24-AA,en,小米电视, Mi TV Stick
+mitv,MDZ-24-AB,en,小米电视, Mi TV Stick
+mitv,MDZ-27-AA,en,小米电视, Xiaomi TV Stick 4K
 oneplus,A0001,en,一加, OnePlus One
 oneplus,A1001,en,一加, OnePlus One
 oneplus,A2001,en,一加, OnePlus 2 China
