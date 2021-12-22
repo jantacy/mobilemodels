@@ -555,6 +555,7 @@ realme,RMX3370,cn,REALME, 真我 GT Neo2 5G
 realme,RMX3357,cn,REALME, 真我 GT Neo2T 5G
 samsung,SM-N960F,en,三星, Galaxy Note9 EU
 samsung,SM-N970U,en,三星, Galaxy Note10 US
+samsung,SM-A125F,en,三星, Galaxy A12 Global
 samsung,SM-A715F,en,三星, Galaxy A71 Global
 samsung,SM-M115F,en,三星, Galaxy M11 Global
 oppo,CPH1871,en,OPPO, OPPO Find X
@@ -4241,6 +4242,7 @@ mitv,L43M7-EA,cn,小米电视, 小米电视 EA43 2022 款
 mitv,L50M7-EA,cn,小米电视, 小米电视 EA50 2022 款
 mitv,L55M7-EA,cn,小米电视, 小米电视 EA55 2022 款
 mitv,L65M7-EA,cn,小米电视, 小米电视 EA65 2022 款
+mitv,L70M7-EA,cn,小米电视, 小米电视 EA70 2022 款
 mitv,L75M7-EA,cn,小米电视, 小米电视 EA75 2022 款
 mitv,L43M7-ES,cn,小米电视, 小米电视 ES43 2022 款
 mitv,L50M7-ES,cn,小米电视, 小米电视 ES50 2022 款
@@ -4265,6 +4267,7 @@ mitv,L65R6-A,cn,小米电视, Redmi 智能电视 A65
 mitv,L50M5-RK,cn,小米电视, Redmi 智能电视 X50 (2020)
 mitv,L55M5-RK,cn,小米电视, Redmi 智能电视 X55 (2020)
 mitv,L65M5-RK,cn,小米电视, Redmi 智能电视 X65 (2020)
+mitv,L50R8-X,cn,小米电视, Redmi 智能电视 X50 2022 款
 mitv,L55R8-X,cn,小米电视, Redmi 智能电视 X55 2022 款
 mitv,L65R8-X,cn,小米电视, Redmi 智能电视 X65 2022 款
 mitv,L75R8-X,cn,小米电视, Redmi 智能电视 X75 2022 款
