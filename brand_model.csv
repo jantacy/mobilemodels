@@ -119,6 +119,8 @@ huawei,ABR-AL00,cn,华为, HUAWEI P50 4G 全网通版
 huawei,JAD-AL00,cn,华为, HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 huawei,JAD-AL50,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 huawei,JAD-AL60,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
+huawei,BAL-AL00,cn,华为, HUAWEI P50 Pocket 4G 全网通版
+huawei,BAL-AL10,cn,华为, HUAWEI P50 Pocket 艺术定制版 4G 全网通版
 huawei,CAZ-AL00,cn,华为, HUAWEI nova 全网通标配版 
 huawei,CAZ-AL10,cn,华为, HUAWEI nova 全网通高配版
 huawei,CAZ-TL10,cn,华为, HUAWEI nova 移动定制标配版
@@ -374,6 +376,8 @@ huawei,MACHC-WAH9LP,cn,华为, HUAWEI MateBook X Pro (2020) i5
 huawei,MACHC-WAE9LP,cn,华为, HUAWEI MateBook X Pro (2020) i7
 huawei,MACHD-WFH9,cn,华为, HUAWEI MateBook X Pro (2021) i5
 huawei,MACHD-WFE9,cn,华为, HUAWEI MateBook X Pro (2021) i7
+huawei,MRG-W56,cn,华为, HUAWEI MateBook X Pro (2022) i5
+huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro (2022) i7
 huawei,PL-W09,cn,华为, HUAWEI MateBook D i5 集显
 huawei,PL-W19,cn,华为, HUAWEI MateBook D i5 独显
 huawei,PL-W29,cn,华为, HUAWEI MateBook D i7
@@ -809,6 +813,7 @@ oppo,PERM00,cn,OPPO, OPPO K7x 全网通版
 oppo,PEXM00,cn,OPPO, OPPO K9 全网通版
 oppo,PERM10,cn,OPPO, OPPO K9s 全网通版
 oppo,PEYM00,cn,OPPO, OPPO K9 Pro 全网通版
+oppo,PGCM10,cn,OPPO, OPPO K9x 全网通版
 oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
 oppo,OW19W2,cn,OPPO, OPPO Watch 41mm
 oppo,OW19W3,cn,OPPO, OPPO Watch 46mm ECG/精钢版
@@ -3836,6 +3841,8 @@ vivo,V2048A,cn,VIVO, vivo S9e 5G 全网通版
 vivo,V2121A,cn,VIVO, vivo S10 5G 全网通版
 vivo,V2121A,cn,VIVO, vivo S10 Pro 5G 全网通版
 vivo,V2130A,cn,VIVO, vivo S10e 5G 全网通版
+vivo,V2162A,cn,VIVO, vivo S12 5G 全网通版
+vivo,V2163A,cn,VIVO, vivo S12 Pro 5G 全网通版
 vivo,V1901A,cn,VIVO, vivo Y3 全网通版
 vivo,V1901T,cn,VIVO, vivo Y3 移动全网通版
 vivo,V1930A,cn,VIVO, vivo Y3 标准版 全网通版
