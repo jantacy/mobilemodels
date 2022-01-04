@@ -1156,6 +1156,7 @@ samsung,SM-G7810,cn,三星, Galaxy S20 FE 5G
 samsung,SM-G9910,cn,三星, Galaxy S21 5G
 samsung,SM-G9960,cn,三星, Galaxy S21+ 5G
 samsung,SM-G9980,cn,三星, Galaxy S21 Ultra 5G
+samsung,SM-G9900,cn,三星, Galaxy S21 FE 5G
 samsung,GT-I9220,cn,三星, Galaxy Note 公开版
 samsung,GT-I9228,cn,三星, Galaxy Note 移动定制版
 samsung,SCH-I889,cn,三星, Galaxy Note 电信定制版
@@ -1320,6 +1321,8 @@ samsung,SM-T500,cn,三星, Galaxy Tab A7 10.4 WLAN
 samsung,SM-T505C,cn,三星, Galaxy Tab A7 10.4 LTE
 samsung,SM-T220,cn,三星, Galaxy Tab A7 Lite 8.7 WLAN
 samsung,SM-T225C,cn,三星, Galaxy Tab A7 Lite 8.7 LTE
+samsung,SM-X200,cn,三星, Galaxy Tab A8 WLAN
+samsung,SM-X205C,cn,三星, Galaxy Tab A8 LTE
 samsung,SM-T230,cn,三星, Galaxy Tab4 7.0 WLAN
 samsung,SM-T231,cn,三星, Galaxy Tab4 7.0 3G
 samsung,SM-T239C,cn,三星, Galaxy Tab4 7.0 VE LTE
