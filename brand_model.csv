@@ -2595,6 +2595,10 @@ oneplus,LE2125,cn,一加, OnePlus 9 Pro 北美版
 oneplus,LE2127,cn,一加, OnePlus 9 Pro T-Mobile 版
 oneplus,MT2110,cn,一加, OnePlus 9RT 全网通版
 oneplus,MT2111,cn,一加, OnePlus RT 印度版
+oneplus,NE2210,cn,一加, OnePlus 10 Pro 全网通版
+oneplus,NE2211,cn,一加, OnePlus 10 Pro 印度版
+oneplus,NE2213,cn,一加, OnePlus 10 Pro 欧洲/国际版
+oneplus,NE2215,cn,一加, OnePlus 10 Pro 北美版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
@@ -3198,6 +3202,7 @@ honor,TNY-TL00,cn,荣耀, 荣耀 Magic2 移动 4G+ 版
 honor,ELZ-AN00,cn,荣耀, 荣耀 Magic3 5G 全网通版
 honor,ELZ-AN10,cn,荣耀, 荣耀 Magic3 Pro 5G 全网通版
 honor,ELZ-AN20,cn,荣耀, 荣耀 Magic3 至臻版 5G 全网通版
+honor,MGI-AN00,cn,荣耀, 荣耀 Magic V 5G 全网通版
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -3690,6 +3695,10 @@ oneplus,LE2125,en,一加, OnePlus 9 Pro North America
 oneplus,LE2127,en,一加, OnePlus 9 Pro T-Mobile
 oneplus,MT2110,en,一加, OnePlus 9RT China
 oneplus,MT2111,en,一加, OnePlus RT India
+oneplus,NE2210,en,一加, OnePlus 10 Pro China
+oneplus,NE2211,en,一加, OnePlus 10 Pro India
+oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
+oneplus,NE2215,en,一加, OnePlus 10 Pro North America
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
@@ -4161,6 +4170,7 @@ meizu,M712C,cn,魅族, 魅蓝 S6 电信版
 meizu,M712H,cn,魅族, 魅族 M6s 国际版
 meizu,M811Q,cn,魅族, 魅蓝 6T 公开版
 meizu,M811H,cn,魅族, 魅族 M6T 国际版
+meizu,M2110,cn,魅族, 魅蓝 10
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
 meizu,S685C,cn,魅族, 魅蓝 Max 电信版
