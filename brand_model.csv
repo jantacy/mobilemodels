@@ -967,6 +967,8 @@ huawei,JNY-LX1,en,华为, HUAWEI P40 lite Dual SIM
 huawei,JNY-LX2,en,华为, HUAWEI P40 lite Single SIM
 huawei,CDY-NX9,en,华为, HUAWEI P40 lite 5G
 huawei,ART-L29,en,华为, HUAWEI P40 lite E Dual SIM
+huawei,JAD-LX4,en,华为, HUAWEI P50 Pro
+huawei,JAD-LX9,en,华为, HUAWEI P50 Pro
 huawei,FIG-LA1,en,华为, HUAWEI P smart
 huawei,FIG-LX1,en,华为, HUAWEI P smart
 huawei,FIG-LX2,en,华为, HUAWEI P smart
@@ -1021,6 +1023,7 @@ huawei,YAL-L41,en,华为, HUAWEI nova 5T Pro
 huawei,JNY-LX1,en,华为, HUAWEI nova 7i Dual SIM
 huawei,CDY-NX9,en,华为, HUAWEI nova 7 SE 5G
 huawei,NEN-L22,en,华为, HUAWEI nova 8i
+huawei,NAM-L09,en,华为, HUAWEI nova 9
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,DRA-L01,en,华为, HUAWEI Y5 Prime 2018 Single SIM
 huawei,DRA-L21,en,华为, HUAWEI Y5 Prime 2018 Dual SIM
@@ -1613,7 +1616,7 @@ honor,TNNH-AN00,cn,荣耀, 荣耀 Play4 5G 全网通版
 honor,OXP-AN00,cn,荣耀, 荣耀 Play4 Pro 5G 全网通版
 honor,HJC-AN90,cn,荣耀, 荣耀 Play5 5G 全网通版
 honor,NEW-AN90,cn,荣耀, 荣耀 Play5 活力版 5G 全网通版
-honor,KOZ-AL40,cn,荣耀, 荣耀畅玩 20 全网通版
+honor,KOZ-AL40,cn,荣耀, 荣耀 Play5T 全网通版
 honor,NZA-AL00,cn,荣耀, 荣耀 Play5T 活力版 全网通版
 honor,CHL-AL00,cn,荣耀, 荣耀 Play5T Pro 全网通版
 honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
@@ -1934,7 +1937,7 @@ xiaomi,2015022,cn,小米, 小米 Note 顶配版 全网通版
 xiaomi,2015501,cn,小米, 小米 Note 顶配版 移动合约版
 xiaomi,2015211,cn,小米, 小米 Note 2 全网通版
 xiaomi,2015212,cn,小米, 小米 Note 2 移动 4G+ 版
-xiaomi,2015213,cn,小米, 小米 Note 2 全球版
+xiaomi,2015213,cn,小米, 小米 Note 2 全网通版 (全球频段)
 xiaomi,MCE8,cn,小米, 小米 Note 3 全网通版
 xiaomi,MCT8,cn,小米, 小米 Note 3 移动 4G+ 版
 xiaomi,M1910F4G,cn,小米, 小米 Note 10 国际版
@@ -1945,7 +1948,7 @@ xiaomi,MDE5,cn,小米, 小米 MIX 2 黑色陶瓷版 全网通版
 xiaomi,MDT5,cn,小米, 小米 MIX 2 黑色陶瓷版 移动 4G+ 版
 xiaomi,MDE5S,cn,小米, 小米 MIX 2 全陶瓷尊享版
 xiaomi,M1803D5XE,cn,小米, 小米 MIX 2S 全网通版
-xiaomi,M1803D5XA,cn,小米, 小米 MIX 2S 尊享版
+xiaomi,M1803D5XA,cn,小米, 小米 MIX 2S 尊享版 (全球频段)
 xiaomi,M1803D5XT,cn,小米, 小米 MIX 2S 移动 4G+ 版
 xiaomi,M1803D5XC,cn,小米, 小米 MIX 2S 联通电信定制版
 xiaomi,M1810E5E,cn,小米, 小米 MIX 3 全网通版
@@ -2203,10 +2206,24 @@ xiaomi,M2101K6I,cn,小米, Redmi Note 10 Pro Max 印度版
 xiaomi,M2104K10AC,cn,小米, Redmi Note 10 Pro 5G 全网通版
 xiaomi,2109106A1I,cn,小米, Redmi Note 10 Lite 印度版
 xiaomi,21121119SC,cn,小米, Redmi Note 11 4G 全网通版
+xiaomi,2201117TG,cn,小米, Redmi Note 11 国际版
+xiaomi,2201117TI,cn,小米, Redmi Note 11 印度版
+xiaomi,2201117TL,cn,小米, Redmi Note 11 拉美版
+xiaomi,2201117TY,cn,小米, Redmi Note 11 国际版 (NFC)
+xiaomi,2201117SG,cn,小米, Redmi Note 11S 国际版
+xiaomi,2201117SI,cn,小米, Redmi Note 11S 印度版
+xiaomi,2201117SL,cn,小米, Redmi Note 11S 拉美版
+xiaomi,2201117SY,cn,小米, Redmi Note 11S 国际版 (NFC)
 xiaomi,21091116AC,cn,小米, Redmi Note 11 5G 全网通版
 xiaomi,21091116AI,cn,小米, Redmi Note 11T 5G 印度版
 xiaomi,21091116C,cn,小米, Redmi Note 11 Pro 全网通版
+xiaomi,2201116TG,cn,小米, Redmi Note 11 Pro 4G 国际版
+xiaomi,2201116TI,cn,小米, Redmi Note 11 Pro 印度版
+xiaomi,2201116SG,cn,小米, Redmi Note 11 Pro 5G 国际版
+xiaomi,2201116SR,cn,小米, Redmi Note 11 Pro 5G 日本版
+xiaomi,2201116SI,cn,小米, Redmi Note 11 Pro 5G 印度版
 xiaomi,21091116UC,cn,小米, Redmi Note 11 Pro+ 全网通版
+xiaomi,21091116UG,cn,小米, Redmi Note 11 Pro+ 5G 国际版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G 全网通版
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G 全网通版
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G 全网通版
@@ -2664,9 +2681,23 @@ xiaomi,M2101K6I,en,小米, Redmi Note 10 Pro Max India
 xiaomi,M2104K10AC,en,小米, Redmi Note 10 Pro 5G China
 xiaomi,2109106A1I,en,小米, Redmi Note 10 Lite India
 xiaomi,21121119SC,en,小米, Redmi Note 11 4G China
+xiaomi,2201117TG,en,小米, Redmi Note 11 Global
+xiaomi,2201117TI,en,小米, Redmi Note 11 India
+xiaomi,2201117TL,en,小米, Redmi Note 11 Latin America
+xiaomi,2201117TY,en,小米, Redmi Note 11 Global (NFC)
+xiaomi,2201117SG,en,小米, Redmi Note 11S Global
+xiaomi,2201117SI,en,小米, Redmi Note 11S India
+xiaomi,2201117SL,en,小米, Redmi Note 11S Latin America
+xiaomi,2201117SY,en,小米, Redmi Note 11S Global (NFC)
 xiaomi,21091116AI,en,小米, Redmi Note 11T 5G India
 xiaomi,21091116AC,en,小米, Redmi Note 11 5G China
+xiaomi,2201116TG,en,小米, Redmi Note 11 Pro Global
+xiaomi,2201116TI,en,小米, Redmi Note 11 Pro India
+xiaomi,2201116SG,en,小米, Redmi Note 11 Pro 5G Global
+xiaomi,2201116SR,en,小米, Redmi Note 11 Pro 5G Japan
+xiaomi,2201116SI,en,小米, Redmi Note 11 Pro 5G India
 xiaomi,21091116C,en,小米, Redmi Note 11 Pro China
+xiaomi,21091116UG,en,小米, Redmi Note 11 Pro+ 5G Global
 xiaomi,21091116UC,en,小米, Redmi Note 11 Pro+ China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
