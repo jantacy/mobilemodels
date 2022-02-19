@@ -860,10 +860,10 @@ honor,CDY-TN90,cn,荣耀, 荣耀 30S 5G 移动定制版
 honor,CDY-TN95,cn,荣耀, 荣耀 30S 5G 移动定制版
 honor,MXW-AN00,cn,荣耀, 荣耀 30 青春版 5G 全网通版
 honor,MXW-TN00,cn,荣耀, 荣耀 30 青春版 5G 移动定制版
-honor,JLH-AN00,cn,荣耀, 荣耀 50 SE 5G 全网通版
 honor,NTH-AN00,cn,荣耀, 荣耀 50 5G 全网通版
 honor,RNA-AN00,cn,荣耀, 荣耀 50 Pro 5G 全网通版
 honor,RNA-TN00,cn,荣耀, 荣耀 50 Pro 5G 移动版
+honor,JLH-AN00,cn,荣耀, 荣耀 50 SE 5G 全网通版
 honor,LSA-AN00,cn,荣耀, 荣耀 60 5G 全网通版
 honor,TNA-AN00,cn,荣耀, 荣耀 60 Pro 5G 全网通版
 honor,TNA-TN00,cn,荣耀, 荣耀 60 Pro 5G 移动版
@@ -3584,6 +3584,41 @@ huawei,MACHD-WFH9,cn,华为, HUAWEI MateBook X Pro (2021) i5
 huawei,MACHD-WFE9,cn,华为, HUAWEI MateBook X Pro (2021) i7
 huawei,MRG-W56,cn,华为, HUAWEI MateBook X Pro (2022) i5
 huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro (2022) i7
+huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
+huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
+huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
+huawei,WRT-W29L,cn,华为, HUAWEI MateBook 13 i7 Linux 版
+huawei,HN-W19R,cn,华为, HUAWEI MateBook 13 锐龙版
+huawei,HN-W19L,cn,华为, HUAWEI MateBook 13 锐龙 Linux 版
+huawei,WRTB-WAH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
+huawei,WRTB-WFH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
+huawei,WRTB-WFE9L,cn,华为, HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
+huawei,HNL-WFQ9,cn,华为, HUAWEI MateBook 13 (2020) R5
+huawei,HNL-WFP9,cn,华为, HUAWEI MateBook 13 (2020) R7
+huawei,WRTD-WDH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+huawei,WRTD-WFH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+huawei,WRTD-WFE9,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+huawei,EMD-W58,cn,华为, HUAWEI MateBook 13s i5 (8GB+512GB)
+huawei,EMD-W56,cn,华为, HUAWEI MateBook 13s i5 (16GB+512GB)
+huawei,EMD-W76,cn,华为, HUAWEI MateBook 13s i7 (16GB+512GB)
+huawei,KLV-W19,cn,华为, HUAWEI MateBook 14 i5
+huawei,KLV-W19DL,cn,华为, HUAWEI MateBook 14 i5 Linux 版
+huawei,KLV-W29,cn,华为, HUAWEI MateBook 14 i7
+huawei,KLVC-WAH9L,cn,华为, HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
+huawei,KLVC-WFH9L,cn,华为, HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
+huawei,KLVC-WFE9L,cn,华为, HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
+huawei,KLVL-WFH9,cn,华为, HUAWEI MateBook 14 (2020) R5
+huawei,KLVL-WFE9,cn,华为, HUAWEI MateBook 14 (2020) R7
+huawei,KLVD-WDH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
+huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
+huawei,KLVL-W56W,cn,华为, HUAWEI MateBook 14 (2021) R5
+huawei,KLVL-W76W,cn,华为, HUAWEI MateBook 14 (2021) R7
+huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
+huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
+huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
+huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
+huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
 huawei,PL-W09,cn,华为, HUAWEI MateBook D i5 集显
 huawei,PL-W19,cn,华为, HUAWEI MateBook D i5 独显
 huawei,PL-W29,cn,华为, HUAWEI MateBook D i7
@@ -3629,41 +3664,6 @@ huawei,PAK-AL09,cn,华为, HUAWEI MateBook E (2019)
 huawei,DRC-W58,cn,华为, HUAWEI MateBook E (2021) i5 (8GB+256GB)
 huawei,DRC-W56,cn,华为, HUAWEI MateBook E (2021) i5 (16GB+512GB)
 huawei,DRC-W76,cn,华为, HUAWEI MateBook E (2021) i7 (16GB+512GB)
-huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
-huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
-huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
-huawei,WRT-W29L,cn,华为, HUAWEI MateBook 13 i7 Linux 版
-huawei,HN-W19R,cn,华为, HUAWEI MateBook 13 锐龙版
-huawei,HN-W19L,cn,华为, HUAWEI MateBook 13 锐龙 Linux 版
-huawei,WRTB-WAH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
-huawei,WRTB-WFH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
-huawei,WRTB-WFE9L,cn,华为, HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
-huawei,HNL-WFQ9,cn,华为, HUAWEI MateBook 13 (2020) R5
-huawei,HNL-WFP9,cn,华为, HUAWEI MateBook 13 (2020) R7
-huawei,WRTD-WDH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
-huawei,WRTD-WFH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
-huawei,WRTD-WFE9,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
-huawei,EMD-W58,cn,华为, HUAWEI MateBook 13s i5 (8GB+512GB)
-huawei,EMD-W56,cn,华为, HUAWEI MateBook 13s i5 (16GB+512GB)
-huawei,EMD-W76,cn,华为, HUAWEI MateBook 13s i7 (16GB+512GB)
-huawei,KLV-W19,cn,华为, HUAWEI MateBook 14 i5
-huawei,KLV-W19DL,cn,华为, HUAWEI MateBook 14 i5 Linux 版
-huawei,KLV-W29,cn,华为, HUAWEI MateBook 14 i7
-huawei,KLVC-WAH9L,cn,华为, HUAWEI MateBook 14 (2020) i5 (8GB+512GB)
-huawei,KLVC-WFH9L,cn,华为, HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
-huawei,KLVC-WFE9L,cn,华为, HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
-huawei,KLVL-WFH9,cn,华为, HUAWEI MateBook 14 (2020) R5
-huawei,KLVL-WFE9,cn,华为, HUAWEI MateBook 14 (2020) R7
-huawei,KLVD-WDH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
-huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
-huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
-huawei,KLVL-W56W,cn,华为, HUAWEI MateBook 14 (2021) R5
-huawei,KLVL-W76W,cn,华为, HUAWEI MateBook 14 (2021) R7
-huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
-huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
-huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
-huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
-huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
 huawei,NBZ-WBH9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+256GB)
 huawei,NBZ-WBM9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+512GB)
 huawei,NBZ-WBE9,cn,华为, HUAWEI MateBook B3-410 i7
@@ -3683,6 +3683,7 @@ huawei,MDZ-WFH9A,cn,华为, HUAWEI MateBook B7 i5
 huawei,MDZ-WFE9A,cn,华为, HUAWEI MateBook B7 i7
 huawei,KLVU-WDU0,cn,华为, 华为擎云 L410 (8GB+256GB)
 huawei,KLVU-WDU0B,cn,华为, 华为擎云 L410 (8GB+512GB)
+huawei,KLVV-W5821,cn,华为, 华为擎云 L420
 huawei,HEGE-550,cn,华为, 华为智慧屏 V55i-A (4GB+64GB)
 huawei,HEGE-550B,cn,华为, 华为智慧屏 V55i-B (4GB+32GB)
 huawei,HEGE-560,cn,华为, 华为智慧屏 V65
@@ -4480,6 +4481,7 @@ mitv,L55M5-AI,en,小米电视, Mi LED Smart TV 4 55
 mitv,L55M5-AN,en,小米电视, Mi LED Smart TV 4 Pro 55
 mitv,L32M6-INC,en,小米电视, Mi TV 4C 32
 mitv,L32M5-AN,en,小米电视, Mi LED Smart TV 4C Pro 32
+mitv,L43M6-INC,en,小米电视, Mi LED TV 4C 43
 mitv,L43M4-4AIN,en,小米电视, Mi TV 4X 43
 mitv,L50M5-5AIN,en,小米电视, Mi TV 4X 50
 mitv,L55M4-4XINA,en,小米电视, Mi LED Smart TV 4X Pro 55
@@ -4492,6 +4494,7 @@ mitv,L55M6-EQG,en,小米电视, Mi QLED TV Q1 4K 55
 mitv,L75M6-ESG,en,小米电视, Mi QLED TV Q1 75
 mitv,L32M6-RA,en,小米电视, Redmi Smart TV 32
 mitv,L43M6-RA,en,小米电视, Redmi Smart TV 43
+mitv,L43R7-7AIN,en,小米电视, Redmi Smart TV X43
 mitv,L50M6-RA,en,小米电视, Redmi Smart TV X50
 mitv,L55M6-RA,en,小米电视, Redmi Smart TV X55
 mitv,L65M6-RA,en,小米电视, Redmi Smart TV X65
