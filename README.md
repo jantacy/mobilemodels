@@ -4,5 +4,4 @@ rely on [KHwang9883's MobileModels](https://github.com/KHwang9883/MobileModels)�
 to use the result, you can just download the latest file [brand_model.csv](https://github.com/jantacy/mobilemodels/blob/main/brand_model.csv)
 
 ---
-由于买不起vps了，就不更新了，后期有时间的话再研究下GitHub机器人。大家自己拉一下代码更新吧。
-
+GitHub Actions 已支持，每日自动更新，fork或PR后请自行添加GITHUB_TOKEN，参考[官方文档](https://docs.github.com/cn/actions/security-guides/automatic-token-authentication)
