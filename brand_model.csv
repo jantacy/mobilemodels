@@ -393,7 +393,8 @@ xiaomi,2201116TG,en,小米, Redmi Note 11 Pro Global
 xiaomi,2201116TI,en,小米, Redmi Note 11 Pro India
 xiaomi,2201116SG,en,小米, Redmi Note 11 Pro 5G Global
 xiaomi,2201116SR,en,小米, Redmi Note 11 Pro 5G Japan
-xiaomi,2201116SI,en,小米, Redmi Note 11 Pro 5G India
+xiaomi,2201116SI,en,小米, Redmi Note 11 Pro+ 5G India
+xiaomi,2201116SC,en,小米, Redmi Note 11E Pro China
 xiaomi,21091116C,en,小米, Redmi Note 11 Pro China
 xiaomi,21091116UG,en,小米, Redmi Note 11 Pro+ 5G Global
 xiaomi,21091116UC,en,小米, Redmi Note 11 Pro+ China
@@ -420,7 +421,7 @@ xiaomi,M2007J3SC,en,小米, Redmi K30S Ultra China
 xiaomi,M2012K11AC,en,小米, Redmi K40 China
 xiaomi,M2012K11C,en,小米, Redmi K40 Pro China / Redmi K40 Pro+ China
 xiaomi,M2012K10C,en,小米, Redmi K40 Gaming China
-xiaomi,21121210C,en,小米, Redmi K50 Gaming China
+xiaomi,21121210C,en,小米, Redmi K50G China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -447,6 +448,8 @@ xiaomi,M2007J20CT,en,小米, POCO X3 NFC Thailand
 xiaomi,M2102J20SG,en,小米, POCO X3 Pro Global
 xiaomi,M2102J20SI,en,小米, POCO X3 Pro India
 xiaomi,21061110AG,en,小米, POCO X3 GT Global
+xiaomi,2201116PG,en,小米, POCO X4 Pro 5G Global
+xiaomi,2201116PI,en,小米, POCO X4 Pro 5G India
 xiaomi,M2004J19PI,en,小米, POCO M2 India
 xiaomi,M2003J6CI,en,小米, POCO M2 Pro India
 xiaomi,M2010J19CG,en,小米, POCO M3 Global
@@ -455,6 +458,8 @@ xiaomi,M2010J19CI,en,小米, POCO M3 India
 xiaomi,M2103K19PG,en,小米, POCO M3 Pro 5G Global
 xiaomi,M2103K19PY,en,小米, POCO M3 Pro 5G Global
 xiaomi,M2103K19PI,en,小米, POCO M3 Pro 5G India
+xiaomi,2201117PG,en,小米, POCO M4 Pro Global
+xiaomi,2201117PI,en,小米, POCO M4 Pro India
 xiaomi,21091116AG,en,小米, POCO M4 Pro 5G Global
 xiaomi,21091116AI,en,小米, POCO M4 Pro 5G India
 xiaomi,M2006C3MI,en,小米, POCO C3 India
@@ -2308,9 +2313,10 @@ xiaomi,21091116AI,cn,小米, Redmi Note 11T 5G 印度版
 xiaomi,21091116C,cn,小米, Redmi Note 11 Pro 全网通版
 xiaomi,2201116TG,cn,小米, Redmi Note 11 Pro 4G 国际版
 xiaomi,2201116TI,cn,小米, Redmi Note 11 Pro 印度版
+xiaomi,2201116SC,cn,小米, Redmi Note 11E Pro 全网通版
 xiaomi,2201116SG,cn,小米, Redmi Note 11 Pro 5G 国际版
 xiaomi,2201116SR,cn,小米, Redmi Note 11 Pro 5G 日本版
-xiaomi,2201116SI,cn,小米, Redmi Note 11 Pro 5G 印度版
+xiaomi,2201116SI,cn,小米, Redmi Note 11 Pro+ 5G 印度版
 xiaomi,21091116UC,cn,小米, Redmi Note 11 Pro+ 全网通版
 xiaomi,21091116UG,cn,小米, Redmi Note 11 Pro+ 5G 国际版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G 全网通版
@@ -2363,6 +2369,8 @@ xiaomi,M2007J20CT,cn,小米, POCO X3 NFC 泰国版
 xiaomi,M2102J20SG,cn,小米, POCO X3 Pro 国际版
 xiaomi,M2102J20SI,cn,小米, POCO X3 Pro 印度版
 xiaomi,21061110AG,cn,小米, POCO X3 GT 国际版
+xiaomi,2201116PG,cn,小米, POCO X4 Pro 5G 国际版
+xiaomi,2201116PI,cn,小米, POCO X4 Pro 5G 印度版
 xiaomi,M2004J19PI,cn,小米, POCO M2 印度版
 xiaomi,M2003J6CI,cn,小米, POCO M2 Pro 印度版
 xiaomi,M2010J19CG,cn,小米, POCO M3 国际版
@@ -2371,6 +2379,8 @@ xiaomi,M2010J19CI,cn,小米, POCO M3 印度版
 xiaomi,M2103K19PG,cn,小米, POCO M3 Pro 5G 国际版
 xiaomi,M2103K19PY,cn,小米, POCO M3 Pro 5G 国际版
 xiaomi,M2103K19PI,cn,小米, POCO M3 Pro 5G 印度版
+xiaomi,2201117PG,cn,小米, POCO M4 Pro 国际版
+xiaomi,2201117PI,cn,小米, POCO M4 Pro 印度版
 xiaomi,21091116AG,cn,小米, POCO M4 Pro 5G 国际版
 xiaomi,21091116AI,cn,小米, POCO M4 Pro 5G 印度版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
@@ -3735,6 +3745,9 @@ oppo,CPH2009,en,OPPO, OPPO Find X2 Neo
 oppo,CPH2173,en,OPPO, OPPO Find X3 Pro
 oppo,CPH2145,en,OPPO, OPPO Find X3 Lite
 oppo,CPH2207,en,OPPO, OPPO Find X3 Neo
+oppo,CPH2307,en,OPPO, OPPO Find X5
+oppo,CPH2305,en,OPPO, OPPO Find X5 Pro
+oppo,CPH2371,en,OPPO, OPPO Find X5 Lite
 oppo,CPH1917,en,OPPO, OPPO Reno
 oppo,CPH1921,en,OPPO, OPPO Reno 5G
 oppo,CPH1919,en,OPPO, OPPO Reno 10x Zoom
@@ -4218,6 +4231,7 @@ realme,RMX2156,en,REALME, realme Narzo 30 4G
 realme,RMX3242,en,REALME, realme Narzo 30 5G
 realme,RMX2117,en,REALME, realme Narzo 30 Pro 5G
 realme,RMX3171,en,REALME, realme Narzo 30A
+realme,RMX3286,en,REALME, realme Narzo 50
 realme,RMX3430,en,REALME, realme Narzo 50A
 realme,RMX3231,en,REALME, realme Narzo 50i India
 realme,RMX3235,en,REALME, realme Narzo 50i Global
@@ -4541,6 +4555,9 @@ oppo,PDEM30,cn,OPPO, OPPO Find X2 Pro 全网通版
 oppo,PEDM00,cn,OPPO, OPPO Find X3 全网通版
 oppo,PEEM00,cn,OPPO, OPPO Find X3 Pro 全网通版
 oppo,PEUM00,cn,OPPO, OPPO Find N 全网通版
+oppo,PFFM10,cn,OPPO, OPPO Find X5 全网通版
+oppo,PFEM10,cn,OPPO, OPPO Find X5 Pro 全网通版
+oppo,PFFM20,cn,OPPO, OPPO Find X5 Pro 天玑版 全网通版
 oppo,PCAM00,cn,OPPO, OPPO Reno 全网通版
 oppo,PCAT00,cn,OPPO, OPPO Reno 移动版
 oppo,PCCM00,cn,OPPO, OPPO Reno 10 倍变焦版 全网通版
@@ -4645,6 +4662,7 @@ oppo,PEXM00,cn,OPPO, OPPO K9 全网通版
 oppo,PERM10,cn,OPPO, OPPO K9s 全网通版
 oppo,PEYM00,cn,OPPO, OPPO K9 Pro 全网通版
 oppo,PGCM10,cn,OPPO, OPPO K9x 全网通版
+oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
 oppo,OW19W2,cn,OPPO, OPPO Watch 41mm
 oppo,OW19W3,cn,OPPO, OPPO Watch 46mm ECG/精钢版
