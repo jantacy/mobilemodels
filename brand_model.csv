@@ -3266,6 +3266,7 @@ huawei,NOH-AN00,cn,华为, HUAWEI Mate 40 Pro 5G 全网通版
 huawei,NOH-AN01,cn,华为, HUAWEI Mate 40 Pro 5G 全网通版
 huawei,NOH-AL00,cn,华为, HUAWEI Mate 40 Pro 4G 全网通版
 huawei,NOH-AL10,cn,华为, HUAWEI Mate 40 Pro 4G 全网通版
+huawei,NOH-AN50,cn,华为, HUAWEI Mate 40E Pro 5G 全网通版
 huawei,NOP-AN00,cn,华为, HUAWEI Mate 40 Pro+ 5G 全网通版
 huawei,NOP-AN00,cn,华为, HUAWEI Mate 40 RS 保时捷设计
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
@@ -3546,6 +3547,9 @@ huawei,BAH3-AN10,cn,华为, HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 8
 huawei,SCMR-W09,cn,华为, HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,DBY-W09,cn,华为, HUAWEI MatePad 11 英寸 Wi-Fi 版
+huawei,BAH4-W19,cn,华为, HUAWEI MatePad (2022) 10.4 英寸 Wi-Fi 版
+huawei,BAH4-AL10,cn,华为, HUAWEI MatePad (2022) 10.4 英寸 全网通版
+huawei,HMW-W09,cn,华为, HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
 huawei,AGS2-AL00,cn,华为, 华为畅享平板 10.1 英寸 全网通版
 huawei,AGS3-W00D,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)
@@ -3571,6 +3575,8 @@ huawei,BZT3-W09,cn,华为, 华为平板 C5 10.4 英寸 2020 款 Wi-Fi 版
 huawei,BZT3-AL00,cn,华为, 华为平板 C5 10.4 英寸 2020 款 全网通版
 huawei,BZT3-W59,cn,华为, 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
 huawei,BZT3-W69,cn,华为, 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
+huawei,BZT4-W19,cn,华为, 华为平板 C5 10.4 英寸 2022 款 Wi-Fi 版
+huawei,BZT4-AL10,cn,华为, 华为平板 C5 10.4 英寸 2022 款 全网通版
 huawei,BZI-W00,cn,华为, 华为平板 C5e 10.1 英寸 Wi-Fi 版
 huawei,DBY-W09,cn,华为, 华为平板 C7 11 英寸 Wi-Fi 版
 huawei,HZ-W09,cn,华为, HUAWEI MateBook m3
@@ -3591,7 +3597,9 @@ huawei,MACHR-W29BL,cn,华为, HUAWEI MateBook X Pro (2019) i7 Linux 版
 huawei,MACHC-WAH9LP,cn,华为, HUAWEI MateBook X Pro (2020) i5
 huawei,MACHC-WAE9LP,cn,华为, HUAWEI MateBook X Pro (2020) i7
 huawei,MACHD-WFH9,cn,华为, HUAWEI MateBook X Pro (2021) i5
+huawei,MACHD-WFH9Q,cn,华为, HUAWEI MateBook X Pro (2021) i5
 huawei,MACHD-WFE9,cn,华为, HUAWEI MateBook X Pro (2021) i7
+huawei,MACHD-WFE9Q,cn,华为, HUAWEI MateBook X Pro (2021) i7
 huawei,MRG-W56,cn,华为, HUAWEI MateBook X Pro (2022) i5
 huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro (2022) i7
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
@@ -3603,11 +3611,18 @@ huawei,HN-W19L,cn,华为, HUAWEI MateBook 13 锐龙 Linux 版
 huawei,WRTB-WAH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (8GB+512GB)
 huawei,WRTB-WFH9L,cn,华为, HUAWEI MateBook 13 (2020) i5 (16GB+512GB)
 huawei,WRTB-WFE9L,cn,华为, HUAWEI MateBook 13 (2020) i7 (16GB+512GB)
-huawei,HNL-WFQ9,cn,华为, HUAWEI MateBook 13 (2020) R5
-huawei,HNL-WFP9,cn,华为, HUAWEI MateBook 13 (2020) R7
+huawei,HNL-WDQ9Q,cn,华为, HUAWEI MateBook 13 (2020) R5 (8GB+512GB)
+huawei,HNL-WDP9Q,cn,华为, HUAWEI MateBook 13 (2020) R7 (8GB+512GB)
+huawei,HNL-WFQ9,cn,华为, HUAWEI MateBook 13 (2020) R5 (16GB+512GB)
+huawei,HNL-WFP9,cn,华为, HUAWEI MateBook 13 (2020) R7 (16GB+512GB)
+huawei,HNL-WFP9Q,cn,华为, HUAWEI MateBook 13 (2020) R7 (16GB+512GB)
 huawei,WRTD-WDH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+huawei,WRTD-WDH9Q,cn,华为, HUAWEI MateBook 13 (2021) i5 (8GB+512GB)
+huawei,WRTD-WDE9Q,cn,华为, HUAWEI MateBook 13 (2021) i7 (8GB+512GB)
 huawei,WRTD-WFH9,cn,华为, HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
+huawei,WRTD-WFH9Q,cn,华为, HUAWEI MateBook 13 (2021) i5 (16GB+512GB)
 huawei,WRTD-WFE9,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
+huawei,WRTD-WFE9Q,cn,华为, HUAWEI MateBook 13 (2021) i7 (16GB+512GB)
 huawei,EMD-W58,cn,华为, HUAWEI MateBook 13s i5 (8GB+512GB)
 huawei,EMD-W56,cn,华为, HUAWEI MateBook 13s i5 (16GB+512GB)
 huawei,EMD-W76,cn,华为, HUAWEI MateBook 13s i7 (16GB+512GB)
@@ -3619,7 +3634,10 @@ huawei,KLVC-WFH9L,cn,华为, HUAWEI MateBook 14 (2020) i5 (16GB+512GB)
 huawei,KLVC-WFE9L,cn,华为, HUAWEI MateBook 14 (2020) i7 (16GB+512GB)
 huawei,KLVL-WFH9,cn,华为, HUAWEI MateBook 14 (2020) R5
 huawei,KLVL-WFE9,cn,华为, HUAWEI MateBook 14 (2020) R7
+huawei,KLVL-WFE9Q,cn,华为, HUAWEI MateBook 14 (2020) R7
 huawei,KLVD-WDH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+huawei,KLVD-WDH9Q,cn,华为, HUAWEI MateBook 14 (2021) i5 (8GB+512GB)
+huawei,KLVD-WDE9Q,cn,华为, HUAWEI MateBook 14 (2021) i7 (8GB+512GB)
 huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
 huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 huawei,KLVL-W56W,cn,华为, HUAWEI MateBook 14 (2021) R5
@@ -3649,8 +3667,9 @@ huawei,NblL-WFQ9,cn,华为, HUAWEI MateBook D 14 (2020) R5
 huawei,NblL-WFP9,cn,华为, HUAWEI MateBook D 14 (2020) R7
 huawei,NbD-WFH9,cn,华为, HUAWEI MateBook D 14 (2021) i5
 huawei,NbD-WFE9,cn,华为, HUAWEI MateBook D 14 (2021) i7
-huawei,NbM-WFQ9,cn,华为, HUAWEI MateBook D 14 (2021) R5
-huawei,NbM-WFP9,cn,华为, HUAWEI MateBook D 14 (2021) R7
+huawei,NbM-WDQ9D,cn,华为, HUAWEI MateBook D 14 (2021) R5 (8GB+512GB)
+huawei,NbM-WFQ9,cn,华为, HUAWEI MateBook D 14 (2021) R5 (16GB+512GB)
+huawei,NbM-WFP9,cn,华为, HUAWEI MateBook D 14 (2021) R7 (16GB+512GB)
 huawei,NbDE-WFH9,cn,华为, HUAWEI MateBook D 14 (2022) i5
 huawei,NbDE-WFE9,cn,华为, HUAWEI MateBook D 14 (2022) i7
 huawei,NbDE-WDH9,cn,华为, HUAWEI MateBook D 14 SE i5
