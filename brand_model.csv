@@ -4144,6 +4144,7 @@ motorola,XT2171-3,cn,摩托罗拉, moto g51
 motorola,XT2169-2,cn,摩托罗拉, moto g71
 motorola,XT2175-2,cn,摩托罗拉, moto edge S30
 motorola,XT2201-2,cn,摩托罗拉, moto edge X30
+motorola,XT2201-6,cn,摩托罗拉, moto edge X30 屏下摄像头版
 realme,CPH1859,en,REALME, realme 1
 realme,CPH1861,en,REALME, realme 1
 realme,RMX1805,en,REALME, realme 2
@@ -4284,6 +4285,25 @@ realme,RMX2176,cn,REALME, 真我 X7 5G
 realme,RMX2121,cn,REALME, 真我 X7 Pro 5G
 realme,RMX3115,cn,REALME, 真我 X7 Pro 至尊版 5G 全网通版
 realme,RMX3116,cn,REALME, 真我 X7 Pro 至尊版 5G 运营商定制版
+realme,RMX2202,cn,REALME, 真我 GT 5G
+realme,RMX3031,cn,REALME, 真我 GT Neo 5G
+realme,RMX3350,cn,REALME, 真我 GT Neo 闪速版 5G
+realme,RMX3361,cn,REALME, 真我 GT 大师版 5G
+realme,RMX3366,cn,REALME, 真我 GT 大师探索版 5G
+realme,RMX3370,cn,REALME, 真我 GT Neo2 5G
+realme,RMX3357,cn,REALME, 真我 GT Neo2T 5G
+realme,RMX3310,cn,REALME, 真我 GT2 5G
+realme,RMX3300,cn,REALME, 真我 GT2 Pro 5G
+realme,RMX1971,cn,REALME, realme Q
+realme,RMX2117,cn,REALME, 真我 Q2 5G
+realme,RMX2173,cn,REALME, 真我 Q2 Pro 5G
+realme,RMX2200,cn,REALME, 真我 Q2i 5G
+realme,RMX3161,cn,REALME, 真我 Q3 5G
+realme,RMX2205,cn,REALME, 真我 Q3 Pro 5G
+realme,RMX3142,cn,REALME, 真我 Q3 Pro 狂欢版 5G
+realme,RMX3042,cn,REALME, 真我 Q3i 5G
+realme,RMX3461,cn,REALME, 真我 Q3s 5G
+realme,RMX3462,cn,REALME, 真我 Q3t 5G
 realme,RMX2200,cn,REALME, 真我 V3 5G 全网通版
 realme,RMX2201,cn,REALME, 真我 V3 5G 运营商定制版
 realme,RMX2111,cn,REALME, 真我 V5 5G 全网通版
@@ -4295,25 +4315,7 @@ realme,RMX3041,cn,REALME, 真我 V13 5G 全网通版
 realme,RMX3043,cn,REALME, 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, 真我 V15 5G 全网通版
 realme,RMX3093,cn,REALME, 真我 V15 5G 运营商定制版
-realme,RMX1971,cn,REALME, realme Q
-realme,RMX2117,cn,REALME, 真我 Q2 5G
-realme,RMX2173,cn,REALME, 真我 Q2 Pro 5G
-realme,RMX2200,cn,REALME, 真我 Q2i 5G
-realme,RMX3161,cn,REALME, 真我 Q3 5G
-realme,RMX2205,cn,REALME, 真我 Q3 Pro 5G
-realme,RMX3142,cn,REALME, 真我 Q3 Pro 狂欢版 5G
-realme,RMX3042,cn,REALME, 真我 Q3i 5G
-realme,RMX3461,cn,REALME, 真我 Q3s 5G
-realme,RMX3462,cn,REALME, 真我 Q3t 5G
-realme,RMX2202,cn,REALME, 真我 GT 5G
-realme,RMX3031,cn,REALME, 真我 GT Neo 5G
-realme,RMX3350,cn,REALME, 真我 GT Neo 闪速版 5G
-realme,RMX3361,cn,REALME, 真我 GT 大师版 5G
-realme,RMX3366,cn,REALME, 真我 GT 大师探索版 5G
-realme,RMX3370,cn,REALME, 真我 GT Neo2 5G
-realme,RMX3357,cn,REALME, 真我 GT Neo2T 5G
-realme,RMX3310,cn,REALME, 真我 GT2 5G
-realme,RMX3300,cn,REALME, 真我 GT2 Pro 5G
+realme,RMX3475,cn,REALME, 真我 V25 5G 全网通版
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
