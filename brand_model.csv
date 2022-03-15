@@ -1,4 +1,567 @@
 ﻿brand,model,area,brand_name,model_name
+apple,A1203,en,苹果, iPhone
+apple,A1241,en,苹果, iPhone 3G
+apple,A1324,en,苹果, iPhone 3G (China mainland)
+apple,A1303,en,苹果, iPhone 3GS
+apple,A1325,en,苹果, iPhone 3GS (China mainland)
+apple,A1332,en,苹果, iPhone 4 (GSM)
+apple,A1332,en,苹果," iPhone 4 (GSM, 2011)"
+apple,A1349,en,苹果, iPhone 4 (CDMA)
+apple,A1431,en,苹果, iPhone 4S (GSM)
+apple,A1387,en,苹果, iPhone 4S (CDMA)
+apple,A1428,en,苹果, iPhone 5 (GSM)
+apple,A1429,en,苹果, iPhone 5 (GSM)
+apple,A1442,en,苹果, iPhone 5 (CDMA)
+apple,A1518,en,苹果, iPhone 5s (China Mobile)
+apple,A1507,en,苹果, iPhone 5c (GSM)
+apple,A1526,en,苹果, iPhone 5c (GSM)
+apple,A1529,en,苹果, iPhone 5c (GSM)
+apple,A1516,en,苹果, iPhone 5c (China Mobile)
+apple,A1549,en,苹果, iPhone 6
+apple,A1586,en,苹果, iPhone 6
+apple,A1589,en,苹果, iPhone 6 (China Mobile)
+apple,A1522,en,苹果, iPhone 6 Plus
+apple,A1524,en,苹果, iPhone 6 Plus
+apple,A1593,en,苹果, iPhone 6 Plus (China Mobile)
+apple,A1633,en,苹果, iPhone 6s
+apple,A1688,en,苹果, iPhone 6s
+apple,A1700,en,苹果, iPhone 6s (China mainland)
+apple,A1691,en,苹果, iPhone 6s (China Mobile)
+apple,A1634,en,苹果, iPhone 6s Plus
+apple,A1687,en,苹果, iPhone 6s Plus
+apple,A1699,en,苹果, iPhone 6s Plus (China mainland)
+apple,A1690,en,苹果, iPhone 6s Plus (China Mobile)
+apple,A1724,en,苹果, iPhone SE (China Mobile)
+apple,A1660,en,苹果, iPhone 7
+apple,A1779,en,苹果, iPhone 7 (Japan)
+apple,A1780,en,苹果, iPhone 7 (China Mobile)
+apple,A1778,en,苹果, iPhone 7 (GSM)
+apple,A1661,en,苹果, iPhone 7 Plus
+apple,A1785,en,苹果, iPhone 7 Plus (Japan)
+apple,A1786,en,苹果, iPhone 7 Plus (China Mobile)
+apple,A1784,en,苹果, iPhone 7 Plus (GSM)
+apple,A1863,en,苹果, iPhone 8
+apple,A1906,en,苹果, iPhone 8 (Japan)
+apple,A1907,en,苹果, iPhone 8 (China Mobile)
+apple,A1905,en,苹果, iPhone 8 (GSM)
+apple,A1864,en,苹果, iPhone 8 Plus
+apple,A1898,en,苹果, iPhone 8 Plus (Japan)
+apple,A1899,en,苹果, iPhone 8 Plus (China Mobile)
+apple,A1897,en,苹果, iPhone 8 Plus (GSM)
+apple,A1865,en,苹果, iPhone X
+apple,A1903,en,苹果, iPhone X (China Mobile)
+apple,A1902,en,苹果, iPhone X (Japan)
+apple,A1901,en,苹果, iPhone X (GSM)
+apple,A1920,en,苹果, iPhone XS (North America)
+apple,A2097,en,苹果, iPhone XS (GSM)
+apple,A2098,en,苹果, iPhone XS (Japan)
+apple,A2100,en,苹果, iPhone XS (China mainland)
+apple,A2099,en,苹果, iPhone XS (China Mobile)
+apple,A2104,en,苹果," iPhone XS Max (China mainland, Hong Kong, Macao)"
+apple,A2103,en,苹果, iPhone XS Max (China Mobile)
+apple,A1921,en,苹果, iPhone XS Max (North America)
+apple,A2101,en,苹果, iPhone XS Max (GSM)
+apple,A2102,en,苹果, iPhone XS Max (Japan)
+apple,A1984,en,苹果, iPhone XR (North America)
+apple,A2105,en,苹果, iPhone XR (GSM)
+apple,A2106,en,苹果, iPhone XR (Japan)
+apple,A2108,en,苹果," iPhone XR (China mainland, Hong Kong, Macao)"
+apple,A2107,en,苹果, iPhone XR (China Mobile)
+apple,A2111,en,苹果, iPhone 11 (North America)
+apple,A2223,en,苹果," iPhone 11 (China mainland, Hong Kong, Macao)"
+apple,A2222,en,苹果, iPhone 11 (China Mobile)
+apple,A2221,en,苹果, iPhone 11 (Rest of the world)
+apple,A2160,en,苹果, iPhone 11 Pro (North America)
+apple,A2217,en,苹果," iPhone 11 Pro (China mainland, Hong Kong, Macao)"
+apple,A2216,en,苹果, iPhone 11 Pro (China Mobile)
+apple,A2215,en,苹果, iPhone 11 Pro (Rest of the world)
+apple,A2161,en,苹果, iPhone 11 Pro Max (North America)
+apple,A2220,en,苹果," iPhone 11 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A2219,en,苹果, iPhone 11 Pro Max (China Mobile)
+apple,A2218,en,苹果, iPhone 11 Pro Max (Rest of the world)
+apple,A2275,en,苹果, iPhone SE (2nd generation) (North America)
+apple,A2298,en,苹果, iPhone SE (2nd generation) (China mainland)
+apple,A2297,en,苹果, iPhone SE (2nd generation) (China Mobile)
+apple,A2296,en,苹果, iPhone SE (2nd generation) (Rest of the world)
+apple,A2176,en,苹果, iPhone 12 mini (United States)
+apple,A2398,en,苹果," iPhone 12 mini (Canada, Japan)"
+apple,A2400,en,苹果, iPhone 12 mini (China mainland)
+apple,A2399,en,苹果, iPhone 12 mini (Rest of the world)
+apple,A2172,en,苹果, iPhone 12 (United States)
+apple,A2402,en,苹果," iPhone 12 (Canada, Japan)"
+apple,A2404,en,苹果," iPhone 12 (China mainland, Hong Kong, Macao)"
+apple,A2403,en,苹果, iPhone 12 (Rest of the world)
+apple,A2341,en,苹果, iPhone 12 Pro (United States)
+apple,A2406,en,苹果," iPhone 12 Pro (Canada, Japan)"
+apple,A2408,en,苹果," iPhone 12 Pro (China mainland, Hong Kong, Macao)"
+apple,A2407,en,苹果, iPhone 12 Pro (Rest of the world)
+apple,A2342,en,苹果, iPhone 12 Pro Max (United States)
+apple,A2410,en,苹果," iPhone 12 Pro Max (Canada, Japan)"
+apple,A2412,en,苹果," iPhone 12 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A2411,en,苹果, iPhone 12 Pro Max (Rest of the world)
+apple,A2481,en,苹果, iPhone 13 mini (United States)
+apple,A2626,en,苹果," iPhone 13 mini (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2629,en,苹果, iPhone 13 mini (China mainland)
+apple,A2630,en,苹果," iPhone 13 mini (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2628,en,苹果, iPhone 13 mini (Rest of the world)
+apple,A2482,en,苹果, iPhone 13 (United States)
+apple,A2631,en,苹果," iPhone 13 (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2634,en,苹果," iPhone 13 (China mainland, Hong Kong, Macao)"
+apple,A2635,en,苹果," iPhone 13 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2633,en,苹果, iPhone 13 (Rest of the world)
+apple,A2483,en,苹果, iPhone 13 Pro (United States)
+apple,A2636,en,苹果," iPhone 13 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2639,en,苹果," iPhone 13 Pro (China mainland, Hong Kong, Macao)"
+apple,A2640,en,苹果," iPhone 13 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2638,en,苹果, iPhone 13 Pro (Rest of the world)
+apple,A2484,en,苹果, iPhone 13 Pro Max (United States)
+apple,A2641,en,苹果," iPhone 13 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2644,en,苹果," iPhone 13 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A2645,en,苹果," iPhone 13 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2643,en,苹果, iPhone 13 Pro Max (Rest of the world)
+apple,A2595,en,苹果, iPhone SE (3rd generation) (North America)
+apple,A2782,en,苹果, iPhone SE (3rd generation) (Japan)
+apple,A2784,en,苹果," iPhone SE (3rd generation) (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2785,en,苹果, iPhone SE (3rd generation) (China mainland)
+apple,A2783,en,苹果, iPhone SE (3rd generation) (Rest of the world)
+apple,A1219,en,苹果, iPad Wi-Fi
+apple,A1337,en,苹果, iPad Wi-Fi + 3G
+apple,A1395,en,苹果, iPad 2 Wi-Fi
+apple,A1396,en,苹果, iPad 2 Wi-Fi + 3G (GSM)
+apple,A1397,en,苹果, iPad 2 Wi-Fi + 3G (CDMA)
+apple,A1395,en,苹果, iPad 2 Wi-Fi (2012)
+apple,A1416,en,苹果, iPad (3rd generation) Wi-Fi
+apple,A1403,en,苹果, iPad (3rd generation) Wi-Fi + Cellular (VZ)
+apple,A1430,en,苹果, iPad (3rd generation) Wi-Fi + Cellular
+apple,A1458,en,苹果, iPad (4th generation) Wi-Fi
+apple,A1459,en,苹果, iPad (4th generation) Wi-Fi + Cellular
+apple,A1460,en,苹果, iPad (4th generation) Wi-Fi + Cellular (China mainland)
+apple,A1822,en,苹果, iPad (5th generation) Wi-Fi
+apple,A1823,en,苹果, iPad (5th generation) Wi-Fi + Cellular
+apple,A1893,en,苹果, iPad (6th generation) Wi-Fi
+apple,A1954,en,苹果, iPad (6th generation) Wi-Fi + Cellular
+apple,A2197,en,苹果, iPad (7th generation) Wi-Fi
+apple,A2199,en,苹果, iPad (7th generation) Wi-Fi + Cellular (China mainland)
+apple,A2270,en,苹果, iPad (8th generation) Wi-Fi
+apple,A2428,en,苹果, iPad (8th generation) Wi-Fi + Cellular
+apple,A2429,en,苹果, iPad (8th generation) Wi-Fi + Cellular
+apple,A2430,en,苹果, iPad (8th generation) Wi-Fi + Cellular (China mainland)
+apple,A2602,en,苹果, iPad (9th generation) Wi-Fi
+apple,A2603,en,苹果, iPad (9th generation) Wi-Fi + Cellular
+apple,A2604,en,苹果, iPad (9th generation) Wi-Fi + Cellular
+apple,A2605,en,苹果, iPad (9th generation) Wi-Fi + Cellular (China mainland)
+apple,A1474,en,苹果, iPad Air Wi-Fi
+apple,A1475,en,苹果, iPad Air Wi-Fi + Cellular
+apple,A1476,en,苹果, iPad Air Wi-Fi + Cellular (TD-LTE)
+apple,A1566,en,苹果, iPad Air 2 Wi-Fi
+apple,A1567,en,苹果, iPad Air 2 Wi-Fi + Cellular
+apple,A2152,en,苹果, iPad Air (3rd generation) Wi-Fi
+apple,A2123,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular
+apple,A2153,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular
+apple,A2154,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular (China mainland)
+apple,A2316,en,苹果, iPad Air (4th generation) Wi-Fi
+apple,A2325,en,苹果, iPad Air (4th generation) Wi-Fi + Cellular (China mainland)
+apple,A2588,en,苹果, iPad Air (5th generation) Wi-Fi
+apple,A2589,en,苹果, iPad Air (5th generation) Wi-Fi + Cellular
+apple,A2591,en,苹果, iPad Air (5th generation) Wi-Fi + Cellular (China mainland)
+apple,A1584,en,苹果, iPad Pro (12.9-inch) Wi-Fi
+apple,A1652,en,苹果, iPad Pro (12.9-inch) Wi-Fi + Cellular
+apple,A1673,en,苹果, iPad Pro (9.7-inch) Wi-Fi
+apple,A1674,en,苹果, iPad Pro (9.7-inch) Wi-Fi + Cellular
+apple,A1675,en,苹果, iPad Pro (9.7-inch) Wi-Fi + Cellular (China mainland)
+apple,A1670,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi"
+apple,A1671,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular"
+apple,A1821,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
+apple,A1701,en,苹果, iPad Pro (10.5-inch) Wi-Fi
+apple,A1709,en,苹果, iPad Pro (10.5-inch) Wi-Fi + Cellular
+apple,A1852,en,苹果, iPad Pro (10.5-inch) Wi-Fi + Cellular (China mainland)
+apple,A1980,en,苹果, iPad Pro (11-inch) Wi-Fi
+apple,A1980,en,苹果, iPad Pro (11-inch) Wi-Fi (1TB)
+apple,A1979,en,苹果, iPad Pro (11-inch) Wi-Fi + Cellular (China mainland)
+apple,A1979,en,苹果, iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China mainland)
+apple,A1876,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi"
+apple,A1876,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)"
+apple,A1983,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China mainland)"
+apple,A1983,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China mainland)"
+apple,A2228,en,苹果," iPad Pro (11-inch, 2nd generation) Wi-Fi"
+apple,A2231,en,苹果," iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
+apple,A2229,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi"
+apple,A2233,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)"
+apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (8GB RAM)"
+apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (16GB RAM)"
+apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM)"
+apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
+apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
+apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM)"
+apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
+apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (8GB RAM)"
+apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (16GB RAM)"
+apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM)"
+apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
+apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
+apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM)"
+apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
+apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
+apple,A1432,en,苹果, iPad mini Wi-Fi
+apple,A1454,en,苹果, iPad mini Wi-Fi + Cellular
+apple,A1455,en,苹果, iPad mini Wi-Fi + Cellular (China mainland)
+apple,A1489,en,苹果, iPad mini 2 Wi-Fi
+apple,A1490,en,苹果, iPad mini 2 Wi-Fi + Cellular
+apple,A1491,en,苹果, iPad mini 2 Wi-Fi + Cellular (TD-LTE)
+apple,A1599,en,苹果, iPad mini 3 Wi-Fi
+apple,A1600,en,苹果, iPad mini 3 Wi-Fi + Cellular
+apple,A1601,en,苹果, iPad mini 3 Wi-Fi + Cellular (TD-LTE)
+apple,A1538,en,苹果, iPad mini 4 Wi-Fi
+apple,A1550,en,苹果, iPad mini 4 Wi-Fi + Cellular
+apple,A2133,en,苹果, iPad mini (5th generation) Wi-Fi
+apple,A2124,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
+apple,A2126,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
+apple,A2125,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular (China mainland)
+apple,A2567,en,苹果, iPad mini (6th generation) Wi-Fi
+apple,A2568,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular
+apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
+apple,A1553,en,苹果," Apple Watch (1st generation, 38mm case)"
+apple,A1554,en,苹果," Apple Watch (1st generation, 42mm case)"
+apple,A1802,en,苹果, Apple Watch Series 1 (38mm case)
+apple,A1803,en,苹果, Apple Watch Series 1 (42mm case)
+apple,A1757,en,苹果, Apple Watch Series 2 (38mm case)
+apple,A1816,en,苹果, Apple Watch Edition (38mm case)
+apple,A1758,en,苹果, Apple Watch Series 2 (42mm case)
+apple,A1817,en,苹果, Apple Watch Edition (42mm case)
+apple,A1860,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (North America)
+apple,A1889,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (Europe and Asia Pacific)
+apple,A1890,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (China mainland)
+apple,A1861,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (North America)
+apple,A1891,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (Europe and Asia Pacific)
+apple,A1892,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (China mainland)
+apple,A1858,en,苹果, Apple Watch Series 3 (GPS) (38mm case)
+apple,A1859,en,苹果, Apple Watch Series 3 (GPS) (42mm case)
+apple,A1977,en,苹果, Apple Watch Series 4 (GPS) (40mm case)
+apple,A1978,en,苹果, Apple Watch Series 4 (GPS) (44mm case)
+apple,A1975,en,苹果, Apple Watch Series 4 (GPS + Cellular) (40mm case) (North America)
+apple,A2007,en,苹果," Apple Watch Series 4 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+apple,A1976,en,苹果, Apple Watch Series 4 (GPS + Cellular) (44mm case) (North America)
+apple,A2008,en,苹果," Apple Watch Series 4 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+apple,A2092,en,苹果, Apple Watch Series 5 (GPS) (40mm case)
+apple,A2093,en,苹果, Apple Watch Series 5 (GPS) (44mm case)
+apple,A2094,en,苹果, Apple Watch Series 5 (GPS + Cellular) (40mm case) (North America)
+apple,A2156,en,苹果," Apple Watch Series 5 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+apple,A2095,en,苹果, Apple Watch Series 5 (GPS + Cellular) (44mm case) (North America)
+apple,A2157,en,苹果," Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+apple,A2351,en,苹果, Apple Watch SE (GPS) (40mm case)
+apple,A2352,en,苹果, Apple Watch SE (GPS) (44mm case)
+apple,A2353,en,苹果, Apple Watch SE (GPS + Cellular) (40mm case) (North America)
+apple,A2355,en,苹果," Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+apple,A2354,en,苹果, Apple Watch SE (GPS + Cellular) (44mm case) (North America)
+apple,A2356,en,苹果," Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+apple,A2291,en,苹果, Apple Watch Series 6 (GPS) (40mm case)
+apple,A2292,en,苹果, Apple Watch Series 6 (GPS) (44mm case)
+apple,A2293,en,苹果, Apple Watch Series 6 (GPS + Cellular) (40mm case) (North America)
+apple,A2375,en,苹果," Apple Watch Series 6 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
+apple,A2294,en,苹果, Apple Watch Series 6 (GPS + Cellular) (44mm case) (North America)
+apple,A2376,en,苹果," Apple Watch Series 6 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
+apple,A2473,en,苹果, Apple Watch Series 7 (GPS) (41mm case)
+apple,A2474,en,苹果, Apple Watch Series 7 (GPS) (45mm case)
+apple,A2475,en,苹果, Apple Watch Series 7 (GPS + Cellular) (41mm case) (North America)
+apple,A2476,en,苹果," Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
+apple,A2477,en,苹果, Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
+apple,A2478,en,苹果," Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
+apple,A1213,en,苹果, iPod touch (1st generation)
+apple,A1288,en,苹果, iPod touch (2nd generation)
+apple,A1319,en,苹果, iPod touch (2nd generation) (China mainland)
+apple,A1318,en,苹果, iPod touch (3rd generation)
+apple,A1367,en,苹果, iPod touch (4th generation)
+apple,A1421,en,苹果, iPod touch (5th generation)
+apple,A1509,en,苹果, iPod touch (5th generation) (16GB)
+apple,A1574,en,苹果, iPod touch (6th generation)
+apple,A2178,en,苹果, iPod touch (7th generation)
+apple,A1203,cn,苹果, iPhone
+apple,A1241,cn,苹果, iPhone 3G
+apple,A1324,cn,苹果, iPhone 3G (中国大陆)
+apple,A1303,cn,苹果, iPhone 3GS
+apple,A1325,cn,苹果," iPhone 3GS (中国大陆, 无 WLAN 功能)"
+apple,A1332,cn,苹果, iPhone 4 (GSM)
+apple,A1332,cn,苹果," iPhone 4 (GSM, 2011)"
+apple,A1349,cn,苹果, iPhone 4 (CDMA)
+apple,A1431,cn,苹果, iPhone 4S (GSM)
+apple,A1387,cn,苹果, iPhone 4S (CDMA)
+apple,A1428,cn,苹果, iPhone 5 (GSM)
+apple,A1429,cn,苹果, iPhone 5 (GSM)
+apple,A1442,cn,苹果, iPhone 5 (CDMA)
+apple,A1453,cn,苹果, iPhone 5s (CDMA)
+apple,A1533,cn,苹果," iPhone 5s (CDMA, 中国电信)"
+apple,A1457,cn,苹果, iPhone 5s (GSM)
+apple,A1518,cn,苹果," iPhone 5s (LTE, 中国移动)"
+apple,A1528,cn,苹果," iPhone 5s (GSM, 中国联通)"
+apple,A1530,cn,苹果, iPhone 5s (LTE)
+apple,A1456,cn,苹果, iPhone 5c (CDMA)
+apple,A1532,cn,苹果," iPhone 5c (CDMA, 中国电信)"
+apple,A1507,cn,苹果, iPhone 5c (GSM)
+apple,A1516,cn,苹果," iPhone 5c (LTE, 中国移动)"
+apple,A1526,cn,苹果," iPhone 5c (GSM, 中国联通)"
+apple,A1529,cn,苹果, iPhone 5c (LTE)
+apple,A1549,cn,苹果, iPhone 6 (美国)
+apple,A1586,cn,苹果, iPhone 6
+apple,A1589,cn,苹果, iPhone 6 (中国移动)
+apple,A1522,cn,苹果, iPhone 6 Plus (美国)
+apple,A1524,cn,苹果, iPhone 6 Plus
+apple,A1593,cn,苹果, iPhone 6 Plus (中国移动)
+apple,A1633,cn,苹果, iPhone 6s
+apple,A1688,cn,苹果, iPhone 6s
+apple,A1700,cn,苹果, iPhone 6s (中国大陆)
+apple,A1691,cn,苹果, iPhone 6s (中国移动)
+apple,A1634,cn,苹果, iPhone 6s Plus
+apple,A1687,cn,苹果, iPhone 6s Plus
+apple,A1699,cn,苹果, iPhone 6s Plus (中国大陆)
+apple,A1690,cn,苹果, iPhone 6s Plus (中国移动)
+apple,A1662,cn,苹果, iPhone SE (美国)
+apple,A1723,cn,苹果, iPhone SE
+apple,A1724,cn,苹果, iPhone SE (中国移动)
+apple,A1660,cn,苹果, iPhone 7
+apple,A1779,cn,苹果, iPhone 7 (日本)
+apple,A1780,cn,苹果, iPhone 7 (中国移动)
+apple,A1778,cn,苹果, iPhone 7 (GSM)
+apple,A1661,cn,苹果, iPhone 7 Plus
+apple,A1785,cn,苹果, iPhone 7 Plus (日本)
+apple,A1786,cn,苹果, iPhone 7 Plus (中国移动)
+apple,A1784,cn,苹果, iPhone 7 Plus (GSM)
+apple,A1863,cn,苹果, iPhone 8
+apple,A1906,cn,苹果, iPhone 8 (日本)
+apple,A1907,cn,苹果, iPhone 8 (中国移动)
+apple,A1905,cn,苹果, iPhone 8 (GSM)
+apple,A1864,cn,苹果, iPhone 8 Plus
+apple,A1898,cn,苹果, iPhone 8 Plus (日本)
+apple,A1899,cn,苹果, iPhone 8 Plus (中国移动)
+apple,A1897,cn,苹果, iPhone 8 Plus (GSM)
+apple,A1865,cn,苹果, iPhone X
+apple,A1902,cn,苹果, iPhone X (日本)
+apple,A1903,cn,苹果, iPhone X (中国移动)
+apple,A1901,cn,苹果, iPhone X (GSM)
+apple,A1920,cn,苹果, iPhone XS (北美，港澳)
+apple,A2097,cn,苹果, iPhone XS (GSM)
+apple,A2098,cn,苹果, iPhone XS (日本)
+apple,A2100,cn,苹果, iPhone XS (中国大陆)
+apple,A2099,cn,苹果, iPhone XS (中国移动)
+apple,A2104,cn,苹果, iPhone XS Max (中国大陆 & 港澳)
+apple,A2103,cn,苹果, iPhone XS Max (中国移动)
+apple,A1921,cn,苹果, iPhone XS Max (北美)
+apple,A2101,cn,苹果, iPhone XS Max (GSM)
+apple,A2102,cn,苹果, iPhone XS Max (日本)
+apple,A1984,cn,苹果, iPhone XR (北美)
+apple,A2105,cn,苹果, iPhone XR (GSM)
+apple,A2106,cn,苹果, iPhone XR (日本)
+apple,A2108,cn,苹果, iPhone XR (中国大陆 & 港澳)
+apple,A2107,cn,苹果, iPhone XR (中国移动)
+apple,A2111,cn,苹果, iPhone 11 (北美)
+apple,A2223,cn,苹果, iPhone 11 (中国大陆 & 港澳)
+apple,A2222,cn,苹果, iPhone 11 (中国移动)
+apple,A2221,cn,苹果, iPhone 11 (其他国家和地区)
+apple,A2160,cn,苹果, iPhone 11 Pro (北美)
+apple,A2217,cn,苹果, iPhone 11 Pro (中国大陆 & 港澳)
+apple,A2216,cn,苹果, iPhone 11 Pro (中国移动)
+apple,A2215,cn,苹果, iPhone 11 Pro (其他国家和地区)
+apple,A2161,cn,苹果, iPhone 11 Pro Max (北美)
+apple,A2220,cn,苹果, iPhone 11 Pro Max (中国大陆 & 港澳)
+apple,A2219,cn,苹果, iPhone 11 Pro Max (中国移动)
+apple,A2218,cn,苹果, iPhone 11 Pro Max (其他国家和地区)
+apple,A2275,cn,苹果, iPhone SE (第 2 代) (北美)
+apple,A2298,cn,苹果, iPhone SE (第 2 代) (中国大陆)
+apple,A2297,cn,苹果, iPhone SE (第 2 代) (中国移动)
+apple,A2296,cn,苹果, iPhone SE (第 2 代) (其他国家和地区)
+apple,A2176,cn,苹果, iPhone 12 mini (美国)
+apple,A2398,cn,苹果, iPhone 12 mini (加拿大，日本)
+apple,A2400,cn,苹果, iPhone 12 mini (中国大陆)
+apple,A2399,cn,苹果, iPhone 12 mini (其他国家和地区)
+apple,A2172,cn,苹果, iPhone 12 (美国)
+apple,A2402,cn,苹果, iPhone 12 (加拿大，日本)
+apple,A2404,cn,苹果, iPhone 12 (中国大陆 & 港澳)
+apple,A2403,cn,苹果, iPhone 12 (其他国家和地区)
+apple,A2341,cn,苹果, iPhone 12 Pro (美国)
+apple,A2406,cn,苹果, iPhone 12 Pro (加拿大，日本)
+apple,A2408,cn,苹果, iPhone 12 Pro (中国大陆 & 港澳)
+apple,A2407,cn,苹果, iPhone 12 Pro (其他国家和地区)
+apple,A2342,cn,苹果, iPhone 12 Pro Max (美国)
+apple,A2410,cn,苹果, iPhone 12 Pro Max (加拿大，日本)
+apple,A2412,cn,苹果, iPhone 12 Pro Max (中国大陆 & 港澳)
+apple,A2411,cn,苹果, iPhone 12 Pro Max (其他国家和地区)
+apple,A2481,cn,苹果, iPhone 13 mini (美国)
+apple,A2626,cn,苹果," iPhone 13 mini (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2629,cn,苹果, iPhone 13 mini (中国大陆)
+apple,A2630,cn,苹果," iPhone 13 mini (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2628,cn,苹果, iPhone 13 mini (其他国家和地区)
+apple,A2482,cn,苹果, iPhone 13 (美国)
+apple,A2631,cn,苹果," iPhone 13 (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2634,cn,苹果, iPhone 13 (中国大陆 & 港澳)
+apple,A2635,cn,苹果," iPhone 13 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2633,cn,苹果, iPhone 13 (其他国家和地区)
+apple,A2483,cn,苹果, iPhone 13 Pro (美国)
+apple,A2636,cn,苹果," iPhone 13 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2639,cn,苹果, iPhone 13 Pro (中国大陆 & 港澳)
+apple,A2640,cn,苹果," iPhone 13 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2638,cn,苹果, iPhone 13 Pro (其他国家和地区)
+apple,A2484,cn,苹果, iPhone 13 Pro Max (美国)
+apple,A2641,cn,苹果," iPhone 13 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2644,cn,苹果, iPhone 13 Pro Max (中国大陆 & 港澳)
+apple,A2645,cn,苹果," iPhone 13 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2643,cn,苹果, iPhone 13 Pro Max (其他国家和地区)
+apple,A2595,cn,苹果, iPhone SE (第 3 代) (北美)
+apple,A2782,cn,苹果, iPhone SE (第 3 代) (日本)
+apple,A2784,cn,苹果," iPhone SE (第 3 代) (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2785,cn,苹果, iPhone SE (第 3 代) (中国大陆)
+apple,A2783,cn,苹果, iPhone SE (第 3 代) (其他国家和地区)
+apple,A1219,cn,苹果, iPad (无线局域网)
+apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
+apple,A1395,cn,苹果, iPad 2 (无线局域网)
+apple,A1396,cn,苹果, iPad 2 (无线局域网 + 3G) (GSM)
+apple,A1397,cn,苹果, iPad 2 (无线局域网 + 3G) (CDMA)
+apple,A1395,cn,苹果," iPad 2 (无线局域网, 2012)"
+apple,A1416,cn,苹果, iPad (第 3 代) (无线局域网)
+apple,A1403,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
+apple,A1430,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络)
+apple,A1458,cn,苹果, iPad (第 4 代) (无线局域网)
+apple,A1459,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络)
+apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1822,cn,苹果, iPad (第 5 代) (无线局域网)
+apple,A1823,cn,苹果, iPad (第 5 代) (无线局域网 + 蜂窝网络)
+apple,A1893,cn,苹果, iPad (第 6 代) (无线局域网)
+apple,A1954,cn,苹果, iPad (第 6 代) (无线局域网 + 蜂窝网络)
+apple,A2197,cn,苹果, iPad (第 7 代) (无线局域网)
+apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2270,cn,苹果, iPad (第 8 代) (无线局域网)
+apple,A2428,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2429,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2602,cn,苹果, iPad (第 9 代) (无线局域网)
+apple,A2603,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2604,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2605,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1474,cn,苹果, iPad Air (无线局域网)
+apple,A1475,cn,苹果, iPad Air (无线局域网 + 蜂窝网络)
+apple,A1476,cn,苹果, iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)
+apple,A1566,cn,苹果, iPad Air 2 (无线局域网)
+apple,A1567,cn,苹果, iPad Air 2 (无线局域网 + 蜂窝网络)
+apple,A2152,cn,苹果, iPad Air (第 3 代) (无线局域网)
+apple,A2123,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2153,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2154,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2316,cn,苹果, iPad Air (第 4 代) (无线局域网)
+apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2588,cn,苹果, iPad Air (第 5 代) (无线局域网)
+apple,A2589,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2591,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1584,cn,苹果, iPad Pro (12.9 英寸) (无线局域网)
+apple,A1652,cn,苹果, iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
+apple,A1673,cn,苹果, iPad Pro (9.7 英寸) (无线局域网)
+apple,A1674,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1670,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网)"
+apple,A1671,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (eSIM)"
+apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A1701,cn,苹果, iPad Pro (10.5 英寸) (无线局域网)
+apple,A1709,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1980,cn,苹果, iPad Pro (11 英寸) (无线局域网)
+apple,A1980,cn,苹果," iPad Pro (11 英寸) (无线局域网, 1TB)"
+apple,A1979,cn,苹果, iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1979,cn,苹果," iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) (中国大陆)"
+apple,A1876,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网)"
+apple,A1876,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网, 1TB)"
+apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB) (中国大陆)"
+apple,A2228,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网)"
+apple,A2231,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A2229,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网)"
+apple,A2233,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 8GB RAM)"
+apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 16GB RAM)"
+apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (eSIM)"
+apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (eSIM, 毫米波)"
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (中国大陆)"
+apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (eSIM)"
+apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (eSIM, 毫米波)"
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (中国大陆)"
+apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 8GB RAM)"
+apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 16GB RAM)"
+apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (eSIM)"
+apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (eSIM, 毫米波)"
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (中国大陆)"
+apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (eSIM)"
+apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (eSIM, 毫米波)"
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (中国大陆)"
+apple,A1432,cn,苹果, iPad mini (无线局域网)
+apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
+apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1489,cn,苹果, iPad mini 2 (无线局域网)
+apple,A1490,cn,苹果, iPad mini 2 (无线局域网 + 蜂窝网络)
+apple,A1491,cn,苹果, iPad mini 2 (无线局域网 + 蜂窝网络) (TD-LTE)
+apple,A1599,cn,苹果, iPad mini 3 (无线局域网)
+apple,A1600,cn,苹果, iPad mini 3 (无线局域网 + 蜂窝网络)
+apple,A1601,cn,苹果, iPad mini 3 (无线局域网 + 蜂窝网络) (TD-LTE)
+apple,A1538,cn,苹果, iPad mini 4 (无线局域网)
+apple,A1550,cn,苹果, iPad mini 4 (无线局域网 + 蜂窝网络)
+apple,A2133,cn,苹果, iPad mini (第 5 代) (无线局域网)
+apple,A2124,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2126,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2567,cn,苹果, iPad mini (第 6 代) (无线局域网)
+apple,A2568,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (eSIM)
+apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A1553,cn,苹果," Apple Watch (第 1 代, 38 毫米表壳)"
+apple,A1554,cn,苹果," Apple Watch (第 1 代, 42 毫米表壳)"
+apple,A1802,cn,苹果, Apple Watch Series 1 (38 毫米表壳)
+apple,A1803,cn,苹果, Apple Watch Series 1 (42 毫米表壳)
+apple,A1757,cn,苹果, Apple Watch Series 2 (38 毫米表壳)
+apple,A1816,cn,苹果, Apple Watch Edition (38 毫米表壳)
+apple,A1758,cn,苹果, Apple Watch Series 2 (42 毫米表壳)
+apple,A1817,cn,苹果, Apple Watch Edition (42 毫米表壳)
+apple,A1860,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (北美)
+apple,A1889,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (欧亚)
+apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (中国大陆)
+apple,A1861,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (北美)
+apple,A1891,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (欧亚)
+apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆)
+apple,A1858,cn,苹果, Apple Watch Series 3 (GPS) (38 毫米表壳)
+apple,A1859,cn,苹果, Apple Watch Series 3 (GPS) (42 毫米表壳)
+apple,A1977,cn,苹果, Apple Watch Series 4 (GPS) (40 毫米表壳)
+apple,A1978,cn,苹果, Apple Watch Series 4 (GPS) (44 毫米表壳)
+apple,A1975,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2007,cn,苹果," Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+apple,A1976,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2008,cn,苹果," Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+apple,A2092,cn,苹果, Apple Watch Series 5 (GPS) (40 毫米表壳)
+apple,A2093,cn,苹果, Apple Watch Series 5 (GPS) (44 毫米表壳)
+apple,A2094,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2156,cn,苹果," Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+apple,A2095,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2157,cn,苹果," Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+apple,A2351,cn,苹果, Apple Watch SE (GPS) (40 毫米表壳)
+apple,A2352,cn,苹果, Apple Watch SE (GPS) (44 毫米表壳)
+apple,A2353,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2355,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+apple,A2354,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2356,cn,苹果," Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+apple,A2291,cn,苹果, Apple Watch Series 6 (GPS) (40 毫米表壳)
+apple,A2292,cn,苹果, Apple Watch Series 6 (GPS) (44 毫米表壳)
+apple,A2293,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2375,cn,苹果," Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (欧亚, 中国大陆)"
+apple,A2294,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2376,cn,苹果," Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (欧亚, 中国大陆)"
+apple,A2473,cn,苹果, Apple Watch Series 7 (GPS) (41 毫米表壳)
+apple,A2474,cn,苹果, Apple Watch Series 7 (GPS) (45 毫米表壳)
+apple,A2475,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (北美)
+apple,A2476,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (欧亚, 中国大陆)"
+apple,A2477,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
+apple,A2478,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)"
+apple,A1213,cn,苹果, iPod touch
+apple,A1288,cn,苹果, iPod touch (第 2 代)
+apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
+apple,A1318,cn,苹果, iPod touch (第 3 代)
+apple,A1367,cn,苹果, iPod touch (第 4 代)
+apple,A1421,cn,苹果, iPod touch (第 5 代)
+apple,A1509,cn,苹果, iPod touch (第 5 代) (16GB)
+apple,A1574,cn,苹果, iPod touch (第 6 代)
+apple,A2178,cn,苹果, iPod touch (第 7 代)
 xiaomi,MI-ONE,en,小米, Mi 1 Lite
 xiaomi,2012051,en,小米, Mi 1S WCDMA
 xiaomi,2012053,en,小米, Mi 1S CDMA
@@ -484,284 +1047,6 @@ xiaomi,PRS-A0,en,小米, Black Shark 4S China
 xiaomi,KSR-A0,en,小米, Black Shark 4S Pro China
 xiaomi,XMWT01,en,小米, Mi Watch
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
-apple,A1324,cn,苹果, iPhone 3G (国行)
-apple,A1303,cn,苹果, iPhone 3GS
-apple,A1325,cn,苹果," iPhone 3GS (国行, 无 WLAN 功能)"
-apple,A1332,cn,苹果, iPhone 4 (GSM)
-apple,A1332,cn,苹果," iPhone 4 (GSM, 2011)"
-apple,A1431,cn,苹果, iPhone 4S (GSM)
-apple,A1387,cn,苹果, iPhone 4S (CDMA)
-apple,A1429,cn,苹果, iPhone 5 (GSM)
-apple,A1442,cn,苹果, iPhone 5 (CDMA)
-apple,A1533,cn,苹果, iPhone 5s (CDMA)
-apple,A1518,cn,苹果, iPhone 5s (中国移动)
-apple,A1528,cn,苹果, iPhone 5s (GSM)
-apple,A1530,cn,苹果, iPhone 5s (LTE)
-apple,A1532,cn,苹果, iPhone 5c (CDMA)
-apple,A1516,cn,苹果, iPhone 5c (中国移动)
-apple,A1526,cn,苹果, iPhone 5c (GSM)
-apple,A1529,cn,苹果, iPhone 5c (LTE)
-apple,A1586,cn,苹果, iPhone 6
-apple,A1589,cn,苹果, iPhone 6 (中国移动)
-apple,A1524,cn,苹果, iPhone 6 Plus
-apple,A1593,cn,苹果, iPhone 6 Plus (中国移动)
-apple,A1700,cn,苹果, iPhone 6s (国行)
-apple,A1691,cn,苹果, iPhone 6s (中国移动)
-apple,A1699,cn,苹果, iPhone 6s Plus (国行)
-apple,A1690,cn,苹果, iPhone 6s Plus (中国移动)
-apple,A1723,cn,苹果, iPhone SE
-apple,A1724,cn,苹果, iPhone SE (中国移动)
-apple,A1660,cn,苹果, iPhone 7
-apple,A1780,cn,苹果, iPhone 7 (中国移动)
-apple,A1661,cn,苹果, iPhone 7 Plus
-apple,A1786,cn,苹果, iPhone 7 Plus (中国移动)
-apple,A1863,cn,苹果, iPhone 8
-apple,A1907,cn,苹果, iPhone 8 (中国移动)
-apple,A1864,cn,苹果, iPhone 8 Plus
-apple,A1899,cn,苹果, iPhone 8 Plus (中国移动)
-apple,A1865,cn,苹果, iPhone X
-apple,A1903,cn,苹果, iPhone X (中国移动)
-apple,A2100,cn,苹果, iPhone XS (国行)
-apple,A2099,cn,苹果, iPhone XS (中国移动)
-apple,A2104,cn,苹果, iPhone XS Max (国行，双卡)
-apple,A2103,cn,苹果, iPhone XS Max (中国移动)
-apple,A2108,cn,苹果, iPhone XR (国行，双卡)
-apple,A2107,cn,苹果, iPhone XR (中国移动)
-apple,A2223,cn,苹果, iPhone 11 (国行)
-apple,A2222,cn,苹果, iPhone 11 (中国移动)
-apple,A2217,cn,苹果, iPhone 11 Pro (国行)
-apple,A2216,cn,苹果, iPhone 11 Pro (中国移动)
-apple,A2220,cn,苹果, iPhone 11 Pro Max (国行)
-apple,A2219,cn,苹果, iPhone 11 Pro Max (中国移动)
-apple,A2298,cn,苹果, iPhone SE (第 2 代) (国行)
-apple,A2297,cn,苹果, iPhone SE (第 2 代) (中国移动)
-apple,A2400,cn,苹果, iPhone 12 mini (国行)
-apple,A2404,cn,苹果, iPhone 12 (国行)
-apple,A2408,cn,苹果, iPhone 12 Pro (国行)
-apple,A2412,cn,苹果, iPhone 12 Pro Max (国行)
-apple,A2629,cn,苹果, iPhone 13 mini (国行)
-apple,A2634,cn,苹果, iPhone 13 (国行)
-apple,A2639,cn,苹果, iPhone 13 Pro (国行)
-apple,A2644,cn,苹果, iPhone 13 Pro Max (国行)
-apple,A1219,cn,苹果, iPad (无线局域网)
-apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
-apple,A1395,cn,苹果, iPad 2 (无线局域网)
-apple,A1396,cn,苹果, iPad 2 (无线局域网 + 3G) (GSM)
-apple,A1397,cn,苹果, iPad 2 (无线局域网 + 3G) (CDMA)
-apple,A1395,cn,苹果," iPad 2 (无线局域网, 2012)"
-apple,A1416,cn,苹果, iPad (第 3 代) (无线局域网)
-apple,A1430,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络)
-apple,A1458,cn,苹果, iPad (第 4 代) (无线局域网)
-apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A1822,cn,苹果, iPad (第 5 代) (无线局域网)
-apple,A1823,cn,苹果, iPad (第 5 代) (无线局域网 + 蜂窝网络)
-apple,A1893,cn,苹果, iPad (第 6 代) (无线局域网)
-apple,A1954,cn,苹果, iPad (第 6 代) (无线局域网 + 蜂窝网络)
-apple,A2197,cn,苹果, iPad (第 7 代) (无线局域网)
-apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A2270,cn,苹果, iPad (第 8 代) (无线局域网)
-apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A2602,cn,苹果, iPad (第 9 代) (无线局域网)
-apple,A2605,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A1474,cn,苹果, iPad Air (无线局域网)
-apple,A1475,cn,苹果, iPad Air (无线局域网 + 蜂窝网络)
-apple,A1476,cn,苹果, iPad Air (无线局域网 + 蜂窝网络) (TD-LTE)
-apple,A1566,cn,苹果, iPad Air 2 (无线局域网)
-apple,A1567,cn,苹果, iPad Air 2 (无线局域网 + 蜂窝网络)
-apple,A2152,cn,苹果, iPad Air (第 3 代) (无线局域网)
-apple,A2154,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A2316,cn,苹果, iPad Air (第 4 代) (无线局域网)
-apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A1584,cn,苹果, iPad Pro (12.9 英寸) (无线局域网)
-apple,A1652,cn,苹果, iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
-apple,A1673,cn,苹果, iPad Pro (9.7 英寸) (无线局域网)
-apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) (国行)
-apple,A1670,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网)"
-apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (国行)"
-apple,A1701,cn,苹果, iPad Pro (10.5 英寸) (无线局域网)
-apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) (国行)
-apple,A1980,cn,苹果, iPad Pro (11 英寸) (无线局域网)
-apple,A1980,cn,苹果," iPad Pro (11 英寸) (无线局域网, 1TB)"
-apple,A1979,cn,苹果, iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) (国行)
-apple,A1979,cn,苹果," iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) (国行)"
-apple,A1876,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网)"
-apple,A1876,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网, 1TB)"
-apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络) (国行)"
-apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB) (国行)"
-apple,A2228,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网)"
-apple,A2231,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络) (国行)"
-apple,A2229,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网)"
-apple,A2233,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络) (国行)"
-apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 8GB RAM)"
-apple,A2377,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网, 16GB RAM)"
-apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (国行)"
-apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (国行)"
-apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 8GB RAM)"
-apple,A2378,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网, 16GB RAM)"
-apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (国行)"
-apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (国行)"
-apple,A1432,cn,苹果, iPad mini (无线局域网)
-apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) (国行)
-apple,A1489,cn,苹果, iPad mini 2 (无线局域网)
-apple,A1490,cn,苹果, iPad mini 2 (无线局域网 + 蜂窝网络)
-apple,A1491,cn,苹果, iPad mini 2 (无线局域网 + 蜂窝网络) (TD-LTE)
-apple,A1599,cn,苹果, iPad mini 3 (无线局域网)
-apple,A1600,cn,苹果, iPad mini 3 (无线局域网 + 蜂窝网络)
-apple,A1601,cn,苹果, iPad mini 3 (无线局域网 + 蜂窝网络) (TD-LTE)
-apple,A1538,cn,苹果, iPad mini 4 (无线局域网)
-apple,A1550,cn,苹果, iPad mini 4 (无线局域网 + 蜂窝网络)
-apple,A2133,cn,苹果, iPad mini (第 5 代) (无线局域网)
-apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A2567,cn,苹果, iPad mini (第 6 代) (无线局域网)
-apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (国行)
-apple,A1553,cn,苹果," Apple Watch (第 1 代, 38 毫米表壳)"
-apple,A1554,cn,苹果," Apple Watch (第 1 代, 42 毫米表壳)"
-apple,A1802,cn,苹果, Apple Watch Series 1 (38 毫米表壳)
-apple,A1803,cn,苹果, Apple Watch Series 1 (42 毫米表壳)
-apple,A1757,cn,苹果, Apple Watch Series 2 (38 毫米表壳)
-apple,A1816,cn,苹果, Apple Watch Edition (38 毫米表壳)
-apple,A1758,cn,苹果, Apple Watch Series 2 (42 毫米表壳)
-apple,A1817,cn,苹果, Apple Watch Edition (42 毫米表壳)
-apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (国行)
-apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (国行)
-apple,A1858,cn,苹果, Apple Watch Series 3 (GPS) (38 毫米表壳)
-apple,A1859,cn,苹果, Apple Watch Series 3 (GPS) (42 毫米表壳)
-apple,A1977,cn,苹果, Apple Watch Series 4 (GPS) (40 毫米表壳)
-apple,A1978,cn,苹果, Apple Watch Series 4 (GPS) (44 毫米表壳)
-apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
-apple,A2008,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
-apple,A2092,cn,苹果, Apple Watch Series 5 (GPS) (40 毫米表壳)
-apple,A2093,cn,苹果, Apple Watch Series 5 (GPS) (44 毫米表壳)
-apple,A2156,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
-apple,A2157,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
-apple,A2351,cn,苹果, Apple Watch SE (GPS) (40 毫米表壳)
-apple,A2352,cn,苹果, Apple Watch SE (GPS) (44 毫米表壳)
-apple,A2355,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (国行)
-apple,A2356,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (国行)
-apple,A2291,cn,苹果, Apple Watch Series 6 (GPS) (40 毫米表壳)
-apple,A2292,cn,苹果, Apple Watch Series 6 (GPS) (44 毫米表壳)
-apple,A2375,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (国行)
-apple,A2376,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (国行)
-apple,A2473,cn,苹果, Apple Watch Series 7 (GPS) (41 毫米表壳)
-apple,A2474,cn,苹果, Apple Watch Series 7 (GPS) (45 毫米表壳)
-apple,A2476,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (国行)
-apple,A2478,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (国行)
-apple,A1213,cn,苹果, iPod touch
-apple,A1319,cn,苹果, iPod touch (第 2 代) (国行)
-apple,A1318,cn,苹果, iPod touch (第 3 代)
-apple,A1367,cn,苹果, iPod touch (第 4 代)
-apple,A1421,cn,苹果, iPod touch (第 5 代)
-apple,A1509,cn,苹果, iPod touch (第 5 代) (16GB)
-apple,A1574,cn,苹果, iPod touch (第 6 代)
-apple,A2178,cn,苹果, iPod touch (第 7 代)
-apple,A1203,cn,苹果, iPhone
-apple,A1241,cn,苹果, iPhone 3G
-apple,A1349,cn,苹果, iPhone 4 (CDMA)
-apple,A1428,cn,苹果, iPhone 5
-apple,A1453,cn,苹果, iPhone 5s (CDMA)
-apple,A1457,cn,苹果, iPhone 5s (GSM)
-apple,A1456,cn,苹果, iPhone 5c (CDMA)
-apple,A1507,cn,苹果, iPhone 5c (GSM)
-apple,A1549,cn,苹果, iPhone 6
-apple,A1522,cn,苹果, iPhone 6 Plus
-apple,A1633,cn,苹果, iPhone 6s
-apple,A1688,cn,苹果, iPhone 6s
-apple,A1634,cn,苹果, iPhone 6s Plus
-apple,A1687,cn,苹果, iPhone 6s Plus
-apple,A1662,cn,苹果, iPhone SE
-apple,A1779,cn,苹果, iPhone 7 (日本)
-apple,A1778,cn,苹果, iPhone 7 (GSM)
-apple,A1785,cn,苹果, iPhone 7 Plus (日本)
-apple,A1784,cn,苹果, iPhone 7 Plus (GSM)
-apple,A1906,cn,苹果, iPhone 8 (日本)
-apple,A1905,cn,苹果, iPhone 8 (GSM)
-apple,A1898,cn,苹果, iPhone 8 Plus (日本)
-apple,A1897,cn,苹果, iPhone 8 Plus (GSM)
-apple,A1902,cn,苹果, iPhone X (日本)
-apple,A1901,cn,苹果, iPhone X (GSM)
-apple,A1920,cn,苹果, iPhone XS (北美，港澳)
-apple,A2097,cn,苹果, iPhone XS (GSM)
-apple,A2098,cn,苹果, iPhone XS (日本)
-apple,A1921,cn,苹果, iPhone XS Max (北美)
-apple,A2101,cn,苹果, iPhone XS Max (GSM)
-apple,A2102,cn,苹果, iPhone XS Max (日本)
-apple,A1984,cn,苹果, iPhone XR (北美)
-apple,A2105,cn,苹果, iPhone XR (GSM)
-apple,A2106,cn,苹果, iPhone XR (日本)
-apple,A2111,cn,苹果, iPhone 11 (北美)
-apple,A2221,cn,苹果, iPhone 11 (其他国家和地区)
-apple,A2160,cn,苹果, iPhone 11 Pro (北美)
-apple,A2215,cn,苹果, iPhone 11 Pro (其他国家和地区)
-apple,A2161,cn,苹果, iPhone 11 Pro Max (北美)
-apple,A2218,cn,苹果, iPhone 11 Pro Max (其他国家和地区)
-apple,A2275,cn,苹果, iPhone SE (第 2 代) (北美)
-apple,A2296,cn,苹果, iPhone SE (第 2 代) (其他国家和地区)
-apple,A2176,cn,苹果, iPhone 12 mini (美国)
-apple,A2398,cn,苹果, iPhone 12 mini (加拿大，日本)
-apple,A2399,cn,苹果, iPhone 12 mini (其他国家和地区)
-apple,A2172,cn,苹果, iPhone 12 (美国)
-apple,A2402,cn,苹果, iPhone 12 (加拿大，日本)
-apple,A2403,cn,苹果, iPhone 12 (其他国家和地区)
-apple,A2341,cn,苹果, iPhone 12 Pro (美国)
-apple,A2406,cn,苹果, iPhone 12 Pro (加拿大，日本)
-apple,A2407,cn,苹果, iPhone 12 Pro (其他国家和地区)
-apple,A2342,cn,苹果, iPhone 12 Pro Max (美国)
-apple,A2410,cn,苹果, iPhone 12 Pro Max (加拿大，日本)
-apple,A2411,cn,苹果, iPhone 12 Pro Max (其他国家和地区)
-apple,A2481,cn,苹果, iPhone 13 mini (美国)
-apple,A2626,cn,苹果," iPhone 13 mini (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
-apple,A2630,cn,苹果," iPhone 13 mini (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
-apple,A2628,cn,苹果, iPhone 13 mini (其他国家和地区)
-apple,A2482,cn,苹果, iPhone 13 (美国)
-apple,A2631,cn,苹果," iPhone 13 (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
-apple,A2635,cn,苹果," iPhone 13 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
-apple,A2633,cn,苹果, iPhone 13 (其他国家和地区)
-apple,A2483,cn,苹果, iPhone 13 Pro (美国)
-apple,A2636,cn,苹果," iPhone 13 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
-apple,A2640,cn,苹果," iPhone 13 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
-apple,A2638,cn,苹果, iPhone 13 Pro (其他国家和地区)
-apple,A2484,cn,苹果, iPhone 13 Pro Max (美国)
-apple,A2641,cn,苹果," iPhone 13 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
-apple,A2645,cn,苹果," iPhone 13 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
-apple,A2643,cn,苹果, iPhone 13 Pro Max (其他国家和地区)
-apple,A1403,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
-apple,A1459,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络)
-apple,A2428,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
-apple,A2429,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
-apple,A2603,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络)
-apple,A2604,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络)
-apple,A2123,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
-apple,A2153,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络)
-apple,A1674,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络)
-apple,A1671,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络)"
-apple,A1709,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络)
-apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM)"
-apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) (毫米波)"
-apple,A2459,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
-apple,A2301,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) (毫米波)"
-apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM)"
-apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) (毫米波)"
-apple,A2461,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
-apple,A2379,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) (毫米波)"
-apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
-apple,A2124,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
-apple,A2126,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
-apple,A2568,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
-apple,A1860,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (北美)
-apple,A1889,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) (欧亚)
-apple,A1861,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (北美)
-apple,A1891,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) (欧亚)
-apple,A1975,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A1976,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2094,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A2095,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2353,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A2354,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2293,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) (北美)
-apple,A2294,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) (北美)
-apple,A2475,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (北美)
-apple,A2477,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
-apple,A1288,cn,苹果, iPod touch (第 2 代)
 samsung,SM-N960F,en,三星, Galaxy Note9 EU
 samsung,SM-N970U,en,三星, Galaxy Note10 US
 samsung,SM-A125F,en,三星, Galaxy A12 Global
@@ -2944,275 +3229,74 @@ google,G8VOU,en,其他," Pixel 6 Pro (US, AU) (mmWave)"
 google,GLUOG,en,其他, Pixel 6 Pro (Rest of the world)
 google,GR1YH,en,其他, Pixel 6 Pro (Japan)
 google,C1502W,en,其他, Pixel C
-apple,A1203,en,苹果, iPhone
-apple,A1241,en,苹果, iPhone 3G
-apple,A1324,en,苹果, iPhone 3G (China mainland)
-apple,A1303,en,苹果, iPhone 3GS
-apple,A1325,en,苹果, iPhone 3GS (China mainland)
-apple,A1332,en,苹果, iPhone 4 (GSM)
-apple,A1349,en,苹果, iPhone 4 (CDMA)
-apple,A1332,en,苹果, iPhone 4 (GSM) (2011)
-apple,A1431,en,苹果, iPhone 4S (GSM)
-apple,A1387,en,苹果, iPhone 4S (CDMA)
-apple,A1428,en,苹果, iPhone 5 (GSM)
-apple,A1429,en,苹果, iPhone 5 (GSM)
-apple,A1442,en,苹果, iPhone 5 (CDMA)
-apple,A1518,en,苹果, iPhone 5s (China Mobile)
-apple,A1507,en,苹果, iPhone 5c (GSM)
-apple,A1526,en,苹果, iPhone 5c (GSM)
-apple,A1529,en,苹果, iPhone 5c (GSM)
-apple,A1516,en,苹果, iPhone 5c (China Mobile)
-apple,A1549,en,苹果, iPhone 6
-apple,A1586,en,苹果, iPhone 6
-apple,A1589,en,苹果, iPhone 6 (China Mobile)
-apple,A1522,en,苹果, iPhone 6 Plus
-apple,A1524,en,苹果, iPhone 6 Plus
-apple,A1593,en,苹果, iPhone 6 Plus (China Mobile)
-apple,A1633,en,苹果, iPhone 6s
-apple,A1688,en,苹果, iPhone 6s
-apple,A1700,en,苹果, iPhone 6s (China mainland)
-apple,A1691,en,苹果, iPhone 6s (China Mobile)
-apple,A1634,en,苹果, iPhone 6s Plus
-apple,A1687,en,苹果, iPhone 6s Plus
-apple,A1699,en,苹果, iPhone 6s Plus (China mainland)
-apple,A1690,en,苹果, iPhone 6s Plus (China Mobile)
-apple,A1724,en,苹果, iPhone SE (China Mobile)
-apple,A1660,en,苹果, iPhone 7
-apple,A1780,en,苹果, iPhone 7 (China Mobile)
-apple,A1779,en,苹果, iPhone 7 (Japan)
-apple,A1778,en,苹果, iPhone 7 (GSM)
-apple,A1661,en,苹果, iPhone 7 Plus
-apple,A1786,en,苹果, iPhone 7 Plus (China Mobile)
-apple,A1785,en,苹果, iPhone 7 Plus (Japan)
-apple,A1784,en,苹果, iPhone 7 Plus (GSM)
-apple,A1863,en,苹果, iPhone 8
-apple,A1907,en,苹果, iPhone 8 (China Mobile)
-apple,A1906,en,苹果, iPhone 8 (Japan)
-apple,A1905,en,苹果, iPhone 8 (GSM)
-apple,A1864,en,苹果, iPhone 8 Plus
-apple,A1899,en,苹果, iPhone 8 Plus (China Mobile)
-apple,A1898,en,苹果, iPhone 8 Plus (Japan)
-apple,A1897,en,苹果, iPhone 8 Plus (GSM)
-apple,A1865,en,苹果, iPhone X
-apple,A1903,en,苹果, iPhone X (China Mobile)
-apple,A1902,en,苹果, iPhone X (Japan)
-apple,A1901,en,苹果, iPhone X (GSM)
-apple,A1920,en,苹果, iPhone XS (North America)
-apple,A2097,en,苹果, iPhone XS (GSM)
-apple,A2098,en,苹果, iPhone XS (Japan)
-apple,A2100,en,苹果, iPhone XS (China mainland)
-apple,A2099,en,苹果, iPhone XS (China Mobile)
-apple,A1921,en,苹果, iPhone XS Max (North America)
-apple,A2101,en,苹果, iPhone XS Max (GSM)
-apple,A2102,en,苹果, iPhone XS Max (Japan)
-apple,A2104,en,苹果," iPhone XS Max (China mainland, Hong Kong, Macao)"
-apple,A2103,en,苹果, iPhone XS Max (China Mobile)
-apple,A1984,en,苹果, iPhone XR (North America)
-apple,A2105,en,苹果, iPhone XR (GSM)
-apple,A2106,en,苹果, iPhone XR (Japan)
-apple,A2108,en,苹果," iPhone XR (China mainland, Hong Kong, Macao)"
-apple,A2107,en,苹果, iPhone XR (China Mobile)
-apple,A2111,en,苹果, iPhone 11 (North America)
-apple,A2223,en,苹果," iPhone 11 (China mainland, Hong Kong, Macao)"
-apple,A2222,en,苹果, iPhone 11 (China Mobile)
-apple,A2221,en,苹果, iPhone 11 (Rest of the world)
-apple,A2160,en,苹果, iPhone 11 Pro (North America)
-apple,A2217,en,苹果," iPhone 11 Pro (China mainland, Hong Kong, Macao)"
-apple,A2216,en,苹果, iPhone 11 Pro (China Mobile)
-apple,A2215,en,苹果, iPhone 11 Pro (Rest of the world)
-apple,A2161,en,苹果, iPhone 11 Pro Max (North America)
-apple,A2220,en,苹果," iPhone 11 Pro Max (China mainland, Hong Kong, Macao)"
-apple,A2219,en,苹果, iPhone 11 Pro Max (China Mobile)
-apple,A2218,en,苹果, iPhone 11 Pro Max (Rest of the world)
-apple,A2275,en,苹果, iPhone SE (2nd generation) (North America)
-apple,A2298,en,苹果, iPhone SE (2nd generation) (China mainland)
-apple,A2297,en,苹果, iPhone SE (2nd generation) (China Mobile)
-apple,A2296,en,苹果, iPhone SE (2nd generation) (Rest of the world)
-apple,A2176,en,苹果, iPhone 12 mini (United States)
-apple,A2398,en,苹果," iPhone 12 mini (Canada, Japan)"
-apple,A2400,en,苹果, iPhone 12 mini (China mainland)
-apple,A2399,en,苹果, iPhone 12 mini (Rest of the world)
-apple,A2172,en,苹果, iPhone 12 (United States)
-apple,A2402,en,苹果," iPhone 12 (Canada, Japan)"
-apple,A2404,en,苹果," iPhone 12 (China mainland, Hong Kong, Macao)"
-apple,A2403,en,苹果, iPhone 12 (Rest of the world)
-apple,A2341,en,苹果, iPhone 12 Pro (United States)
-apple,A2406,en,苹果," iPhone 12 Pro (Canada, Japan)"
-apple,A2408,en,苹果," iPhone 12 Pro (China mainland, Hong Kong, Macao)"
-apple,A2407,en,苹果, iPhone 12 Pro (Rest of the world)
-apple,A2342,en,苹果, iPhone 12 Pro Max (United States)
-apple,A2410,en,苹果," iPhone 12 Pro Max (Canada, Japan)"
-apple,A2412,en,苹果," iPhone 12 Pro Max (China mainland, Hong Kong, Macao)"
-apple,A2411,en,苹果, iPhone 12 Pro Max (Rest of the world)
-apple,A2481,en,苹果, iPhone 13 mini (United States)
-apple,A2626,en,苹果," iPhone 13 mini (Canada, Japan, Mexico, Saudi Arabia)"
-apple,A2629,en,苹果, iPhone 13 mini (China mainland)
-apple,A2630,en,苹果," iPhone 13 mini (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
-apple,A2628,en,苹果, iPhone 13 mini (Rest of the world)
-apple,A2482,en,苹果, iPhone 13 (United States)
-apple,A2631,en,苹果," iPhone 13 (Canada, Japan, Mexico, Saudi Arabia)"
-apple,A2634,en,苹果," iPhone 13 (China mainland, Hong Kong, Macao)"
-apple,A2635,en,苹果," iPhone 13 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
-apple,A2633,en,苹果, iPhone 13 (Rest of the world)
-apple,A2483,en,苹果, iPhone 13 Pro (United States)
-apple,A2636,en,苹果," iPhone 13 Pro (Canada, Japan, Mexico, Saudi Arabia)"
-apple,A2639,en,苹果," iPhone 13 Pro (China mainland, Hong Kong, Macao)"
-apple,A2640,en,苹果," iPhone 13 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
-apple,A2638,en,苹果, iPhone 13 Pro (Rest of the world)
-apple,A2484,en,苹果, iPhone 13 Pro Max (United States)
-apple,A2641,en,苹果," iPhone 13 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
-apple,A2644,en,苹果," iPhone 13 Pro Max (China mainland, Hong Kong, Macao)"
-apple,A2645,en,苹果," iPhone 13 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
-apple,A2643,en,苹果, iPhone 13 Pro Max (Rest of the world)
-apple,A1219,en,苹果, iPad Wi-Fi
-apple,A1337,en,苹果, iPad Wi-Fi + 3G
-apple,A1395,en,苹果, iPad 2 Wi-Fi
-apple,A1396,en,苹果, iPad 2 Wi-Fi + 3G (GSM)
-apple,A1397,en,苹果, iPad 2 Wi-Fi + 3G (CDMA)
-apple,A1395,en,苹果, iPad 2 Wi-Fi (2012)
-apple,A1416,en,苹果, iPad (3rd generation) Wi-Fi
-apple,A1403,en,苹果, iPad (3rd generation) Wi-Fi + Cellular (VZ)
-apple,A1430,en,苹果, iPad (3rd generation) Wi-Fi + Cellular
-apple,A1458,en,苹果, iPad (4th generation) Wi-Fi
-apple,A1459,en,苹果, iPad (4th generation) Wi-Fi + Cellular
-apple,A1460,en,苹果, iPad (4th generation) Wi-Fi + Cellular (China mainland)
-apple,A1822,en,苹果, iPad (5th generation) Wi-Fi
-apple,A1823,en,苹果, iPad (5th generation) Wi-Fi + Cellular
-apple,A1893,en,苹果, iPad (6th generation) Wi-Fi
-apple,A1954,en,苹果, iPad (6th generation) Wi-Fi + Cellular
-apple,A2197,en,苹果, iPad (7th generation) Wi-Fi
-apple,A2199,en,苹果, iPad (7th generation) Wi-Fi + Cellular (China mainland)
-apple,A2270,en,苹果, iPad (8th generation) Wi-Fi
-apple,A2428,en,苹果, iPad (8th generation) Wi-Fi + Cellular
-apple,A2429,en,苹果, iPad (8th generation) Wi-Fi + Cellular
-apple,A2430,en,苹果, iPad (8th generation) Wi-Fi + Cellular (China mainland)
-apple,A2602,en,苹果, iPad (9th generation) Wi-Fi
-apple,A2603,en,苹果, iPad (9th generation) Wi-Fi + Cellular
-apple,A2604,en,苹果, iPad (9th generation) Wi-Fi + Cellular
-apple,A2605,en,苹果, iPad (9th generation) Wi-Fi + Cellular (China mainland)
-apple,A1474,en,苹果, iPad Air Wi-Fi
-apple,A1475,en,苹果, iPad Air Wi-Fi + Cellular
-apple,A1476,en,苹果, iPad Air Wi-Fi + Cellular (TD-LTE)
-apple,A1566,en,苹果, iPad Air 2 Wi-Fi
-apple,A1567,en,苹果, iPad Air 2 Wi-Fi + Cellular
-apple,A2152,en,苹果, iPad Air (3rd generation) Wi-Fi
-apple,A2123,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular
-apple,A2153,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular
-apple,A2154,en,苹果, iPad Air (3rd generation) Wi-Fi + Cellular (China mainland)
-apple,A2316,en,苹果, iPad Air (4th generation) Wi-Fi
-apple,A2325,en,苹果, iPad Air (4th generation) Wi-Fi + Cellular (China mainland)
-apple,A1584,en,苹果, iPad Pro (12.9-inch) Wi-Fi
-apple,A1652,en,苹果, iPad Pro (12.9-inch) Wi-Fi + Cellular
-apple,A1673,en,苹果, iPad Pro (9.7-inch) Wi-Fi
-apple,A1674,en,苹果, iPad Pro (9.7-inch) Wi-Fi + Cellular
-apple,A1675,en,苹果, iPad Pro (9.7-inch) Wi-Fi + Cellular (China mainland)
-apple,A1670,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi"
-apple,A1671,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular"
-apple,A1821,en,苹果," iPad Pro (12.9-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
-apple,A1701,en,苹果, iPad Pro (10.5-inch) Wi-Fi
-apple,A1709,en,苹果, iPad Pro (10.5-inch) Wi-Fi + Cellular
-apple,A1852,en,苹果, iPad Pro (10.5-inch) Wi-Fi + Cellular (China mainland)
-apple,A1980,en,苹果, iPad Pro (11-inch) Wi-Fi
-apple,A1980,en,苹果, iPad Pro (11-inch) Wi-Fi (1TB)
-apple,A1979,en,苹果, iPad Pro (11-inch) Wi-Fi + Cellular (China mainland)
-apple,A1979,en,苹果, iPad Pro (11-inch) Wi-Fi + Cellular (1TB) (China mainland)
-apple,A1876,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi"
-apple,A1876,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi (1TB)"
-apple,A1983,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (China mainland)"
-apple,A1983,en,苹果," iPad Pro (12.9-inch, 3rd generation) Wi-Fi + Cellular (1TB) (China mainland)"
-apple,A2228,en,苹果," iPad Pro (11-inch, 2nd generation) Wi-Fi"
-apple,A2231,en,苹果," iPad Pro (11-inch, 2nd generation) Wi-Fi + Cellular (China mainland)"
-apple,A2229,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi"
-apple,A2233,en,苹果," iPad Pro (12.9-inch, 4th generation) Wi-Fi + Cellular (China mainland)"
-apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (8GB RAM)"
-apple,A2377,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi (16GB RAM)"
-apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM)"
-apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
-apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
-apple,A2459,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM)"
-apple,A2301,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
-apple,A2460,en,苹果," iPad Pro (11-inch, 3rd generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
-apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (8GB RAM)"
-apple,A2378,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi (16GB RAM)"
-apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM)"
-apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, mmWave)"
-apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (8GB RAM, China mainland)"
-apple,A2461,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM)"
-apple,A2379,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, mmWave)"
-apple,A2462,en,苹果," iPad Pro (12.9-inch, 5th generation) Wi-Fi + Cellular (16GB RAM, China mainland)"
-apple,A1432,en,苹果, iPad mini Wi-Fi
-apple,A1454,en,苹果, iPad mini Wi-Fi + Cellular
-apple,A1455,en,苹果, iPad mini Wi-Fi + Cellular (China mainland)
-apple,A1489,en,苹果, iPad mini 2 Wi-Fi
-apple,A1490,en,苹果, iPad mini 2 Wi-Fi + Cellular
-apple,A1491,en,苹果, iPad mini 2 Wi-Fi + Cellular (TD-LTE)
-apple,A1599,en,苹果, iPad mini 3 Wi-Fi
-apple,A1600,en,苹果, iPad mini 3 Wi-Fi + Cellular
-apple,A1601,en,苹果, iPad mini 3 Wi-Fi + Cellular (TD-LTE)
-apple,A1538,en,苹果, iPad mini 4 Wi-Fi
-apple,A1550,en,苹果, iPad mini 4 Wi-Fi + Cellular
-apple,A2133,en,苹果, iPad mini (5th generation) Wi-Fi
-apple,A2124,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
-apple,A2126,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular
-apple,A2125,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular (China mainland)
-apple,A2567,en,苹果, iPad mini (6th generation) Wi-Fi
-apple,A2568,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular
-apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
-apple,A1553,en,苹果," Apple Watch (1st generation, 38mm case)"
-apple,A1554,en,苹果," Apple Watch (1st generation, 42mm case)"
-apple,A1802,en,苹果, Apple Watch Series 1 (38mm case)
-apple,A1803,en,苹果, Apple Watch Series 1 (42mm case)
-apple,A1757,en,苹果, Apple Watch Series 2 (38mm case)
-apple,A1816,en,苹果, Apple Watch Edition (38mm case)
-apple,A1758,en,苹果, Apple Watch Series 2 (42mm case)
-apple,A1817,en,苹果, Apple Watch Edition (42mm case)
-apple,A1860,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (North America)
-apple,A1889,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (Europe and Asia Pacific)
-apple,A1890,en,苹果, Apple Watch Series 3 (GPS + Cellular) (38mm case) (China mainland)
-apple,A1861,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (North America)
-apple,A1891,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (Europe and Asia Pacific)
-apple,A1892,en,苹果, Apple Watch Series 3 (GPS + Cellular) (42mm case) (China mainland)
-apple,A1858,en,苹果, Apple Watch Series 3 (GPS) (38mm case)
-apple,A1859,en,苹果, Apple Watch Series 3 (GPS) (42mm case)
-apple,A1977,en,苹果, Apple Watch Series 4 (GPS) (40mm case)
-apple,A1978,en,苹果, Apple Watch Series 4 (GPS) (44mm case)
-apple,A1975,en,苹果, Apple Watch Series 4 (GPS + Cellular) (40mm case) (North America)
-apple,A2007,en,苹果," Apple Watch Series 4 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-apple,A1976,en,苹果, Apple Watch Series 4 (GPS + Cellular) (44mm case) (North America)
-apple,A2008,en,苹果," Apple Watch Series 4 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-apple,A2092,en,苹果, Apple Watch Series 5 (GPS) (40mm case)
-apple,A2093,en,苹果, Apple Watch Series 5 (GPS) (44mm case)
-apple,A2094,en,苹果, Apple Watch Series 5 (GPS + Cellular) (40mm case) (North America)
-apple,A2156,en,苹果," Apple Watch Series 5 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-apple,A2095,en,苹果, Apple Watch Series 5 (GPS + Cellular) (44mm case) (North America)
-apple,A2157,en,苹果," Apple Watch Series 5 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-apple,A2351,en,苹果, Apple Watch SE (GPS) (40mm case)
-apple,A2352,en,苹果, Apple Watch SE (GPS) (44mm case)
-apple,A2353,en,苹果, Apple Watch SE (GPS + Cellular) (40mm case) (North America)
-apple,A2355,en,苹果," Apple Watch SE (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-apple,A2354,en,苹果, Apple Watch SE (GPS + Cellular) (44mm case) (North America)
-apple,A2356,en,苹果," Apple Watch SE (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-apple,A2291,en,苹果, Apple Watch Series 6 (GPS) (40mm case)
-apple,A2292,en,苹果, Apple Watch Series 6 (GPS) (44mm case)
-apple,A2293,en,苹果, Apple Watch Series 6 (GPS + Cellular) (40mm case) (North America)
-apple,A2375,en,苹果," Apple Watch Series 6 (GPS + Cellular) (40mm case) (Europe, Asia Pacific, and China)"
-apple,A2294,en,苹果, Apple Watch Series 6 (GPS + Cellular) (44mm case) (North America)
-apple,A2376,en,苹果," Apple Watch Series 6 (GPS + Cellular) (44mm case) (Europe, Asia Pacific, and China)"
-apple,A2473,en,苹果, Apple Watch Series 7 (GPS) (41mm case)
-apple,A2474,en,苹果, Apple Watch Series 7 (GPS) (45mm case)
-apple,A2475,en,苹果, Apple Watch Series 7 (GPS + Cellular) (41mm case) (North America)
-apple,A2476,en,苹果," Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
-apple,A2477,en,苹果, Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
-apple,A2478,en,苹果," Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
-apple,A1213,en,苹果, iPod touch (1st generation)
-apple,A1288,en,苹果, iPod touch (2nd generation)
-apple,A1319,en,苹果, iPod touch (2nd generation) (China mainland)
-apple,A1318,en,苹果, iPod touch (3rd generation)
-apple,A1367,en,苹果, iPod touch (4th generation)
-apple,A1421,en,苹果, iPod touch (5th generation)
-apple,A1509,en,苹果, iPod touch (5th generation) (16GB)
-apple,A1574,en,苹果, iPod touch (6th generation)
-apple,A2178,en,苹果, iPod touch (7th generation)
+apple,A1324,cn,苹果, iPhone 3G 
+apple,A1325,cn,苹果, iPhone 3GS (无 WLAN 功能)
+apple,A1332,cn,苹果, iPhone 4
+apple,A1332,cn,苹果, iPhone 4 (2011)
+apple,A1431,cn,苹果, iPhone 4S (中国联通)
+apple,A1387,cn,苹果, iPhone 4S (中国电信)
+apple,A1429,cn,苹果, iPhone 5 (中国联通)
+apple,A1442,cn,苹果, iPhone 5 (中国电信)
+apple,A1533,cn,苹果, iPhone 5s (中国电信)
+apple,A1518,cn,苹果, iPhone 5s (中国移动)
+apple,A1528,cn,苹果, iPhone 5s (中国联通)
+apple,A1532,cn,苹果, iPhone 5c (中国电信)
+apple,A1516,cn,苹果, iPhone 5c (中国移动)
+apple,A1526,cn,苹果, iPhone 5c (中国联通)
+apple,A1700,cn,苹果, iPhone 6s 
+apple,A1699,cn,苹果, iPhone 6s Plus 
+apple,A2100,cn,苹果, iPhone XS 
+apple,A2104,cn,苹果, iPhone XS Max
+apple,A2108,cn,苹果, iPhone XR
+apple,A2223,cn,苹果, iPhone 11 
+apple,A2217,cn,苹果, iPhone 11 Pro 
+apple,A2220,cn,苹果, iPhone 11 Pro Max 
+apple,A2298,cn,苹果, iPhone SE (第 2 代) 
+apple,A2400,cn,苹果, iPhone 12 mini 
+apple,A2404,cn,苹果, iPhone 12 
+apple,A2408,cn,苹果, iPhone 12 Pro 
+apple,A2412,cn,苹果, iPhone 12 Pro Max 
+apple,A2629,cn,苹果, iPhone 13 mini 
+apple,A2634,cn,苹果, iPhone 13 
+apple,A2639,cn,苹果, iPhone 13 Pro 
+apple,A2644,cn,苹果, iPhone 13 Pro Max 
+apple,A2785,cn,苹果, iPhone SE (第 3 代)
+apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) 
+apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络) 
+apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络) 
+apple,A2605,cn,苹果, iPad (第 9 代) (无线局域网 + 蜂窝网络) 
+apple,A2154,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) 
+apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) 
+apple,A2591,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络)
+apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) 
+apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) "
+apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) 
+apple,A1979,cn,苹果, iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) 
+apple,A1979,cn,苹果," iPad Pro (11 英寸) (无线局域网 + 蜂窝网络, 1TB) "
+apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络) "
+apple,A1983,cn,苹果," iPad Pro (12.9 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 1TB) "
+apple,A2231,cn,苹果," iPad Pro (11 英寸, 第 2 代) (无线局域网 + 蜂窝网络) "
+apple,A2233,cn,苹果," iPad Pro (12.9 英寸, 第 4 代) (无线局域网 + 蜂窝网络) "
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 8GB RAM) "
+apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂窝网络, 16GB RAM) "
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM) "
+apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM) "
+apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) 
+apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) 
+apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) 
+apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) 
+apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) 
+apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) 
+apple,A2008,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (44 毫米表壳) 
+apple,A2156,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) 
+apple,A2157,cn,苹果, Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) 
+apple,A2355,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (40 毫米表壳) 
+apple,A2356,cn,苹果, Apple Watch SE (GPS + 蜂窝网络) (44 毫米表壳) 
+apple,A2375,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (40 毫米表壳) 
+apple,A2376,cn,苹果, Apple Watch Series 6 (GPS + 蜂窝网络) (44 毫米表壳) 
+apple,A2476,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) 
+apple,A2478,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) 
+apple,A1319,cn,苹果, iPod touch (第 2 代) 
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
