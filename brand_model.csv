@@ -3415,6 +3415,7 @@ huawei,ELS-TN00,cn,华为, HUAWEI P40 Pro 5G 移动定制版
 huawei,ELS-AN10,cn,华为, HUAWEI P40 Pro+ 5G 全网通版
 huawei,ELS-TN10,cn,华为, HUAWEI P40 Pro+ 5G 移动定制版
 huawei,ABR-AL00,cn,华为, HUAWEI P50 4G 全网通版
+huawei,ABR-AL60,cn,华为, HUAWEI P50E 4G 全网通版
 huawei,JAD-AL00,cn,华为, HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 huawei,JAD-AL50,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 huawei,JAD-AL60,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
@@ -3480,6 +3481,7 @@ huawei,JSC-AL50,cn,华为, HUAWEI nova 8 SE 4G 全网通版
 huawei,CHL-AL60,cn,华为, HUAWEI nova 8 SE 活力版 全网通版
 huawei,NAM-AL00,cn,华为, HUAWEI nova 9 4G 全网通版
 huawei,RTE-AL00,cn,华为, HUAWEI nova 9 Pro 4G 全网通版
+huawei,JLN-AL00,cn,华为, HUAWEI nova 9 SE 4G 全网通版
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -3633,8 +3635,9 @@ huawei,BAH3-AN10,cn,华为, HUAWEI MatePad 5G 10.4 英寸 全网通版 (麒麟 8
 huawei,SCMR-W09,cn,华为, HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,DBY-W09,cn,华为, HUAWEI MatePad 11 英寸 Wi-Fi 版
-huawei,BAH4-W19,cn,华为, HUAWEI MatePad (2022) 10.4 英寸 Wi-Fi 版
-huawei,BAH4-AL10,cn,华为, HUAWEI MatePad (2022) 10.4 英寸 全网通版
+huawei,BAH4-W09,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
+huawei,BAH4-W19,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
+huawei,BAH4-AL10,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
 huawei,HMW-W09,cn,华为, HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
 huawei,AGS2-AL00,cn,华为, 华为畅享平板 10.1 英寸 全网通版
@@ -3832,6 +3835,7 @@ huawei,HD55KANY,cn,华为, 华为智慧屏 B5-510
 huawei,HD65KANY,cn,华为, 华为智慧屏 B5-610
 huawei,HEGE-550AX,cn,华为, 华为智慧屏 B7-500
 huawei,HEGE-550X,cn,华为, 华为智慧屏 B7-510
+huawei,BLM-00,cn,华为, 华为小精灵学习智慧屏
 huawei,U9500,cn,华为, 华为 Ascend D1
 huawei,U9500E,cn,华为, 华为 Ascend D1 XL
 huawei,U9510,cn,华为, 华为 Ascend D1 四核
