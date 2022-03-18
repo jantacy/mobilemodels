@@ -843,6 +843,14 @@ xiaomi,21121119SG,en,小米, Redmi 10 2022 Global
 xiaomi,21121119VL,en,小米, Redmi 10 2022 Latin America
 xiaomi,22011119TI,en,小米, Redmi 10 Prime 2022 India
 xiaomi,22011119UY,en,小米, Redmi 10 2022 Global (NFC)
+xiaomi,22041219G,en,小米, Redmi 10 5G Global
+xiaomi,22041219I,en,小米, Redmi 10 Prime+ 5G India
+xiaomi,22041219NY,en,小米, Redmi 10 5G Global (NFC)
+xiaomi,220333QAG,en,小米, Redmi 10C Global
+xiaomi,220333QBI,en,小米, Redmi 10 India
+xiaomi,220233L2G,en,小米, Redmi 10A Global
+xiaomi,220233L2I,en,小米, Redmi 10A India
+xiaomi,220233L2C,en,小米, Redmi 10A China
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -946,13 +954,14 @@ xiaomi,2201117TG,en,小米, Redmi Note 11 Global
 xiaomi,2201117TI,en,小米, Redmi Note 11 India
 xiaomi,2201117TL,en,小米, Redmi Note 11 Latin America
 xiaomi,2201117TY,en,小米, Redmi Note 11 Global (NFC)
+xiaomi,21091116AI,en,小米, Redmi Note 11T 5G India
+xiaomi,21091116AC,en,小米, Redmi Note 11 5G China
+xiaomi,22041219C,en,小米, Redmi Note 11E 5G China
 xiaomi,2201117SG,en,小米, Redmi Note 11S Global
 xiaomi,2201117SI,en,小米, Redmi Note 11S India
 xiaomi,2201117SL,en,小米, Redmi Note 11S Latin America
 xiaomi,2201117SY,en,小米, Redmi Note 11S Global (NFC)
-xiaomi,21091116AI,en,小米, Redmi Note 11T 5G India
-xiaomi,21091116AC,en,小米, Redmi Note 11 5G China
-xiaomi,22041219C,en,小米, Redmi Note 11E 5G China
+xiaomi,22031116BG,en,小米, Redmi Note 11S 5G Global
 xiaomi,2201116TG,en,小米, Redmi Note 11 Pro Global
 xiaomi,2201116TI,en,小米, Redmi Note 11 Pro India
 xiaomi,2201116SG,en,小米, Redmi Note 11 Pro 5G Global
@@ -985,6 +994,9 @@ xiaomi,M2007J3SC,en,小米, Redmi K30S Ultra China
 xiaomi,M2012K11AC,en,小米, Redmi K40 China
 xiaomi,M2012K11C,en,小米, Redmi K40 Pro China / Redmi K40 Pro+ China
 xiaomi,M2012K10C,en,小米, Redmi K40 Gaming China
+xiaomi,22021211RC,en,小米, Redmi K40S China
+xiaomi,22041211AC,en,小米, Redmi K50 China
+xiaomi,22011211C,en,小米, Redmi K50 Pro China
 xiaomi,21121210C,en,小米, Redmi K50G China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
@@ -1003,6 +1015,8 @@ xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
 xiaomi,M2104K10I,en,小米, POCO F3 GT India
+xiaomi,22021211RG,en,小米, POCO F4 Global
+xiaomi,22011211G,en,小米, POCO F4 Pro Global
 xiaomi,21121210G,en,小米, POCO F4 GT Global
 xiaomi,21121210I,en,小米, POCO F4 GT India
 xiaomi,M1912G7BI,en,小米, POCO X2 India
@@ -1022,6 +1036,8 @@ xiaomi,M2010J19CI,en,小米, POCO M3 India
 xiaomi,M2103K19PG,en,小米, POCO M3 Pro 5G Global
 xiaomi,M2103K19PY,en,小米, POCO M3 Pro 5G Global
 xiaomi,M2103K19PI,en,小米, POCO M3 Pro 5G India
+xiaomi,22041219PG,en,小米, POCO M4 5G Global
+xiaomi,22041219PI,en,小米, POCO M4 5G India
 xiaomi,2201117PG,en,小米, POCO M4 Pro Global
 xiaomi,2201117PI,en,小米, POCO M4 Pro India
 xiaomi,21091116AG,en,小米, POCO M4 Pro 5G Global
@@ -1183,6 +1199,9 @@ honor,ELZ-AN00,cn,荣耀, 荣耀 Magic3 5G 全网通版
 honor,ELZ-AN10,cn,荣耀, 荣耀 Magic3 Pro 5G 全网通版
 honor,ELZ-AN20,cn,荣耀, 荣耀 Magic3 至臻版 5G 全网通版
 honor,MGI-AN00,cn,荣耀, 荣耀 Magic V 5G 全网通版
+honor,LGE-AN00,cn,荣耀, 荣耀 Magic4 5G 全网通版
+honor,LGE-AN10,cn,荣耀, 荣耀 Magic4 Pro 5G 全网通版
+honor,LGE-AN20,cn,荣耀, 荣耀 Magic4 至臻版 5G 全网通版
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -2487,6 +2506,14 @@ xiaomi,21121119SG,cn,小米, Redmi 10 2022 国际版
 xiaomi,21121119VL,cn,小米, Redmi 10 2022 拉美版
 xiaomi,22011119TI,cn,小米, Redmi 10 Prime 2022 印度版
 xiaomi,22011119UY,cn,小米, Redmi 10 2022 国际版 (NFC)
+xiaomi,22041219G,cn,小米, Redmi 10 5G 国际版
+xiaomi,22041219I,cn,小米, Redmi 10 Prime+ 5G 印度版
+xiaomi,22041219NY,cn,小米, Redmi 10 5G 国际版 (NFC)
+xiaomi,220333QAG,cn,小米, Redmi 10C 国际版
+xiaomi,220333QBI,cn,小米, Redmi 10 印度版
+xiaomi,220233L2C,cn,小米, Redmi 10A 全网通版
+xiaomi,220233L2G,cn,小米, Redmi 10A 国际版
+xiaomi,220233L2I,cn,小米, Redmi 10A 印度版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -2590,13 +2617,14 @@ xiaomi,2201117TG,cn,小米, Redmi Note 11 国际版
 xiaomi,2201117TI,cn,小米, Redmi Note 11 印度版
 xiaomi,2201117TL,cn,小米, Redmi Note 11 拉美版
 xiaomi,2201117TY,cn,小米, Redmi Note 11 国际版 (NFC)
+xiaomi,21091116AC,cn,小米, Redmi Note 11 5G 全网通版
+xiaomi,21091116AI,cn,小米, Redmi Note 11T 5G 印度版
+xiaomi,22041219C,cn,小米, Redmi Note 11E 5G 全网通版
 xiaomi,2201117SG,cn,小米, Redmi Note 11S 国际版
 xiaomi,2201117SI,cn,小米, Redmi Note 11S 印度版
 xiaomi,2201117SL,cn,小米, Redmi Note 11S 拉美版
 xiaomi,2201117SY,cn,小米, Redmi Note 11S 国际版 (NFC)
-xiaomi,21091116AC,cn,小米, Redmi Note 11 5G 全网通版
-xiaomi,21091116AI,cn,小米, Redmi Note 11T 5G 印度版
-xiaomi,22041219C,cn,小米, Redmi Note 11E 5G 全网通版
+xiaomi,22031116BG,cn,小米, Redmi Note 11S 5G 国际版
 xiaomi,21091116C,cn,小米, Redmi Note 11 Pro 全网通版
 xiaomi,2201116TG,cn,小米, Redmi Note 11 Pro 国际版
 xiaomi,2201116TI,cn,小米, Redmi Note 11 Pro 印度版
@@ -2629,6 +2657,9 @@ xiaomi,M2007J3SC,cn,小米, Redmi K30S 至尊纪念版 全网通版
 xiaomi,M2012K11AC,cn,小米, Redmi K40 全网通版
 xiaomi,M2012K11C,cn,小米, Redmi K40 Pro 全网通版 / Redmi K40 Pro+ 全网通版
 xiaomi,M2012K10C,cn,小米, Redmi K40 游戏增强版 全网通版
+xiaomi,22021211RC,cn,小米, Redmi K40S 全网通版
+xiaomi,22041211AC,cn,小米, Redmi K50 全网通版
+xiaomi,22011211C,cn,小米, Redmi K50 Pro 全网通版
 xiaomi,21121210C,cn,小米, Redmi K50 电竞版 全网通版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
@@ -2647,6 +2678,8 @@ xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
 xiaomi,M2104K10I,cn,小米, POCO F3 GT 印度版
+xiaomi,22021211RG,cn,小米, POCO F4 国际版
+xiaomi,22011211G,cn,小米, POCO F4 Pro 国际版
 xiaomi,21121210G,cn,小米, POCO F4 GT 国际版
 xiaomi,21121210I,cn,小米, POCO F4 GT 印度版
 xiaomi,M1912G7BI,cn,小米, POCO X2 印度版
@@ -2666,6 +2699,8 @@ xiaomi,M2010J19CI,cn,小米, POCO M3 印度版
 xiaomi,M2103K19PG,cn,小米, POCO M3 Pro 5G 国际版
 xiaomi,M2103K19PY,cn,小米, POCO M3 Pro 5G 国际版
 xiaomi,M2103K19PI,cn,小米, POCO M3 Pro 5G 印度版
+xiaomi,22041219PG,cn,小米, POCO M4 5G 国际版
+xiaomi,22041219PI,cn,小米, POCO M4 5G 印度版
 xiaomi,2201117PG,cn,小米, POCO M4 Pro 国际版
 xiaomi,2201117PI,cn,小米, POCO M4 Pro 印度版
 xiaomi,21091116AG,cn,小米, POCO M4 Pro 5G 国际版
@@ -3076,6 +3111,7 @@ samsung,SM-A9080,cn,三星, Galaxy A90 5G
 samsung,SM-A5160,cn,三星, Galaxy A51 5G
 samsung,SM-A7160,cn,三星, Galaxy A71 5G
 samsung,SM-A5260,cn,三星, Galaxy A52 5G
+samsung,SM-A5360,cn,三星, Galaxy A53 5G
 samsung,SM-E5260,cn,三星, Galaxy F52 5G
 samsung,SM-M3070,cn,三星, Galaxy M30s
 samsung,SM-C5000,cn,三星, Galaxy C5
@@ -4541,6 +4577,7 @@ mitv,L65R8-X,cn,小米电视, Redmi 智能电视 X65 2022 款
 mitv,L75R8-X,cn,小米电视, Redmi 智能电视 X75 2022 款
 mitv,L86R6-MAX,cn,小米电视, Redmi 智能电视 MAX 86 英寸
 mitv,L98M6-RK,cn,小米电视, Redmi 智能电视 MAX 98 英寸
+mitv,L100R8-MAX,cn,小米电视, Redmi 智能电视 MAX 100 英寸
 mitv,MDZ-18-DA,cn,小米电视, 小米电视主机
 mitv,MDZ-19-DA,cn,小米电视, 小米家庭影院
 mitv,MDZ-05-AA,cn,小米电视, 小米盒子
