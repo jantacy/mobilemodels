@@ -2726,20 +2726,20 @@ xiaomi,PRS-A0,cn,小米, 黑鲨 4S 全网通版
 xiaomi,KSR-A0,cn,小米, 黑鲨 4S Pro 全网通版
 xiaomi,XMWT01,cn,小米, 小米手表
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
-zhixuan,VP001,cn,其他, 优畅享 20 Plus 5G
-zhixuan,VP002,cn,其他, 优畅享 20 5G
-zhixuan,VP003,cn,其他, 优畅享 30e 5G
-zhixuan,TYH601M,cn,其他, 麦芒 9 5G
-zhixuan,TYH611M,cn,其他, 麦芒 10 SE 5G
-zhixuan,TYH612M,cn,其他, 麦芒 10 5G
-zhixuan,SP100,cn,其他, NZONE S7 5G
-zhixuan,SP200,cn,其他, NZONE S7 Pro 5G
-zhixuan,SP300,cn,其他, NZONE S7 Pro+ 5G
-zhixuan,Hera-BD00,cn,其他, Hi nova 9 5G
-zhixuan,Hebe-BD00,cn,其他, Hi nova 9 Pro 5G
-zhixuan,F810,cn,其他, 雷鸟 FF1 5G
-zhixuan,NAT-TN70,cn,其他, TD Tech N8 Pro
-zhixuan,TDT-MA01,cn,其他, TD Tech M40
+zhixuan,VP001,cn,华为智选, 优畅享 20 Plus 5G
+zhixuan,VP002,cn,华为智选, 优畅享 20 5G
+zhixuan,VP003,cn,华为智选, 优畅享 30e 5G
+zhixuan,TYH601M,cn,华为智选, 麦芒 9 5G
+zhixuan,TYH611M,cn,华为智选, 麦芒 10 SE 5G
+zhixuan,TYH612M,cn,华为智选, 麦芒 10 5G
+zhixuan,SP100,cn,华为智选, NZONE S7 5G
+zhixuan,SP200,cn,华为智选, NZONE S7 Pro 5G
+zhixuan,SP300,cn,华为智选, NZONE S7 Pro+ 5G
+zhixuan,Hera-BD00,cn,华为智选, Hi nova 9 5G
+zhixuan,Hebe-BD00,cn,华为智选, Hi nova 9 Pro 5G
+zhixuan,F810,cn,华为智选, 雷鸟 FF1 5G
+zhixuan,NAT-TN70,cn,华为智选, TD Tech N8 Pro
+zhixuan,TDT-MA01,cn,华为智选, TD Tech M40
 huawei,MT7-L09,en,华为, HUAWEI Ascend Mate 7 Single SIM
 huawei,MT7-TL10,en,华为, HUAWEI Ascend Mate 7 Dual SIM
 huawei,CRR-L09,en,华为, HUAWEI Mate S Single SIM
@@ -3226,47 +3226,47 @@ samsung,SM-T320,cn,三星, Galaxy Tab PRO 8.4 WLAN
 samsung,SM-T321,cn,三星, Galaxy Tab PRO 8.4 3G
 samsung,SM-T520,cn,三星, Galaxy Tab PRO 10.1 WLAN
 samsung,SM-W700,cn,三星, Galaxy TabPro S WLAN
-google,G-2PW4100,en,其他, Pixel (North America)
-google,G-2PW4200,en,其他, Pixel (Rest of the world)
-google,G-2PW2100,en,其他, Pixel XL (North America)
-google,G-2PW2200,en,其他, Pixel XL (Rest of the world)
-google,G011A,en,其他, Pixel 2
-google,G011C,en,其他, Pixel 2 XL
-google,G013A,en,其他, Pixel 3
-google,G013C,en,其他, Pixel 3 XL
-google,G020E,en,其他, Pixel 3a (Verizon)
-google,G020F,en,其他," Pixel 3a (UK, Europe, and APAC)"
-google,G020G,en,其他, Pixel 3a (North America)
-google,G020H,en,其他, Pixel 3a (Japan)
-google,G020A,en,其他, Pixel 3a XL (Verizon)
-google,G020B,en,其他," Pixel 3a XL (UK, Europe, and APAC)"
-google,G020C,en,其他, Pixel 3a XL (North America)
-google,G020D,en,其他, Pixel 3a XL (Japan)
-google,G020I,en,其他," Pixel 4 (North America, TW)"
-google,G020M,en,其他, Pixel 4 (Rest of the world)
-google,G020N,en,其他, Pixel 4 (Japan)
-google,G020J,en,其他," Pixel 4 XL (North America, TW)"
-google,G020P,en,其他, Pixel 4 XL (Rest of the world)
-google,G020Q,en,其他, Pixel 4 XL (Japan)
-google,G025J,en,其他," Pixel 4a (North America, TW)"
-google,G025N,en,其他, Pixel 4a (Rest of the world)
-google,G025M,en,其他, Pixel 4a (Japan)
-google,G025E,en,其他," Pixel 4a 5G (North America, TW)"
-google,G6QU3,en,其他, Pixel 4a 5G (Verizon)
-google,G025I,en,其他, Pixel 4a 5G (Rest of the world)
-google,G025H,en,其他, Pixel 4a 5G (Japan)
-google,GD1YQ,en,其他, Pixel 5 (US)
-google,GTT9Q,en,其他, Pixel 5 (Rest of the world)
-google,G5NZ6,en,其他, Pixel 5 (Japan)
-google,G1F8F,en,其他, Pixel 5a 5G (US)
-google,G4S1M,en,其他, Pixel 5a 5G (Japan)
-google,G9S9B,en,其他," Pixel 6 (US, mmWave)"
-google,GB7N6,en,其他, Pixel 6 (Rest of the world)
-google,GR1YH,en,其他, Pixel 6 (Japan)
-google,G8VOU,en,其他," Pixel 6 Pro (US, AU) (mmWave)"
-google,GLUOG,en,其他, Pixel 6 Pro (Rest of the world)
-google,GR1YH,en,其他, Pixel 6 Pro (Japan)
-google,C1502W,en,其他, Pixel C
+google,G-2PW4100,en,Google, Pixel (North America)
+google,G-2PW4200,en,Google, Pixel (Rest of the world)
+google,G-2PW2100,en,Google, Pixel XL (North America)
+google,G-2PW2200,en,Google, Pixel XL (Rest of the world)
+google,G011A,en,Google, Pixel 2
+google,G011C,en,Google, Pixel 2 XL
+google,G013A,en,Google, Pixel 3
+google,G013C,en,Google, Pixel 3 XL
+google,G020E,en,Google, Pixel 3a (Verizon)
+google,G020F,en,Google," Pixel 3a (UK, Europe, and APAC)"
+google,G020G,en,Google, Pixel 3a (North America)
+google,G020H,en,Google, Pixel 3a (Japan)
+google,G020A,en,Google, Pixel 3a XL (Verizon)
+google,G020B,en,Google," Pixel 3a XL (UK, Europe, and APAC)"
+google,G020C,en,Google, Pixel 3a XL (North America)
+google,G020D,en,Google, Pixel 3a XL (Japan)
+google,G020I,en,Google," Pixel 4 (North America, TW)"
+google,G020M,en,Google, Pixel 4 (Rest of the world)
+google,G020N,en,Google, Pixel 4 (Japan)
+google,G020J,en,Google," Pixel 4 XL (North America, TW)"
+google,G020P,en,Google, Pixel 4 XL (Rest of the world)
+google,G020Q,en,Google, Pixel 4 XL (Japan)
+google,G025J,en,Google," Pixel 4a (North America, TW)"
+google,G025N,en,Google, Pixel 4a (Rest of the world)
+google,G025M,en,Google, Pixel 4a (Japan)
+google,G025E,en,Google," Pixel 4a 5G (North America, TW)"
+google,G6QU3,en,Google, Pixel 4a 5G (Verizon)
+google,G025I,en,Google, Pixel 4a 5G (Rest of the world)
+google,G025H,en,Google, Pixel 4a 5G (Japan)
+google,GD1YQ,en,Google, Pixel 5 (US)
+google,GTT9Q,en,Google, Pixel 5 (Rest of the world)
+google,G5NZ6,en,Google, Pixel 5 (Japan)
+google,G1F8F,en,Google, Pixel 5a 5G (US)
+google,G4S1M,en,Google, Pixel 5a 5G (Japan)
+google,G9S9B,en,Google," Pixel 6 (US, mmWave)"
+google,GB7N6,en,Google, Pixel 6 (Rest of the world)
+google,GR1YH,en,Google, Pixel 6 (Japan)
+google,G8VOU,en,Google," Pixel 6 Pro (US, AU) (mmWave)"
+google,GLUOG,en,Google, Pixel 6 Pro (Rest of the world)
+google,GR1YH,en,Google, Pixel 6 Pro (Japan)
+google,C1502W,en,Google, Pixel C
 apple,A1324,cn,苹果, iPhone 3G 
 apple,A1325,cn,苹果, iPhone 3GS (无 WLAN 功能)
 apple,A1332,cn,苹果, iPhone 4
@@ -4314,9 +4314,11 @@ realme,RMX3241,en,REALME, realme 8 5G
 realme,RMX3151,en,REALME, realme 8i
 realme,RMX3381,en,REALME, realme 8s 5G
 realme,RMX3491,en,REALME, realme 9i
+realme,RMX3493,en,REALME, realme 9i
 realme,RMX3388,en,REALME, realme 9 5G
 realme,RMX3471,en,REALME, realme 9 Pro 5G
 realme,RMX3392,en,REALME, realme 9 Pro+ 5G
+realme,RMX3393,en,REALME, realme 9 Pro+ 5G
 realme,RMX3461,en,REALME, realme 9 5G Speed Edition
 realme,RMX1901,en,REALME, realme X
 realme,RMX1921,en,REALME, realme XT
@@ -4362,11 +4364,13 @@ realme,RMX3202,en,REALME, realme C21
 realme,RMX3203,en,REALME, realme C21
 realme,RMX3261,en,REALME, realme C21Y
 realme,RMX3262,en,REALME, realme C21Y
+realme,RMX3263,en,REALME, realme C21Y
 realme,RMX3191,en,REALME, realme C25
 realme,RMX3193,en,REALME, realme C25
 realme,RMX3195,en,REALME, realme C25s
 realme,RMX3197,en,REALME, realme C25s
 realme,RMX3265,en,REALME, realme C25Y
+realme,RMX3269,en,REALME, realme C25Y
 realme,RMX3511,en,REALME, realme C35
 realme,RMX1831,en,REALME, realme U1
 realme,RMX1833,en,REALME, realme U1
@@ -4389,6 +4393,9 @@ realme,RMX2202,en,REALME, realme GT 5G
 realme,RMX3360,en,REALME, realme GT Master Edition
 realme,RMX3363,en,REALME, realme GT Master Edition
 realme,RMX3370,en,REALME, realme GT NEO 2 5G
+realme,RMX3311,en,REALME, realme GT 2 5G
+realme,RMX3322,en,REALME, realme GT 2 5G
+realme,RMX3301,en,REALME, realme GT 2 Pro 5G
 realme,RMP2102,en,REALME, realme Pad
 realme,RMP2103,en,REALME, realme Pad
 lenovo,XT2081-4,cn,联想, 联想乐檬 K12
@@ -4408,42 +4415,44 @@ realme,RMX2071,cn,REALME, 真我 X50 Pro 5G
 realme,RMX2072,cn,REALME, 真我 X50 Pro 玩家版
 realme,RMX2141,cn,REALME, 真我 X50m 5G
 realme,RMX2142,cn,REALME, 真我 X50m 5G 运营商定制版
-realme,RMX2052,cn,REALME, 真我 X50t 5G
+realme,RMX2052,cn,REALME, 真我 X50t 5G 电信合作版
 realme,RMX2176,cn,REALME, 真我 X7 5G
 realme,RMX2121,cn,REALME, 真我 X7 Pro 5G
 realme,RMX3115,cn,REALME, 真我 X7 Pro 至尊版 5G 全网通版
 realme,RMX3116,cn,REALME, 真我 X7 Pro 至尊版 5G 运营商定制版
 realme,RMX2202,cn,REALME, 真我 GT 5G
 realme,RMX3031,cn,REALME, 真我 GT Neo 5G
-realme,RMX3350,cn,REALME, 真我 GT Neo 闪速版 5G
-realme,RMX3361,cn,REALME, 真我 GT 大师版 5G
-realme,RMX3366,cn,REALME, 真我 GT 大师探索版 5G
-realme,RMX3370,cn,REALME, 真我 GT Neo2 5G
-realme,RMX3357,cn,REALME, 真我 GT Neo2T 5G
-realme,RMX3310,cn,REALME, 真我 GT2 5G
-realme,RMX3300,cn,REALME, 真我 GT2 Pro 5G
+realme,RMX3350,cn,REALME, 真我 GT Neo 闪速版
+realme,RMX3361,cn,REALME, 真我 GT 大师版
+realme,RMX3366,cn,REALME, 真我 GT 大师探索版
+realme,RMX3370,cn,REALME, 真我 GT Neo2
+realme,RMX3357,cn,REALME, 真我 GT Neo2T
+realme,RMX3310,cn,REALME, 真我 GT2
+realme,RMX3300,cn,REALME, 真我 GT2 Pro
+realme,RMX3560,cn,REALME, 真我 GT Neo3
+realme,RMX3562,cn,REALME, 真我 GT Neo3 150W
 realme,RMX1971,cn,REALME, realme Q
 realme,RMX2117,cn,REALME, 真我 Q2 5G
 realme,RMX2173,cn,REALME, 真我 Q2 Pro 5G
 realme,RMX2200,cn,REALME, 真我 Q2i 5G
 realme,RMX3161,cn,REALME, 真我 Q3 5G
 realme,RMX2205,cn,REALME, 真我 Q3 Pro 5G
-realme,RMX3142,cn,REALME, 真我 Q3 Pro 狂欢版 5G
+realme,RMX3142,cn,REALME, 真我 Q3 Pro 狂欢版
 realme,RMX3042,cn,REALME, 真我 Q3i 5G
-realme,RMX3461,cn,REALME, 真我 Q3s 5G
-realme,RMX3462,cn,REALME, 真我 Q3t 5G
+realme,RMX3461,cn,REALME, 真我 Q3s
+realme,RMX3462,cn,REALME, 真我 Q3t
 realme,RMX2200,cn,REALME, 真我 V3 5G 全网通版
 realme,RMX2201,cn,REALME, 真我 V3 5G 运营商定制版
 realme,RMX2111,cn,REALME, 真我 V5 5G 全网通版
 realme,RMX2112,cn,REALME, 真我 V5 5G 运营商定制版
 realme,RMX3121,cn,REALME, 真我 V11 5G 全网通版
 realme,RMX3122,cn,REALME, 真我 V11 5G 运营商定制版
-realme,RMX3125,cn,REALME, 真我 V11s 5G 全网通版
+realme,RMX3125,cn,REALME, 真我 V11s 5G
 realme,RMX3041,cn,REALME, 真我 V13 5G 全网通版
 realme,RMX3043,cn,REALME, 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, 真我 V15 5G 全网通版
 realme,RMX3093,cn,REALME, 真我 V15 5G 运营商定制版
-realme,RMX3475,cn,REALME, 真我 V25 5G 全网通版
+realme,RMX3475,cn,REALME, 真我 V25
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
