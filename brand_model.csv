@@ -100,6 +100,7 @@ realme,RMX3195,en,REALME, realme C25s
 realme,RMX3197,en,REALME, realme C25s
 realme,RMX3265,en,REALME, realme C25Y
 realme,RMX3269,en,REALME, realme C25Y
+realme,RMX3501,en,REALME, realme C31
 realme,RMX3511,en,REALME, realme C35
 realme,RMX1831,en,REALME, realme U1
 realme,RMX1833,en,REALME, realme U1
@@ -1014,6 +1015,9 @@ realme,RMX3142,cn,REALME, 真我 Q3 Pro 狂欢版
 realme,RMX3042,cn,REALME, 真我 Q3i 5G
 realme,RMX3461,cn,REALME, 真我 Q3s
 realme,RMX3462,cn,REALME, 真我 Q3t
+realme,RMX3478,cn,REALME, 真我 Q5
+realme,RMX3372,cn,REALME, 真我 Q3 Pro
+realme,RMX3574,cn,REALME, 真我 Q5i
 realme,RMX2200,cn,REALME, 真我 V3 5G 全网通版
 realme,RMX2201,cn,REALME, 真我 V3 5G 运营商定制版
 realme,RMX2111,cn,REALME, 真我 V5 5G 全网通版
@@ -1025,6 +1029,7 @@ realme,RMX3041,cn,REALME, 真我 V13 5G 全网通版
 realme,RMX3043,cn,REALME, 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, 真我 V15 5G 全网通版
 realme,RMX3093,cn,REALME, 真我 V15 5G 运营商定制版
+realme,RMX3571,cn,REALME, 真我 V23
 realme,RMX3475,cn,REALME, 真我 V25
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
@@ -1642,12 +1647,13 @@ oneplus,LE2121,cn,一加, OnePlus 9 Pro 印度版
 oneplus,LE2123,cn,一加, OnePlus 9 Pro 欧洲/国际版
 oneplus,LE2125,cn,一加, OnePlus 9 Pro 北美版
 oneplus,LE2127,cn,一加, OnePlus 9 Pro T-Mobile 版
-oneplus,MT2110,cn,一加, OnePlus 9RT 全网通版
-oneplus,MT2111,cn,一加, OnePlus 9RT 印度版
-oneplus,NE2210,cn,一加, OnePlus 10 Pro 全网通版
-oneplus,NE2211,cn,一加, OnePlus 10 Pro 印度版
-oneplus,NE2213,cn,一加, OnePlus 10 Pro 欧洲/国际版
-oneplus,NE2215,cn,一加, OnePlus 10 Pro 北美版
+oneplus,MT2110,cn,一加, 一加 9RT 全网通版
+oneplus,MT2111,cn,一加, 一加 9RT 印度版
+oneplus,NE2210,cn,一加, 一加 10 Pro 全网通版
+oneplus,NE2211,cn,一加, 一加 10 Pro 印度版
+oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲/国际版
+oneplus,NE2215,cn,一加, 一加 10 Pro 北美版
+oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
@@ -2617,6 +2623,7 @@ oneplus,NE2210,en,一加, OnePlus 10 Pro China
 oneplus,NE2211,en,一加, OnePlus 10 Pro India
 oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
 oneplus,NE2215,en,一加, OnePlus 10 Pro North America
+oneplus,PGKM10,en,一加, OnePlus Ace China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
@@ -2634,6 +2641,7 @@ oneplus,EB2103,en,一加, OnePlus Nord CE EU / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
 oneplus,DN2103,en,一加, OnePlus Nord 2 5G EU
 oneplus,IV2201,en,一加, OnePlus Nord CE 2 India
+oneplus,CPH2409,en,一加, OnePlus Nord CE 2 Lite India
 apple,A1203,cn,苹果, iPhone
 apple,A1241,cn,苹果, iPhone 3G
 apple,A1324,cn,苹果, iPhone 3G (中国大陆)
