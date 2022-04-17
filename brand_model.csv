@@ -1596,7 +1596,6 @@ oneplus,A3000,cn,一加, OnePlus 3 全网通版
 oneplus,A3003,cn,一加, OnePlus 3 国际版
 oneplus,A3010,cn,一加, OnePlus 3T 全网通版
 oneplus,A3003,cn,一加, OnePlus 3T 国际版
-oneplus,A3000,cn,一加, OnePlus 3T 北美版
 oneplus,A5000,cn,一加, OnePlus 5 全网通版
 oneplus,A5010,cn,一加, OnePlus 5T 全网通版
 oneplus,A6000,cn,一加, OnePlus 6 全网通版
@@ -1605,45 +1604,45 @@ oneplus,A6010,cn,一加, OnePlus 6T 全网通版
 oneplus,A6013,cn,一加, OnePlus 6T 国际版
 oneplus,GM1900,cn,一加, OnePlus 7 全网通版
 oneplus,GM1901,cn,一加, OnePlus 7 印度版
-oneplus,GM1903,cn,一加, OnePlus 7 欧洲/国际版 
-oneplus,GM1905,cn,一加, OnePlus 7 北美版
+oneplus,GM1903,cn,一加, OnePlus 7 欧洲版
+oneplus,GM1905,cn,一加, OnePlus 7 北美版/国际版
 oneplus,GM1910,cn,一加, OnePlus 7 Pro 全网通版
 oneplus,GM1911,cn,一加, OnePlus 7 Pro 印度版
-oneplus,GM1913,cn,一加, OnePlus 7 Pro 国际版
-oneplus,GM1915,cn,一加, OnePlus 7 Pro 欧洲版
+oneplus,GM1913,cn,一加, OnePlus 7 Pro 欧洲版
+oneplus,GM1915,cn,一加, OnePlus 7 Pro 国际版
 oneplus,GM1917,cn,一加, OnePlus 7 Pro 北美/T-Mobile 版
 oneplus,GM1920,cn,一加, OnePlus 7 Pro 5G 欧洲版
 oneplus,GM1925,cn,一加, OnePlus 7 Pro 5G Sprint 版
 oneplus,HD1900,cn,一加, OnePlus 7T 全网通版
 oneplus,HD1901,cn,一加, OnePlus 7T 印度版
-oneplus,HD1903,cn,一加, OnePlus 7T 欧洲/国际版
-oneplus,HD1905,cn,一加, OnePlus 7T 北美版
+oneplus,HD1903,cn,一加, OnePlus 7T 欧洲版
+oneplus,HD1905,cn,一加, OnePlus 7T 北美版/国际版
 oneplus,HD1907,cn,一加, OnePlus 7T T-Mobile 版
 oneplus,HD1910,cn,一加, OnePlus 7T Pro 全网通版
 oneplus,HD1911,cn,一加, OnePlus 7T Pro 印度版
-oneplus,HD1913,cn,一加, OnePlus 7T Pro 欧洲/国际版
+oneplus,HD1913,cn,一加, OnePlus 7T Pro 欧洲版/国际版
 oneplus,HD1925,cn,一加, OnePlus 7T Pro 5G T-Mobile 版 / OnePlus Concept One
 oneplus,IN2010,cn,一加, OnePlus 8 全网通版
 oneplus,IN2011,cn,一加, OnePlus 8 印度版
-oneplus,IN2013,cn,一加, OnePlus 8 欧洲/国际版
-oneplus,IN2015,cn,一加, OnePlus 8 Visible 北美版
+oneplus,IN2013,cn,一加, OnePlus 8 欧洲版
+oneplus,IN2015,cn,一加, OnePlus 8 北美版/国际版
 oneplus,IN2017,cn,一加, OnePlus 8 T-Mobile 版
-oneplus,IN2019,cn,一加, OnePlus 8 UW Verzion 版
+oneplus,IN2019,cn,一加, OnePlus 8 Visible 版/Verizon 版
 oneplus,IN2020,cn,一加, OnePlus 8 Pro 全网通版
 oneplus,IN2021,cn,一加, OnePlus 8 Pro 印度版
-oneplus,IN2023,cn,一加, OnePlus 8 Pro 欧洲/国际版
-oneplus,IN2025,cn,一加, OnePlus 8 Pro 北美版
+oneplus,IN2023,cn,一加, OnePlus 8 Pro 欧洲版
+oneplus,IN2025,cn,一加, OnePlus 8 Pro 北美版/国际版
 oneplus,KB2000,cn,一加, OnePlus 8T 全网通版
 oneplus,KB2001,cn,一加, OnePlus 8T 印度版
-oneplus,KB2003,cn,一加, OnePlus 8T 欧洲/国际版
-oneplus,KB2005,cn,一加, OnePlus 8T 北美版
+oneplus,KB2003,cn,一加, OnePlus 8T 欧洲版
+oneplus,KB2005,cn,一加, OnePlus 8T 北美版/国际版
 oneplus,KB2007,cn,一加, OnePlus 8T+ T-Mobile 版
 oneplus,LE2100,cn,一加, OnePlus 9R 全网通版
 oneplus,LE2101,cn,一加, OnePlus 9R 印度版
 oneplus,LE2110,cn,一加, OnePlus 9 全网通版
 oneplus,LE2111,cn,一加, OnePlus 9 印度版
-oneplus,LE2113,cn,一加, OnePlus 9 欧洲/国际版
-oneplus,LE2115,cn,一加, OnePlus 9 北美版
+oneplus,LE2113,cn,一加, OnePlus 9 欧洲版
+oneplus,LE2115,cn,一加, OnePlus 9 北美版/国际版
 oneplus,LE2117,cn,一加, OnePlus 9 T-Mobile 版
 oneplus,LE2119,cn,一加, OnePlus 9 Verzion 版
 oneplus,LE2120,cn,一加, OnePlus 9 Pro 全网通版
@@ -1655,12 +1654,14 @@ oneplus,MT2110,cn,一加, 一加 9RT 全网通版
 oneplus,MT2111,cn,一加, 一加 9RT 印度版
 oneplus,NE2210,cn,一加, 一加 10 Pro 全网通版
 oneplus,NE2211,cn,一加, 一加 10 Pro 印度版
-oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲/国际版
-oneplus,NE2215,cn,一加, 一加 10 Pro 北美版
-oneplus,CPH2381,cn,一加, 一加 10R 印度版
+oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲版
+oneplus,NE2215,cn,一加, 一加 10 Pro 北美版/国际版
+oneplus,NE2217,cn,一加, 一加 10 Pro T-Mobile 版
 oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
+oneplus,CPH2381,cn,一加, 一加 10R 印度版
+oneplus,CPH2411,cn,一加, 一加 10R 国际版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
-oneplus,AC2003,cn,一加, OnePlus Nord 欧洲/国际版
+oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
 oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
@@ -1672,7 +1673,7 @@ oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
 oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
 oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
 oneplus,EB2101,cn,一加, OnePlus Nord CE 印度版
-oneplus,EB2103,cn,一加, OnePlus Nord CE 欧洲/国际版
+oneplus,EB2103,cn,一加, OnePlus Nord CE 欧洲版/国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
 oneplus,DN2103,cn,一加, OnePlus Nord 2 欧洲版
 oneplus,IV2201,cn,一加, OnePlus Nord CE 2 印度版
@@ -2570,7 +2571,6 @@ oneplus,E1003,en,一加, OnePlus X Global
 oneplus,E1005,en,一加, OnePlus X North America
 oneplus,A3000,en,一加, OnePlus 3 China / North America
 oneplus,A3003,en,一加, OnePlus 3 Global
-oneplus,A3000,en,一加, OnePlus 3T North America
 oneplus,A3003,en,一加, OnePlus 3T Global
 oneplus,A3010,en,一加, OnePlus 3T China
 oneplus,A5000,en,一加, OnePlus 5
@@ -2581,19 +2581,19 @@ oneplus,A6010,en,一加, OnePlus 6T China
 oneplus,A6013,en,一加, OnePlus 6T Global
 oneplus,GM1900,en,一加, OnePlus 7 China
 oneplus,GM1901,en,一加, OnePlus 7 India
-oneplus,GM1903,en,一加, OnePlus 7 EU / Global
-oneplus,GM1905,en,一加, OnePlus 7 NA
+oneplus,GM1903,en,一加, OnePlus 7 EU
+oneplus,GM1905,en,一加, OnePlus 7 North America / Global
 oneplus,GM1910,en,一加, OnePlus 7 Pro China
 oneplus,GM1911,en,一加, OnePlus 7 Pro India
-oneplus,GM1913,en,一加, OnePlus 7 Pro Global
-oneplus,GM1915,en,一加, OnePlus 7 Pro EU
+oneplus,GM1913,en,一加, OnePlus 7 Pro EU
+oneplus,GM1915,en,一加, OnePlus 7 Pro Global
 oneplus,GM1917,en,一加, OnePlus 7 Pro North America / T-Mobile
 oneplus,GM1920,en,一加, OnePlus 7 Pro 5G EU
 oneplus,GM1925,en,一加, OnePlus 7 Pro 5G Sprint
 oneplus,HD1900,en,一加, OnePlus 7T China
 oneplus,HD1901,en,一加, OnePlus 7T India
-oneplus,HD1903,en,一加, OnePlus 7T EU / Global
-oneplus,HD1905,en,一加, OnePlus 7T North America
+oneplus,HD1903,en,一加, OnePlus 7T EU
+oneplus,HD1905,en,一加, OnePlus 7T North America / Global
 oneplus,HD1907,en,一加, OnePlus 7T T-Mobile
 oneplus,HD1910,en,一加, OnePlus 7T Pro China
 oneplus,HD1911,en,一加, OnePlus 7T Pro India
@@ -2601,25 +2601,25 @@ oneplus,HD1913,en,一加, OnePlus 7T Pro EU / Global
 oneplus,HD1925,en,一加, OnePlus 7T Pro 5G T-Mobile / OnePlus Concept One
 oneplus,IN2010,en,一加, OnePlus 8 China
 oneplus,IN2011,en,一加, OnePlus 8 India
-oneplus,IN2013,en,一加, OnePlus 8 EU / Global
-oneplus,IN2015,en,一加, OnePlus 8 Visible North America
+oneplus,IN2013,en,一加, OnePlus 8 EU
+oneplus,IN2015,en,一加, OnePlus 8 North America / Global
 oneplus,IN2017,en,一加, OnePlus 8 T-Mobile
-oneplus,IN2019,en,一加, OnePlus 8 UW Verzion
+oneplus,IN2019,en,一加, OnePlus 8 Visible / Verzion
 oneplus,IN2020,en,一加, OnePlus 8 Pro China
 oneplus,IN2021,en,一加, OnePlus 8 Pro India
-oneplus,IN2023,en,一加, OnePlus 8 Pro EU / Global
-oneplus,IN2025,en,一加, OnePlus 8 Pro North America
+oneplus,IN2023,en,一加, OnePlus 8 Pro EU
+oneplus,IN2025,en,一加, OnePlus 8 Pro North America / Global
 oneplus,KB2000,en,一加, OnePlus 8T China
 oneplus,KB2001,en,一加, OnePlus 8T India
-oneplus,KB2003,en,一加, OnePlus 8T EU / Global
-oneplus,KB2005,en,一加, OnePlus 8T North America
+oneplus,KB2003,en,一加, OnePlus 8T EU
+oneplus,KB2005,en,一加, OnePlus 8T North America / Global
 oneplus,KB2007,en,一加, OnePlus 8T+ T-Mobile
 oneplus,LE2100,en,一加, OnePlus 9R China
 oneplus,LE2101,en,一加, OnePlus 9R India
 oneplus,LE2110,en,一加, OnePlus 9 China
 oneplus,LE2111,en,一加, OnePlus 9 India
-oneplus,LE2113,en,一加, OnePlus 9 EU / Global
-oneplus,LE2115,en,一加, OnePlus 9 North America
+oneplus,LE2113,en,一加, OnePlus 9 EU
+oneplus,LE2115,en,一加, OnePlus 9 North America / Global
 oneplus,LE2117,en,一加, OnePlus 9 T-Mobile
 oneplus,LE2119,en,一加, OnePlus 9 Verzion
 oneplus,LE2120,en,一加, OnePlus 9 Pro China
@@ -2631,8 +2631,10 @@ oneplus,MT2110,en,一加, OnePlus 9RT China
 oneplus,MT2111,en,一加, OnePlus 9RT India
 oneplus,NE2210,en,一加, OnePlus 10 Pro China
 oneplus,NE2211,en,一加, OnePlus 10 Pro India
-oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
-oneplus,NE2215,en,一加, OnePlus 10 Pro North America
+oneplus,NE2213,en,一加, OnePlus 10 Pro EU
+oneplus,NE2215,en,一加, OnePlus 10 Pro North America / Global
+oneplus,NE2217,en,一加, OnePlus 10 Pro T-Mobile
+oneplus,CPH2411,en,一加, OnePlus 10R Global
 oneplus,CPH2381,en,一加, OnePlus 10R India
 oneplus,PGKM10,en,一加, OnePlus Ace China
 oneplus,AC2001,en,一加, OnePlus Nord India
