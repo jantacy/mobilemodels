@@ -273,7 +273,7 @@ xiaomi,M1904F3BC,cn,小米, 小米 CC9 全网通版
 xiaomi,M1904F3BT,cn,小米, 小米 CC9 美图定制版
 xiaomi,M1906F9SC,cn,小米, 小米 CC9e 全网通版
 xiaomi,M1910F4E,cn,小米, 小米 CC9 Pro 全网通版
-xiaomi,2109119BC,cn,小米, Xiaomi Civi 全网通版
+xiaomi,2109119BC,cn,小米, Xiaomi Civi 全网通版 / Xiaomi Civi 1S 全网通版
 xiaomi,M1901F9E,cn,小米, 小米 Play 全网通版
 xiaomi,M1901F9T,cn,小米, 小米 Play 移动 4G+ 版
 xiaomi,MDG2,cn,小米, 小米 A1 国际版
@@ -731,6 +731,7 @@ oppo,PEMM00,cn,OPPO, OPPO A55 全网通版
 oppo,PEMM20,cn,OPPO, OPPO A55 全网通版
 oppo,PEMT00,cn,OPPO, OPPO A55 移动版
 oppo,PEMT20,cn,OPPO, OPPO A55 移动版
+oppo,PEMM00,cn,OPPO, OPPO A55s 全网通版
 oppo,PFVM10,cn,OPPO, OPPO A56 全网通版
 oppo,PFTM20,cn,OPPO, OPPO A57 (2022) 全网通版
 oppo,PDYM20,cn,OPPO, OPPO A72 全网通版
@@ -756,6 +757,8 @@ oppo,PEXM00,cn,OPPO, OPPO K9 全网通版
 oppo,PERM10,cn,OPPO, OPPO K9s 全网通版
 oppo,PEYM00,cn,OPPO, OPPO K9 Pro 全网通版
 oppo,PGCM10,cn,OPPO, OPPO K9x 全网通版
+oppo,PGJM10,cn,OPPO, OPPO K10 全网通版
+oppo,PGIM10,cn,OPPO, OPPO K10 Pro 全网通版
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
 oppo,OW19W2,cn,OPPO, OPPO Watch 41mm
@@ -3126,7 +3129,7 @@ xiaomi,M1904F3BC,en,小米, Mi CC 9 China
 xiaomi,M1904F3BT,en,小米, Mi CC 9 Meitu Edition China
 xiaomi,M1906F9SC,en,小米, Mi CC 9e China
 xiaomi,M1910F4E,en,小米, Mi CC 9 Pro China
-xiaomi,2109119BC,en,小米, Xiaomi Civi China
+xiaomi,2109119BC,en,小米, Xiaomi Civi China / Xiaomi Civi 1S China
 xiaomi,M1901F9E,en,小米, Mi Play
 xiaomi,M1901F9T,en,小米, Mi Play China Mobile
 xiaomi,MDG2,en,小米, Mi A1 Global
