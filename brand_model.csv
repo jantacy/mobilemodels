@@ -1612,8 +1612,8 @@ oneplus,GM1905,cn,一加, OnePlus 7 北美版/国际版
 oneplus,GM1910,cn,一加, OnePlus 7 Pro 全网通版
 oneplus,GM1911,cn,一加, OnePlus 7 Pro 印度版
 oneplus,GM1913,cn,一加, OnePlus 7 Pro 欧洲版
-oneplus,GM1915,cn,一加, OnePlus 7 Pro 国际版
-oneplus,GM1917,cn,一加, OnePlus 7 Pro 北美/T-Mobile 版
+oneplus,GM1915,cn,一加, OnePlus 7 Pro 北美版/国际版
+oneplus,GM1917,cn,一加, OnePlus 7 Pro T-Mobile 版
 oneplus,GM1920,cn,一加, OnePlus 7 Pro 5G 欧洲版
 oneplus,GM1925,cn,一加, OnePlus 7 Pro 5G Sprint 版
 oneplus,HD1900,cn,一加, OnePlus 7T 全网通版
@@ -1650,15 +1650,15 @@ oneplus,LE2117,cn,一加, OnePlus 9 T-Mobile 版
 oneplus,LE2119,cn,一加, OnePlus 9 Verzion 版
 oneplus,LE2120,cn,一加, OnePlus 9 Pro 全网通版
 oneplus,LE2121,cn,一加, OnePlus 9 Pro 印度版
-oneplus,LE2123,cn,一加, OnePlus 9 Pro 欧洲/国际版
-oneplus,LE2125,cn,一加, OnePlus 9 Pro 北美版
+oneplus,LE2123,cn,一加, OnePlus 9 Pro 欧洲版
+oneplus,LE2125,cn,一加, OnePlus 9 Pro 北美版/国际版
 oneplus,LE2127,cn,一加, OnePlus 9 Pro T-Mobile 版
 oneplus,MT2110,cn,一加, 一加 9RT 全网通版
 oneplus,MT2111,cn,一加, 一加 9RT 印度版
 oneplus,NE2210,cn,一加, 一加 10 Pro 全网通版
 oneplus,NE2211,cn,一加, 一加 10 Pro 印度版
-oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲版
-oneplus,NE2215,cn,一加, 一加 10 Pro 北美版/国际版
+oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲版/国际版
+oneplus,NE2215,cn,一加, 一加 10 Pro 北美版
 oneplus,NE2217,cn,一加, 一加 10 Pro T-Mobile 版
 oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
 oneplus,CPH2381,cn,一加, 一加 10R 印度版
@@ -1795,6 +1795,53 @@ lenovo,Z2131,cn,联想, ZUK Z2
 lenovo,Z2121,cn,联想, ZUK Z2 Pro
 lenovo,Z2122,cn,联想, ZUK Z2 Pro
 lenovo,Z2151,cn,联想, ZUK Edge
+lenovo,Lenovo,cn,联想, 联想小新平板 8 英寸
+lenovo,TB-8804F,cn,联想, 联想小新平板 8 英寸
+lenovo,Lenovo,cn,联想, 联想小新平板 10 英寸
+lenovo,TB-X804F,cn,联想, 联想小新平板 10 英寸
+lenovo,Lenovo,cn,联想, 联想小新 Pad
+lenovo,TB-J606F,cn,联想, 联想小新 Pad
+lenovo,Lenovo,cn,联想, 联想小新 Pad Plus
+lenovo,TB-J607F,cn,联想, 联想小新 Pad Plus
+lenovo,Lenovo,cn,联想, 联想小新 Pad Plus 5G
+lenovo,TB-J607Z,cn,联想, 联想小新 Pad Plus 5G
+lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 2020
+lenovo,TB-J706F,cn,联想, 联想小新 Pad Pro 2020
+lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 2021
+lenovo,TB-J716F,cn,联想, 联想小新 Pad Pro 2021
+lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 12.6
+lenovo,TB-Q706F,cn,联想, 联想小新 Pad Pro 12.6
+lenovo,Lenovo,cn,联想, 联想 YOGA Pad Pro
+lenovo,YT-K606F,cn,联想, 联想 YOGA Pad Pro
+lenovo,Lenovo,cn,联想, 联想拯救者 Y700 游戏平板
+lenovo,TB-9707F,cn,联想, 联想拯救者 Y700 游戏平板
+lenovo,Lenovo,cn,联想, 联想天骄平板电脑
+lenovo,TB-J616F,cn,联想, 联想天骄平板电脑
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
+lenovo,TB-8504F,cn,联想, 联想 TAB4 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 LTE 版
+lenovo,TB-8504N,cn,联想, 联想 TAB4 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,TB-8604F,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,TB-8X04F,cn,联想, 联想 TAB4 8 英寸 REL
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
+lenovo,TB-X304F,cn,联想, 联想 TAB4 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
+lenovo,TB-X304N,cn,联想, 联想 TAB4 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 10.1 英寸 REL
+lenovo,TB-X504F,cn,联想, 联想 TAB4 10.1 英寸 REL
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
+lenovo,TB-8704F,cn,联想, 联想 TAB4 Plus 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
+lenovo,TB-8704N,cn,联想, 联想 TAB4 Plus 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
+lenovo,TB-X704F,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
+lenovo,TB-X704N,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M10 PLUS
+lenovo,TB-X606F,cn,联想, 联想 M10 PLUS
+lenovo,Lenovo,cn,联想, Lenovo Tab K11
+lenovo,TB-J606N,cn,联想, Lenovo Tab K11
 samsung,GT-I9000,cn,三星, Galaxy S 公开版
 samsung,GT-I9008,cn,三星, Galaxy S 移动定制版
 samsung,GT-I9008L,cn,三星, Galaxy S 移动定制版
@@ -2589,8 +2636,8 @@ oneplus,GM1905,en,一加, OnePlus 7 North America / Global
 oneplus,GM1910,en,一加, OnePlus 7 Pro China
 oneplus,GM1911,en,一加, OnePlus 7 Pro India
 oneplus,GM1913,en,一加, OnePlus 7 Pro EU
-oneplus,GM1915,en,一加, OnePlus 7 Pro Global
-oneplus,GM1917,en,一加, OnePlus 7 Pro North America / T-Mobile
+oneplus,GM1915,en,一加, OnePlus 7 Pro North America / Global
+oneplus,GM1917,en,一加, OnePlus 7 Pro T-Mobile
 oneplus,GM1920,en,一加, OnePlus 7 Pro 5G EU
 oneplus,GM1925,en,一加, OnePlus 7 Pro 5G Sprint
 oneplus,HD1900,en,一加, OnePlus 7T China
@@ -2627,15 +2674,15 @@ oneplus,LE2117,en,一加, OnePlus 9 T-Mobile
 oneplus,LE2119,en,一加, OnePlus 9 Verzion
 oneplus,LE2120,en,一加, OnePlus 9 Pro China
 oneplus,LE2121,en,一加, OnePlus 9 Pro India
-oneplus,LE2123,en,一加, OnePlus 9 Pro EU / Global
-oneplus,LE2125,en,一加, OnePlus 9 Pro North America
+oneplus,LE2123,en,一加, OnePlus 9 Pro EU
+oneplus,LE2125,en,一加, OnePlus 9 Pro North America / Global
 oneplus,LE2127,en,一加, OnePlus 9 Pro T-Mobile
 oneplus,MT2110,en,一加, OnePlus 9RT China
 oneplus,MT2111,en,一加, OnePlus 9RT India
 oneplus,NE2210,en,一加, OnePlus 10 Pro China
 oneplus,NE2211,en,一加, OnePlus 10 Pro India
-oneplus,NE2213,en,一加, OnePlus 10 Pro EU
-oneplus,NE2215,en,一加, OnePlus 10 Pro North America / Global
+oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
+oneplus,NE2215,en,一加, OnePlus 10 Pro North America
 oneplus,NE2217,en,一加, OnePlus 10 Pro T-Mobile
 oneplus,CPH2411,en,一加, OnePlus 10R Global
 oneplus,CPH2381,en,一加, OnePlus 10R India
