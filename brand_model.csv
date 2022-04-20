@@ -391,12 +391,12 @@ xiaomi,M2004J19AG,cn,小米, Redmi 9 国际版 (NFC)
 xiaomi,M2006C3LC,cn,小米, Redmi 9A 全网通版
 xiaomi,M2006C3LG,cn,小米, Redmi 9A 国际版
 xiaomi,M2006C3LVG,cn,小米, Redmi 9AT 国际版
-xiaomi,M2006C3LI,cn,小米, Redmi 9A / Redmi 9A Sport 印度版
-xiaomi,M2006C3LII,cn,小米, Redmi 9i / Redmi 9i Sport 印度版
+xiaomi,M2006C3LI,cn,小米, Redmi 9A 印度版 / Redmi 9A Sport 印度版
+xiaomi,M2006C3LII,cn,小米, Redmi 9i 印度版 / Redmi 9i Sport 印度版
 xiaomi,M2006C3MG,cn,小米, Redmi 9C 国际版
 xiaomi,M2006C3MT,cn,小米, Redmi 9C 泰国版
 xiaomi,M2006C3MNG,cn,小米, Redmi 9C NFC 国际版
-xiaomi,M2006C3MII,cn,小米, Redmi 9 / Redmi 9 Activ 印度版
+xiaomi,M2006C3MII,cn,小米, Redmi 9 印度版 / Redmi 9 Activ 印度版
 xiaomi,M2010J19SG,cn,小米, Redmi 9T 国际版
 xiaomi,M2010J19SI,cn,小米, Redmi 9 Power 印度版
 xiaomi,M2010J19SR,cn,小米, Redmi 9T 日本版
@@ -415,7 +415,7 @@ xiaomi,22041219G,cn,小米, Redmi 10 5G 国际版
 xiaomi,22041219I,cn,小米, Redmi 10 Prime+ 5G 印度版
 xiaomi,22041219NY,cn,小米, Redmi 10 5G 国际版 (NFC)
 xiaomi,220333QAG,cn,小米, Redmi 10C 国际版
-xiaomi,220333QBI,cn,小米, Redmi 10 印度版
+xiaomi,220333QBI,cn,小米, Redmi 10 印度版 / Redmi 10 Power 印度版
 xiaomi,220233L2C,cn,小米, Redmi 10A 全网通版
 xiaomi,220233L2G,cn,小米, Redmi 10A 国际版
 xiaomi,220233L2I,cn,小米, Redmi 10A 印度版
@@ -447,8 +447,8 @@ xiaomi,2016050,cn,小米, 红米 Note 4 全网通版
 xiaomi,2016051,cn,小米, 红米 Note 4 移动版
 xiaomi,2016101,cn,小米, 红米 Note 4X 高通 全网通版
 xiaomi,2016130,cn,小米, 红米 Note 4X 高通 移动 4G+ 版
-xiaomi,2016100,cn,小米, 红米 Note 4 / 红米 Note 4X 高通 国际版
-xiaomi,2016102,cn,小米, 红米 Note 4 / 红米 Note 4X 高通 国际版
+xiaomi,2016100,cn,小米, 红米 Note 4 国际版 / 红米 Note 4X 高通 国际版
+xiaomi,2016102,cn,小米, 红米 Note 4 国际版 / 红米 Note 4X 高通 国际版
 xiaomi,MBE6A5,cn,小米, 红米 Note 4X MTK 全网通版
 xiaomi,MBT6A5,cn,小米, 红米 Note 4X MTK 移动 4G+ 版
 xiaomi,MEI7,cn,小米, 红米 Note 5 印度版
@@ -474,7 +474,7 @@ xiaomi,M1901F7T,cn,小米, Redmi Note 7 移动 4G+ 版
 xiaomi,M1901F7C,cn,小米, Redmi Note 7 联通电信定制版
 xiaomi,M1901F7G,cn,小米, Redmi Note 7 国际版
 xiaomi,M1901F7H,cn,小米, Redmi Note 7 国际版
-xiaomi,M1901F7I,cn,小米, Redmi Note 7 / Redmi Note 7S 印度版
+xiaomi,M1901F7I,cn,小米, Redmi Note 7 印度版 / Redmi Note 7S 印度版
 xiaomi,M1901F7BE,cn,小米, Redmi Note 7 Pro 全网通版
 xiaomi,M1901F7S,cn,小米, Redmi Note 7 Pro 印度版
 xiaomi,M1908C3JE,cn,小米, Redmi Note 8 全网通版
@@ -496,7 +496,7 @@ xiaomi,M2003J15SG,cn,小米, Redmi Note 9 国际版 (NFC)
 xiaomi,M2007J22G,cn,小米, Redmi Note 9T 5G 国际版
 xiaomi,M2007J17C,cn,小米, Redmi Note 9 Pro 5G 全网通版
 xiaomi,M2003J6A1G,cn,小米, Redmi Note 9S 国际版
-xiaomi,M2003J6A1R,cn,小米, Redmi Note 9S 日本版 / 韩国版
+xiaomi,M2003J6A1R,cn,小米, Redmi Note 9S 日本版 / Redmi Note 9S 韩国版
 xiaomi,M2003J6A1I,cn,小米, Redmi Note 9 Pro 印度版
 xiaomi,M2003J6B1I,cn,小米, Redmi Note 9 Pro Max 印度版
 xiaomi,M2003J6B2G,cn,小米, Redmi Note 9 Pro 国际版
@@ -3067,21 +3067,21 @@ xiaomi,MCE16,en,小米, Mi 6
 xiaomi,MCT1,en,小米, Mi 6 China Mobile
 xiaomi,M1804D2SE,en,小米, Mi 6X China
 xiaomi,M1804D2ST,en,小米, Mi 6X China Mobile
-xiaomi,M1804D2SC,en,小米, Mi 6X China Unicom / China Telecom
+xiaomi,M1804D2SC,en,小米, Mi 6X China Unicom & China Telecom
 xiaomi,M1803E1A,en,小米, Mi 8
 xiaomi,M1803E1T,en,小米, Mi 8 China Mobile
-xiaomi,M1803E1C,en,小米, Mi 8 China Unicom / China Telecom
+xiaomi,M1803E1C,en,小米, Mi 8 China Unicom & China Telecom
 xiaomi,M1807E8S,en,小米, Mi 8 Explorer Edition
 xiaomi,M1807E8A,en,小米, Mi 8 Pro
 xiaomi,M1805E2A,en,小米, Mi 8 SE
 xiaomi,M1808D2TG,en,小米, Mi 8 Lite Global
 xiaomi,M1808D2TE,en,小米, Mi 8 Lite China
 xiaomi,M1808D2TT,en,小米, Mi 8 Lite China Mobile
-xiaomi,M1808D2TC,en,小米, Mi 8 Lite China Unicom / China Telecom
+xiaomi,M1808D2TC,en,小米, Mi 8 Lite China Unicom & China Telecom
 xiaomi,M1902F1G,en,小米, Mi 9 Global
 xiaomi,M1902F1A,en,小米, Mi 9 China
 xiaomi,M1902F1T,en,小米, Mi 9 China Mobile
-xiaomi,M1902F1C,en,小米, Mi 9 China Unicom / China Telecom
+xiaomi,M1902F1C,en,小米, Mi 9 China Unicom & China Telecom
 xiaomi,M1908F1XE,en,小米, Mi 9 Pro 5G China
 xiaomi,M1903F2G,en,小米, Mi 9 SE Global
 xiaomi,M1903F2A,en,小米, Mi 9 SE China
@@ -3157,7 +3157,7 @@ xiaomi,MDE5S,en,小米, Mi MIX 2 Unibody Ceramic Edition
 xiaomi,M1803D5XA,en,小米, Mi MIX 2S Global
 xiaomi,M1803D5XE,en,小米, Mi MIX 2S China
 xiaomi,M1803D5XT,en,小米, Mi MIX 2S China Mobile
-xiaomi,M1803D5XC,en,小米, Mi MIX 2S China Unicom / China Telecom
+xiaomi,M1803D5XC,en,小米, Mi MIX 2S China Unicom & China Telecom
 xiaomi,M1810E5A,en,小米, Mi MIX 3 Global
 xiaomi,M1810E5E,en,小米, Mi MIX 3 China
 xiaomi,M1810E5GG,en,小米, Mi MIX 3 5G
@@ -3171,7 +3171,7 @@ xiaomi,MDT4,en,小米, Mi Max 2 China Mobile
 xiaomi,MDI40,en,小米, Mi Max 2 India
 xiaomi,M1804E4A,en,小米, Mi Max 3
 xiaomi,M1804E4T,en,小米, Mi Max 3 China Mobile
-xiaomi,M1804E4C,en,小米, Mi Max 3 China Unicom / China Telecom
+xiaomi,M1804E4C,en,小米, Mi Max 3 China Unicom & China Telecom
 xiaomi,M1904F3BC,en,小米, Mi CC 9 China
 xiaomi,M1904F3BT,en,小米, Mi CC 9 Meitu Edition China
 xiaomi,M1906F9SC,en,小米, Mi CC 9e China
@@ -3255,17 +3255,17 @@ xiaomi,M1804C3DH,en,小米, Redmi 6 Global
 xiaomi,M1804C3DI,en,小米, Redmi 6 India
 xiaomi,M1804C3DE,en,小米, Redmi 6 China
 xiaomi,M1804C3DT,en,小米, Redmi 6 China Mobile
-xiaomi,M1804C3DC,en,小米, Redmi 6 China Unicom / China Telecom
+xiaomi,M1804C3DC,en,小米, Redmi 6 China Unicom & China Telecom
 xiaomi,M1805D1SI,en,小米, Redmi 6 Pro India
 xiaomi,M1805D1SE,en,小米, Redmi 6 Pro China
 xiaomi,M1805D1ST,en,小米, Redmi 6 Pro China Mobile
-xiaomi,M1805D1SC,en,小米, Redmi 6 Pro China Unicom / China Telecom
+xiaomi,M1805D1SC,en,小米, Redmi 6 Pro China Unicom & China Telecom
 xiaomi,M1804C3CG,en,小米, Redmi 6A Global
 xiaomi,M1804C3CH,en,小米, Redmi 6A Global
 xiaomi,M1804C3CI,en,小米, Redmi 6A India
 xiaomi,M1804C3CE,en,小米, Redmi 6A China
 xiaomi,M1804C3CT,en,小米, Redmi 6A China Mobile
-xiaomi,M1804C3CC,en,小米, Redmi 6A China Unicom / China Telecom
+xiaomi,M1804C3CC,en,小米, Redmi 6A China Unicom & China Telecom
 xiaomi,M1810F6LG,en,小米, Redmi 7 Global
 xiaomi,M1810F6LH,en,小米, Redmi 7 Global
 xiaomi,M1810F6LI,en,小米, Redmi 7 India
@@ -3276,7 +3276,7 @@ xiaomi,M1903C3EH,en,小米, Redmi 7A Global
 xiaomi,M1903C3EI,en,小米, Redmi 7A India
 xiaomi,M1903C3EE,en,小米, Redmi 7A China
 xiaomi,M1903C3ET,en,小米, Redmi 7A China Mobile
-xiaomi,M1903C3EC,en,小米, Redmi 7A China Unicom / China Telecom
+xiaomi,M1903C3EC,en,小米, Redmi 7A China Unicom & China Telecom
 xiaomi,M1908C3IG,en,小米, Redmi 8 Global
 xiaomi,M1908C3IH,en,小米, Redmi 8 Global
 xiaomi,M1908C3II,en,小米, Redmi 8 India
@@ -3293,13 +3293,13 @@ xiaomi,M2004J19C,en,小米, Redmi 9 China
 xiaomi,M2004J19AG,en,小米, Redmi 9 Global (NFC)
 xiaomi,M2006C3LG,en,小米, Redmi 9A Global
 xiaomi,M2006C3LVG,en,小米, Redmi 9AT Global
-xiaomi,M2006C3LI,en,小米, Redmi 9A / Redmi 9A Sport India
-xiaomi,M2006C3LII,en,小米, Redmi 9i / Redmi 9i Sport India
+xiaomi,M2006C3LI,en,小米, Redmi 9A India / Redmi 9A Sport India
+xiaomi,M2006C3LII,en,小米, Redmi 9i India / Redmi 9i Sport India
 xiaomi,M2006C3LC,en,小米, Redmi 9A China
 xiaomi,M2006C3MG,en,小米, Redmi 9C Global
 xiaomi,M2006C3MT,en,小米, Redmi 9C Thailand
 xiaomi,M2006C3MNG,en,小米, Redmi 9C NFC Global
-xiaomi,M2006C3MII,en,小米, Redmi 9 / Redmi 9 Activ India
+xiaomi,M2006C3MII,en,小米, Redmi 9 India / Redmi 9 Activ India
 xiaomi,M2010J19SG,en,小米, Redmi 9T Global
 xiaomi,M2010J19SI,en,小米, Redmi 9 Power India
 xiaomi,M2010J19SR,en,小米, Redmi 9T Japan
@@ -3318,7 +3318,7 @@ xiaomi,22041219G,en,小米, Redmi 10 5G Global
 xiaomi,22041219I,en,小米, Redmi 10 Prime+ 5G India
 xiaomi,22041219NY,en,小米, Redmi 10 5G Global (NFC)
 xiaomi,220333QAG,en,小米, Redmi 10C Global
-xiaomi,220333QBI,en,小米, Redmi 10 India
+xiaomi,220333QBI,en,小米, Redmi 10 India / Redmi 10 Power India
 xiaomi,220233L2G,en,小米, Redmi 10A Global
 xiaomi,220233L2I,en,小米, Redmi 10A India
 xiaomi,220233L2C,en,小米, Redmi 10A China
@@ -3360,7 +3360,7 @@ xiaomi,M1803E7SH,en,小米, Redmi Note 5 Global
 xiaomi,MEI7S,en,小米, Redmi Note 5 Pro India
 xiaomi,MEE7S,en,小米, Redmi Note 5 China
 xiaomi,MET7S,en,小米, Redmi Note 5 China Mobile
-xiaomi,MEC7S,en,小米, Redmi Note 5 China Unicom / China Telecom
+xiaomi,MEC7S,en,小米, Redmi Note 5 China Unicom & China Telecom
 xiaomi,MDG6,en,小米, Redmi Note 5A Global
 xiaomi,MDI6,en,小米, Redmi Y1 Lite India
 xiaomi,MDE6,en,小米, Redmi Note 5A China
@@ -3374,10 +3374,10 @@ xiaomi,M1806E7TH,en,小米, Redmi Note 6 Pro Global
 xiaomi,M1806E7TI,en,小米, Redmi Note 6 Pro India
 xiaomi,M1901F7G,en,小米, Redmi Note 7 Global
 xiaomi,M1901F7H,en,小米, Redmi Note 7 Global
-xiaomi,M1901F7I,en,小米, Redmi Note 7 / Redmi Note 7S India
+xiaomi,M1901F7I,en,小米, Redmi Note 7 India / Redmi Note 7S India
 xiaomi,M1901F7E,en,小米, Redmi Note 7 China
 xiaomi,M1901F7T,en,小米, Redmi Note 7 China Mobile
-xiaomi,M1901F7C,en,小米, Redmi Note 7 China Unicom / China Telecom
+xiaomi,M1901F7C,en,小米, Redmi Note 7 China Unicom & China Telecom
 xiaomi,M1901F7S,en,小米, Redmi Note 7 Pro India
 xiaomi,M1901F7BE,en,小米, Redmi Note 7 Pro China
 xiaomi,M1908C3JG,en,小米, Redmi Note 8 Global
@@ -3398,7 +3398,7 @@ xiaomi,M2010J19SC,en,小米, Redmi Note 9 4G China
 xiaomi,M2007J22C,en,小米, Redmi Note 9 5G China
 xiaomi,M2007J22G,en,小米, Redmi Note 9T 5G Global
 xiaomi,M2003J6A1G,en,小米, Redmi Note 9S Global
-xiaomi,M2003J6A1R,en,小米, Redmi Note 9S Japan / Korea
+xiaomi,M2003J6A1R,en,小米, Redmi Note 9S Japan / Redmi Note 9S Korea
 xiaomi,M2003J6A1I,en,小米, Redmi Note 9 Pro India
 xiaomi,M2003J6B1I,en,小米, Redmi Note 9 Pro Max India
 xiaomi,M2003J6B2G,en,小米, Redmi Note 9 Pro Global
@@ -3478,7 +3478,7 @@ xiaomi,M1803E6H,en,小米, Redmi S2 Global
 xiaomi,M1803E6I,en,小米, Redmi Y2 India
 xiaomi,M1803E6E,en,小米, Redmi S2 China
 xiaomi,M1803E6T,en,小米, Redmi S2 China Mobile
-xiaomi,M1803E6C,en,小米, Redmi S2 China Unicom / China Telecom
+xiaomi,M1803E6C,en,小米, Redmi S2 China Unicom & China Telecom
 xiaomi,M1810F6G,en,小米, Redmi Y3 Global
 xiaomi,M1810F6I,en,小米, Redmi Y3 India
 xiaomi,M1903C3GG,en,小米, Redmi Go Global
