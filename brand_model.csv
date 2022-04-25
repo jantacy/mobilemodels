@@ -891,14 +891,22 @@ mitv,L65M5-OD,cn,小米电视, 小米电视 大师 65 英寸 OLED
 mitv,O77M8-MAS,cn,小米电视, 小米电视 大师 77 英寸 OLED
 mitv,L82M6-4K,cn,小米电视, 小米电视 大师 82 英寸
 mitv,L82M6-8KP,cn,小米电视, 小米电视 大师 82 英寸 至尊纪念版
+mitv,L55M8-SP,cn,小米电视, 小米电子水牌 55 英寸
 mitv,L40M5-RA,cn,小米电视, Redmi 红米电视 40 英寸 R40A
 mitv,L42R7-RA,cn,小米电视, Redmi 智能电视 42 英寸
 mitv,L70M5-RA,cn,小米电视, Redmi 红米电视 70 英寸 R70A
-mitv,L32R6-A,cn,小米电视, Redmi 智能电视 A32
-mitv,L43R6-A,cn,小米电视, Redmi 智能电视 A43
-mitv,L50R6-A,cn,小米电视, Redmi 智能电视 A50
-mitv,L55R6-A,cn,小米电视, Redmi 智能电视 A55
-mitv,L65R6-A,cn,小米电视, Redmi 智能电视 A65
+mitv,L32R6-A,cn,小米电视, Redmi 智能电视 A32 (2020)
+mitv,L43R6-A,cn,小米电视, Redmi 智能电视 A43 (2020)
+mitv,L50R6-A,cn,小米电视, Redmi 智能电视 A50 (2020)
+mitv,L55R6-A,cn,小米电视, Redmi 智能电视 A55 (2020)
+mitv,L65R6-A,cn,小米电视, Redmi 智能电视 A65 (2020)
+mitv,L32R8-A,cn,小米电视, Redmi 智能电视 A32 2022 款
+mitv,L43R8-A,cn,小米电视, Redmi 智能电视 A43 2022 款
+mitv,L50R8-A,cn,小米电视, Redmi 智能电视 A50 2022 款
+mitv,L55R8-A,cn,小米电视, Redmi 智能电视 A55 2022 款
+mitv,L58R8-A,cn,小米电视, Redmi 智能电视 A58 2022 款
+mitv,L65R8-A,cn,小米电视, Redmi 智能电视 A65 2022 款
+mitv,L75R8-A,cn,小米电视, Redmi 智能电视 A75 2022 款
 mitv,L50M5-RK,cn,小米电视, Redmi 智能电视 X50 (2020)
 mitv,L55M5-RK,cn,小米电视, Redmi 智能电视 X55 (2020)
 mitv,L65M5-RK,cn,小米电视, Redmi 智能电视 X65 (2020)
@@ -3034,6 +3042,7 @@ zte,7530N,cn,中兴, 中兴远航 10
 zte,9040N,cn,中兴, 中兴远航 20 Pro
 zte,7532N,cn,中兴, 中兴远航 30
 zte,8040N,cn,中兴, 中兴远航 30 Pro
+zte,9041N,cn,中兴, 中兴远航 30 Pro+
 xiaomi,MI-ONE,en,小米, Mi 1 Lite
 xiaomi,2012051,en,小米, Mi 1S WCDMA
 xiaomi,2012053,en,小米, Mi 1S CDMA
