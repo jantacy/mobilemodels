@@ -899,6 +899,7 @@ huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G 全网通版
 huawei,TET-AN10,cn,华为, HUAWEI Mate X2 5G 全网通版
 huawei,TET-AN50,cn,华为, HUAWEI Mate X2 典藏版 5G 全网通版
 huawei,TET-AL00,cn,华为, HUAWEI Mate X2 4G 全网通版
+huawei,PAL-AL00,cn,华为, HUAWEI Mate Xs 2 4G 全网通版
 huawei,U9200,cn,华为, 华为 Ascend P1
 huawei,U9200E,cn,华为, 华为 Ascend P1 XL
 huawei,U9200S,cn,华为, 华为 Ascend P1 S
@@ -1177,11 +1178,16 @@ huawei,BAH4-W09,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟
 huawei,BAH4-W19,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 huawei,BAH4-AL10,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
 huawei,HMW-W09,cn,华为, HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
+huawei,AGS3K-W20,cn,华为, HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
+huawei,AGS3K-AL20,cn,华为, HUAWEI MatePad SE 10.1 英寸 全网通版
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
 huawei,AGS2-AL00,cn,华为, 华为畅享平板 10.1 英寸 全网通版
 huawei,AGS3-W00D,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)
 huawei,AGS3-W00E,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+128GB)
+huawei,AGS3K-W00,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版
+huawei,AGS3K-W10,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版
 huawei,AGS3-AL00,cn,华为, 华为畅享平板 2 10.1 英寸 全网通版
+huawei,AGS3K-AL00,cn,华为, 华为畅享平板 2 10.1 英寸 全网通版
 huawei,BZK-W00,cn,华为, 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
 huawei,BZK-L00,cn,华为, 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版
 huawei,BZA-W00,cn,华为, 华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版
@@ -1191,6 +1197,7 @@ huawei,BZD-AL00,cn,华为, 华为平板 C3 8 英寸 2020 款 全网通版
 huawei,BZD-AL10,cn,华为, 华为平板 C3 8 英寸 2020 款 全网通版
 huawei,BZC-W00,cn,华为, 华为平板 C3 9.7 英寸 2020 款 Wi-Fi 版
 huawei,BZC-AL00,cn,华为, 华为平板 C3 9.7 英寸 2020 款 全网通版
+huawei,BZH-W00,cn,华为, 华为平板 C3 9.7 英寸 2022 款 Wi-Fi 版
 huawei,MON-W19,cn,华为, 华为平板 C5 8 英寸 Wi-Fi 版
 huawei,MON-AL19,cn,华为, 华为平板 C5 8 英寸 全网通版
 huawei,BZT-W09,cn,华为, 华为平板 C5 10.1 英寸 Wi-Fi 版
@@ -1204,8 +1211,8 @@ huawei,BZT3-W59,cn,华为, 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
 huawei,BZT3-W69,cn,华为, 华为平板 C5 10.4 英寸 2021 款 Wi-Fi 版
 huawei,BZT4-W19,cn,华为, 华为平板 C5 10.4 英寸 2022 款 Wi-Fi 版
 huawei,BZT4-AL10,cn,华为, 华为平板 C5 10.4 英寸 2022 款 全网通版
-huawei,BZI-W00,cn,华为, 华为平板 C5e 10.1 英寸 Wi-Fi 版
-huawei,DBY-W09,cn,华为, 华为平板 C7 11 英寸 Wi-Fi 版
+huawei,BZI-W00,cn,华为, 华为平板 C5e 10.1 英寸 2022 款 Wi-Fi 版
+huawei,DBY-W09,cn,华为, 华为平板 C7 10.95 英寸 2022 款 Wi-Fi 版
 huawei,HZ-W09,cn,华为, HUAWEI MateBook m3
 huawei,HZ-W19,cn,华为, HUAWEI MateBook m5
 huawei,HZ-W29,cn,华为, HUAWEI MateBook m7
@@ -1352,6 +1359,8 @@ huawei,HD75THAA,cn,华为, 华为智慧屏 V 75 2021 款
 huawei,HD75FREA,cn,华为, 华为智慧屏 V 75 Super
 huawei,HD85THAA,cn,华为, 华为智慧屏 V 85 2021 款
 huawei,HD98SOKA,cn,华为, 华为智慧屏 V 98 2021 款
+huawei,HD65FRUA,cn,华为, 华为智慧屏 V 65 Pro
+huawei,HD75FRUA,cn,华为, 华为智慧屏 V 75 Pro
 huawei,PLAT-760,cn,华为, 华为智慧屏 X65
 huawei,HD55KANB,cn,华为, 华为智慧屏 S 55 60Hz (3GB+16GB)
 huawei,HD55KANC,cn,华为, 华为智慧屏 S 55 60Hz (3GB+32GB)
@@ -1362,13 +1371,19 @@ huawei,HD75KANA,cn,华为, 华为智慧屏 S 75 (3GB+16GB)
 huawei,HD75KANS,cn,华为, 华为智慧屏 S Pro 75 (3GB+32GB)
 huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
 huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
-huawei,HD55DESY,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
+huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
 huawei,HD55DESV,cn,华为, 华为智慧屏 SE 55 畅连通话版 4K (2GB+16GB)
+huawei,HD55DESS,cn,华为, 华为智慧屏 SE 55A 会员版 4K (2GB+16GB)
 huawei,HD65DESA,cn,华为, 华为智慧屏 SE 65 (2GB+16GB)
 huawei,HD65DESZ,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P (2GB+16GB)
 huawei,HD65DESY,cn,华为, 华为智慧屏 SE 65 畅连通话版 1080P 金属底座 (2GB+16GB)
 huawei,HD65DESV,cn,华为, 华为智慧屏 SE 65 畅连通话版 4K (2GB+16GB)
 huawei,HD75DESA,cn,华为, 华为智慧屏 SE 75 (2GB+16GB)
+huawei,HD43KHAA,cn,华为, 华为智慧屏 SE43 (2022)
+huawei,HD55KHAA,cn,华为, 华为智慧屏 SE55 (2022)
+huawei,HD55KHAS,cn,华为, 华为智慧屏 SE55 Pro (2022)
+huawei,HD65KHAA,cn,华为, 华为智慧屏 SE65 (2022)
+huawei,HD65KHAS,cn,华为, 华为智慧屏 SE65 Pro (2022)
 huawei,HD55KANY,cn,华为, 华为智慧屏 B5-510
 huawei,HD65KANY,cn,华为, 华为智慧屏 B5-610
 huawei,HEGE-550AX,cn,华为, 华为智慧屏 B7-500
