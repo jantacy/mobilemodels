@@ -831,6 +831,8 @@ realme,RMX3370,en,REALME, realme GT NEO 2 5G
 realme,RMX3311,en,REALME, realme GT 2 5G
 realme,RMX3322,en,REALME, realme GT 2 5G
 realme,RMX3301,en,REALME, realme GT 2 Pro 5G
+realme,RMX3561,en,REALME, realme GT NEO 3
+realme,RMX3563,en,REALME, realme GT NEO 3 150W
 realme,RMP2102,en,REALME, realme Pad
 realme,RMP2103,en,REALME, realme Pad
 realme,RMP2105,en,REALME, realme Pad mini
@@ -3303,6 +3305,22 @@ lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 2021
 lenovo,TB-J716F,cn,联想, 联想小新 Pad Pro 2021
 lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 12.6
 lenovo,TB-Q706F,cn,联想, 联想小新 Pad Pro 12.6
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 8” Wi-Fi 版
+lenovo,YT3-850F,cn,联想, 联想 YOGA Tab 3 8” Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 8” LTE 版
+lenovo,YT3-850L,cn,联想, 联想 YOGA Tab 3 8” LTE 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 10” Wi-Fi 版
+lenovo,YT3-X50F,cn,联想, 联想 YOGA Tab 3 10” Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 10” LTE 版
+lenovo,YT3-X50L,cn,联想, 联想 YOGA Tab 3 10” LTE 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 Plus Wi-Fi 版
+lenovo,YT-X703F,cn,联想, 联想 YOGA Tab 3 Plus Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 Plus LTE 版
+lenovo,YT-X703L,cn,联想, 联想 YOGA Tab 3 Plus LTE 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 PRO 10” Wi-Fi 版
+lenovo,YT3-X90F,cn,联想, 联想 YOGA Tab 3 PRO 10” Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 PRO 10” LTE 版
+lenovo,YT3-X90L,cn,联想, 联想 YOGA Tab 3 PRO 10” LTE 版
 lenovo,Lenovo,cn,联想, 联想 YOGA Pad Pro
 lenovo,YT-K606F,cn,联想, 联想 YOGA Pad Pro
 lenovo,Lenovo,cn,联想, 联想拯救者 Y700 游戏平板
@@ -3330,10 +3348,44 @@ lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
 lenovo,TB-X704F,cn,联想, 联想 TAB4 Plus 10.1 英寸 Wi-Fi 版
 lenovo,Lenovo,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
 lenovo,TB-X704N,cn,联想, 联想 TAB4 Plus 10.1 英寸 LTE 版
-lenovo,Lenovo,cn,联想, 联想 M10 PLUS
-lenovo,TB-X606F,cn,联想, 联想 M10 PLUS
-lenovo,Lenovo,cn,联想, Lenovo Tab K11
-lenovo,TB-J606N,cn,联想, Lenovo Tab K11
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
+lenovo,TB-8705F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版
+lenovo,TB-8705N,cn,联想, 联想 M8 8 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
+lenovo,TB-8505F,cn,联想, 联想 M8 8 英寸 Wi-Fi 版 (商用)
+lenovo,Lenovo,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
+lenovo,TB-8505N,cn,联想, 联想 M8 8 英寸 LTE 版 (商用)
+lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
+lenovo,TB-X306FC,cn,联想, 联想 M10 HD 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
+lenovo,TB-X306NC,cn,联想, 联想 M10 HD 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
+lenovo,TB-X605FC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
+lenovo,TB-X605LC,cn,联想, 联想 M10 FHD-REL 10.1 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+lenovo,TB-X606F,cn,联想, 联想 M10 PLUS 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想平板 TB-X616F 10.3 英寸 Wi-Fi 版
+lenovo,TB-X616F,cn,联想, 联想平板 TB-X616F 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
+lenovo,TB-X6C6F,cn,联想, 联想启天 K10 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
+lenovo,TB-X6C6X,cn,联想, 联想启天 K10 10.3 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
+lenovo,TB-J6C6F,cn,联想, 联想启天 K11 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 11 英寸 LTE 版
+lenovo,TB-J6C6X,cn,联想, 联想启天 K11 11 英寸 LTE 版
+lenovo,Lenovo,cn,联想, 联想启天 K11 Pro 5G
+lenovo,TB-J607Z,cn,联想, 联想启天 K11 Pro 5G
+lenovo,Lenovo,cn,联想, Lenovo Tab K10 10.3 英寸 Wi-Fi 版
+lenovo,TB-X6E6F,cn,联想, Lenovo Tab K10 10.3 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, Lenovo Tab K10 10.3 英寸 LTE 版
+lenovo,TB-X6E6X,cn,联想, Lenovo Tab K10 10.3 英寸 LTE 版
+lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
+lenovo,TB-J606F,cn,联想, Lenovo Tab K11 11 英寸 Wi-Fi 版
+lenovo,Lenovo,cn,联想, Lenovo Tab K11 11 英寸 LTE 版
+lenovo,TB-J606N,cn,联想, Lenovo Tab K11 11 英寸 LTE 版
 google,G-2PW4100,en,Google, Pixel (North America)
 google,G-2PW4200,en,Google, Pixel (Rest of the world)
 google,G-2PW2100,en,Google, Pixel XL (North America)
