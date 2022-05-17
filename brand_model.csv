@@ -473,6 +473,7 @@ oneplus,NE2217,cn,一加, 一加 10 Pro T-Mobile 版
 oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
 oneplus,CPH2381,cn,一加, 一加 10R 印度版
 oneplus,CPH2411,cn,一加, 一加 10R 国际版
+oneplus,PGZ110,cn,一加, 一加 Ace 竞速版 全网通版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
@@ -483,6 +484,7 @@ oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
 oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
 oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
+oneplus,GN2200,cn,一加, OnePlus Nord N20
 oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
 oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
 oneplus,EB2101,cn,一加, OnePlus Nord CE 印度版
@@ -4036,6 +4038,7 @@ oneplus,NE2217,en,一加, OnePlus 10 Pro T-Mobile
 oneplus,CPH2411,en,一加, OnePlus 10R Global
 oneplus,CPH2381,en,一加, OnePlus 10R India
 oneplus,PGKM10,en,一加, OnePlus Ace China
+oneplus,PGZ110,en,一加, OnePlus Ace Speed China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
@@ -4046,6 +4049,7 @@ oneplus,BE2011,en,一加, OnePlus Nord N100 North America
 oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
+oneplus,GN2200,en,一加, OnePlus Nord N20
 oneplus,DE2117,en,一加, OnePlus Nord N200 North America
 oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
 oneplus,EB2101,en,一加, OnePlus Nord CE India
@@ -4994,6 +4998,7 @@ motorola,XT2153-1,cn,摩托罗拉, motorola edge s pro
 motorola,XT2137-2,cn,摩托罗拉, motorola g50
 motorola,XT2171-3,cn,摩托罗拉, moto g51
 motorola,XT2169-2,cn,摩托罗拉, moto g71
+motorola,XT2225-2,cn,摩托罗拉, moto g71s
 motorola,XT2175-2,cn,摩托罗拉, moto edge S30
 motorola,XT2201-2,cn,摩托罗拉, moto edge X30
 motorola,XT2201-6,cn,摩托罗拉, moto edge X30 屏下摄像版
@@ -5004,7 +5009,9 @@ google,G-2PW2200,en,Google, Pixel XL (Rest of the world)
 google,G011A,en,Google, Pixel 2
 google,G011C,en,Google, Pixel 2 XL
 google,G013A,en,Google, Pixel 3
+google,G013B,en,Google, Pixel 3 (Japan)
 google,G013C,en,Google, Pixel 3 XL
+google,G013D,en,Google, Pixel 3 XL (Japan)
 google,G020E,en,Google, Pixel 3a (Verizon)
 google,G020F,en,Google," Pixel 3a (UK, Europe, and APAC)"
 google,G020G,en,Google, Pixel 3a (North America)
