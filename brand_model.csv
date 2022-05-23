@@ -894,7 +894,7 @@ oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
 oneplus,NE2215,en,一加, OnePlus 10 Pro North America
 oneplus,NE2217,en,一加, OnePlus 10 Pro T-Mobile
 oneplus,CPH2411,en,一加, OnePlus 10R Global
-oneplus,CPH2381,en,一加, OnePlus 10R India
+oneplus,CPH2423,en,一加, OnePlus 10R India
 oneplus,PGKM10,en,一加, OnePlus Ace China
 oneplus,PGZ110,en,一加, OnePlus Ace Speed China
 oneplus,AC2001,en,一加, OnePlus Nord India
@@ -915,7 +915,7 @@ oneplus,EB2103,en,一加, OnePlus Nord CE EU / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
 oneplus,DN2103,en,一加, OnePlus Nord 2 5G EU
 oneplus,IV2201,en,一加, OnePlus Nord CE 2 India
-oneplus,CPH2401,en,一加, OnePlus Nord CE 2 Lite India
+oneplus,CPH2381,en,一加, OnePlus Nord CE 2 Lite India
 oneplus,CPH2409,en,一加, OnePlus Nord CE 2 Lite Global
 huawei,MT7-L09,en,华为, HUAWEI Ascend Mate 7 Single SIM
 huawei,MT7-TL10,en,华为, HUAWEI Ascend Mate 7 Dual SIM
@@ -1746,6 +1746,9 @@ oppo,PENM00,cn,OPPO, OPPO Reno6 Pro+ 全网通版
 oppo,PFJM10,cn,OPPO, OPPO Reno7 全网通版
 oppo,PFDM00,cn,OPPO, OPPO Reno7 Pro 全网通版
 oppo,PFCM00,cn,OPPO, OPPO Reno7 SE 全网通版
+oppo,PGBM10,cn,OPPO, OPPO Reno8 全网通版
+oppo,PGAM10,cn,OPPO, OPPO Reno8 Pro 全网通版
+oppo,PFZM10,cn,OPPO, OPPO Reno8 Pro+ 全网通版
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace 全网通版
 oppo,PDHM00,cn,OPPO, OPPO Ace2 全网通版
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -1819,7 +1822,9 @@ oppo,PEYM00,cn,OPPO, OPPO K9 Pro 全网通版
 oppo,PGCM10,cn,OPPO, OPPO K9x 全网通版
 oppo,PGJM10,cn,OPPO, OPPO K10 全网通版
 oppo,PGIM10,cn,OPPO, OPPO K10 Pro 全网通版
+oppo,PGGM10,cn,OPPO, OPPO K10x 全网通版
 oppo,OPD2101,cn,OPPO, OPPO Pad
+oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
 oppo,OW19W2,cn,OPPO, OPPO Watch 41mm
 oppo,OW19W3,cn,OPPO, OPPO Watch 46mm ECG/精钢版
@@ -2253,8 +2258,8 @@ oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲版/国际版
 oneplus,NE2215,cn,一加, 一加 10 Pro 北美版
 oneplus,NE2217,cn,一加, 一加 10 Pro T-Mobile 版
 oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
-oneplus,CPH2381,cn,一加, 一加 10R 印度版
 oneplus,CPH2411,cn,一加, 一加 10R 国际版
+oneplus,CPH2423,cn,一加, 一加 10R 印度版
 oneplus,PGZ110,cn,一加, 一加 Ace 竞速版 全网通版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
@@ -2274,7 +2279,7 @@ oneplus,EB2103,cn,一加, OnePlus Nord CE 欧洲版/国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
 oneplus,DN2103,cn,一加, OnePlus Nord 2 欧洲版
 oneplus,IV2201,cn,一加, OnePlus Nord CE 2 印度版
-oneplus,CPH2401,cn,一加, OnePlus Nord CE 2 Lite 印度版
+oneplus,CPH2381,cn,一加, OnePlus Nord CE 2 Lite 印度版
 oneplus,CPH2409,cn,一加, OnePlus Nord CE 2 Lite 国际版
 apple,A1203,en,苹果, iPhone
 apple,A1241,en,苹果, iPhone 3G
@@ -4904,10 +4909,11 @@ realme,RMX2061,en,REALME, realme 6 Pro
 realme,RMX2063,en,REALME, realme 6 Pro
 realme,RMX2002,en,REALME, realme 6s Global
 realme,RMX2002,en,REALME, realme 6i India
-realme,RMX2040,en,REALME, realme 6i Global
+realme,RMX2040,en,REALME, realme 6i EU
 realme,RMX2041,en,REALME, realme 6i Global
 realme,RMX2042,en,REALME, realme 6i Global
-realme,RMX2151,en,REALME, realme 7
+realme,RMX2151,en,REALME, realme 7 India
+realme,RMX2155,en,REALME, realme 7 Global
 realme,RMX2111,en,REALME, realme 7 5G
 realme,RMX2170,en,REALME, realme 7 Pro
 realme,RMX2103,en,REALME, realme 7i India
@@ -4919,16 +4925,19 @@ realme,RMX3241,en,REALME, realme 8 5G
 realme,RMX3151,en,REALME, realme 8i
 realme,RMX3381,en,REALME, realme 8s 5G
 realme,RMX3521,en,REALME, realme 9
-realme,RMX3491,en,REALME, realme 9i
-realme,RMX3493,en,REALME, realme 9i
-realme,RMX3388,en,REALME, realme 9 5G
-realme,RMX3471,en,REALME, realme 9 Pro 5G
-realme,RMX3392,en,REALME, realme 9 Pro+ 5G
-realme,RMX3393,en,REALME, realme 9 Pro+ 5G
-realme,RMX3461,en,REALME, realme 9 5G Speed Edition
+realme,RMX3491,en,REALME, realme 9i India / Global
+realme,RMX3492,en,REALME, realme 9i
+realme,RMX3493,en,REALME, realme 9i EU
+realme,RMX3388,en,REALME, realme 9 5G India
+realme,RMX3474,en,REALME, realme 9 5G EU
+realme,RMX3471,en,REALME, realme 9 Pro 5G India
+realme,RMX3472,en,REALME, realme 9 Pro 5G Global
+realme,RMX3392,en,REALME, realme 9 Pro+ 5G India
+realme,RMX3393,en,REALME, realme 9 Pro+ 5G Global
+realme,RMX3461,en,REALME, realme 9 5G Speed Edition India
 realme,RMX1901,en,REALME, realme X
-realme,RMX1921,en,REALME, realme XT
-realme,RMX1922,en,REALME, realme XT
+realme,RMX1921,en,REALME, realme XT Global
+realme,RMX1922,en,REALME, realme XT India
 realme,RMX1992,en,REALME, realme X2 India
 realme,RMX1993,en,REALME, realme X2 Global
 realme,RMX1931,en,REALME, realme X2 Pro
