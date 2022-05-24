@@ -102,6 +102,8 @@ mitv,L40M7-EA,cn,小米电视, 小米电视 EA40 2022 款
 mitv,L43M7-EA,cn,小米电视, 小米电视 EA43 2022 款
 mitv,L50M7-EA,cn,小米电视, 小米电视 EA50 2022 款
 mitv,L55M7-EA,cn,小米电视, 小米电视 EA55 2022 款
+mitv,L58M7-EA,cn,小米电视, 小米电视 EA58 2022 款
+mitv,L60M7-EA,cn,小米电视, 小米电视 EA60 2022 款
 mitv,L65M7-EA,cn,小米电视, 小米电视 EA65 2022 款
 mitv,L70M7-EA,cn,小米电视, 小米电视 EA70 2022 款
 mitv,L75M7-EA,cn,小米电视, 小米电视 EA75 2022 款
@@ -110,6 +112,7 @@ mitv,L50M7-ES,cn,小米电视, 小米电视 ES50 2022 款
 mitv,L55M7-ES,cn,小米电视, 小米电视 ES55 2022 款
 mitv,L65M7-ES,cn,小米电视, 小米电视 ES65 2022 款
 mitv,L75M7-ES,cn,小米电视, 小米电视 ES75 2022 款
+mitv,L86M8-ES,cn,小米电视," 小米电视 ES Pro 86"""
 mitv,L65M5-BH,cn,小米电视, 小米壁画电视 65 英寸
 mitv,L75M5-BH,cn,小米电视, 小米壁画电视 75 英寸
 mitv,L55M6-TM,cn,小米电视, 小米透明电视 55 英寸
@@ -728,6 +731,7 @@ lenovo,Lenovo,cn,联想, 联想小新平板 10 英寸
 lenovo,TB-X804F,cn,联想, 联想小新平板 10 英寸
 lenovo,Lenovo,cn,联想, 联想小新 Pad
 lenovo,TB-J606F,cn,联想, 联想小新 Pad
+lenovo,TB128FU,cn,联想, 联想小新 Pad 2022
 lenovo,Lenovo,cn,联想, 联想小新 Pad Plus
 lenovo,TB-J607F,cn,联想, 联想小新 Pad Plus
 lenovo,Lenovo,cn,联想, 联想小新 Pad Plus 5G
@@ -1698,6 +1702,26 @@ zte,9040N,cn,中兴, 中兴远航 20 Pro
 zte,7532N,cn,中兴, 中兴远航 30
 zte,8040N,cn,中兴, 中兴远航 30 Pro
 zte,9041N,cn,中兴, 中兴远航 30 Pro+
+sony,E6683,cn,其他, Xperia Z5 dual
+sony,E6883,cn,其他, Xperia Z5 Premium
+sony,F8332,cn,其他, Xperia XZ
+sony,G8142,cn,其他, Xperia XZ Premium
+sony,G8232,cn,其他, Xperia XZs
+sony,G8342,cn,其他, Xperia XZ1
+sony,H4233,cn,其他, Xperia XA2 Ultra
+sony,H8296,cn,其他, Xperia XZ2
+sony,H8166,cn,其他, Xperia XZ2 Premium
+sony,H9493,cn,其他, Xperia XZ3
+sony,J9110,cn,其他, Xperia 1
+sony,J9180,cn,其他, Xperia 1 Professional Editon
+sony,J9210,cn,其他, Xperia 5
+sony,I4293,cn,其他, Xperia 10 Plus
+sony,XQ-AT72,cn,其他, Xperia 1 II
+sony,XQ-AS72,cn,其他, Xperia 5 II
+sony,XQ-BC72,cn,其他, Xperia 1 III
+sony,XQ-BQ72,cn,其他, Xperia 5 III
+sony,XQ-BE72,cn,其他, Xperia PRO-I
+sony,XQ-CT72,cn,其他, Xperia 1 IV
 oppo,PAFM00,cn,OPPO, OPPO Find X 标准版 全网通版
 oppo,PAFT00,cn,OPPO, OPPO Find X 标准版 移动版
 oppo,PAHM00,cn,OPPO, OPPO Find X 超级闪充版/兰博基尼版 全网通版
@@ -2999,11 +3023,13 @@ huawei,KLVD-WFH9,cn,华为, HUAWEI MateBook 14 (2021) i5 (16GB+512GB)
 huawei,KLVD-WFE9,cn,华为, HUAWEI MateBook 14 (2021) i7 (16GB+512GB)
 huawei,KLVL-W56W,cn,华为, HUAWEI MateBook 14 (2021) R5
 huawei,KLVL-W76W,cn,华为, HUAWEI MateBook 14 (2021) R7
+huawei,KLVF-16,cn,华为, HUAWEI MateBook 14 (2022)
 huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
 huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
 huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
 huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
 huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
+huawei,CREF-16,cn,华为, HUAWEI MateBook 16s
 huawei,PL-W09,cn,华为, HUAWEI MateBook D i5 集显
 huawei,PL-W19,cn,华为, HUAWEI MateBook D i5 独显
 huawei,PL-W29,cn,华为, HUAWEI MateBook D i7
@@ -3030,6 +3056,8 @@ huawei,NbM-WFP9,cn,华为, HUAWEI MateBook D 14 (2021) R7 (16GB+512GB)
 huawei,NbDE-WFH9,cn,华为, HUAWEI MateBook D 14 (2022) i5
 huawei,NbDE-WFE9,cn,华为, HUAWEI MateBook D 14 (2022) i7
 huawei,NbDE-WDH9,cn,华为, HUAWEI MateBook D 14 SE i5
+huawei,NbF-08,cn,华为, HUAWEI MateBook D 14 (2022) 12 代酷睿版 (8GB 内存)
+huawei,NbF-16,cn,华为, HUAWEI MateBook D 14 (2022) 12 代酷睿版 (16GB 内存)
 huawei,Boh-WAQ9R,cn,华为, HUAWEI MateBook D 15 R5 (8GB+512GB)
 huawei,Boh-WAQ9RP,cn,华为, HUAWEI MateBook D 15 R5 (16GB+256GB+1TB)
 huawei,Boh-WAQ9L,cn,华为, HUAWEI MateBook D 15 R5 Linux 版
@@ -3044,6 +3072,7 @@ huawei,BoM-WFQ9,cn,华为, HUAWEI MateBook D 15 (2021) R5
 huawei,BoM-WFP9,cn,华为, HUAWEI MateBook D 15 (2021) R7
 huawei,BoDE-WFH9,cn,华为, HUAWEI MateBook D 15 (2022) i5
 huawei,BoDE-WFE9,cn,华为, HUAWEI MateBook D 15 (2022) i7
+huawei,RLEF-16,cn,华为, HUAWEI MateBook D 16 (2022)
 huawei,BL-W09,cn,华为, HUAWEI MateBook E i3
 huawei,BL-W19,cn,华为, HUAWEI MateBook E i5
 huawei,PAK-AL09,cn,华为, HUAWEI MateBook E (2019)
@@ -3909,9 +3938,6 @@ honor,BDR-WFE9HN,cn,荣耀, 荣耀 MagicBook 15 2021 i7
 honor,BMH-WDQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R5 (8GB+256GB)
 honor,BMH-WFQ9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R5 (16GB+512GB)
 honor,BMH-WFP9HN,cn,荣耀, 荣耀 MagicBook 15 2021 R7
-honor,HYM-W56,cn,荣耀, 荣耀 MagicBook 16 2021 R5
-honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 2021 R7
-honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 Pro 2021 R7
 honor,HBL-W19,cn,荣耀, 荣耀 MagicBook Pro i5
 honor,HBL-W29,cn,荣耀, 荣耀 MagicBook Pro i7
 honor,HBL-W19L,cn,荣耀, 荣耀 MagicBook Pro 科技尝鲜版 i5
@@ -3928,13 +3954,16 @@ honor,HLYL-WFQ9,cn,荣耀, 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
 honor,HLYL-WFP9,cn,荣耀, 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
 honor,HYLR-WDQ9,cn,荣耀, 荣耀 MagicBook Pro 2020 R5 (16GB+512GB)
 honor,HYLR-WFP9,cn,荣耀, 荣耀 MagicBook Pro 2020 R7 (16GB+512GB)
+honor,HYM-W56,cn,荣耀, 荣耀 MagicBook 16 2021 R5
+honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 2021 R7
+honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 Pro 2021 R7
 honor,HGE-W56,cn,荣耀, 荣耀 MagicBook V 14 i5
 honor,HGE-W76,cn,荣耀, 荣耀 MagicBook V 14 i7
 honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
 honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
+honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
 honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
-honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5
 honor,BDR-WDH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
 honor,BDR-WFH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB)
