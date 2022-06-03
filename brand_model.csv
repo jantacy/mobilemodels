@@ -879,6 +879,9 @@ mitv,L43M7-7AEU,en,小米电视, Xiaomi TV P1E 43
 mitv,L55M7-7AEU,en,小米电视, Xiaomi TV P1E 55
 mitv,L75M6-ESG,en,小米电视, Mi TV Q1 75
 mitv,L55M6-ESG,en,小米电视, Xiaomi TV Q1E 55
+mitv,L43M7-FVEU,en,小米电视, Xiaomi Fire TV F2 43
+mitv,L50M7-FVEU,en,小米电视, Xiaomi Fire TV F2 50
+mitv,L55M7-FVEU,en,小米电视, Xiaomi Fire TV F2 55
 mitv,MDZ-16-AA,en,小米电视, Mi Box
 mitv,MDZ-16-AB,en,小米电视, Mi Box
 mitv,MDZ-22-AB,en,小米电视, Mi Box S
@@ -3680,6 +3683,7 @@ zhixuan,MNT-BD00,cn,华为智选, Hi nova 9z 5G
 zhixuan,F810,cn,华为智选, 雷鸟 FF1 5G
 zhixuan,NAT-TN70,cn,华为智选, TD Tech N8 Pro
 zhixuan,TDT-MA01,cn,华为智选, TD Tech M40
+zhixuan,AVA-PA00,cn,华为智选, TD Tech P50
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
