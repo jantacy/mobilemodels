@@ -1054,6 +1054,7 @@ mitv,MDZ-20-AA,cn,小米电视, 小米盒子 4c
 mitv,MDZ-23-AA,cn,小米电视, 小米盒子 4 SE
 mitv,MDZ-25-AA,cn,小米电视, 小米盒子 4S
 mitv,MDZ-26-AA,cn,小米电视, 小米盒子 4S Pro
+mitv,MDZ-30-AA,cn,小米电视, 小米盒子 4S MAX
 oneplus,A0001,en,一加, OnePlus One
 oneplus,A1001,en,一加, OnePlus One
 oneplus,A2001,en,一加, OnePlus 2 China
@@ -3488,6 +3489,7 @@ realme,RMX3322,en,REALME, realme GT 2 5G
 realme,RMX3301,en,REALME, realme GT 2 Pro 5G
 realme,RMX3561,en,REALME, realme GT NEO 3
 realme,RMX3563,en,REALME, realme GT NEO 3 150W
+realme,RMX3371,en,REALME, realme GT NEO 3T
 realme,RMP2102,en,REALME, realme Pad
 realme,RMP2103,en,REALME, realme Pad
 realme,RMP2105,en,REALME, realme Pad mini
@@ -3980,6 +3982,7 @@ huawei,FRL-TN00,cn,华为, 华为畅享 20 Plus 5G 移动定制版
 huawei,PPA-AL20,cn,华为, 华为畅享 20 SE 全网通版
 huawei,MLD-AL00,cn,华为, 华为畅享 20e 全网通版 (麒麟 710A)
 huawei,MLD-AL10,cn,华为, 华为畅享 20e 全网通版 (Helio P35)
+huawei,MGA-AN00,cn,华为, 华为畅享 50 全网通版
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
 huawei,S8-303L,cn,华为, 华为 MediaPad M1 LTE 版
@@ -4034,6 +4037,7 @@ huawei,SCMR-W09,cn,华为, HUAWEI MatePad 10.8 英寸 Wi-Fi 版
 huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,DBY-W09,cn,华为, HUAWEI MatePad 11 英寸 Wi-Fi 版
 huawei,BAH4-W09,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
+huawei,BAH4-W29,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 Wi-Fi 版 (麒麟 710A)
 huawei,BAH4-W19,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 Wi-Fi 版 (骁龙 778G 4G)
 huawei,BAH4-AL10,cn,华为, HUAWEI MatePad 10.4 英寸 2022 款 悦动版 全网通版 (骁龙 778G 4G)
 huawei,HMW-W09,cn,华为, HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
