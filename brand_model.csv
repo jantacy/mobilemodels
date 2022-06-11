@@ -1000,6 +1000,9 @@ mitv,L60M7-EA,cn,小米电视, 小米电视 EA60 2022 款
 mitv,L65M7-EA,cn,小米电视, 小米电视 EA65 2022 款
 mitv,L70M7-EA,cn,小米电视, 小米电视 EA70 2022 款
 mitv,L75M7-EA,cn,小米电视, 小米电视 EA75 2022 款
+mitv,L55M9-EP,cn,小米电视, 小米电视 EA Pro 55
+mitv,L65M9-EP,cn,小米电视, 小米电视 EA Pro 65
+mitv,L75M9-EP,cn,小米电视, 小米电视 EA Pro 75
 mitv,L43M7-ES,cn,小米电视, 小米电视 ES43 2022 款
 mitv,L50M7-ES,cn,小米电视, 小米电视 ES50 2022 款
 mitv,L55M7-ES,cn,小米电视, 小米电视 ES55 2022 款
@@ -1070,8 +1073,8 @@ oneplus,E1003,en,一加, OnePlus X Global
 oneplus,E1005,en,一加, OnePlus X North America
 oneplus,A3000,en,一加, OnePlus 3 China / North America
 oneplus,A3003,en,一加, OnePlus 3 Global
-oneplus,A3003,en,一加, OnePlus 3T Global
 oneplus,A3010,en,一加, OnePlus 3T China
+oneplus,A3013,en,一加, OnePlus 3T Global
 oneplus,A5000,en,一加, OnePlus 5
 oneplus,A5010,en,一加, OnePlus 5T
 oneplus,A6000,en,一加, OnePlus 6 China
@@ -1133,15 +1136,15 @@ oneplus,NE2211,en,一加, OnePlus 10 Pro India
 oneplus,NE2213,en,一加, OnePlus 10 Pro EU / Global
 oneplus,NE2215,en,一加, OnePlus 10 Pro North America
 oneplus,NE2217,en,一加, OnePlus 10 Pro T-Mobile
-oneplus,CPH2411,en,一加, OnePlus 10R Global
-oneplus,CPH2423,en,一加, OnePlus 10R India
 oneplus,PGKM10,en,一加, OnePlus Ace China
+oneplus,CPH2411,en,一加, OnePlus 10R 150W India
+oneplus,CPH2423,en,一加, OnePlus 10R 80W India
 oneplus,PGZ110,en,一加, OnePlus Ace Race China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
-oneplus,BE2029,en,一加, OnePlus Nord N10 Global
+oneplus,BE2029,en,一加, OnePlus Nord N10 EU / Global
 oneplus,BE2028,en,一加, OnePlus Nord N10 T-Mobile
 oneplus,BE2011,en,一加, OnePlus Nord N100 North America
 oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
@@ -1156,7 +1159,7 @@ oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
 oneplus,DN2103,en,一加, OnePlus Nord 2 5G EU
 oneplus,IV2201,en,一加, OnePlus Nord CE 2 India
 oneplus,CPH2381,en,一加, OnePlus Nord CE 2 Lite India
-oneplus,CPH2409,en,一加, OnePlus Nord CE 2 Lite Global
+oneplus,CPH2409,en,一加, OnePlus Nord CE 2 Lite EU / Global
 meizu,M8,cn,魅族, 魅族 M8
 meizu,M8SE,cn,魅族, 魅族 M8 SE
 meizu,M9,cn,魅族, 魅族 M9
@@ -2135,7 +2138,7 @@ oneplus,E1005,cn,一加, OnePlus X 北美版
 oneplus,A3000,cn,一加, OnePlus 3 全网通版
 oneplus,A3003,cn,一加, OnePlus 3 国际版
 oneplus,A3010,cn,一加, OnePlus 3T 全网通版
-oneplus,A3003,cn,一加, OnePlus 3T 国际版
+oneplus,A3013,cn,一加, OnePlus 3T 国际版
 oneplus,A5000,cn,一加, OnePlus 5 全网通版
 oneplus,A5010,cn,一加, OnePlus 5T 全网通版
 oneplus,A6000,cn,一加, OnePlus 6 全网通版
@@ -2198,14 +2201,14 @@ oneplus,NE2213,cn,一加, 一加 10 Pro 欧洲版/国际版
 oneplus,NE2215,cn,一加, 一加 10 Pro 北美版
 oneplus,NE2217,cn,一加, 一加 10 Pro T-Mobile 版
 oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
-oneplus,CPH2411,cn,一加, 一加 10R 国际版
-oneplus,CPH2423,cn,一加, 一加 10R 印度版
+oneplus,CPH2411,cn,一加, 一加 10R 150W 印度版
+oneplus,CPH2423,cn,一加, 一加 10R 80W 印度版
 oneplus,PGZ110,cn,一加, 一加 Ace 竞速版 全网通版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
-oneplus,BE2029,cn,一加, OnePlus Nord N10 国际版
+oneplus,BE2029,cn,一加, OnePlus Nord N10 欧洲版/国际版
 oneplus,BE2028,cn,一加, OnePlus Nord N10 T-Mobile 版
 oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
 oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
@@ -2220,7 +2223,7 @@ oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
 oneplus,DN2103,cn,一加, OnePlus Nord 2 欧洲版
 oneplus,IV2201,cn,一加, OnePlus Nord CE 2 印度版
 oneplus,CPH2381,cn,一加, OnePlus Nord CE 2 Lite 印度版
-oneplus,CPH2409,cn,一加, OnePlus Nord CE 2 Lite 国际版
+oneplus,CPH2409,cn,一加, OnePlus Nord CE 2 Lite 欧洲版/国际版
 lenovo,XT2081-4,cn,联想, 联想乐檬 K12
 lenovo,XT2091-7,cn,联想, 联想乐檬 K12 Pro
 lenovo,Z1221,cn,联想, ZUK Z1
@@ -3246,7 +3249,9 @@ realme,RMX3041,cn,REALME, 真我 V13 5G 全网通版
 realme,RMX3043,cn,REALME, 真我 V13 5G 运营商定制版
 realme,RMX3092,cn,REALME, 真我 V15 5G 全网通版
 realme,RMX3093,cn,REALME, 真我 V15 5G 运营商定制版
+realme,RMX3610,cn,REALME, 真我 V20
 realme,RMX3571,cn,REALME, 真我 V23
+realme,RMX3576,cn,REALME, 真我 V23i
 realme,RMX3475,cn,REALME, 真我 V25
 realme,RMP2108,cn,REALME, 真我平板 X
 honor,Che1-L04,en,荣耀, HONOR 4X (India)
@@ -3682,6 +3687,7 @@ zhixuan,VP001,cn,华为智选, 优畅享 20 Plus 5G
 zhixuan,VP002,cn,华为智选, 优畅享 20 5G
 zhixuan,VP003,cn,华为智选, 优畅享 30e 5G
 zhixuan,VP004,cn,华为智选, 优畅享 30e 5G 消息版
+zhixuan,VP003,cn,华为智选, 优畅享 50 5G
 zhixuan,VP005,cn,华为智选, 优畅享 50 Plus 5G
 zhixuan,TYH601M,cn,华为智选, 麦芒 9 5G
 zhixuan,TYH611M,cn,华为智选, 麦芒 10 SE 5G
