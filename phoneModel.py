@@ -68,11 +68,12 @@ if __name__ == '__main__':
     repo_path = './MobileModels/'
     # repo_address = 'https://github.com/KHwang9883/MobileModels.git'
 
-    brand_map = {'meizu': '魅族', 'smartisan': '锤子', 'vivo': 'VIVO', 'realme': 'REALME',
+    brand_map = {'meizu': '魅族', 'smartisan': '锤子', 'vivo': 'VIVO', 'realme': '真我',
                  'xiaomi': '小米', 'apple': '苹果', 'oppo': 'OPPO', 'nokia': '诺基亚',
                  'mitv': '小米电视', 'huawei': '华为', 'oneplus': '一加', 'motorola': '摩托罗拉',
                  'samsung': '三星', 'zte': '中兴', 'letv': '乐视', 'honor': '荣耀', 'lenovo': '联想',
-                 '360shouji': '奇酷', 'nubia': '努比亚', 'google': 'Google', 'zhixuan': '华为智选'}
+                 '360shouji': '奇酷', 'nubia': '努比亚', 'google': 'Google', 'zhixuan': '华为智选',
+                 'sony': '索尼'}
 
     try:
         with open('sync.log', 'rt') as f:
