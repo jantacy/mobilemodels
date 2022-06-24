@@ -4004,7 +4004,8 @@ huawei,FRL-TN00,cn,华为, 华为畅享 20 Plus 5G 移动定制版
 huawei,PPA-AL20,cn,华为, 华为畅享 20 SE 全网通版
 huawei,MLD-AL00,cn,华为, 华为畅享 20e 全网通版 (麒麟 710A)
 huawei,MLD-AL10,cn,华为, 华为畅享 20e 全网通版 (Helio P35)
-huawei,MGA-AN00,cn,华为, 华为畅享 50 全网通版
+huawei,MGA-AL00,cn,华为, 华为畅享 50 全网通版
+huawei,CTR-AL00,cn,华为, 华为畅享 50 Pro 全网通版
 huawei,S8-301W,cn,华为, 华为 MediaPad M1 Wi-Fi 版
 huawei,S8-301U,cn,华为, 华为 MediaPad M1 3G 版
 huawei,S8-303L,cn,华为, 华为 MediaPad M1 LTE 版
@@ -4411,6 +4412,8 @@ huawei,LIO-N29,en,华为, HUAWEI Mate 30 Pro 5G Dual SIM
 huawei,LIO-N29,en,华为, PORSCHE DESIGN HUAWEI Mate 30 RS Dual SIM
 huawei,NOH-NX9,en,华为, HUAWEI Mate 40 Pro 5G Dual SIM
 huawei,TAH-N29m,en,华为, HUAWEI Mate Xs Dual SIM
+huawei,PAL-LX9,en,华为, HUAWEI Mate Xs 2
+huawei,PAL-L29,en,华为, HUAWEI Mate Xs 2
 huawei,P6-U06,en,华为, HUAWEI Ascend P6 Single SIM
 huawei,P7-L10,en,华为, HUAWEI Ascend P7
 huawei,P7-L11,en,华为, HUAWEI Ascend P7
@@ -4482,6 +4485,7 @@ huawei,ART-L29,en,华为, HUAWEI P40 lite E Dual SIM
 huawei,JAD-LX4,en,华为, HUAWEI P50 Pro
 huawei,JAD-LX9,en,华为, HUAWEI P50 Pro
 huawei,BAL-L49,en,华为, HUAWEI P50 Pocket
+huawei,BAL-LX9,en,华为, HUAWEI P50 Pocket
 huawei,FIG-LA1,en,华为, HUAWEI P smart
 huawei,FIG-LX1,en,华为, HUAWEI P smart
 huawei,FIG-LX2,en,华为, HUAWEI P smart
@@ -4536,11 +4540,17 @@ huawei,YAL-L21,en,华为, HUAWEI nova 5T
 huawei,YAL-L41,en,华为, HUAWEI nova 5T Pro
 huawei,JNY-LX1,en,华为, HUAWEI nova 7i Dual SIM
 huawei,CDY-NX9,en,华为, HUAWEI nova 7 SE 5G
+huawei,NEN-LX1,en,华为, HUAWEI nova 8i
 huawei,NEN-L22,en,华为, HUAWEI nova 8i
-huawei,NAM-L09,en,华为, HUAWEI nova 9
+huawei,NEN-LX3,en,华为, HUAWEI nova 8i
+huawei,NAM-LX9,en,华为, HUAWEI nova 9
 huawei,JLN-LX1,en,华为, HUAWEI nova 9 SE
 huawei,JLN-LX3,en,华为, HUAWEI nova 9 SE
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
+huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus
+huawei,CTR-LX1,en,华为, HUAWEI nova Y60
+huawei,CTR-LX2,en,华为, HUAWEI nova Y60
+huawei,CTR-LX3,en,华为, HUAWEI nova Y60
 huawei,DRA-L01,en,华为, HUAWEI Y5 Prime 2018 Single SIM
 huawei,DRA-L21,en,华为, HUAWEI Y5 Prime 2018 Dual SIM
 huawei,DRA-LX2,en,华为, HUAWEI Y5 Prime 2018 Dual SIM
