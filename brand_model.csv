@@ -1393,9 +1393,13 @@ oppo,CPH2251,en,OPPO, OPPO Reno6 5G
 oppo,CPH2247,en,OPPO, OPPO Reno6 Pro 5G
 oppo,CPH2249,en,OPPO, OPPO Reno6 Pro 5G
 oppo,CPH2237,en,OPPO, OPPO Reno6 Z
+oppo,CPH2363,en,OPPO, OPPO Reno7
 oppo,CPH2371,en,OPPO, OPPO Reno7 5G
 oppo,CPH2293,en,OPPO, OPPO Reno7 Pro 5G
 oppo,CPH2343,en,OPPO, OPPO Reno7 Z 5G
+oppo,CPH2353,en,OPPO, OPPO Reno7 A
+oppo,A201OP,en,OPPO, OPPO Reno7 A (SoftBank)
+oppo,OPG04,en,OPPO, OPPO Reno7 A (KDDI)
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -1415,6 +1419,7 @@ oppo,CPH2285,en,OPPO, OPPO F19 Pro
 oppo,CPH2213,en,OPPO, OPPO F19 Pro+ 5G
 oppo,CPH2223,en,OPPO, OPPO F19s
 oppo,CPH2341,en,OPPO, OPPO F21 Pro 5G
+oppo,CPH2363,en,OPPO, OPPO F21 Pro 5G
 oppo,CPH1835,en,OPPO, OPPO R15
 oppo,CPH1831,en,OPPO, OPPO R15 Pro
 oppo,CPH1833,en,OPPO, OPPO R15 Pro
@@ -1480,6 +1485,8 @@ oppo,CPH2273,en,OPPO, OPPO A54s
 oppo,CPH2325,en,OPPO, OPPO A55
 oppo,CPH2309,en,OPPO, OPPO A55s 5G
 oppo,A102OP,en,OPPO, OPPO A55s 5G (SoftBank)
+oppo,CPH1701,en,OPPO, OPPO A57 (2016)
+oppo,CPH2387,en,OPPO, OPPO A57
 oppo,CPH2365,en,OPPO, OPPO A59
 oppo,CPH2067,en,OPPO, OPPO A72
 oppo,CPH2095,en,OPPO, OPPO A73
@@ -1779,7 +1786,11 @@ realme,RMX3197,en,真我, realme C25s
 realme,RMX3265,en,真我, realme C25Y
 realme,RMX3269,en,真我, realme C25Y
 realme,RMX3501,en,真我, realme C31
+realme,RMX3502,en,真我, realme C31
+realme,RMX3503,en,真我, realme C31
 realme,RMX3511,en,真我, realme C35
+realme,RMX3512,en,真我, realme C35
+realme,RMX3513,en,真我, realme C35
 realme,RMX1831,en,真我, realme U1
 realme,RMX1833,en,真我, realme U1
 realme,RMX2002,en,真我, realme Narzo Indonesia
@@ -1799,6 +1810,7 @@ realme,RMX3395,en,真我, realme Narzo 50 Pro 5G India
 realme,RMX3396,en,真我, realme Narzo 50 Pro 5G Global
 realme,RMX3430,en,真我, realme Narzo 50A
 realme,RMX3516,en,真我, realme Narzo 50A Prime
+realme,RMX3517,en,真我, realme Narzo 50A Prime
 realme,RMX3231,en,真我, realme Narzo 50i India
 realme,RMX3235,en,真我, realme Narzo 50i Global
 realme,RMX2202,en,真我, realme GT 5G
