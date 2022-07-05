@@ -2414,6 +2414,7 @@ vivo,V1731CA,cn,VIVO, vivo Y73 全网通版
 vivo,V2031A,cn,VIVO, vivo Y73s 5G 全网通版
 vivo,V2009A,cn,VIVO, vivo Y74s 5G 全网通版
 vivo,V2156A,cn,VIVO, vivo Y76s 5G 全网通版
+vivo,V2219A,cn,VIVO, vivo Y77 5G 全网通版
 vivo,V1732A,cn,VIVO, vivo Y81 全网通版
 vivo,V1732T,cn,VIVO, vivo Y81 移动全网通版
 vivo,V1732A,cn,VIVO, vivo Y81s 全网通版
@@ -2600,6 +2601,12 @@ xiaomi,2112123AG,en,小米, Xiaomi 12X Global
 xiaomi,2112123AC,en,小米, Xiaomi 12X China
 xiaomi,2201122G,en,小米, Xiaomi 12 Pro Global
 xiaomi,2201122C,en,小米, Xiaomi 12 Pro China
+xiaomi,2207122MC,en,小米, Xiaomi 12 Pro Dimensity China
+xiaomi,2203129G,en,小米, Xiaomi 12 Lite Global
+xiaomi,2203129I,en,小米, Xiaomi 12 Lite India
+xiaomi,2206123SC,en,小米, Xiaomi 12S China
+xiaomi,2206122SC,en,小米, Xiaomi 12S Pro China
+xiaomi,2203121C,en,小米, Xiaomi 12S Ultra China
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China
 xiaomi,2014619,en,小米, Mi Note China
@@ -3119,6 +3126,12 @@ xiaomi,2112123AC,cn,小米, Xiaomi 12X 全网通版
 xiaomi,2112123AG,cn,小米, Xiaomi 12X 国际版
 xiaomi,2201122C,cn,小米, Xiaomi 12 Pro 全网通版
 xiaomi,2201122G,cn,小米, Xiaomi 12 Pro 国际版
+xiaomi,2207122MC,cn,小米, Xiaomi 12 Pro 天玑版 全网通版
+xiaomi,2203129G,cn,小米, Xiaomi 12 Lite 国际版
+xiaomi,2203129I,cn,小米, Xiaomi 12 Lite 印度版
+xiaomi,2206123SC,cn,小米, Xiaomi 12S 全网通版
+xiaomi,2206122SC,cn,小米, Xiaomi 12S Pro 全网通版
+xiaomi,2203121C,cn,小米, Xiaomi 12S Ultra 全网通版
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
