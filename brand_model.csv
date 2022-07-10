@@ -1322,6 +1322,7 @@ meizu,M712H,cn,魅族, 魅族 M6s 国际版
 meizu,M811Q,cn,魅族, 魅蓝 6T 公开版
 meizu,M811H,cn,魅族, 魅族 M6T 国际版
 meizu,M2110,cn,魅族, 魅蓝 10
+meizu,M2111,cn,魅族, 魅蓝 10s
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
 meizu,S685C,cn,魅族, 魅蓝 Max 电信版
@@ -1863,53 +1864,53 @@ letv,LEX652,cn,乐视, 乐 Pro 3 双摄 AI 版 未知版本
 letv,LEX656,cn,乐视, 乐 Pro 3 双摄 AI 版 未知版本
 letv,LEX659,cn,乐视, 乐 Pro 3 双摄 AI 版 未知版本
 letv,LEX850,cn,乐视, 乐视 未知机型
-meizu,M8,en,魅族, Meizu M8
-meizu,M8SE,en,魅族, Meizu M8 SE
-meizu,M9,en,魅族, Meizu M9
-meizu,M030,en,魅族, Meizu MX (Dual Core)
-meizu,M031,en,魅族, Meizu MX (Dual Core) (New)
-meizu,M032,en,魅族, Meizu MX (Quad Core)
-meizu,M040,en,魅族, Meizu MX2 China Unicom
-meizu,M045,en,魅族, Meizu MX2 China Mobile
-meizu,M351,en,魅族, Meizu MX3 16GB China Unicom
-meizu,M353,en,魅族, Meizu MX3 32GB / 64GB China Unicom 
-meizu,M355,en,魅族, Meizu MX3 16GB China Mobile
-meizu,M356,en,魅族, Meizu MX3 32GB / 64GB China Mobile
-meizu,M460H,en,魅族, Meizu MX4 Global
-meizu,M460,en,魅族, Meizu MX4 China Mobile 
-meizu,M460A,en,魅族, Meizu MX4 YunOS Edition
-meizu,M461,en,魅族, Meizu MX4 China Unicom
-meizu,M462H,en,魅族, Meizu MX4 Pro Global
-meizu,M462,en,魅族, Meizu MX4 Pro China Mobile 
-meizu,M462U,en,魅族, Meizu MX4 Pro China Unicom
-meizu,M575H,en,魅族, Meizu MX5 Global
-meizu,M575,en,魅族, Meizu MX5 China
-meizu,M575M,en,魅族, Meizu MX5 China Mobile
-meizu,M575U,en,魅族, Meizu MX5 China Unicom
-meizu,M685H,en,魅族, Meizu MX6 Global
-meizu,M685Q,en,魅族, Meizu MX6 China
-meizu,M685M,en,魅族, Meizu MX6 China Mobile
-meizu,M685U,en,魅族, Meizu MX6 China Unicom
-meizu,M685C,en,魅族, Meizu MX6 China Telecom
-meizu,M576H,en,魅族, Meizu PRO 5 Global
-meizu,M576,en,魅族, Meizu PRO 5 China
-meizu,M576U,en,魅族, Meizu PRO 5 China Unicom
-meizu,M570H,en,魅族, Meizu PRO 6 Global
-meizu,M570Q,en,魅族, Meizu PRO 6 China
-meizu,M570M,en,魅族, Meizu PRO 6 China Mobile
-meizu,M570C,en,魅族, Meizu PRO 6 China Telecom
-meizu,M570Q-S,en,魅族, Meizu PRO 6s
-meizu,M686H,en,魅族, Meizu PRO 6 Plus Global
-meizu,M686,en,魅族, Meizu PRO 6 Plus 64GB China
-meizu,M686G,en,魅族, Meizu PRO 6 Plus 128GB China
-meizu,M792H,en,魅族, Meizu PRO 7 Global
-meizu,M792Q-L,en,魅族, Meizu PRO 7 64GB China
-meizu,M792M-L,en,魅族, Meizu PRO 7 64GB China Mobile
-meizu,M792C-L,en,魅族, Meizu PRO 7 64GB China Telecom 
-meizu,M792Q,en,魅族, Meizu PRO 7 128GB China
-meizu,M792C,en,魅族, Meizu PRO 7 128GB China Telecom
-meizu,M793H,en,魅族, Meizu PRO 7 Plus Global
-meizu,M793Q,en,魅族, Meizu PRO 7 Plus China
+meizu,M8,en,魅族, MEIZU M8
+meizu,M8SE,en,魅族, MEIZU M8 SE
+meizu,M9,en,魅族, MEIZU M9
+meizu,M030,en,魅族, MEIZU MX (Dual Core)
+meizu,M031,en,魅族, MEIZU MX (Dual Core) (New)
+meizu,M032,en,魅族, MEIZU MX (Quad Core)
+meizu,M040,en,魅族, MEIZU MX2 China Unicom
+meizu,M045,en,魅族, MEIZU MX2 China Mobile
+meizu,M351,en,魅族, MEIZU MX3 16GB China Unicom
+meizu,M353,en,魅族, MEIZU MX3 32GB / 64GB China Unicom 
+meizu,M355,en,魅族, MEIZU MX3 16GB China Mobile
+meizu,M356,en,魅族, MEIZU MX3 32GB / 64GB China Mobile
+meizu,M460H,en,魅族, MEIZU MX4 Global
+meizu,M460,en,魅族, MEIZU MX4 China Mobile 
+meizu,M460A,en,魅族, MEIZU MX4 YunOS Edition
+meizu,M461,en,魅族, MEIZU MX4 China Unicom
+meizu,M462H,en,魅族, MEIZU MX4 Pro Global
+meizu,M462,en,魅族, MEIZU MX4 Pro China Mobile 
+meizu,M462U,en,魅族, MEIZU MX4 Pro China Unicom
+meizu,M575H,en,魅族, MEIZU MX5 Global
+meizu,M575,en,魅族, MEIZU MX5 China
+meizu,M575M,en,魅族, MEIZU MX5 China Mobile
+meizu,M575U,en,魅族, MEIZU MX5 China Unicom
+meizu,M685H,en,魅族, MEIZU MX6 Global
+meizu,M685Q,en,魅族, MEIZU MX6 China
+meizu,M685M,en,魅族, MEIZU MX6 China Mobile
+meizu,M685U,en,魅族, MEIZU MX6 China Unicom
+meizu,M685C,en,魅族, MEIZU MX6 China Telecom
+meizu,M576H,en,魅族, MEIZU PRO 5 Global
+meizu,M576,en,魅族, MEIZU PRO 5 China
+meizu,M576U,en,魅族, MEIZU PRO 5 China Unicom
+meizu,M570H,en,魅族, MEIZU PRO 6 Global
+meizu,M570Q,en,魅族, MEIZU PRO 6 China
+meizu,M570M,en,魅族, MEIZU PRO 6 China Mobile
+meizu,M570C,en,魅族, MEIZU PRO 6 China Telecom
+meizu,M570Q-S,en,魅族, MEIZU PRO 6s
+meizu,M686H,en,魅族, MEIZU PRO 6 Plus Global
+meizu,M686,en,魅族, MEIZU PRO 6 Plus 64GB China
+meizu,M686G,en,魅族, MEIZU PRO 6 Plus 128GB China
+meizu,M792H,en,魅族, MEIZU PRO 7 Global
+meizu,M792Q-L,en,魅族, MEIZU PRO 7 64GB China
+meizu,M792M-L,en,魅族, MEIZU PRO 7 64GB China Mobile
+meizu,M792C-L,en,魅族, MEIZU PRO 7 64GB China Telecom 
+meizu,M792Q,en,魅族, MEIZU PRO 7 128GB China
+meizu,M792C,en,魅族, MEIZU PRO 7 128GB China Telecom
+meizu,M793H,en,魅族, MEIZU PRO 7 Plus Global
+meizu,M793Q,en,魅族, MEIZU PRO 7 Plus China
 meizu,M881H,en,魅族, MEIZU 15 Global
 meizu,M881Q,en,魅族, MEIZU 15 China
 meizu,M881M,en,魅族, MEIZU 15 China Mobile
@@ -1917,17 +1918,17 @@ meizu,M891H,en,魅族, MEIZU 15 Plus Global
 meizu,M891Q,en,魅族, MEIZU 15 Plus China
 meizu,M871H,en,魅族, MEIZU 15 Lite Global
 meizu,M871Q,en,魅族, MEIZU M15 China
-meizu,M882H,en,魅族, Meizu 16th Global
-meizu,M882Q,en,魅族, Meizu 16th China
-meizu,M892Q,en,魅族, Meizu 16th Plus China
-meizu,M872H,en,魅族, Meizu 16 Global
-meizu,M872Q,en,魅族, Meizu 16 X China
-meizu,M971H,en,魅族, Meizu 16s Global
-meizu,M971Q,en,魅族, Meizu 16s China
-meizu,M926H,en,魅族, Meizu 16Xs Global
-meizu,M926Q,en,魅族, Meizu 16Xs China
-meizu,M973Q,en,魅族, Meizu 16s Pro China
-meizu,M928Q,en,魅族, Meizu 16T China
+meizu,M882H,en,魅族, MEIZU 16th Global
+meizu,M882Q,en,魅族, MEIZU 16th China
+meizu,M892Q,en,魅族, MEIZU 16th Plus China
+meizu,M872H,en,魅族, MEIZU 16 Global
+meizu,M872Q,en,魅族, MEIZU 16 X China
+meizu,M971H,en,魅族, MEIZU 16s Global
+meizu,M971Q,en,魅族, MEIZU 16s China
+meizu,M926H,en,魅族, MEIZU 16Xs Global
+meizu,M926Q,en,魅族, MEIZU 16Xs China
+meizu,M973Q,en,魅族, MEIZU 16s Pro China
+meizu,M928Q,en,魅族, MEIZU 16T China
 meizu,M081Q,en,魅族, MEIZU 17 China
 meizu,M081M,en,魅族, MEIZU 17 Carrier version
 meizu,M091Q,en,魅族, MEIZU 17 Pro China
@@ -1936,111 +1937,113 @@ meizu,M181Q,en,魅族, MEIZU 18
 meizu,M191Q,en,魅族, MEIZU 18 Pro
 meizu,M172Q,en,魅族, MEIZU 18X
 meizu,M182Q,en,魅族, MEIZU 18s
-meizu,M192Q,en,魅族, MEIZU 18s
-meizu,M463H,en,魅族, Meizu m1 note Global
-meizu,M463M,en,魅族, Meizu m1 note China Mobile
-meizu,M463U,en,魅族, Meizu m1 note China Unicom
-meizu,M463C,en,魅族, Meizu m1 note China Telecom
-meizu,M571H,en,魅族, Meizu m2 note Global
-meizu,M571,en,魅族, Meizu m2 note China
-meizu,M571M,en,魅族, Meizu m2 note China Mobile
-meizu,M571U,en,魅族, Meizu m2 note China Unicom
-meizu,M571C,en,魅族, Meizu m2 note China Telecom
-meizu,M681H,en,魅族, Meizu M3 note Global
-meizu,L681H,en,魅族, Meizu M3 note Global
-meizu,M681Q,en,魅族, Meizu M3 note China
-meizu,L681Q,en,魅族, Meizu M3 note China
-meizu,M681M,en,魅族, Meizu M3 note China Mobile
-meizu,L681M,en,魅族, Meizu M3 note China Mobile
-meizu,M681C,en,魅族, Meizu M3 note China Telecom
-meizu,L681C,en,魅族, Meizu M3 note China Telecom
-meizu,M621H,en,魅族, Meizu M5 Note Global
-meizu,M621Q,en,魅族, Meizu M5 Note China
-meizu,M621M,en,魅族, Meizu M5 Note China Mobile
-meizu,M621C,en,魅族, Meizu M5 Note China Telecom
-meizu,M621C-S,en,魅族, Meizu M5 Note China Telecom
-meizu,M721H,en,魅族, Meizu M6 Note Global
-meizu,M721Q,en,魅族, Meizu M6 Note China
-meizu,M721M,en,魅族, Meizu M6 Note China Mobile
-meizu,M721C,en,魅族, Meizu M6 Note China Telecom
-meizu,M822H,en,魅族, Meizu Note 8 Global
-meizu,M822Q,en,魅族, Meizu Note 8 China
-meizu,M923H,en,魅族, Meizu Note 9 Global
-meizu,M923Q,en,魅族, Meizu Note 9 China
-meizu,A680H,en,魅族, Meizu M3E Global
-meizu,A680Q,en,魅族, Meizu M1 E China
-meizu,A680M,en,魅族, Meizu M1 E China Mobile
-meizu,M741A,en,魅族, Meizu E2 China
-meizu,M741Y,en,魅族, Meizu E2 China Mobile
-meizu,M851Q,en,魅族, Meizu E3 China
-meizu,M851M,en,魅族, Meizu E3 China Mobile
-meizu,M852H,en,魅族, Meizu X8 Global
-meizu,M852Q,en,魅族, Meizu X8 China
-meizu,M682Q,en,魅族, Meizu M3X
-meizu,M465M,en,魅族, Meizu m1 China Mobile
-meizu,M465A,en,魅族, Meizu m1 YunOS Edition
-meizu,M578H,en,魅族, Meizu m2 Global
-meizu,M578,en,魅族, Meizu m2 China
-meizu,M578A,en,魅族, Meizu m2 YunOS Edition
-meizu,M578M,en,魅族, Meizu m2 China Mobile
-meizu,M578MA,en,魅族, Meizu m2 YunOS Edition China Mobile
-meizu,M578U,en,魅族, Meizu m2 China Unicom
-meizu,M578C,en,魅族, Meizu m2 China Telecom
-meizu,M578CE,en,魅族, Meizu m2 China Telecom
-meizu,M578CA,en,魅族, Meizu m2 YunOS Edition China Telecom
-meizu,M688Q,en,魅族, Meizu M3 China
-meizu,M688M,en,魅族, Meizu M3 China Mobile
-meizu,M688U,en,魅族, Meizu M3 China Unicom
-meizu,M688C,en,魅族, Meizu M3 China Telecom
-meizu,Y685H,en,魅族, Meizu M3s Global
-meizu,Y685Q,en,魅族, Meizu M3s China
-meizu,Y685M,en,魅族, Meizu M3s China Mobile
-meizu,Y685C,en,魅族, Meizu M3s China Telecom
-meizu,M611H,en,魅族, Meizu M5 Global
-meizu,M611A,en,魅族, Meizu M5 China
-meizu,M611Y,en,魅族, Meizu M5 China Mobile
-meizu,M611D,en,魅族, Meizu M5 China Telecom
-meizu,M612H,en,魅族, Meizu M5s Global
-meizu,M612Q,en,魅族, Meizu M5s China
-meizu,M612M,en,魅族, Meizu M5s China Mobile
-meizu,M612C,en,魅族, Meizu M5s China Telecom
-meizu,M710H,en,魅族, Meizu M5c Global
-meizu,M710M,en,魅族, Meizu M5c China Mobile
-meizu,M711H,en,魅族, Meizu M6 Global
-meizu,M711Q,en,魅族, Meizu M6 China
-meizu,M711M,en,魅族, Meizu M6 China Mobile
-meizu,M711C,en,魅族, Meizu M6 China Telecom
-meizu,M712H,en,魅族, Meizu M6s Global
-meizu,M712Q,en,魅族, Meizu M6s China
-meizu,M712Q-B,en,魅族, Meizu M6s China
-meizu,M712M,en,魅族, Meizu M6s China Mobile
-meizu,M712C,en,魅族, Meizu M6s China Telecom
-meizu,M811H,en,魅族, Meizu M6T Global
-meizu,M811Q,en,魅族, Meizu M6T China
-meizu,M813H,en,魅族, Meizu M8 Global
-meizu,M813Q,en,魅族, Meizu V8 Pro China
-meizu,M816H,en,魅族, Meizu M8 Lite Global
-meizu,M816Q,en,魅族, Meizu V8 China
-meizu,M810H,en,魅族, Meizu M8c Global
-meizu,M918H,en,魅族, Meizu M10 Global
-meizu,S685H,en,魅族, Meizu M3 Max Global
-meizu,S685Q,en,魅族, Meizu M3 Max China
-meizu,S685M,en,魅族, Meizu M3 Max China Mobile
-meizu,S685C,en,魅族, Meizu M3 Max China Telecom
-meizu,M57A,en,魅族, Meizu m1 metal China
-meizu,M57AM,en,魅族, Meizu m1 metal China Mobile
-meizu,M57AU,en,魅族, Meizu m1 metal China Unicom
-meizu,M57AC,en,魅族, Meizu m1 metal China Telecom
-meizu,U680H,en,魅族, Meizu U10 Global
-meizu,U680A,en,魅族, Meizu U10 China
-meizu,U680Y,en,魅族, Meizu U10 China Mobile
-meizu,U680D,en,魅族, Meizu U10 China Telecom
-meizu,U685H,en,魅族, Meizu U20 Global
-meizu,U685Q,en,魅族, Meizu U20 China
-meizu,U685M,en,魅族, Meizu U20 China Mobile
-meizu,U685C,en,魅族, Meizu U20 China Telecom
-meizu,M818H,en,魅族, Meizu C9 Global
-meizu,M819H,en,魅族, Meizu C9 Pro Global
+meizu,M192Q,en,魅族, MEIZU 18s Pro
+meizu,M463H,en,魅族, MEIZU m1 note Global
+meizu,M463M,en,魅族, MEIZU m1 note China Mobile
+meizu,M463U,en,魅族, MEIZU m1 note China Unicom
+meizu,M463C,en,魅族, MEIZU m1 note China Telecom
+meizu,M571H,en,魅族, MEIZU m2 note Global
+meizu,M571,en,魅族, MEIZU m2 note China
+meizu,M571M,en,魅族, MEIZU m2 note China Mobile
+meizu,M571U,en,魅族, MEIZU m2 note China Unicom
+meizu,M571C,en,魅族, MEIZU m2 note China Telecom
+meizu,M681H,en,魅族, MEIZU M3 note Global
+meizu,L681H,en,魅族, MEIZU M3 note Global
+meizu,M681Q,en,魅族, MEIZU M3 note China
+meizu,L681Q,en,魅族, MEIZU M3 note China
+meizu,M681M,en,魅族, MEIZU M3 note China Mobile
+meizu,L681M,en,魅族, MEIZU M3 note China Mobile
+meizu,M681C,en,魅族, MEIZU M3 note China Telecom
+meizu,L681C,en,魅族, MEIZU M3 note China Telecom
+meizu,M621H,en,魅族, MEIZU M5 Note Global
+meizu,M621Q,en,魅族, MEIZU M5 Note China
+meizu,M621M,en,魅族, MEIZU M5 Note China Mobile
+meizu,M621C,en,魅族, MEIZU M5 Note China Telecom
+meizu,M621C-S,en,魅族, MEIZU M5 Note China Telecom
+meizu,M721H,en,魅族, MEIZU M6 Note Global
+meizu,M721Q,en,魅族, MEIZU M6 Note China
+meizu,M721M,en,魅族, MEIZU M6 Note China Mobile
+meizu,M721C,en,魅族, MEIZU M6 Note China Telecom
+meizu,M822H,en,魅族, MEIZU Note 8 Global
+meizu,M822Q,en,魅族, MEIZU Note 8 China
+meizu,M923H,en,魅族, MEIZU Note 9 Global
+meizu,M923Q,en,魅族, MEIZU Note 9 China
+meizu,A680H,en,魅族, MEIZU M3E Global
+meizu,A680Q,en,魅族, MEIZU M1 E China
+meizu,A680M,en,魅族, MEIZU M1 E China Mobile
+meizu,M741A,en,魅族, MEIZU E2 China
+meizu,M741Y,en,魅族, MEIZU E2 China Mobile
+meizu,M851Q,en,魅族, MEIZU E3 China
+meizu,M851M,en,魅族, MEIZU E3 China Mobile
+meizu,M852H,en,魅族, MEIZU X8 Global
+meizu,M852Q,en,魅族, MEIZU X8 China
+meizu,M682Q,en,魅族, MEIZU M3X
+meizu,M465M,en,魅族, MEIZU m1 China Mobile
+meizu,M465A,en,魅族, MEIZU m1 YunOS Edition
+meizu,M578H,en,魅族, MEIZU m2 Global
+meizu,M578,en,魅族, MEIZU m2 China
+meizu,M578A,en,魅族, MEIZU m2 YunOS Edition
+meizu,M578M,en,魅族, MEIZU m2 China Mobile
+meizu,M578MA,en,魅族, MEIZU m2 YunOS Edition China Mobile
+meizu,M578U,en,魅族, MEIZU m2 China Unicom
+meizu,M578C,en,魅族, MEIZU m2 China Telecom
+meizu,M578CE,en,魅族, MEIZU m2 China Telecom
+meizu,M578CA,en,魅族, MEIZU m2 YunOS Edition China Telecom
+meizu,M688Q,en,魅族, MEIZU M3 China
+meizu,M688M,en,魅族, MEIZU M3 China Mobile
+meizu,M688U,en,魅族, MEIZU M3 China Unicom
+meizu,M688C,en,魅族, MEIZU M3 China Telecom
+meizu,Y685H,en,魅族, MEIZU M3s Global
+meizu,Y685Q,en,魅族, MEIZU M3s China
+meizu,Y685M,en,魅族, MEIZU M3s China Mobile
+meizu,Y685C,en,魅族, MEIZU M3s China Telecom
+meizu,M611H,en,魅族, MEIZU M5 Global
+meizu,M611A,en,魅族, MEIZU M5 China
+meizu,M611Y,en,魅族, MEIZU M5 China Mobile
+meizu,M611D,en,魅族, MEIZU M5 China Telecom
+meizu,M612H,en,魅族, MEIZU M5s Global
+meizu,M612Q,en,魅族, MEIZU M5s China
+meizu,M612M,en,魅族, MEIZU M5s China Mobile
+meizu,M612C,en,魅族, MEIZU M5s China Telecom
+meizu,M710H,en,魅族, MEIZU M5c Global
+meizu,M710M,en,魅族, MEIZU M5c China Mobile
+meizu,M711H,en,魅族, MEIZU M6 Global
+meizu,M711Q,en,魅族, MEIZU M6 China
+meizu,M711M,en,魅族, MEIZU M6 China Mobile
+meizu,M711C,en,魅族, MEIZU M6 China Telecom
+meizu,M712H,en,魅族, MEIZU M6s Global
+meizu,M712Q,en,魅族, MEIZU M6s China
+meizu,M712Q-B,en,魅族, MEIZU M6s China
+meizu,M712M,en,魅族, MEIZU M6s China Mobile
+meizu,M712C,en,魅族, MEIZU M6s China Telecom
+meizu,M811H,en,魅族, MEIZU M6T Global
+meizu,M811Q,en,魅族, MEIZU M6T China
+meizu,M813H,en,魅族, MEIZU M8 Global
+meizu,M813Q,en,魅族, MEIZU V8 Pro China
+meizu,M816H,en,魅族, MEIZU M8 Lite Global
+meizu,M816Q,en,魅族, MEIZU V8 China
+meizu,M810H,en,魅族, MEIZU M8c Global
+meizu,M918H,en,魅族, MEIZU M10 Global
+meizu,M2110,en,魅族, mblu 10
+meizu,M2111,en,魅族, mblu 10s
+meizu,S685H,en,魅族, MEIZU M3 Max Global
+meizu,S685Q,en,魅族, MEIZU M3 Max China
+meizu,S685M,en,魅族, MEIZU M3 Max China Mobile
+meizu,S685C,en,魅族, MEIZU M3 Max China Telecom
+meizu,M57A,en,魅族, MEIZU m1 metal China
+meizu,M57AM,en,魅族, MEIZU m1 metal China Mobile
+meizu,M57AU,en,魅族, MEIZU m1 metal China Unicom
+meizu,M57AC,en,魅族, MEIZU m1 metal China Telecom
+meizu,U680H,en,魅族, MEIZU U10 Global
+meizu,U680A,en,魅族, MEIZU U10 China
+meizu,U680Y,en,魅族, MEIZU U10 China Mobile
+meizu,U680D,en,魅族, MEIZU U10 China Telecom
+meizu,U685H,en,魅族, MEIZU U20 Global
+meizu,U685Q,en,魅族, MEIZU U20 China
+meizu,U685M,en,魅族, MEIZU U20 China Mobile
+meizu,U685C,en,魅族, MEIZU U20 China Telecom
+meizu,M818H,en,魅族, MEIZU C9 Global
+meizu,M819H,en,魅族, MEIZU C9 Pro Global
 360shouji,1503-M02,cn,奇酷, 360 手机 N4 移动版
 360shouji,1503-A01,cn,奇酷, 360 手机 N4 全网通版
 360shouji,1505-A01,cn,奇酷, 360 手机 N4s
