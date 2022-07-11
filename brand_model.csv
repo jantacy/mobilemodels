@@ -311,6 +311,7 @@ nubia,NX611J,cn,努比亚, nubia Z18 mini
 nubia,NX627J,cn,努比亚, nubia Z20
 nubia,NX667J,cn,努比亚, nubia Z30 Pro
 nubia,NX701J,cn,努比亚, nubia Z40 Pro
+nubia,NX702J,cn,努比亚, nubia Z40S Pro
 nubia,NX609J,cn,努比亚, 红魔电竞游戏手机
 nubia,NX619J,cn,努比亚, 红魔 Mars 电竞手机
 nubia,NX629J,cn,努比亚, 红魔 3
@@ -323,6 +324,8 @@ nubia,NX666J,cn,努比亚, 腾讯红魔游戏手机 6R
 nubia,NX669J-S,cn,努比亚, 腾讯红魔游戏手机 6S Pro
 nubia,NX679J,cn,努比亚, 红魔 7
 nubia,NX709J,cn,努比亚, 红魔 7 Pro
+nubia,NX679S,cn,努比亚, 红魔 7S
+nubia,NX709S,cn,努比亚, 红魔 7S Pro
 nubia,NX601J,cn,努比亚, nubia X6
 nubia,NX616J,cn,努比亚, nubia X
 nubia,NX612J,cn,努比亚, nubia V18
@@ -2284,6 +2287,7 @@ oppo,PEHM00,cn,OPPO, OPPO A93 全网通版
 oppo,PEHT00,cn,OPPO, OPPO A93 移动版
 oppo,PFGM00,cn,OPPO, OPPO A93s 全网通版
 oppo,PELM00,cn,OPPO, OPPO A95 全网通版
+oppo,PFTM10,cn,OPPO, OPPO A97 全网通版
 oppo,PBCM30,cn,OPPO, OPPO K1 全网通版
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
@@ -5190,3 +5194,14 @@ zte,7532N,cn,中兴, 中兴远航 30
 zte,8040N,cn,中兴, 中兴远航 30 Pro
 zte,9041N,cn,中兴, 中兴远航 30 Pro+
 zte,1010L,cn,中兴, 中兴畅行 30
+asus,_Z01QD,cn,其他, ROG 游戏手机
+asus,_I001DA,cn,其他, ROG 游戏手机 2
+asus,_I001DB,cn,其他, ROG 游戏手机 2
+asus,_I003DD,cn,其他, ROG 游戏手机 3
+asus,_I005DA,cn,其他, 腾讯 ROG 游戏手机 5
+asus,_I005DB,cn,其他, 腾讯 ROG 游戏手机 5 Pro
+asus,_I005DA,cn,其他, 腾讯 ROG 游戏手机 5s
+asus,_I005DB,cn,其他, 腾讯 ROG 游戏手机 5s Pro
+asus,_AI2201_A,cn,其他, 腾讯 ROG 游戏手机 6
+asus,_AI2201_B,cn,其他, 腾讯 ROG 游戏手机 6 Pro
+asus,_I007D,cn,其他, Smartphone for Snapdragon Insiders
