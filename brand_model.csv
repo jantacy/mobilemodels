@@ -1142,6 +1142,8 @@ vivo,V2136A,cn,VIVO, iQOO 8
 vivo,V2141A,cn,VIVO, iQOO 8 Pro
 vivo,V2171A,cn,VIVO, iQOO 9
 vivo,V2172A,cn,VIVO, iQOO 9 Pro
+vivo,V2217A,cn,VIVO, iQOO 10
+vivo,V2218A,cn,VIVO, iQOO 10 Pro
 vivo,V1914A,cn,VIVO, iQOO Neo 全网通版
 vivo,V1914T,cn,VIVO, iQOO Neo 移动全网通版
 vivo,V1936A,cn,VIVO, iQOO Neo 855 版 全网通版
@@ -2735,6 +2737,7 @@ xiaomi,22021211RC,en,小米, Redmi K40S China
 xiaomi,22041211AC,en,小米, Redmi K50 China
 xiaomi,22011211C,en,小米, Redmi K50 Pro China
 xiaomi,21121210C,en,小米, Redmi K50G China
+xiaomi,22041216I,en,小米, Redmi K50i India
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -2780,7 +2783,8 @@ xiaomi,22041219PI,en,小米, POCO M4 5G India
 xiaomi,2201117PG,en,小米, POCO M4 Pro Global
 xiaomi,2201117PI,en,小米, POCO M4 Pro India
 xiaomi,21091116AG,en,小米, POCO M4 Pro 5G Global
-xiaomi,21091116AI,en,小米, POCO M4 Pro 5G India
+xiaomi,22031116AI,en,小米, POCO M4 Pro 5G India
+xiaomi,2207117BPG,en,小米, POCO M5s Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
 xiaomi,220333QPG,en,小米, POCO C40 Global
@@ -2863,9 +2867,11 @@ oppo,CPH1871,en,OPPO, OPPO Find X
 oppo,CPH1875,en,OPPO, OPPO Find X
 oppo,CPH2023,en,OPPO, OPPO Find X2
 oppo,CPH2025,en,OPPO, OPPO Find X2 Pro
+oppo,OPG01,en,OPPO, OPPO Find X2 Pro (KDDI)
 oppo,CPH2005,en,OPPO, OPPO Find X2 Lite
 oppo,CPH2009,en,OPPO, OPPO Find X2 Neo
 oppo,CPH2173,en,OPPO, OPPO Find X3 Pro
+oppo,OPG03,en,OPPO, OPPO Find X3 Pro (KDDI)
 oppo,CPH2145,en,OPPO, OPPO Find X3 Lite
 oppo,CPH2207,en,OPPO, OPPO Find X3 Neo
 oppo,CPH2307,en,OPPO, OPPO Find X5
@@ -2912,6 +2918,7 @@ oppo,CPH2251,en,OPPO, OPPO Reno6 5G
 oppo,CPH2247,en,OPPO, OPPO Reno6 Pro 5G
 oppo,CPH2249,en,OPPO, OPPO Reno6 Pro 5G
 oppo,CPH2237,en,OPPO, OPPO Reno6 Z
+oppo,CPH2365,en,OPPO, OPPO Reno6 Lite
 oppo,CPH2363,en,OPPO, OPPO Reno7
 oppo,CPH2371,en,OPPO, OPPO Reno7 5G
 oppo,CPH2293,en,OPPO, OPPO Reno7 Pro 5G
@@ -2919,6 +2926,9 @@ oppo,CPH2343,en,OPPO, OPPO Reno7 Z 5G
 oppo,CPH2353,en,OPPO, OPPO Reno7 A
 oppo,A201OP,en,OPPO, OPPO Reno7 A (SoftBank)
 oppo,OPG04,en,OPPO, OPPO Reno7 A (KDDI)
+oppo,CPH2359,en,OPPO, OPPO Reno8 5G
+oppo,CPH2357,en,OPPO, OPPO Reno8 Pro 5G
+oppo,CPH2457,en,OPPO, OPPO Reno8 Z 5G
 oppo,CPH1819,en,OPPO, OPPO F7
 oppo,CPH1821,en,OPPO, OPPO F7
 oppo,CPH1859,en,OPPO, OPPO F7 Youth
@@ -2969,7 +2979,7 @@ oppo,CPH1893RU,en,OPPO, OPPO AX7 Pro
 oppo,CPH1938,en,OPPO, OPPO A9
 oppo,CPH1937,en,OPPO, OPPO A9 2020
 oppo,CPH1941,en,OPPO, OPPO A9 2020
-oppo,CPH1931RU,en,OPPO, OPPO A11
+oppo,CPH1931,en,OPPO, OPPO A11
 oppo,CPH1941,en,OPPO, OPPO A11
 oppo,CPH1943,en,OPPO, OPPO A11
 oppo,CPH2071,en,OPPO, OPPO A11k
@@ -2978,7 +2988,6 @@ oppo,CPH2077,en,OPPO, OPPO A12
 oppo,CPH2083,en,OPPO, OPPO A12
 oppo,CPH2179,en,OPPO, OPPO A15
 oppo,CPH2185,en,OPPO, OPPO A15
-oppo,CPH2185T2,en,OPPO, OPPO A15
 oppo,CPH2269,en,OPPO, OPPO A16
 oppo,CPH2275,en,OPPO, OPPO A16
 oppo,CPH2349,en,OPPO, OPPO A16k
@@ -2989,24 +2998,29 @@ oppo,CPH2015,en,OPPO, OPPO A31
 oppo,CPH2031,en,OPPO, OPPO A31
 oppo,CPH2073,en,OPPO, OPPO A31
 oppo,CPH2081,en,OPPO, OPPO A31
+oppo,CPH2127,en,OPPO, OPPO A33
 oppo,CPH2137,en,OPPO, OPPO A33
 oppo,CPH2061,en,OPPO, OPPO A52
 oppo,CPH2069,en,OPPO, OPPO A52
 oppo,CPH2127,en,OPPO, OPPO A53
 oppo,CPH2131,en,OPPO, OPPO A53
 oppo,CPH2133,en,OPPO, OPPO A53
+oppo,CPH2137,en,OPPO, OPPO A53
 oppo,CPH2139,en,OPPO, OPPO A53
 oppo,CPH2135,en,OPPO, OPPO A53s 5G
 oppo,CPH2321,en,OPPO, OPPO A53s 5G
 oppo,CPH2239,en,OPPO, OPPO A54
 oppo,CPH2195,en,OPPO, OPPO A54 5G
+oppo,CPH2303,en,OPPO, OPPO A54 5G
+oppo,OPG02,en,OPPO, OPPO A54 5G (KDDI)
 oppo,CPH2273,en,OPPO, OPPO A54s
 oppo,CPH2325,en,OPPO, OPPO A55
 oppo,CPH2309,en,OPPO, OPPO A55s 5G
 oppo,A102OP,en,OPPO, OPPO A55s 5G (SoftBank)
 oppo,CPH1701,en,OPPO, OPPO A57 (2016)
 oppo,CPH2387,en,OPPO, OPPO A57
-oppo,CPH2365,en,OPPO, OPPO A59
+oppo,CPH2407,en,OPPO, OPPO A57
+oppo,CPH2385,en,OPPO, OPPO A57s
 oppo,CPH2067,en,OPPO, OPPO A72
 oppo,CPH2095,en,OPPO, OPPO A73
 oppo,CPH2099,en,OPPO, OPPO A73
@@ -3015,6 +3029,9 @@ oppo,CPH2219,en,OPPO, OPPO A74
 oppo,CPH2197,en,OPPO, OPPO A74 5G
 oppo,CPH2263,en,OPPO, OPPO A74 5G
 oppo,CPH2375,en,OPPO, OPPO A76
+oppo,CPH2385,en,OPPO, OPPO A77
+oppo,CPH2339,en,OPPO, OPPO A77 5G
+oppo,CPH2001,en,OPPO, OPPO A91
 oppo,CPH2021,en,OPPO, OPPO A91
 oppo,CPH2059,en,OPPO, OPPO A92
 oppo,CPH2121,en,OPPO, OPPO A93
@@ -3026,9 +3043,11 @@ oppo,CPH2333,en,OPPO, OPPO A96
 oppo,CPH1955,en,OPPO, OPPO K3
 oppo,CPH2373,en,OPPO, OPPO K10
 oppo,CPH2237,en,OPPO, OPPO K10 5G
+oppo,OPD2102A,en,OPPO, OPPO Pad Air
 oppo,OW19W6,en,OPPO, OPPO Watch 41mm Wi-Fi
 oppo,OW19W8,en,OPPO, OPPO Watch 46mm Wi-Fi
 oppo,OW19W12,en,OPPO, OPPO Watch 46mm LTE
+oppo,OWWE201,en,OPPO, OPPO Watch Free
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
 smartisan,SM801,cn,锤子, Smartisan T2
@@ -4659,6 +4678,7 @@ xiaomi,22021211RC,cn,小米, Redmi K40S 全网通版
 xiaomi,22041211AC,cn,小米, Redmi K50 全网通版
 xiaomi,22011211C,cn,小米, Redmi K50 Pro 全网通版
 xiaomi,21121210C,cn,小米, Redmi K50 电竞版 全网通版
+xiaomi,22041216I,cn,小米, Redmi K50i 印度版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -4704,7 +4724,8 @@ xiaomi,22041219PI,cn,小米, POCO M4 5G 印度版
 xiaomi,2201117PG,cn,小米, POCO M4 Pro 国际版
 xiaomi,2201117PI,cn,小米, POCO M4 Pro 印度版
 xiaomi,21091116AG,cn,小米, POCO M4 Pro 5G 国际版
-xiaomi,21091116AI,cn,小米, POCO M4 Pro 5G 印度版
+xiaomi,22031116AI,cn,小米, POCO M4 Pro 5G 印度版
+xiaomi,2207117BPG,cn,小米, POCO M5s 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
 xiaomi,220333QPG,cn,小米, POCO C40 国际版
@@ -5223,3 +5244,5 @@ oppo,OWW202,cn,OPPO, OPPO Watch 2 42mm 蓝牙版
 oppo,OW20W1,cn,OPPO, OPPO Watch 2 46mm eSIM 版
 oppo,OW20W2,cn,OPPO, OPPO Watch 2 42mm eSIM 版
 oppo,OW20W3,cn,OPPO, OPPO Watch 2 46mm ECG
+oppo,OWW206,cn,OPPO, OPPO Watch Free 标准版
+oppo,OWW208,cn,OPPO, OPPO Watch Free NFC 版
