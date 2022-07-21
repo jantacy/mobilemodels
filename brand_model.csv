@@ -5116,13 +5116,13 @@ oppo,PAHM00,cn,OPPO, OPPO Find X 超级闪充版/兰博基尼版 全网通版
 oppo,PAFT10,cn,OPPO, OPPO Find X 超级闪充版 移动版
 oppo,PDEM10,cn,OPPO, OPPO Find X2 全网通版
 oppo,PDET10,cn,OPPO, OPPO Find X2 移动版
-oppo,PDEM30,cn,OPPO, OPPO Find X2 Pro 全网通版
-oppo,PEDM00,cn,OPPO, OPPO Find X3 全网通版
-oppo,PEEM00,cn,OPPO, OPPO Find X3 Pro 全网通版
-oppo,PEUM00,cn,OPPO, OPPO Find N 全网通版
-oppo,PFFM10,cn,OPPO, OPPO Find X5 全网通版
-oppo,PFEM10,cn,OPPO, OPPO Find X5 Pro 全网通版
-oppo,PFFM20,cn,OPPO, OPPO Find X5 Pro 天玑版 全网通版
+oppo,PDEM30,cn,OPPO, OPPO Find X2 Pro
+oppo,PEDM00,cn,OPPO, OPPO Find X3
+oppo,PEEM00,cn,OPPO, OPPO Find X3 Pro
+oppo,PEUM00,cn,OPPO, OPPO Find N
+oppo,PFFM10,cn,OPPO, OPPO Find X5
+oppo,PFEM10,cn,OPPO, OPPO Find X5 Pro
+oppo,PFFM20,cn,OPPO, OPPO Find X5 Pro 天玑版
 oppo,PCAM00,cn,OPPO, OPPO Reno 全网通版
 oppo,PCAT00,cn,OPPO, OPPO Reno 移动版
 oppo,PCCM00,cn,OPPO, OPPO Reno 10 倍变焦版 全网通版
@@ -5151,18 +5151,18 @@ oppo,PEGM10,cn,OPPO, OPPO Reno5 K 全网通版
 oppo,PEGT10,cn,OPPO, OPPO Reno5 K 移动版
 oppo,PDSM00,cn,OPPO, OPPO Reno5 Pro 全网通版
 oppo,PDST00,cn,OPPO, OPPO Reno5 Pro 移动版
-oppo,PDRM00,cn,OPPO, OPPO Reno5 Pro+ 全网通版
-oppo,PEQM00,cn,OPPO, OPPO Reno6 全网通版
-oppo,PEPM00,cn,OPPO, OPPO Reno6 Pro 全网通版
-oppo,PENM00,cn,OPPO, OPPO Reno6 Pro+ 全网通版
-oppo,PFJM10,cn,OPPO, OPPO Reno7 全网通版
-oppo,PFDM00,cn,OPPO, OPPO Reno7 Pro 全网通版
-oppo,PFCM00,cn,OPPO, OPPO Reno7 SE 全网通版
-oppo,PGBM10,cn,OPPO, OPPO Reno8 全网通版
-oppo,PGAM10,cn,OPPO, OPPO Reno8 Pro 全网通版
-oppo,PFZM10,cn,OPPO, OPPO Reno8 Pro+ 全网通版
-oppo,PCLM10,cn,OPPO, OPPO Reno Ace 全网通版
-oppo,PDHM00,cn,OPPO, OPPO Ace2 全网通版
+oppo,PDRM00,cn,OPPO, OPPO Reno5 Pro+
+oppo,PEQM00,cn,OPPO, OPPO Reno6
+oppo,PEPM00,cn,OPPO, OPPO Reno6 Pro
+oppo,PENM00,cn,OPPO, OPPO Reno6 Pro+
+oppo,PFJM10,cn,OPPO, OPPO Reno7
+oppo,PFDM00,cn,OPPO, OPPO Reno7 Pro
+oppo,PFCM00,cn,OPPO, OPPO Reno7 SE
+oppo,PGBM10,cn,OPPO, OPPO Reno8
+oppo,PGAM10,cn,OPPO, OPPO Reno8 Pro
+oppo,PFZM10,cn,OPPO, OPPO Reno8 Pro+
+oppo,PCLM10,cn,OPPO, OPPO Reno Ace
+oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
 oppo,PACT00,cn,OPPO, OPPO R15 移动版
 oppo,PAAM00,cn,OPPO, OPPO R15 梦镜版 全网通版
@@ -5193,10 +5193,10 @@ oppo,PCHM30,cn,OPPO, OPPO A11x 全网通版
 oppo,PCHT30,cn,OPPO, OPPO A11x 移动版
 oppo,PCHM00,cn,OPPO, OPPO A11n 全网通版
 oppo,PCHT00,cn,OPPO, OPPO A11n 移动版
-oppo,PDVM00,cn,OPPO, OPPO A11s 全网通版
-oppo,PDVM00,cn,OPPO, OPPO A32 全网通版
-oppo,PEFM00,cn,OPPO, OPPO A35 全网通版
-oppo,PESM10,cn,OPPO, OPPO A36 全网通版
+oppo,PDVM00,cn,OPPO, OPPO A11s
+oppo,PDVM00,cn,OPPO, OPPO A32
+oppo,PEFM00,cn,OPPO, OPPO A35
+oppo,PESM10,cn,OPPO, OPPO A36
 oppo,PDAM10,cn,OPPO, OPPO A52 全网通版
 oppo,PDAT10,cn,OPPO, OPPO A52 移动版
 oppo,PECM20,cn,OPPO, OPPO A53 (2020) 全网通版
@@ -5206,35 +5206,36 @@ oppo,PEMM00,cn,OPPO, OPPO A55 全网通版
 oppo,PEMM20,cn,OPPO, OPPO A55 全网通版
 oppo,PEMT00,cn,OPPO, OPPO A55 移动版
 oppo,PEMT20,cn,OPPO, OPPO A55 移动版
-oppo,PEMM00,cn,OPPO, OPPO A55s 全网通版
-oppo,PFVM10,cn,OPPO, OPPO A56 全网通版
-oppo,PFTM20,cn,OPPO, OPPO A57 (2022) 全网通版
+oppo,PEMM00,cn,OPPO, OPPO A55s
+oppo,PFVM10,cn,OPPO, OPPO A56
+oppo,PFTM20,cn,OPPO, OPPO A57 (2022)
 oppo,PDYM20,cn,OPPO, OPPO A72 全网通版
 oppo,PDYT20,cn,OPPO, OPPO A72 移动版
-oppo,PDYM10,cn,OPPO, OPPO A72n 全网通版
+oppo,PDYM10,cn,OPPO, OPPO A72n
 oppo,PCPM00,cn,OPPO, OPPO A91 全网通版
 oppo,PCPT00,cn,OPPO, OPPO A91 移动版
 oppo,PDKM00,cn,OPPO, OPPO A92s 全网通版
 oppo,PDKT00,cn,OPPO, OPPO A92s 移动版
 oppo,PEHM00,cn,OPPO, OPPO A93 全网通版
 oppo,PEHT00,cn,OPPO, OPPO A93 移动版
-oppo,PFGM00,cn,OPPO, OPPO A93s 全网通版
-oppo,PELM00,cn,OPPO, OPPO A95 全网通版
-oppo,PFTM10,cn,OPPO, OPPO A97 全网通版
-oppo,PBCM30,cn,OPPO, OPPO K1 全网通版
+oppo,PFGM00,cn,OPPO, OPPO A93s
+oppo,PELM00,cn,OPPO, OPPO A95
+oppo,PFTM10,cn,OPPO, OPPO A97
+oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
 oppo,PCNM00,cn,OPPO, OPPO K5 全网通版
 oppo,PCNT00,cn,OPPO, OPPO K5 移动版
-oppo,PCLM50,cn,OPPO, OPPO K7 全网通版
-oppo,PERM00,cn,OPPO, OPPO K7x 全网通版
-oppo,PEXM00,cn,OPPO, OPPO K9 全网通版
-oppo,PERM10,cn,OPPO, OPPO K9s 全网通版
-oppo,PEYM00,cn,OPPO, OPPO K9 Pro 全网通版
-oppo,PGCM10,cn,OPPO, OPPO K9x 全网通版
-oppo,PGJM10,cn,OPPO, OPPO K10 全网通版
-oppo,PGIM10,cn,OPPO, OPPO K10 Pro 全网通版
-oppo,PGGM10,cn,OPPO, OPPO K10x 全网通版
+oppo,PCLM50,cn,OPPO, OPPO K7
+oppo,PERM00,cn,OPPO, OPPO K7x
+oppo,PEXM00,cn,OPPO, OPPO K9
+oppo,PERM10,cn,OPPO, OPPO K9s
+oppo,PEYM00,cn,OPPO, OPPO K9 Pro
+oppo,PGCM10,cn,OPPO, OPPO K9x
+oppo,PGJM10,cn,OPPO, OPPO K10
+oppo,PGIM10,cn,OPPO, OPPO K10 Pro
+oppo,PERM10,cn,OPPO, OPPO K10 活力版
+oppo,PGGM10,cn,OPPO, OPPO K10x
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OW19W1,cn,OPPO, OPPO Watch 46mm
