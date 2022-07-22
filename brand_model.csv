@@ -847,6 +847,7 @@ honor,KOB2-W09HN,cn,荣耀, 荣耀平板 X7 8 英寸 Wi-Fi 版
 honor,KOB2-AL00HN,cn,荣耀, 荣耀平板 X7 8 英寸 全网通版
 honor,AGM-W09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 honor,AGM-AL09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 全网通版
+honor,HEY-W09,cn,荣耀, 荣耀平板 8 12 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -900,6 +901,8 @@ honor,NMH-WFQ9HN,cn,荣耀, 荣耀 MagicBook 14 2021 R5 (16GB+512GB)
 honor,NMH-WFP9HN,cn,荣耀, 荣耀 MagicBook 14 2021 R7
 honor,GLO-F56,cn,荣耀, 荣耀 MagicBook 14 2022 i5
 honor,GLO-F76,cn,荣耀, 荣耀 MagicBook 14 2022 i7
+honor,GLO-N56,cn,荣耀, 荣耀 MagicBook 14 2022 R5
+honor,GLO-N76,cn,荣耀, 荣耀 MagicBook 14 2022 R7
 honor,Boh-WAH9HN,cn,荣耀, 荣耀 MagicBook 15 i5
 honor,Boh-WAH9HNP,cn,荣耀, 荣耀 MagicBook 15 i5 (16GB+512GB)
 honor,Boh-WAE9HN,cn,荣耀, 荣耀 MagicBook 15 i7
@@ -964,6 +967,11 @@ honor,LOK-370,cn,荣耀, 荣耀智慧屏 X1 75 英寸
 honor,HN43DNTA,cn,荣耀, 荣耀智慧屏 X2 43 英寸
 honor,HN55DNTA,cn,荣耀, 荣耀智慧屏 X2 55 英寸
 honor,HN65DNTA,cn,荣耀, 荣耀智慧屏 X2 65 英寸
+honor,HN55DNTS,cn,荣耀, 荣耀智慧屏 X3 55 英寸
+honor,HN65DNTS,cn,荣耀, 荣耀智慧屏 X3 65 英寸
+honor,HN55BYRA,cn,荣耀, 荣耀智慧屏 X3i 55 英寸
+honor,HN65BYRA,cn,荣耀, 荣耀智慧屏 X3i 65 英寸
+honor,HN75BYRA,cn,荣耀, 荣耀智慧屏 X3i 75 英寸
 honor,U8860,cn,荣耀, Honor 联通版
 honor,C8860E,cn,荣耀, Honor 电信版
 honor,T8950,cn,荣耀, Honor+ 移动版
