@@ -1536,9 +1536,9 @@ huawei,JLN-LX1,en,华为, HUAWEI nova 9 SE
 huawei,JLN-LX3,en,华为, HUAWEI nova 9 SE
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus
-huawei,CTR-LX1,en,华为, HUAWEI nova Y60
-huawei,CTR-LX2,en,华为, HUAWEI nova Y60
-huawei,CTR-LX3,en,华为, HUAWEI nova Y60
+huawei,CTR-LX1,en,华为, HUAWEI nova Y90
+huawei,CTR-LX2,en,华为, HUAWEI nova Y90
+huawei,CTR-LX3,en,华为, HUAWEI nova Y90
 huawei,DRA-L01,en,华为, HUAWEI Y5 Prime 2018 Single SIM
 huawei,DRA-L21,en,华为, HUAWEI Y5 Prime 2018 Dual SIM
 huawei,DRA-LX2,en,华为, HUAWEI Y5 Prime 2018 Dual SIM
@@ -2592,7 +2592,7 @@ xiaomi,220333QBI,en,小米, Redmi 10 India / Redmi 10 Power India
 xiaomi,220333QNY,en,小米, Redmi 10C Global (NFC)
 xiaomi,220333QL,en,小米, Redmi 10C Latin America
 xiaomi,220233L2G,en,小米, Redmi 10A Global
-xiaomi,220233L2I,en,小米, Redmi 10A India
+xiaomi,220233L2I,en,小米, Redmi 10A India / Redmi 10A Sport India
 xiaomi,220233L2C,en,小米, Redmi 10A China
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
@@ -3476,6 +3476,7 @@ huawei,TET-AN10,cn,华为, HUAWEI Mate X2 5G 全网通版
 huawei,TET-AN50,cn,华为, HUAWEI Mate X2 典藏版 5G 全网通版
 huawei,TET-AL00,cn,华为, HUAWEI Mate X2 4G 全网通版
 huawei,PAL-AL00,cn,华为, HUAWEI Mate Xs 2 4G 全网通版
+huawei,PAL-AL10,cn,华为, HUAWEI Mate Xs 2 4G 全网通版
 huawei,U9200,cn,华为, 华为 Ascend P1
 huawei,U9200E,cn,华为, 华为 Ascend P1 XL
 huawei,U9200S,cn,华为, 华为 Ascend P1 S
@@ -3530,12 +3531,15 @@ huawei,ELS-TN00,cn,华为, HUAWEI P40 Pro 5G 移动定制版
 huawei,ELS-AN10,cn,华为, HUAWEI P40 Pro+ 5G 全网通版
 huawei,ELS-TN10,cn,华为, HUAWEI P40 Pro+ 5G 移动定制版
 huawei,ABR-AL00,cn,华为, HUAWEI P50 4G 全网通版
+huawei,ABR-AL80,cn,华为, HUAWEI P50 4G 全网通版
 huawei,ABR-AL60,cn,华为, HUAWEI P50E 4G 全网通版
+huawei,ABR-AL90,cn,华为, HUAWEI P50E 4G 全网通版
 huawei,JAD-AL00,cn,华为, HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
+huawei,JAD-AL80,cn,华为, HUAWEI P50 Pro 4G 全网通版 (骁龙 888)
 huawei,JAD-AL50,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 huawei,JAD-AL60,cn,华为, HUAWEI P50 Pro 4G 全网通版 (麒麟 9000)
 huawei,BAL-AL00,cn,华为, HUAWEI P50 Pocket 4G 全网通版
-huawei,BAL-AL10,cn,华为, HUAWEI P50 Pocket 艺术定制版 4G 全网通版
+huawei,BAL-AL80,cn,华为, HUAWEI P50 Pocket 4G 全网通版
 huawei,CAZ-AL00,cn,华为, HUAWEI nova 全网通标配版 
 huawei,CAZ-AL10,cn,华为, HUAWEI nova 全网通高配版
 huawei,CAZ-TL10,cn,华为, HUAWEI nova 移动定制标配版
@@ -3744,9 +3748,16 @@ huawei,MRX-AL19,cn,华为, HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512G
 huawei,MRX-AN19,cn,华为, HUAWEI MatePad Pro 10.8 英寸 5G 全网通版
 huawei,MRR-W29,cn,华为, HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
 huawei,MRR-W39,cn,华为, HUAWEI MatePad Pro 10.8 英寸 (2021) Wi-Fi 版
+huawei,GOT-W29,cn,华为, HUAWEI MatePad Pro 11 英寸 Wi-Fi 版
+huawei,GOT-W09,cn,华为, HUAWEI MatePad Pro 11 英寸 性能版 Wi-Fi 版
+huawei,GOT-AL09,cn,华为, HUAWEI MatePad Pro 11 英寸 性能版 全网通版
+huawei,GOT-AL19,cn,华为, HUAWEI MatePad Pro 11 英寸 性能版 全网通版 (12GB+512GB)
 huawei,WGR-W09,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
+huawei,WGRR-W09,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000E)
 huawei,WGR-W19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
+huawei,WGRR-W19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 Wi-Fi 版 (麒麟 9000)
 huawei,WGR-AN19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
+huawei,WGRR-AN19,cn,华为, HUAWEI MatePad Pro 12.6 英寸 全网通版 (麒麟 9000)
 huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
 huawei,BAH3-W59,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
 huawei,BAH3-AL00,cn,华为, HUAWEI MatePad 10.4 英寸 全网通版 (麒麟 810)
@@ -3817,6 +3828,7 @@ huawei,MACHD-WFE9,cn,华为, HUAWEI MateBook X Pro (2021) i7
 huawei,MACHD-WFE9Q,cn,华为, HUAWEI MateBook X Pro (2021) i7
 huawei,MRG-W56,cn,华为, HUAWEI MateBook X Pro (2022) i5
 huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro (2022) i7
+huawei,MRGF-16,cn,华为, HUAWEI MateBook X Pro (2022) 12 代酷睿版
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
 huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
 huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
@@ -3861,6 +3873,7 @@ huawei,KLVF-16,cn,华为, HUAWEI MateBook 14 (2022)
 huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
 huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
 huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
+huawei,HKF-16,cn,华为, HUAWEI MateBook 14s (2022)
 huawei,CREM-WFG9,cn,华为, HUAWEI MateBook 16 R5
 huawei,CREM-WFD9,cn,华为, HUAWEI MateBook 16 R7
 huawei,CREF-16,cn,华为, HUAWEI MateBook 16s
@@ -3955,6 +3968,9 @@ huawei,HD65KANA,cn,华为, 华为智慧屏 S 65 (3GB+16GB)
 huawei,HD65KANS,cn,华为, 华为智慧屏 S Pro 65 (3GB+32GB)
 huawei,HD75KANA,cn,华为, 华为智慧屏 S 75 (3GB+16GB)
 huawei,HD75KANS,cn,华为, 华为智慧屏 S Pro 75 (3GB+32GB)
+huawei,HD55AJMA,cn,华为, 华为智慧屏 S 55 (2022)
+huawei,HD65AJMA,cn,华为, 华为智慧屏 S 65 (2022)
+huawei,HD86KEPA,cn,华为, 华为智慧屏 S86 Pro
 huawei,HD55DESA,cn,华为, 华为智慧屏 SE 55 (2GB+16GB)
 huawei,HD55DESZ,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P (2GB+16GB)
 huawei,HD55DESY,cn,华为, 华为智慧屏 SE 55 畅连通话版 1080P 金属底座 (2GB+16GB)
@@ -4534,7 +4550,7 @@ xiaomi,220333QNY,cn,小米, Redmi 10C 国际版 (NFC)
 xiaomi,220333QL,cn,小米, Redmi 10C 拉美版
 xiaomi,220233L2C,cn,小米, Redmi 10A 全网通版
 xiaomi,220233L2G,cn,小米, Redmi 10A 国际版
-xiaomi,220233L2I,cn,小米, Redmi 10A 印度版
+xiaomi,220233L2I,cn,小米, Redmi 10A 印度版 / Redmi 10A Sport 印度版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
