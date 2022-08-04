@@ -559,6 +559,11 @@ oneplus,PGKM10,en,一加, OnePlus Ace China
 oneplus,CPH2411,en,一加, OnePlus 10R 150W India
 oneplus,CPH2423,en,一加, OnePlus 10R 80W India
 oneplus,PGZ110,en,一加, OnePlus Ace Race China
+oneplus,PGP110,en,一加, OnePlus Ace Pro China
+oneplus,CPH2413,en,一加, OnePlus 10T India
+oneplus,CPH2415,en,一加, OnePlus 10T EU / Global
+oneplus,CPH2417,en,一加, OnePlus 10T North America
+oneplus,CPH2419,en,一加, OnePlus 10T North America
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
@@ -569,8 +574,10 @@ oneplus,BE2011,en,一加, OnePlus Nord N100 North America
 oneplus,BE2012,en,一加, OnePlus Nord N100 T-Mobile
 oneplus,BE2013,en,一加, OnePlus Nord N100 Global
 oneplus,BE2015,en,一加, OnePlus Nord N100 Metro
+oneplus,CPH2469,en,一加, OnePlus Nord 20 SE
 oneplus,DE2117,en,一加, OnePlus Nord N200 North America
 oneplus,DE2118,en,一加, OnePlus Nord N200 T-Mobile
+oneplus,CPH2389,en,一加, OnePlus Nord N300
 oneplus,EB2101,en,一加, OnePlus Nord CE India
 oneplus,EB2103,en,一加, OnePlus Nord CE EU / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 5G India
@@ -2275,6 +2282,11 @@ oneplus,PGKM10,cn,一加, 一加 Ace 全网通版
 oneplus,CPH2411,cn,一加, 一加 10R 150W 印度版
 oneplus,CPH2423,cn,一加, 一加 10R 80W 印度版
 oneplus,PGZ110,cn,一加, 一加 Ace 竞速版 全网通版
+oneplus,PGP110,cn,一加, 一加 Ace Pro 全网通版
+oneplus,CPH2413,cn,一加, 一加 10T 印度版
+oneplus,CPH2415,cn,一加, 一加 10T 欧洲版/国际版
+oneplus,CPH2417,cn,一加, 一加 10T 北美版
+oneplus,CPH2419,cn,一加, 一加 10T 北美版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
@@ -2285,8 +2297,10 @@ oneplus,BE2011,cn,一加, OnePlus Nord N100 北美版
 oneplus,BE2012,cn,一加, OnePlus Nord N100 T-Mobile 版
 oneplus,BE2013,cn,一加, OnePlus Nord N100 国际版
 oneplus,BE2015,cn,一加, OnePlus Nord N100 Metro 版
+oneplus,CPH2469,cn,一加, OnePlus Nord 20 SE
 oneplus,DE2117,cn,一加, OnePlus Nord N200 北美版
 oneplus,DE2118,cn,一加, OnePlus Nord N200 T-Mobile 版
+oneplus,CPH2389,cn,一加, OnePlus Nord N300
 oneplus,EB2101,cn,一加, OnePlus Nord CE 印度版
 oneplus,EB2103,cn,一加, OnePlus Nord CE 欧洲版/国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
