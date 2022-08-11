@@ -1075,6 +1075,8 @@ vivo,V2068A,cn,VIVO, vivo Y31s 标准版 5G
 vivo,V2068A,cn,VIVO, vivo Y31s (t1 版) 5G
 vivo,V2054A,cn,VIVO, vivo Y31s (t2 版) 5G
 vivo,V2158A,cn,VIVO, vivo Y32
+vivo,V2168A,cn,VIVO, vivo Y32t (8GB+128GB)
+vivo,V2180A,cn,VIVO, vivo Y32t (8GB+256GB)
 vivo,V2166A,cn,VIVO, vivo Y33s 5G
 vivo,V2166A,cn,VIVO, vivo Y33e 5G
 vivo,V1965A,cn,VIVO, vivo Y50
@@ -1098,6 +1100,7 @@ vivo,V2031A,cn,VIVO, vivo Y73s 5G
 vivo,V2009A,cn,VIVO, vivo Y74s 5G
 vivo,V2156A,cn,VIVO, vivo Y76s 5G
 vivo,V2219A,cn,VIVO, vivo Y77 5G
+vivo,V2166BA,cn,VIVO, vivo Y77e 5G
 vivo,V1732A,cn,VIVO, vivo Y81 全网通版
 vivo,V1732T,cn,VIVO, vivo Y81 移动全网通版
 vivo,V1732A,cn,VIVO, vivo Y81s 全网通版
@@ -2761,6 +2764,7 @@ xiaomi,22021211RC,en,小米, Redmi K40S China
 xiaomi,22041211AC,en,小米, Redmi K50 China
 xiaomi,22011211C,en,小米, Redmi K50 Pro China
 xiaomi,21121210C,en,小米, Redmi K50G China
+xiaomi,22081212C,en,小米, Redmi K50 Ultra China
 xiaomi,22041216I,en,小米, Redmi K50i India
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
@@ -4723,6 +4727,7 @@ xiaomi,22021211RC,cn,小米, Redmi K40S 全网通版
 xiaomi,22041211AC,cn,小米, Redmi K50 全网通版
 xiaomi,22011211C,cn,小米, Redmi K50 Pro 全网通版
 xiaomi,21121210C,cn,小米, Redmi K50 电竞版 全网通版
+xiaomi,22081212C,cn,小米, Redmi K50 至尊版 全网通版
 xiaomi,22041216I,cn,小米, Redmi K50i 印度版
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
@@ -5292,3 +5297,5 @@ oppo,OW20W2,cn,OPPO, OPPO Watch 2 42mm eSIM 版
 oppo,OW20W3,cn,OPPO, OPPO Watch 2 46mm ECG
 oppo,OWW206,cn,OPPO, OPPO Watch Free 标准版
 oppo,OWW208,cn,OPPO, OPPO Watch Free NFC 版
+oppo,OWW212,cn,OPPO, OPPO Watch 3
+oppo,OWW211,cn,OPPO, OPPO Watch 3 Pro
