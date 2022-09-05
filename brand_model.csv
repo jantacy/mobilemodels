@@ -854,6 +854,10 @@ xiaomi,M1810F6I,en,小米, Redmi Y3 India
 xiaomi,M1903C3GG,en,小米, Redmi Go Global
 xiaomi,M1903C3GH,en,小米, Redmi Go Global
 xiaomi,M1903C3GI,en,小米, Redmi Go India
+xiaomi,220733SG,en,小米, Redmi A1 Global
+xiaomi,220733SFG,en,小米, Redmi A1+ Global
+xiaomi,220733SI,en,小米, Redmi A1 India
+xiaomi,220733SL,en,小米, Redmi A1 Latin America
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
@@ -887,11 +891,14 @@ xiaomi,2201117PG,en,小米, POCO M4 Pro Global
 xiaomi,2201117PI,en,小米, POCO M4 Pro India
 xiaomi,21091116AG,en,小米, POCO M4 Pro 5G Global
 xiaomi,22031116AI,en,小米, POCO M4 Pro 5G India
+xiaomi,22071219CG,en,小米, POCO M5 Global
+xiaomi,22071219CI,en,小米, POCO M5 India
 xiaomi,2207117BPG,en,小米, POCO M5s Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
 xiaomi,220333QPG,en,小米, POCO C40 Global
 xiaomi,220333QPI,en,小米, POCO C40 India
+xiaomi,220733SPI,en,小米, POCO C50 India
 xiaomi,SKR-H0,en,小米, Black Shark Global
 xiaomi,SKR-A0,en,小米, Black Shark China
 xiaomi,AWM-A0,en,小米, Black Shark Helo China
@@ -1094,6 +1101,10 @@ huawei,NEN-LX3,en,华为, HUAWEI nova 8i
 huawei,NAM-LX9,en,华为, HUAWEI nova 9
 huawei,JLN-LX1,en,华为, HUAWEI nova 9 SE
 huawei,JLN-LX3,en,华为, HUAWEI nova 9 SE
+huawei,NCO-LX1,en,华为, HUAWEI nova 10
+huawei,NCO-LX3,en,华为, HUAWEI nova 10
+huawei,GLA-LX1,en,华为, HUAWEI nova 10 Pro
+huawei,GLA-LX3,en,华为, HUAWEI nova 10 Pro
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus
 huawei,CTR-LX1,en,华为, HUAWEI nova Y90
@@ -4816,6 +4827,10 @@ xiaomi,M1810F6I,cn,小米, Redmi Y3 印度版
 xiaomi,M1903C3GG,cn,小米, Redmi Go 国际版
 xiaomi,M1903C3GH,cn,小米, Redmi Go 国际版
 xiaomi,M1903C3GI,cn,小米, Redmi Go 印度版
+xiaomi,220733SG,cn,小米, Redmi A1 国际版
+xiaomi,220733SFG,cn,小米, Redmi A1+ 国际版
+xiaomi,220733SI,cn,小米, Redmi A1 印度版
+xiaomi,220733SL,cn,小米, Redmi A1 拉美版
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -4849,11 +4864,14 @@ xiaomi,2201117PG,cn,小米, POCO M4 Pro 国际版
 xiaomi,2201117PI,cn,小米, POCO M4 Pro 印度版
 xiaomi,21091116AG,cn,小米, POCO M4 Pro 5G 国际版
 xiaomi,22031116AI,cn,小米, POCO M4 Pro 5G 印度版
+xiaomi,22071219CG,cn,小米, POCO M5 国际版
+xiaomi,22071219CI,cn,小米, POCO M5 印度版
 xiaomi,2207117BPG,cn,小米, POCO M5s 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
 xiaomi,220333QPG,cn,小米, POCO C40 国际版
 xiaomi,220333QPI,cn,小米, POCO C40 印度版
+xiaomi,220733SPI,cn,小米, POCO C50 印度版
 xiaomi,SKR-A0,cn,小米, 黑鲨游戏手机 全网通版
 xiaomi,SKR-H0,cn,小米, 黑鲨游戏手机 国际版
 xiaomi,AWM-A0,cn,小米, 黑鲨游戏手机 Helo
