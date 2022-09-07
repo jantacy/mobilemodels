@@ -35,6 +35,7 @@ sony,XQ-BC72,cn,索尼, Xperia 1 III
 sony,XQ-BQ72,cn,索尼, Xperia 5 III
 sony,XQ-BE72,cn,索尼, Xperia PRO-I
 sony,XQ-CT72,cn,索尼, Xperia 1 IV
+sony,XQ-CQ72,cn,索尼, Xperia 5 IV
 realme,RMX1901,cn,真我, realme X
 realme,RMX1851,cn,真我, realme X 青春版
 realme,RMX1991,cn,真我, realme X2
@@ -1473,6 +1474,7 @@ vivo,V2164A,cn,VIVO, vivo Y72t 5G
 vivo,V1731CA,cn,VIVO, vivo Y73
 vivo,V2031A,cn,VIVO, vivo Y73s 5G
 vivo,V2009A,cn,VIVO, vivo Y74s 5G
+vivo,V2069BA,cn,VIVO, vivo Y75s 5G
 vivo,V2156A,cn,VIVO, vivo Y76s 5G
 vivo,V2219A,cn,VIVO, vivo Y77 5G
 vivo,V2166BA,cn,VIVO, vivo Y77e 5G / vivo Y77e (t1 版) 5G
@@ -2626,7 +2628,7 @@ huawei,RTE-AL00,cn,华为, HUAWEI nova 9 Pro 4G 全网通版
 huawei,JLN-AL00,cn,华为, HUAWEI nova 9 SE 4G 全网通版
 huawei,NCO-AL00,cn,华为, HUAWEI nova 10 4G 全网通版
 huawei,GLA-AL00,cn,华为, HUAWEI nova 10 Pro 4G 全网通版
-huawei,CHL-AL80,cn,华为, HUAWEI nova 10z 全网通版
+huawei,CHA-AL80,cn,华为, HUAWEI nova 10z 全网通版
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -4328,9 +4330,12 @@ realme,RMX3195,en,真我, realme C25s
 realme,RMX3197,en,真我, realme C25s
 realme,RMX3265,en,真我, realme C25Y
 realme,RMX3269,en,真我, realme C25Y
+realme,RMX3581,en,真我, realme C30
+realme,RMX3623,en,真我, realme C30
 realme,RMX3501,en,真我, realme C31
 realme,RMX3502,en,真我, realme C31
 realme,RMX3503,en,真我, realme C31
+realme,RMX3624,en,真我, realme C33
 realme,RMX3511,en,真我, realme C35
 realme,RMX3512,en,真我, realme C35
 realme,RMX3513,en,真我, realme C35
