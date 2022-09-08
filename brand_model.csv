@@ -495,6 +495,8 @@ xiaomi,2203129I,en,小米, Xiaomi 12 Lite India
 xiaomi,2206123SC,en,小米, Xiaomi 12S China
 xiaomi,2206122SC,en,小米, Xiaomi 12S Pro China
 xiaomi,2203121C,en,小米, Xiaomi 12S Ultra China
+xiaomi,22071212AG,en,小米, Xiaomi 12T Global
+xiaomi,22081212UG,en,小米, Xiaomi 12T Pro Global
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China
 xiaomi,2014619,en,小米, Mi Note China
@@ -688,6 +690,7 @@ xiaomi,220333QL,en,小米, Redmi 10C Latin America
 xiaomi,220233L2G,en,小米, Redmi 10A Global
 xiaomi,220233L2I,en,小米, Redmi 10A India / Redmi 10A Sport India
 xiaomi,220233L2C,en,小米, Redmi 10A China
+xiaomi,22071219AI,en,小米, Redmi 11 Prime India
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -1728,6 +1731,7 @@ honor,NTH-NX9,en,荣耀, HONOR 50 5G
 honor,NTN-LX1,en,荣耀, HONOR 50 Lite 5G
 honor,NTN-L22,en,荣耀, HONOR 50 Lite 5G
 honor,NTN-LX3,en,荣耀, HONOR 50 Lite 5G
+honor,FNE-NX9,en,荣耀, HONOR 70 5G
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro 5G
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-NX1,en,荣耀, HONOR Magic4 Lite 5G
@@ -1742,6 +1746,7 @@ honor,ANY-LX1,en,荣耀, HONOR X9
 honor,ANY-LX2,en,荣耀, HONOR X9
 honor,ANY-LX3,en,荣耀, HONOR X9
 honor,ANY-NX1,en,荣耀, HONOR X9 5G
+honor,HEY-W09,en,荣耀, HONOR Pad 8
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
 smartisan,SM801,cn,锤子, Smartisan T2
@@ -4482,6 +4487,8 @@ xiaomi,2203129I,cn,小米, Xiaomi 12 Lite 印度版
 xiaomi,2206123SC,cn,小米, Xiaomi 12S 全网通版
 xiaomi,2206122SC,cn,小米, Xiaomi 12S Pro 全网通版
 xiaomi,2203121C,cn,小米, Xiaomi 12S Ultra 全网通版
+xiaomi,22071212AG,cn,小米, Xiaomi 12T 国际版
+xiaomi,22081212UG,cn,小米, Xiaomi 12T Pro 国际版
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -4675,6 +4682,7 @@ xiaomi,220333QL,cn,小米, Redmi 10C 拉美版
 xiaomi,220233L2C,cn,小米, Redmi 10A 全网通版
 xiaomi,220233L2G,cn,小米, Redmi 10A 国际版
 xiaomi,220233L2I,cn,小米, Redmi 10A 印度版 / Redmi 10A Sport 印度版
+xiaomi,22071219AI,cn,小米, Redmi 11 Prime 印度版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
