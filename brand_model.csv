@@ -3161,6 +3161,26 @@ apple,A2782,en,苹果, iPhone SE (3rd generation) (Japan)
 apple,A2784,en,苹果," iPhone SE (3rd generation) (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
 apple,A2785,en,苹果, iPhone SE (3rd generation) (China mainland)
 apple,A2783,en,苹果, iPhone SE (3rd generation) (Rest of the world)
+apple,A2649,en,苹果, iPhone 14 (United States)
+apple,A2881,en,苹果," iPhone 14 (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2883,en,苹果," iPhone 14 (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2884,en,苹果," iPhone 14 (China mainland, Hong Kong, Macao)"
+apple,A2882,en,苹果, iPhone 14 (Rest of the world)
+apple,A2632,en,苹果, iPhone 14 Plus (United States)
+apple,A2885,en,苹果," iPhone 14 Plus (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2887,en,苹果," iPhone 14 Plus (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2888,en,苹果," iPhone 14 Plus (China mainland, Hong Kong, Macao)"
+apple,A2886,en,苹果, iPhone 14 Plus (Rest of the world)
+apple,A2650,en,苹果, iPhone 14 Pro (United States)
+apple,A2889,en,苹果," iPhone 14 Pro (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2891,en,苹果," iPhone 14 Pro (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2892,en,苹果," iPhone 14 Pro (China mainland, Hong Kong, Macao)"
+apple,A2890,en,苹果, iPhone 14 Pro (Rest of the world)
+apple,A2651,en,苹果, iPhone 14 Pro Max (United States)
+apple,A2893,en,苹果," iPhone 14 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
+apple,A2895,en,苹果," iPhone 14 Pro Max (Armenia, Belarus, Kazakhstan, Kyrgyzstan, Russia)"
+apple,A2896,en,苹果," iPhone 14 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A2894,en,苹果, iPhone 14 Pro Max (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -3304,6 +3324,25 @@ apple,A2475,en,苹果, Apple Watch Series 7 (GPS + Cellular) (41mm case) (North 
 apple,A2476,en,苹果," Apple Watch Series 7 (GPS + Cellular) (41mm case) (Europe, Asia Pacific, and China)"
 apple,A2477,en,苹果, Apple Watch Series 7 (GPS + Cellular) (45mm case) (North America)
 apple,A2478,en,苹果," Apple Watch Series 7 (GPS + Cellular) (45mm case) (Europe, Asia Pacific, and China)"
+apple,A2722,en,苹果, Apple Watch SE (2nd generation) (GPS) (40mm case)
+apple,A2723,en,苹果, Apple Watch SE (2nd generation) (GPS) (44mm case)
+apple,A2726,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (North America)
+apple,A2855,en,苹果," Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (China mainland, Hong Kong, Macao)"
+apple,A2725,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (40mm case) (Rest of the world)
+apple,A2727,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (North America)
+apple,A2856,en,苹果," Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (China mainland, Hong Kong, Macao)"
+apple,A2724,en,苹果, Apple Watch SE (2nd generation) (GPS + Cellular) (44mm case) (Rest of the world)
+apple,A2770,en,苹果, Apple Watch Series 8 (GPS) (41mm case)
+apple,A2771,en,苹果, Apple Watch Series 8 (GPS) (45mm case)
+apple,A2772,en,苹果, Apple Watch Series 8 (GPS + Cellular) (41mm case) (North America)
+apple,A2857,en,苹果," Apple Watch Series 8 (GPS + Cellular) (41mm case) (China mainland, Hong Kong, Macao)"
+apple,A2773,en,苹果, Apple Watch Series 8 (GPS + Cellular) (41mm case) (Rest of the world)
+apple,A2774,en,苹果, Apple Watch Series 8 (GPS + Cellular) (45mm case) (North America)
+apple,A2858,en,苹果," Apple Watch Series 8 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
+apple,A2775,en,苹果, Apple Watch Series 8 (GPS + Cellular) (45mm case) (Rest of the world)
+apple,A2622,en,苹果, Apple Watch Ultra (North America)
+apple,A2859,en,苹果," Apple Watch Ultra (China mainland, Hong Kong, Macao)"
+apple,A2684,en,苹果, Apple Watch Ultra (Rest of the world)
 apple,A1213,en,苹果, iPod touch (1st generation)
 apple,A1288,en,苹果, iPod touch (2nd generation)
 apple,A1319,en,苹果, iPod touch (2nd generation) (China mainland)
@@ -3495,6 +3534,10 @@ apple,A2634,cn,苹果, iPhone 13
 apple,A2639,cn,苹果, iPhone 13 Pro 
 apple,A2644,cn,苹果, iPhone 13 Pro Max 
 apple,A2785,cn,苹果, iPhone SE (第 3 代)
+apple,A2884,cn,苹果, iPhone 14
+apple,A2888,cn,苹果, iPhone 14 Plus
+apple,A2892,cn,苹果, iPhone 14 Pro
+apple,A2896,cn,苹果, iPhone 14 Pro Max
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -3600,6 +3643,15 @@ apple,A2473,cn,苹果, Apple Watch Series 7 (GPS) (41 毫米表壳)
 apple,A2474,cn,苹果, Apple Watch Series 7 (GPS) (45 毫米表壳)
 apple,A2476,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) 
 apple,A2478,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) 
+apple,A2722,cn,苹果, Apple Watch SE (第二代) (GPS) (40 毫米表壳)
+apple,A2723,cn,苹果, Apple Watch SE (第二代) (GPS) (44 毫米表壳)
+apple,A2855,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳)
+apple,A2856,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳)
+apple,A2770,cn,苹果, Apple Watch Series 8 (GPS) (41 毫米表壳)
+apple,A2771,cn,苹果, Apple Watch Series 8 (GPS) (45 毫米表壳)
+apple,A2857,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳)
+apple,A2858,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳)
+apple,A2859,cn,苹果, Apple Watch Ultra
 apple,A1213,cn,苹果, iPod touch
 apple,A1319,cn,苹果, iPod touch (第 2 代) 
 apple,A1318,cn,苹果, iPod touch (第 3 代)
@@ -3714,6 +3766,26 @@ apple,A2782,cn,苹果, iPhone SE (第 3 代) (日本)
 apple,A2784,cn,苹果," iPhone SE (第 3 代) (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
 apple,A2785,cn,苹果, iPhone SE (第 3 代) (中国大陆)
 apple,A2783,cn,苹果, iPhone SE (第 3 代) (其他国家和地区)
+apple,A2649,cn,苹果, iPhone 14 (美国)
+apple,A2881,cn,苹果," iPhone 14 (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2883,cn,苹果," iPhone 14 (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2884,cn,苹果, iPhone 14 (中国大陆 & 港澳)
+apple,A2882,cn,苹果, iPhone 14 (其他国家和地区)
+apple,A2632,cn,苹果, iPhone 14 Plus (美国)
+apple,A2885,cn,苹果," iPhone 14 Plus (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2887,cn,苹果," iPhone 14 Plus (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2888,cn,苹果, iPhone 14 Plus (中国大陆 & 港澳)
+apple,A2886,cn,苹果, iPhone 14 Plus (其他国家和地区)
+apple,A2650,cn,苹果, iPhone 14 Pro (美国)
+apple,A2889,cn,苹果," iPhone 14 Pro (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2891,cn,苹果," iPhone 14 Pro (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2892,cn,苹果, iPhone 14 Pro (中国大陆 & 港澳)
+apple,A2890,cn,苹果, iPhone 14 Pro (其他国家和地区)
+apple,A2651,cn,苹果, iPhone 14 Pro Max (美国)
+apple,A2893,cn,苹果," iPhone 14 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
+apple,A2895,cn,苹果," iPhone 14 Pro Max (亚美尼亚, 白俄罗斯, 哈萨克斯坦, 吉尔吉斯斯坦, 俄罗斯)"
+apple,A2896,cn,苹果, iPhone 14 Pro Max (中国大陆 & 港澳)
+apple,A2894,cn,苹果, iPhone 14 Pro Max (其他国家和地区)
 apple,A1403,cn,苹果, iPad (第 3 代) (无线局域网 + 蜂窝网络) (VZ)
 apple,A1459,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络)
 apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) (中国大陆)
@@ -3787,6 +3859,21 @@ apple,A2475,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表�
 apple,A2476,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (41 毫米表壳) (欧亚, 中国大陆)"
 apple,A2477,cn,苹果, Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
 apple,A2478,cn,苹果," Apple Watch Series 7 (GPS + 蜂窝网络) (45 毫米表壳) (欧亚, 中国大陆)"
+apple,A2726,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (北美)
+apple,A2855,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (中国大陆 & 港澳)
+apple,A2725,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (40 毫米表壳) (其他国家和地区)
+apple,A2727,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (北美)
+apple,A2856,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (中国大陆 & 港澳)
+apple,A2724,cn,苹果, Apple Watch SE (第二代) (GPS + 蜂窝网络) (44 毫米表壳) (其他国家和地区)
+apple,A2772,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳) (北美)
+apple,A2857,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳) (中国大陆 & 港澳)
+apple,A2773,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (41 毫米表壳) (其他国家和地区)
+apple,A2774,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (北美)
+apple,A2858,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
+apple,A2775,cn,苹果, Apple Watch Series 8 (GPS + 蜂窝网络) (45 毫米表壳) (其他国家和地区)
+apple,A2622,cn,苹果, Apple Watch Ultra (北美)
+apple,A2859,cn,苹果, Apple Watch Ultra (中国大陆 & 港澳)
+apple,A2684,cn,苹果, Apple Watch Ultra (其他国家和地区)
 apple,A1288,cn,苹果, iPod touch (第 2 代)
 apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
 letv,X600,cn,乐视, 乐 1 通用版
