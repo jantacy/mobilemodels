@@ -1747,6 +1747,9 @@ honor,ANY-LX2,en,荣耀, HONOR X9
 honor,ANY-LX3,en,荣耀, HONOR X9
 honor,ANY-NX1,en,荣耀, HONOR X9 5G
 honor,HEY-W09,en,荣耀, HONOR Pad 8
+honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
+honor,AGM3-AL09HN,en,荣耀, HONOR Pad X8 LTE
+honor,AGM-W09HN,en,荣耀, HONOR Pad X8 Lite
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
 smartisan,SM801,cn,锤子, Smartisan T2
@@ -2191,6 +2194,7 @@ honor,CHL-AN00,cn,荣耀, 荣耀 X20 SE 5G 全网通版
 honor,ANY-AN00,cn,荣耀, 荣耀 X30 5G 全网通版
 honor,TFY-AN00,cn,荣耀, 荣耀 X30i 5G 全网通版
 honor,KKG-AN70,cn,荣耀, 荣耀 X30 Max 5G 全网通版
+honor,RMO-AN00,cn,荣耀, 荣耀 X40 5G 全网通版
 honor,DIO-AN00,cn,荣耀, 荣耀 X40i 5G 全网通版
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
@@ -2305,6 +2309,7 @@ honor,KOB2-W09HN,cn,荣耀, 荣耀平板 X7 8 英寸 Wi-Fi 版
 honor,KOB2-AL00HN,cn,荣耀, 荣耀平板 X7 8 英寸 全网通版
 honor,AGM-W09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 honor,AGM-AL09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 全网通版
+honor,AGM3-W09HN,cn,荣耀, 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 honor,HEY-W09,cn,荣耀, 荣耀平板 8 12 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
@@ -2398,13 +2403,17 @@ honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 2021 R7
 honor,HYM-W76,cn,荣耀, 荣耀 MagicBook 16 Pro 2021 R7
 honor,HGE-W56,cn,荣耀, 荣耀 MagicBook V 14 i5
 honor,HGE-W76,cn,荣耀, 荣耀 MagicBook V 14 i7
+honor,HGF-W56,cn,荣耀, 荣耀 MagicBook V 14 2022 i5
+honor,HGF-W76,cn,荣耀, 荣耀 MagicBook V 14 2022 i7
 honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
 honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
-honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5
+honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
+honor,FRI-F56,cn,荣耀, 荣耀 MagicBook X 14 2022 i5 (12 代酷睿)
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
 honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
 honor,BDR-WDH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
 honor,BDR-WFH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (16GB+512GB)
+honor,BRN-F56,cn,荣耀, 荣耀 MagicBook X 16 2022 i5
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB)
 honor,FRD-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB)
 honor,FRD-WFD9,cn,荣耀, 荣耀猎人游戏本 V700 i7 (16GB+512GB)
@@ -5267,8 +5276,11 @@ oppo,CPH2217,en,OPPO, OPPO F19 Pro
 oppo,CPH2285,en,OPPO, OPPO F19 Pro
 oppo,CPH2213,en,OPPO, OPPO F19 Pro+ 5G
 oppo,CPH2223,en,OPPO, OPPO F19s
+oppo,CPH2363,en,OPPO, OPPO F21 Pro
 oppo,CPH2341,en,OPPO, OPPO F21 Pro 5G
-oppo,CPH2363,en,OPPO, OPPO F21 Pro 5G
+oppo,CPH2343,en,OPPO, OPPO F21 Pro 5G
+oppo,CPH2461,en,OPPO, OPPO F21s Pro
+oppo,CPH2455,en,OPPO, OPPO F21s Pro 5G
 oppo,CPH1835,en,OPPO, OPPO R15
 oppo,CPH1831,en,OPPO, OPPO R15 Pro
 oppo,CPH1833,en,OPPO, OPPO R15 Pro
