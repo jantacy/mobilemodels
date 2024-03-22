@@ -2,15 +2,14 @@
 ---
 name: Sync with MobileModels
 on:
-  watch:
-    types: [started]
+  workflow_dispatch: # To allow manual runs
   schedule:
     - cron: '43 10 * * *'
 
 jobs:
    Task:
     runs-on: ubuntu-latest
-    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
+#    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
     - name: Checkout repository and submodules
       uses: actions/checkout@v2
