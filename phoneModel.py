@@ -22,7 +22,7 @@ class PhoneModel:
         print("MobileModels latest commit: " + str(self.new_commit))
         os.environ["LATEST_COMMIT"] = self.new_commit
         # 获取所有的品牌名
-        self.brands = [brand for brand in os.listdir(os.path.join(repo_path, 'brands')) if brand.endswith('md')]
+        self.brands = [brand for brand in sorted(os.listdir(os.path.join(repo_path, 'brands'))) if brand.endswith('md')]
 
     def get_model(self, brand):
         """读取原始数据"""
@@ -73,7 +73,8 @@ if __name__ == '__main__':
                  'mitv': '小米电视', 'huawei': '华为', 'oneplus': '一加', 'motorola': '摩托罗拉',
                  'samsung': '三星', 'zte': '中兴', 'letv': '乐视', 'honor': '荣耀', 'lenovo': '联想',
                  '360shouji': '奇酷', 'nubia': '努比亚', 'google': 'Google', 'zhixuan': '华为智选',
-                 'sony': '索尼'}
+                 'sony': '索尼', 'nothing': 'Nothing', 'blackshark': '黑鲨', 'coolpad': '酷派',
+                 'asus': '华硕', 'xiaomi-wear': '小米'}
 
     try:
         with open('sync.log', 'rt') as f:
