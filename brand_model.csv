@@ -1311,6 +1311,7 @@ honor,VNE-AN40,cn,荣耀, 荣耀畅玩 30M 5G
 honor,CMA-AN00,cn,荣耀, 荣耀畅玩 30 Plus 5G
 honor,WDY-AN00,cn,荣耀, 荣耀畅玩 40 5G / 荣耀畅玩 40C 5G / 荣耀畅玩 40S 5G
 honor,RKY-AN00,cn,荣耀, 荣耀畅玩 40 Plus 5G
+honor,JDY-AN00,cn,荣耀, 荣耀畅玩 50 5G / 荣耀畅玩 50m 5G
 honor,CLK-AN00,cn,荣耀, 荣耀畅玩 50 Plus 5G
 honor,S8-701w,cn,荣耀, 荣耀平板 Wi-Fi 版
 honor,S8-701u,cn,荣耀, 荣耀平板 3G 版
@@ -2742,6 +2743,8 @@ huawei,FOA-LX9,en,华为, HUAWEI nova 11
 huawei,GOA-LX9,en,华为, HUAWEI nova 11 Pro
 huawei,MAO-LX9,en,华为, HUAWEI nova 11i
 huawei,MAO-LX9N,en,华为, HUAWEI nova 11i
+huawei,FOA-LX9,en,华为, HUAWEI nova 12s
+huawei,BNE-LX1,en,华为, HUAWEI nova 12 SE
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,EVE-LX9,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 huawei,EVE-LX9N,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
@@ -2749,6 +2752,7 @@ huawei,EVE-LX3,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Pl
 huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX9N,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX3,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
+huawei,MGA-LX3,en,华为, HUAWEI nova Y72
 huawei,CTR-LX1,en,华为, HUAWEI nova Y90
 huawei,CTR-LX2,en,华为, HUAWEI nova Y90
 huawei,CTR-LX3,en,华为, HUAWEI nova Y90
@@ -5826,6 +5830,7 @@ vivo,V2197A,cn,VIVO, iQOO U5e 5G
 vivo,PA2170,cn,VIVO, vivo Pad
 vivo,PA2373,cn,VIVO, vivo Pad2
 vivo,PA2353,cn,VIVO, vivo Pad Air
+vivo,PA2473,cn,VIVO, vivo Pad3 Pro
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
 vivo,V1930,en,VIVO, vivo X50e 5G
