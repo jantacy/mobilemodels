@@ -2928,6 +2928,7 @@ lenovo,TB-J607F,cn,联想, 联想小新 Pad Plus
 lenovo,Lenovo,cn,联想, 联想小新 Pad Plus 5G
 lenovo,TB-J607Z,cn,联想, 联想小新 Pad Plus 5G
 lenovo,TB350FU,cn,联想, 联想小新 Pad Plus 2023
+lenovo,TB372FC,cn,联想, 联想小新 Pad Plus 12.7 舒视版
 lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 2020
 lenovo,TB-J706F,cn,联想, 联想小新 Pad Pro 2020
 lenovo,Lenovo,cn,联想, 联想小新 Pad Pro 2021
@@ -4103,6 +4104,7 @@ oneplus,CPH2409,cn,一加, OnePlus Nord CE 2 Lite 欧洲版/国际版
 oneplus,CPH2569,cn,一加, OnePlus Nord CE 3 印度版
 oneplus,CPH2465,cn,一加, OnePlus Nord CE 3 Lite 国际版
 oneplus,CPH2467,cn,一加, OnePlus Nord CE 3 Lite 印度版
+oneplus,CPH2613,cn,一加, OnePlus Nord CE4 印度版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
 oneplus,BE2029,cn,一加, OnePlus Nord N10 欧洲版/国际版
@@ -4246,6 +4248,7 @@ oneplus,CPH2409,en,一加, OnePlus Nord CE 2 Lite EU / Global
 oneplus,CPH2569,en,一加, OnePlus Nord CE 3 India
 oneplus,CPH2465,en,一加, OnePlus Nord CE 3 Lite Global
 oneplus,CPH2467,en,一加, OnePlus Nord CE 3 Lite India
+oneplus,CPH2613,en,一加, OnePlus Nord CE4 India
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 EU / Global
@@ -4410,6 +4413,7 @@ oppo,PJB110,cn,OPPO, OPPO A2
 oppo,PJU110,cn,OPPO, OPPO A2m
 oppo,PJS110,cn,OPPO, OPPO A2x
 oppo,PJG110,cn,OPPO, OPPO A2 Pro
+oppo,PJY110,cn,OPPO, OPPO A3 Pro
 oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
@@ -5889,9 +5893,11 @@ vivo,V2317,en,VIVO, vivo V29e 5G
 vivo,V2244,en,VIVO, vivo V29 Lite 5G
 vivo,V2318,en,VIVO, vivo V30
 vivo,V2319,en,VIVO, vivo Y30 Pro
+vivo,V2339,en,VIVO, vivo V30e
 vivo,V2342,en,VIVO, vivo V30 Lite
 vivo,V2314,en,VIVO, vivo V30 Lite 5G
 vivo,V2327,en,VIVO, vivo V30 Lite 5G
+vivo,V2327,en,VIVO, vivo V30 SE
 vivo,V2349,en,VIVO, vivo V30 SE
 vivo,V2337,en,VIVO, vivo V40 SE 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
@@ -5986,7 +5992,6 @@ vivo,V2169,en,VIVO, vivo Y77 5G
 vivo,V2244,en,VIVO, vivo Y78 5G
 vivo,V2222,en,VIVO, vivo Y100A 5G
 vivo,V2307,en,VIVO, vivo Y200 5G
-vivo,V2303,en,VIVO, vivo Y200 Pro 5G
 vivo,V2327,en,VIVO, vivo Y200e 5G
 vivo,V2336,en,VIVO, vivo Y200e 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
