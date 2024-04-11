@@ -2212,6 +2212,8 @@ huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro 2022 i7
 huawei,MRGF-16,cn,华为, HUAWEI MateBook X Pro 2022 12 代酷睿版
 huawei,MRGFG-16,cn,华为, HUAWEI MateBook X Pro 2023 (16GB 内存)
 huawei,MRGFG-32,cn,华为, HUAWEI MateBook X Pro 2023 (32GB 内存)
+huawei,VGHH-16,cn,华为, HUAWEI MateBook X Pro 2024 (16GB 内存)
+huawei,VGHH-32,cn,华为, HUAWEI MateBook X Pro 2024 (32GB 内存)
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
 huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
 huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
@@ -3669,6 +3671,7 @@ mitv,L86R6-MAX,cn,小米电视, Redmi 智能电视 MAX 86 英寸
 mitv,L90R9-MAX,cn,小米电视, Redmi 智能电视 MAX 90 英寸
 mitv,L98M6-RK,cn,小米电视, Redmi 智能电视 MAX 98 英寸
 mitv,L100R8-MAX,cn,小米电视, Redmi 智能电视 MAX 100 英寸
+mitv,L100RA-MAX,cn,小米电视, Redmi 智能电视 MAX 100 2025 款
 mitv,MDZ-18-DA,cn,小米电视, 小米电视主机
 mitv,MDZ-19-DA,cn,小米电视, 小米家庭影院
 mitv,MDZ-05-AA,cn,小米电视, 小米盒子
@@ -6673,6 +6676,8 @@ xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
 xiaomi,23073RPBFG,cn,小米, Redmi Pad SE 国际版
 xiaomi,23073RPBFL,cn,小米, Redmi Pad SE 拉美版
+xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro 国行版
+xiaomi,2405CRPFDG,cn,小米, Redmi Pad Pro 国际版
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -7408,6 +7413,8 @@ xiaomi,22081283C,en,小米, Redmi Pad China
 xiaomi,23073RPBFG,en,小米, Redmi Pad SE Global
 xiaomi,23073RPBFC,en,小米, Redmi Pad SE China
 xiaomi,23073RPBFL,en,小米, Redmi Pad SE Latin America
+xiaomi,2405CRPFDG,en,小米, Redmi Pad Pro Global
+xiaomi,2405CRPFDC,en,小米, Redmi Pad Pro China
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
 xiaomi,21051191C,en,小米, Xiaomi CyberDog Bio-inspired Quadruped Robot
 zhixuan,VP001,cn,华为智选, 优畅享 20 Plus 5G
