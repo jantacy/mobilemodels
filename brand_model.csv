@@ -4419,8 +4419,8 @@ oppo,PFTM10,cn,OPPO, OPPO A97
 oppo,PHS110,cn,OPPO, OPPO A1 (2023)
 oppo,PHQ110,cn,OPPO, OPPO A1 Pro
 oppo,PHJ110,cn,OPPO, OPPO A1x / OPPO A1 活力版
-oppo,PJB110,cn,OPPO, OPPO A2
-oppo,PJU110,cn,OPPO, OPPO A2m
+oppo,PJB110,cn,OPPO, OPPO A1s / OPPO A2
+oppo,PJU110,cn,OPPO, OPPO A1i / OPPO A2m
 oppo,PJS110,cn,OPPO, OPPO A2x
 oppo,PJG110,cn,OPPO, OPPO A2 Pro
 oppo,PJY110,cn,OPPO, OPPO A3 Pro
@@ -5763,6 +5763,7 @@ vivo,V2313A,cn,VIVO, vivo Y100 5G
 vivo,V2314DA,cn,VIVO, vivo Y100t 5G
 vivo,V2279A,cn,VIVO, vivo Y100i 5G
 vivo,V2312BA,cn,VIVO, vivo Y100i 长续航版 5G
+vivo,V2354A,cn,VIVO, vivo Y200i 5G
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
 vivo,V2188A,cn,VIVO, vivo T2x
@@ -5845,6 +5846,9 @@ vivo,V2272A,cn,VIVO, iQOO Z7x
 vivo,V2230EA,cn,VIVO, iQOO Z7i
 vivo,V2314A,cn,VIVO, iQOO Z8
 vivo,V2312A,cn,VIVO, iQOO Z8x
+vivo,V2361A,cn,VIVO, iQOO Z9
+vivo,V2352A,cn,VIVO, iQOO Z9 Turbo
+vivo,V2353A,cn,VIVO, iQOO Z9x
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
 vivo,V2061A,cn,VIVO, iQOO U3 5G
@@ -6603,6 +6607,7 @@ xiaomi,2312DRA50I,cn,小米, Redmi Note 13 Pro 5G 印度版
 xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+ 国行版
 xiaomi,23090RA98G,cn,小米, Redmi Note 13 Pro+ 5G 国际版
 xiaomi,23090RA98I,cn,小米, Redmi Note 13 Pro+ 5G 印度版
+xiaomi,24040RA98R,cn,小米, Redmi Note 13 Pro+ 5G 日本版
 xiaomi,2311FRAFDC,cn,小米, Redmi Note 13R Pro
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
@@ -7252,6 +7257,7 @@ xiaomi,2312CRAD3C,en,小米, Redmi Note 13 Pro 5G China
 xiaomi,23090RA98G,en,小米, Redmi Note 13 Pro+ 5G Global
 xiaomi,23090RA98I,en,小米, Redmi Note 13 Pro+ 5G India
 xiaomi,23090RA98C,en,小米, Redmi Note 13 Pro+ 5G China
+xiaomi,24040RA98R,en,小米, Redmi Note 13 Pro+ 5G Japan
 xiaomi,2311FRAFDC,en,小米, Redmi Note 13R Pro China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
