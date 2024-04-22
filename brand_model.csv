@@ -5136,6 +5136,7 @@ samsung,SM-C7100,cn,三星, Galaxy C8 全网通版
 samsung,SM-C7108,cn,三星, Galaxy C8 4G+
 samsung,SM-C9000,cn,三星, Galaxy C9 Pro 全网通版
 samsung,SM-C9008,cn,三星, Galaxy C9 Pro 4G+
+samsung,SM-C5560,cn,三星, Galaxy C55 5G
 samsung,SM-J3109,cn,三星, Galaxy J3 电信定制版
 samsung,SM-J5008,cn,三星, Galaxy J5 移动定制版
 samsung,SM-J7008,cn,三星, Galaxy J7 移动定制版
@@ -6466,11 +6467,13 @@ xiaomi,22120RN86G,cn,小米, Redmi 12C 国际版
 xiaomi,22120RN86H,cn,小米, Redmi 12C 印度版
 xiaomi,22120RN86I,cn,小米, Redmi 12C 印度版
 xiaomi,2212ARNC4L,cn,小米, Redmi 12C 拉美版
+xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
 xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
 xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版
 xiaomi,24040RN64Y,cn,小米, Redmi 13 国际版 (NFC)
-xiaomi,22126RN91Y,cn,小米, Redmi 12C 国际版 (NFC)
+xiaomi,2406ERN9CC,cn,小米, Redmi 13 5G 国行版
+xiaomi,2406ERN9CI,cn,小米, Redmi 13 5G 印度版
 xiaomi,23106RN0DA,cn,小米, Redmi 13C 国际版
 xiaomi,2311DRN14I,cn,小米, Redmi 13C 印度版
 xiaomi,23100RN82L,cn,小米, Redmi 13C 拉美版
@@ -6719,7 +6722,6 @@ xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro 国行版
 xiaomi,2405CRPFDG,cn,小米, Redmi Pad Pro 国际版
 xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G 国行版
 xiaomi,24074RPD2G,cn,小米, Redmi Pad Pro 5G 国际版
-xiaomi,2405CPCFBG,cn,小米, POCO Pad 国际版
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -6792,6 +6794,7 @@ xiaomi,22127PC95I,cn,小米, POCO C55 印度版
 xiaomi,2312BPC51H,cn,小米, POCO C61 印度版
 xiaomi,2310FPCA4G,cn,小米, POCO C65 国际版
 xiaomi,2310FPCA4I,cn,小米, POCO C65 印度版
+xiaomi,2405CPCFBG,cn,小米, POCO Pad 国际版
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
 xiaomi,21051191C,cn,小米, CyberDog 仿生四足机器人
 xiaomi,MI-ONE,en,小米, Mi 1 Lite
@@ -7137,6 +7140,8 @@ xiaomi,2404ARN45A,en,小米, Redmi 13 Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
 xiaomi,24049RN28L,en,小米, Redmi 13 Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
+xiaomi,2406ERN9CC,en,小米, Redmi 13 5G China
+xiaomi,2406ERN9CI,en,小米, Redmi 13 5G India
 xiaomi,23106RN0DA,en,小米, Redmi 13C Global
 xiaomi,2311DRN14I,en,小米, Redmi 13C India
 xiaomi,23100RN82L,en,小米, Redmi 13C Latin America
@@ -7504,6 +7509,7 @@ zhixuan,ALH-BD00,cn,华为智选, Hi nova 10 5G
 zhixuan,MGZ-BD00,cn,华为智选, Hi nova 10 Pro 5G
 zhixuan,MRK-BD00,cn,华为智选, Hi nova 10 SE 5G
 zhixuan,MIZ-BD00,cn,华为智选, Hi nova 11 5G
+zhixuan,SUP-BD00,cn,华为智选, Hi nova 12 SE 5G
 zhixuan,F810,cn,华为智选, 雷鸟 FF1 5G
 zhixuan,NAT-TN70,cn,华为智选, TD Tech N8 Pro
 zhixuan,TDT-MA01,cn,华为智选, TD Tech M40
