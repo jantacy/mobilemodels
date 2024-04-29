@@ -4856,6 +4856,7 @@ realme,RMX3785,en,真我, realme 11x 5G
 realme,RMX3771,en,真我, realme 11 Pro 5G
 realme,RMX3741,en,真我, realme 11 Pro+ 5G
 realme,RMX3999,en,真我, realme 12 5G
+realme,RMX3998,en,真我, realme 12x 5G
 realme,RMX3867,en,真我, realme 12+ 5G
 realme,RMX3842,en,真我, realme 12 Pro 5G
 realme,RMX3840,en,真我, realme 12 Pro+ 5G
@@ -4933,9 +4934,12 @@ realme,RMX3511,en,真我, realme C35
 realme,RMX3512,en,真我, realme C35
 realme,RMX3513,en,真我, realme C35
 realme,RMX3830,en,真我, realme C51
+realme,RMX3765,en,真我, realme C51s
 realme,RMX3760,en,真我, realme C53 Global
 realme,RMX3762,en,真我, realme C53 India
 realme,RMX3710,en,真我, realme C55
+realme,RMX3910,en,真我, realme C65
+realme,RMX3997,en,真我, realme C65 5G
 realme,RMX3890,en,真我, realme C67
 realme,RMX3782,en,真我, realme C67 5G
 realme,RMX3834,en,真我, realme Note 50
@@ -4971,7 +4975,9 @@ realme,RMX3710,en,真我, realme Narzo N55
 realme,RMX3750,en,真我, realme Narzo 60 5G
 realme,RMX3771,en,真我, realme Narzo 60 Pro 5G
 realme,RMX3782,en,真我, realme Narzo 60x 5G
+realme,RMX3869,en,真我, realme NARZO 70 5G
 realme,RMX3868,en,真我, realme NARZO 70 Pro 5G
+realme,RMX3998,en,真我, realme NARZO 70x 5G
 realme,RMP2102,en,真我, realme Pad LTE
 realme,RMP2103,en,真我, realme Pad Wi-Fi
 realme,RMP2105,en,真我, realme Pad mini LTE
