@@ -3662,6 +3662,8 @@ mitv,L55RA-RA,cn,小米电视, Redmi 智能电视 A55 2024 款
 mitv,L65RA-RA,cn,小米电视, Redmi 智能电视 A65 2024 款
 mitv,L70RA-RA,cn,小米电视, Redmi 智能电视 A70 2024 款
 mitv,L75MA-RA,cn,小米电视, Redmi 智能电视 A75 2024 款
+mitv,L32RA-RA,cn,小米电视, Redmi 智能电视 A32 2025 款
+mitv,L43RA-RA,cn,小米电视, Redmi 智能电视 A43 2025 款
 mitv,L50RB-RA,cn,小米电视, Redmi 智能电视 A50 2025 款
 mitv,L55RB-RA,cn,小米电视, Redmi 智能电视 A55 2025 款
 mitv,L65RB-RA,cn,小米电视, Redmi 智能电视 A65 2025 款
@@ -5480,7 +5482,7 @@ samsung,SM-N9750,en,三星, Galaxy Note 10+ HK & TW
 samsung,SM-N975C,en,三星, Galaxy Note 10+ Japan (Rakuten Mobile)
 samsung,SCV45,en,三星, Galaxy Note 10+ Japan (au)
 samsung,SC-01M,en,三星, Galaxy Note 10+ Japan (NTT Docomo)
-samsung,SM-N976B,en,三星, Galaxy Note10+ 5G Global
+samsung,SM-N976B,en,三星, Galaxy Note10+ 5G Global (Exynos)
 samsung,SM-N976N,en,三星, Galaxy Note10+ 5G South Korea
 samsung,SM-N976Q,en,三星, Galaxy Note10+ 5G Global (Snapdragon)
 samsung,SM-N976V,en,三星, Galaxy Note10+ 5G Verizon
@@ -5576,9 +5578,406 @@ samsung,SM-F731N,en,三星, Galaxy Z Flip5 South Korea
 samsung,SM-F731Q,en,三星, Galaxy Z Flip5 Japan (SIM Free)
 samsung,SCG23,en,三星, Galaxy Z Flip5 Japan (au)
 samsung,SC-54D,en,三星, Galaxy Z Flip5 Japan (NTT Docomo)
+samsung,SM-A015F,en,三星, Galaxy A01 Global
+samsung,SM-A015U,en,三星, Galaxy A01 US Carrier
+samsung,SM-A015U1,en,三星, Galaxy A01 US Unlocked
+samsung,SM-A015A,en,三星, Galaxy A01 AT&T
+samsung,SM-A015AZ,en,三星, Galaxy A01 Cricket
+samsung,SM-A015T1,en,三星, Galaxy A01 T-Mobile
+samsung,SM-A015V,en,三星, Galaxy A01 Verizon
+samsung,SM-S111DL,en,三星, Galaxy A01 TracFone
+samsung,SM-A015G,en,三星, Galaxy A01 India
+samsung,SM-A015M,en,三星, Galaxy A01 Latin America
+samsung,SM-A013F,en,三星, Galaxy A01 Core Global
+samsung,SM-A013G,en,三星, Galaxy A01 Core Global
+samsung,SM-A013M,en,三星, Galaxy A01 Core Latin America
+samsung,SM-A022F,en,三星, Galaxy A02 Global
+samsung,SM-A022G,en,三星, Galaxy A02 Global
+samsung,SM-A022M,en,三星, Galaxy A02 Latin America
+samsung,SM-A025F,en,三星, Galaxy A02s Global
+samsung,SM-A025G,en,三星, Galaxy A02s EU
+samsung,SM-A025U,en,三星, Galaxy A02s US Carrier
+samsung,SM-A025U1,en,三星, Galaxy A02s US Unlocked
+samsung,SM-A025A,en,三星, Galaxy A02s AT&T
+samsung,SM-A025AZ,en,三星, Galaxy A02s Cricket
+samsung,SM-A025V,en,三星, Galaxy A02s Verizon
+samsung,SM-S124DL,en,三星, Galaxy A02s TracFone
+samsung,SM-A025M,en,三星, Galaxy A02s Latin America
+samsung,SM-A035F,en,三星, Galaxy A03 Global
+samsung,SM-A035G,en,三星, Galaxy A03 EU
+samsung,SM-A035M,en,三星, Galaxy A03 Latin America
+samsung,SM-A032F,en,三星, Galaxy A03 Core Global
+samsung,SM-A032M,en,三星, Galaxy A03 Core Latin America
+samsung,SM-A037F,en,三星, Galaxy A03s Global
+samsung,SM-A037G,en,三星, Galaxy A03s EU
+samsung,SM-A037M,en,三星, Galaxy A03s Latin America
+samsung,SM-A037U,en,三星, Galaxy A03s US Carrier
+samsung,SM-A037U1,en,三星, Galaxy A03s US Unlocked
+samsung,SM-S134DL,en,三星, Galaxy A03s TracFone
+samsung,SM-A037W,en,三星, Galaxy A03s Canada
+samsung,SM-A045F,en,三星, Galaxy A04 Global
+samsung,SM-A045M,en,三星, Galaxy A04 Latin America
+samsung,SM-A042F,en,三星, Galaxy A04e Global
+samsung,SM-A042M,en,三星, Galaxy A04e Latin America
+samsung,SM-A047F,en,三星, Galaxy A04s Global
+samsung,SM-A047M,en,三星, Galaxy A04s Latin America
+samsung,SM-A055F,en,三星, Galaxy A05 Global
+samsung,SM-A055M,en,三星, Galaxy A05 Latin America
+samsung,SM-A057F,en,三星, Galaxy A05s Global
+samsung,SM-A057G,en,三星, Galaxy A05s EU
+samsung,SM-A057M,en,三星, Galaxy A05s Latin America
+samsung,SM-A105F,en,三星, Galaxy A10 Global
+samsung,SM-A015FN,en,三星, Galaxy A10 Global
+samsung,SM-A015G,en,三星, Galaxy A10 Global
+samsung,SM-A105M,en,三星, Galaxy A10 Latin America
+samsung,SM-A105N,en,三星, Galaxy A10 South Korea
+samsung,SM-A102U,en,三星, Galaxy A10e US Carrier
+samsung,SM-A102U1,en,三星, Galaxy A10e US Unlocked
+samsung,SM-S102DL,en,三星, Galaxy A10e TracFone
+samsung,SM-A102W,en,三星, Galaxy A10e Canada
+samsung,SM-A102N,en,三星, Galaxy A10e South Korea
+samsung,SM-A107F,en,三星, Galaxy A10s Global
+samsung,SM-A107M,en,三星, Galaxy A10s Latin America
+samsung,SM-A115F,en,三星, Galaxy A11 Global
+samsung,SM-A115U,en,三星, Galaxy A11 US Carrier
+samsung,SM-A115U1,en,三星, Galaxy A11 US Unlocked
+samsung,SM-A115A,en,三星, Galaxy A11 AT&T
+samsung,SM-A115AP,en,三星, Galaxy A11 AT&T
+samsung,SM-A115AZ,en,三星, Galaxy A11 Cricket
+samsung,SM-S115DL,en,三星, Galaxy A11 TracFone
+samsung,SM-A115W,en,三星, Galaxy A11 Canada
+samsung,SM-A115M,en,三星, Galaxy A11 Latin America
 samsung,SM-A125F,en,三星, Galaxy A12 Global
+samsung,SM-A125M,en,三星, Galaxy A12 Latin America
+samsung,SM-A125N,en,三星, Galaxy A12 South Korea
+samsung,SM-A125U,en,三星, Galaxy A12 US Carrier
+samsung,SM-A125U1,en,三星, Galaxy A12 US Unlocked
+samsung,SM-S127DL,en,三星, Galaxy A12 TracFone
+samsung,SM-A125W,en,三星, Galaxy A12 Canada
+samsung,SM-A127F,en,三星, Galaxy A12 Nacho Global
+samsung,SM-A127M,en,三星, Galaxy A12 Nacho Latin America
+samsung,SM-A135F,en,三星, Galaxy A13 Global (Exynos)
+samsung,SM-A135U,en,三星, Galaxy A13 US Carrier
+samsung,SM-A135U1,en,三星, Galaxy A13 US Unlocked
+samsung,SM-A135M,en,三星, Galaxy A13 Latin America
+samsung,SM-A135N,en,三星, Galaxy A13 South Korea
+samsung,SM-A137F,en,三星, Galaxy A13 Global (Mediatek)
+samsung,SM-A136B,en,三星, Galaxy A13 5G Global
+samsung,SM-A136U,en,三星, Galaxy A13 5G US Carrier
+samsung,SM-A136U1,en,三星, Galaxy A13 5G US Unlocked
+samsung,SM-S136DL,en,三星, Galaxy A13 5G TracFone
+samsung,SM-A136W,en,三星, Galaxy A13 5G Canada
+samsung,SM-A136M,en,三星, Galaxy A13 5G Latin America
+samsung,SM-A145F,en,三星, Galaxy A14 Global (Exynos)
+samsung,SM-A145FB,en,三星, Galaxy A14 Global (Exynos)
+samsung,SM-A145M,en,三星, Galaxy A14 Latin America
+samsung,SM-A145MB,en,三星, Galaxy A14 Latin America
+samsung,SM-A145P,en,三星, Galaxy A14 MEA (Mediatek)
+samsung,SM-A145R,en,三星, Galaxy A14 EU (Mediatek)
+samsung,SM-A146B,en,三星, Galaxy A14 5G Global (Exynos)
+samsung,SM-A146M,en,三星, Galaxy A14 5G Latin America
+samsung,SM-A146P,en,三星, Galaxy A14 5G Global (Mediatek)
+samsung,SM-A146U,en,三星, Galaxy A14 5G US Carrier
+samsung,SM-A146U1,en,三星, Galaxy A14 5G US Unlocked
+samsung,SM-S146VL,en,三星, Galaxy A14 5G TracFone
+samsung,SM-A146W,en,三星, Galaxy A14 5G Canada
+samsung,SM-A155F,en,三星, Galaxy A15 Global
+samsung,SM-A155M,en,三星, Galaxy A15 Latin America
+samsung,SM-A155N,en,三星, Galaxy A15 South Korea
+samsung,SM-A156E,en,三星, Galaxy A15 5G Global
+samsung,SM-A156B,en,三星, Galaxy A15 5G EU
+samsung,SM-A156U,en,三星, Galaxy A15 5G US Carrier
+samsung,SM-A156U1,en,三星, Galaxy A15 5G US Unlocked
+samsung,SM-S156V,en,三星, Galaxy A15 5G TracFone
+samsung,SM-A156W,en,三星, Galaxy A15 5G Canada
+samsung,SM-A156M,en,三星, Galaxy A15 5G Latin America
+samsung,SM-A1560,en,三星, Galaxy A15 5G TW
+samsung,SM-A260F,en,三星, Galaxy A2 Core Global
+samsung,SM-A260G,en,三星, Galaxy A2 Core India
+samsung,SM-A205F,en,三星, Galaxy A20 Global
+samsung,SM-A205FN,en,三星, Galaxy A20 EU
+samsung,SM-A205G,en,三星, Galaxy A20 Latin America
+samsung,SM-A205GN,en,三星, Galaxy A20 Southeast Asia
+samsung,SM-A205W,en,三星, Galaxy A20 Canada
+samsung,SM-A205YN,en,三星, Galaxy A20 Australia & New Zealand
+samsung,SCV46,en,三星, Galaxy A20 Japan (au)
+samsung,SC-02M,en,三星, Galaxy A20 Japan (NTT Docomo)
+samsung,SM-A205U,en,三星, Galaxy A20 US Carrier
+samsung,SM-A205U1,en,三星, Galaxy A20 US Unlocked
+samsung,SM-S205DL,en,三星, Galaxy A20 TracFone
+samsung,SM-A202F,en,三星, Galaxy A20e Global
+samsung,SM-A207F,en,三星, Galaxy A20s Global
+samsung,SM-A207W,en,三星, Galaxy A20s Latin America
+samsung,SM-A2070,en,三星, Galaxy A20s China
+samsung,SM-A215U,en,三星, Galaxy A21 US Carrier
+samsung,SM-A215U1,en,三星, Galaxy A21 US Unlocked
+samsung,SM-S215DL,en,三星, Galaxy A21 TracFone
+samsung,SM-A215W,en,三星, Galaxy A21 Canada
+samsung,SCV49,en,三星, Galaxy A21 Japan (au)
+samsung,SC-42A,en,三星, Galaxy A21 Japan (NTT Docomo)
+samsung,SM-A217F,en,三星, Galaxy A21s Global
+samsung,SM-A217M,en,三星, Galaxy A21s Latin America
+samsung,SM-A217N,en,三星, Galaxy A21s South Korea
+samsung,SM-A225F,en,三星, Galaxy A22 Global
+samsung,SM-A225M,en,三星, Galaxy A22 Latin America
+samsung,SM-A226B,en,三星, Galaxy A22 5G Global
+samsung,SM-A226BR,en,三星, Galaxy A22 5G Global
+samsung,SC-56B,en,三星, Galaxy A22 5G Japan (NTT DOcomo)
+samsung,SM-A226B,en,三星, Galaxy A22s 5G Global
+samsung,SM-A235F,en,三星, Galaxy A23 Global
+samsung,SM-A235M,en,三星, Galaxy A23 Latin America
+samsung,SM-A235N,en,三星, Galaxy A23 South Korea
+samsung,SM-A235E,en,三星, Galaxy A23 5G Global
+samsung,SM-A236B,en,三星, Galaxy A23 5G EU
+samsung,SM-A236U,en,三星, Galaxy A23 5G US Carrier
+samsung,SM-A236U1,en,三星, Galaxy A23 5G US Unlocked
+samsung,SM-A236V,en,三星, Galaxy A23 5G UW Verizon
+samsung,SM-S236DL,en,三星, Galaxy A23 5G TracFone
+samsung,SM-S237VL,en,三星, Galaxy A23 5G TracFone
+samsung,SM-A236M,en,三星, Galaxy A23 5G Latin America
+samsung,SM-A2360,en,三星, Galaxy A23 5G HK
+samsung,SCG18,en,三星, Galaxy A23 5G Japan (au)
+samsung,SC-56C,en,三星, Galaxy A23 5G Japan (NTT Docomo)
+samsung,SM-A233C,en,三星, Galaxy A23 5G Japan (Rakuten Mobile)
+samsung,SM-A245F,en,三星, Galaxy A24 Global
+samsung,SM-A245M,en,三星, Galaxy A24 Latin America
+samsung,SM-A245N,en,三星, Galaxy A24 South Korea
+samsung,SM-A256E,en,三星, Galaxy A25 5G Global
+samsung,SM-A256B,en,三星, Galaxy A25 5G EU
+samsung,SM-A256U,en,三星, Galaxy A25 5G US Carrier
+samsung,SM-A256U1,en,三星, Galaxy A25 5G US Unlocked
+samsung,SM-S256VL,en,三星, Galaxy A25 5G TracFone
+samsung,SM-A2560,en,三星, Galaxy A25 5G HK
+samsung,SM-A256N,en,三星, Galaxy A25 5G South Korea
+samsung,SM-A305F,en,三星, Galaxy A30 Global
+samsung,SM-A305FN,en,三星, Galaxy A30 EU
+samsung,SM-A305G,en,三星, Galaxy A30 Latin America
+samsung,SM-A305GN,en,三星, Galaxy A30 Southeast Asia
+samsung,SM-A305GT,en,三星, Galaxy A30 Brazil
+samsung,SM-A305N,en,三星, Galaxy A30 South Korea
+samsung,SM-A305YN,en,三星, Galaxy A30 Australia & New Zealand
+samsung,SCV43,en,三星, Galaxy A30 Japan (au)
+samsung,SM-A307FN,en,三星, Galaxy A30s Global
+samsung,SM-A307G,en,三星, Galaxy A30s Latin America
+samsung,SM-A307GN,en,三星, Galaxy A30s Southeast Asia
+samsung,SM-A307GT,en,三星, Galaxy A30s Brazil
+samsung,SM-A315F,en,三星, Galaxy A31 Global
+samsung,SM-A315G,en,三星, Galaxy A31 Global
+samsung,SM-A315N,en,三星, Galaxy A31 South Korea
+samsung,SM-A325F,en,三星, Galaxy A32 Global
+samsung,SM-A325M,en,三星, Galaxy A32 Latin America
+samsung,SM-A325N,en,三星, Galaxy A32 South Korea
+samsung,SM-A326B,en,三星, Galaxy A32 5G Global
+samsung,SM-A326BR,en,三星, Galaxy A32 5G Global
+samsung,SM-A326U,en,三星, Galaxy A32 5G US Carrier
+samsung,SM-A326U1,en,三星, Galaxy A32 5G US Unlocked
+samsung,SM-S326DL,en,三星, Galaxy A32 5G TracFone
+samsung,SM-A326W,en,三星, Galaxy A32 5G Canada
+samsung,SCG08,en,三星, Galaxy A32 5G Japan (au)
+samsung,SM-A336E,en,三星, Galaxy A33 5G Global
+samsung,SM-A336B,en,三星, Galaxy A33 5G EU
+samsung,SM-A336M,en,三星, Galaxy A33 5G Latin America
+samsung,SM-A3360,en,三星, Galaxy A33 5G HK
+samsung,SM-A336N,en,三星, Galaxy A33 5G South Korea
+samsung,SM-A346E,en,三星, Galaxy A34 5G Global
+samsung,SM-A346B,en,三星, Galaxy A34 5G EU
+samsung,SM-A346M,en,三星, Galaxy A34 5G Latin America
+samsung,SM-A3460,en,三星, Galaxy A34 5G HK & TW
+samsung,SM-A346N,en,三星, Galaxy A34 5G South Korea
+samsung,SM-A356E,en,三星, Galaxy A35 5G Global
+samsung,SM-A356B,en,三星, Galaxy A35 5G EU
+samsung,SM-A356U,en,三星, Galaxy A35 5G US Carrier
+samsung,SM-A356U1,en,三星, Galaxy A35 5G US Unlocked
+samsung,SM-S356V,en,三星, Galaxy A35 5G TracFone
+samsung,SM-A356W,en,三星, Galaxy A35 5G Canada
+samsung,SM-A3560,en,三星, Galaxy A35 5G HK & TW
+samsung,SM-A356N,en,三星, Galaxy A35 5G South Korea
+samsung,SM-A405FN,en,三星, Galaxy A40 Global
+samsung,SM-A405FM,en,三星, Galaxy A40 Russia
+samsung,SM-A405S,en,三星, Galaxy A40 South Korea (SK Telecom)
+samsung,SM-A3050,en,三星, Galaxy A40s China mainland
+samsung,SM-A3058,en,三星, Galaxy A40s China Mobile
+samsung,SM-A3051,en,三星, Galaxy A40s TW
+samsung,SM-A415F,en,三星, Galaxy A41 Global
+samsung,SCV48,en,三星, Galaxy A41 Japan (au)
+samsung,SC-41A,en,三星, Galaxy A41 Japan (NTT Docomo)
+samsung,SM-A426B,en,三星, Galaxy A42 5G Global
+samsung,SM-A4260,en,三星, Galaxy A42 5G HK
+samsung,SM-A426N,en,三星, Galaxy A42 5G South Korea
+samsung,SM-A426U,en,三星, Galaxy A42 5G US Carrier
+samsung,SM-A426U1,en,三星, Galaxy A42 5G US Unlocked
+samsung,SM-S426DL,en,三星, Galaxy A42 5G TracFone
+samsung,SM-A505F,en,三星, Galaxy A50 Global
+samsung,SM-A505FN,en,三星, Galaxy A50 EU
+samsung,SM-A505FM,en,三星, Galaxy A50 Russia
+samsung,SM-A505G,en,三星, Galaxy A50 Latin America
+samsung,SM-A505GN,en,三星, Galaxy A50 Southeast Asia
+samsung,SM-A505GT,en,三星, Galaxy A50 Brazil
+samsung,SM-A505U,en,三星, Galaxy A50 US Carrier
+samsung,SM-A505U1,en,三星, Galaxy A50 US Unlocked
+samsung,SM-S506DL,en,三星, Galaxy A50 TracFone
+samsung,SM-A505W,en,三星, Galaxy A50 Canada
+samsung,SM-A505N,en,三星, Galaxy A50 South Korea
+samsung,SM-A505YN,en,三星, Galaxy A50 Australia & New Zealand
+samsung,SM-A507FN,en,三星, Galaxy A50s Global
+samsung,SM-A5070,en,三星, Galaxy A50s China
+samsung,SM-A515F,en,三星, Galaxy A51 Global
+samsung,SM-A515X,en,三星, Galaxy A51 Global
+samsung,SM-A515U,en,三星, Galaxy A51 US Carrier
+samsung,SM-A515U1,en,三星, Galaxy A51 US Unlocked
+samsung,SM-S515DL,en,三星, Galaxy A51 TracFone
+samsung,SM-A515W,en,三星, Galaxy A51 Canada
+samsung,SM-A516B,en,三星, Galaxy A51 5G Global
+samsung,SM-A516U,en,三星, Galaxy A51 5G US Carrier
+samsung,SM-A516U1,en,三星, Galaxy A51 5G US Unlocked
+samsung,SM-A5160,en,三星, Galaxy A51 5G China
+samsung,SM-A516N,en,三星, Galaxy A51 5G South Korea
+samsung,SM-A516V,en,三星, Galaxy A51 5G UW Verizon
+samsung,SM-A525F,en,三星, Galaxy A52 Global
+samsung,SM-A525M,en,三星, Galaxy A52 Latin America
+samsung,SM-A526B,en,三星, Galaxy A52 5G Global
+samsung,SM-A526U,en,三星, Galaxy A52 5G US Carrier
+samsung,SM-A526U1,en,三星, Galaxy A52 5G US Unlocked
+samsung,SM-A526W,en,三星, Galaxy A52 5G Canada
+samsung,SM-A5260,en,三星, Galaxy A52 5G China
+samsung,SM-A526N,en,三星, Galaxy A52 5G South Korea
+samsung,SC-53B,en,三星, Galaxy A52 5G Japan (NTT Docomo)
+samsung,SM-A528B,en,三星, Galaxy A52s 5G Global
+samsung,SM-A528N,en,三星, Galaxy A52s 5G South Korea
+samsung,SM-A536E,en,三星, Galaxy A53 5G Global
+samsung,SM-A536B,en,三星, Galaxy A53 5G EU
+samsung,SM-A536U,en,三星, Galaxy A53 5G US Carrier
+samsung,SM-A536U1,en,三星, Galaxy A53 5G US Unlocked
+samsung,SM-A536V,en,三星, Galaxy A53 5G UW Verizon
+samsung,SM-S536DL,en,三星, Galaxy A53 5G TracFone
+samsung,SM-A536W,en,三星, Galaxy A53 5G Canada
+samsung,SM-A5360,en,三星, Galaxy A53 5G China
+samsung,SM-A536N,en,三星, Galaxy A53 5G South Korea
+samsung,SCG15,en,三星, Galaxy A53 5G Japan (au)
+samsung,SC-53C,en,三星, Galaxy A53 5G Japan (NTT Docomo)
+samsung,SM-A546E,en,三星, Galaxy A54 5G Global
+samsung,SM-A546B,en,三星, Galaxy A54 5G EU
+samsung,SM-A546U,en,三星, Galaxy A54 5G US Carrier
+samsung,SM-A546U1,en,三星, Galaxy A54 5G US Unlocked
+samsung,SM-A546V,en,三星, Galaxy A54 5G Verizon
+samsung,SM-S546VL,en,三星, Galaxy A54 5G TracFone
+samsung,SM-A546W,en,三星, Galaxy A54 5G Canada
+samsung,SM-A5460,en,三星, Galaxy A54 5G China
+samsung,SCG21,en,三星, Galaxy A54 5G Japan (au)
+samsung,SC-53D,en,三星, Galaxy A54 5G Japan (NTT Docomo)
+samsung,SM-A556E,en,三星, Galaxy A55 5G Global
+samsung,SM-A556B,en,三星, Galaxy A55 5G EU
+samsung,SM-A5560,en,三星, Galaxy A55 5G China
+samsung,SM-A606F,en,三星, Galaxy A60 Global
+samsung,SM-A6060,en,三星, Galaxy A60 China mainland
+samsung,SM-A606Y,en,三星, Galaxy A60 TW
+samsung,SM-A705F,en,三星, Galaxy A70 Global
+samsung,SM-A705FN,en,三星, Galaxy A70 Global
+samsung,SM-A705GM,en,三星, Galaxy A70 India
+samsung,SM-A705MN,en,三星, Galaxy A70 Latin America
+samsung,SM-A705U,en,三星, Galaxy A70 US Carrier
+samsung,SM-A705U1,en,三星, Galaxy A70 US Unlocked
+samsung,SM-A705W,en,三星, Galaxy A70 Canada
+samsung,SM-A7050,en,三星, Galaxy A70 China
+samsung,SM-A705YN,en,三星, Galaxy A70 Australia & New Zealand 
+samsung,SM-A707F,en,三星, Galaxy A70s Global
+samsung,SM-A7070,en,三星, Galaxy A70s China
 samsung,SM-A715F,en,三星, Galaxy A71 Global
-samsung,SM-M115F,en,三星, Galaxy M11 Global
+samsung,SM-A715X,en,三星, Galaxy A71 Global
+samsung,SM-A715W,en,三星, Galaxy A71 Canada
+samsung,SM-A716B,en,三星, Galaxy A71 5G Global
+samsung,SM-A7160,en,三星, Galaxy A71 5G China
+samsung,SM-A716U,en,三星, Galaxy A71 5G US Carrier
+samsung,SM-A716U1,en,三星, Galaxy A71 5G US Unlocked
+samsung,SM-A716V,en,三星, Galaxy A71 5G UW Verizon
+samsung,SM-A725F,en,三星, Galaxy A72 Global
+samsung,SM-A725M,en,三星, Galaxy A72 Latin America
+samsung,SM-A736B,en,三星, Galaxy A73 5G Global
+samsung,SM-A805F,en,三星, Galaxy A80 Global
+samsung,SM-A8050,en,三星, Galaxy A80 China
+samsung,SM-A805N,en,三星, Galaxy A80 South Korea
+samsung,SM-A908B,en,三星, Galaxy A90 5G Global
+samsung,SM-A9080,en,三星, Galaxy A90 5G China
+samsung,SM-A908N,en,三星, Galaxy A90 5G South Korea
+samsung,SM-M015F,en,三星, Galaxy M01
+samsung,SM-M015G,en,三星, Galaxy M01
+samsung,SM-M013F,en,三星, Galaxy M01 Core
+samsung,SM-M013F,en,三星, Galaxy M01s
+samsung,SM-M022F,en,三星, Galaxy M02 India
+samsung,SM-M022G,en,三星, Galaxy M02 India (2GB RAM)
+samsung,SM-M022M,en,三星, Galaxy M02 Latin America
+samsung,SM-M025F,en,三星, Galaxy M02s
+samsung,SM-M045F,en,三星, Galaxy M04
+samsung,SM-M105G,en,三星, Galaxy M10 Global
+samsung,SM-M105F,en,三星, Galaxy M10 India
+samsung,SM-M105M,en,三星, Galaxy M10 Latin America
+samsung,SM-M105Y,en,三星, Galaxy M10 Philippines
+samsung,SM-M107F,en,三星, Galaxy M10s
+samsung,SM-M115F,en,三星, Galaxy M11 India
+samsung,SM-M115M,en,三星, Galaxy M11 Latin America
+samsung,SM-M127G,en,三星, Galaxy M12 India
+samsung,SM-M127F,en,三星, Galaxy M12 Latin America
+samsung,SM-M127N,en,三星, Galaxy M12 South Korea
+samsung,SM-M135F,en,三星, Galaxy M13 EU
+samsung,SM-M135FU,en,三星, Galaxy M13 India
+samsung,SM-M135M,en,三星, Galaxy M13 Latin America
+samsung,SM-M136B,en,三星, Galaxy M13 5G
+samsung,SM-M145F,en,三星, Galaxy M14
+samsung,SM-M146B,en,三星, Galaxy M14 5G
+samsung,SM-M156B,en,三星, Galaxy M15 5G Global
+samsung,SM-E156B,en,三星, Galaxy M15 5G India
+samsung,SM-M205N,en,三星, Galaxy M20 South Korea
+samsung,SM-M205F,en,三星, Galaxy M20 Global
+samsung,SM-M205FN,en,三星, Galaxy M20 EU
+samsung,SM-M205G,en,三星, Galaxy M20 Southeast Asia
+samsung,SM-M205M,en,三星, Galaxy M20 Latin America
+samsung,SM-M215F,en,三星, Galaxy M21
+samsung,SM-M215G,en,三星, Galaxy M21 2021 Edition
+samsung,SM-M225FV,en,三星, Galaxy M22
+samsung,SM-M236B,en,三星, Galaxy M23 5G Global
+samsung,SM-M236Q,en,三星, Galaxy M23 5G Japan
+samsung,SM-M305F,en,三星, Galaxy M30 Global
+samsung,SM-M305M,en,三星, Galaxy M30 Latin America
+samsung,SM-M307F,en,三星, Galaxy M30s Southeast Asia
+samsung,SM-M307FN,en,三星, Galaxy M30s Global
+samsung,SM-M3070,en,三星, Galaxy M30s China
+samsung,SM-M315F,en,三星, Galaxy M31
+samsung,SM-M317F,en,三星, Galaxy M31s
+samsung,SM-M325F,en,三星, Galaxy M32 India
+samsung,SM-M325FV,en,三星, Galaxy M32 Southeast Asia
+samsung,SM-M326B,en,三星, Galaxy M32 5G
+samsung,SM-M336B,en,三星, Galaxy M33 5G Global
+samsung,SM-M336BU,en,三星, Galaxy M33 5G India
+samsung,SM-M346B,en,三星, Galaxy M34 5G India
+samsung,SM-M346B1,en,三星, Galaxy M34 5G Southeast Asia
+samsung,SM-M346B2,en,三星, Galaxy M34 Global
+samsung,SM-M405F,en,三星, Galaxy M40
+samsung,SM-M426B,en,三星, Galaxy M42 5G
+samsung,SM-M515F,en,三星, Galaxy M51
+samsung,SM-M526B,en,三星, Galaxy M52 5G
+samsung,SM-M526BR,en,三星, Galaxy M52 5G
+samsung,SM-M536B,en,三星, Galaxy M53 5G
+samsung,SM-M546B,en,三星, Galaxy M54 5G
+samsung,SM-M556B,en,三星, Galaxy M55 5G India
+samsung,SM-M556E,en,三星, Galaxy M55 5G Global
+samsung,SM-C5560,en,三星, Galaxy C55 5G
+samsung,SM-M625F,en,三星, Galaxy M62
+samsung,SM-E025F,en,三星, Galaxy F02s
+samsung,SM-E045F,en,三星, Galaxy F04
+samsung,SM-F127G,en,三星, Galaxy F12
+samsung,SM-E135F,en,三星, Galaxy F13
+samsung,SM-E145F,en,三星, Galaxy F14
+samsung,SM-E146B,en,三星, Galaxy F14 5G
+samsung,SM-E156B,en,三星, Galaxy F15 5G
+samsung,SM-E225F,en,三星, Galaxy F22
+samsung,SM-E236B,en,三星, Galaxy F23 5G
+samsung,SM-E346B,en,三星, Galaxy F34 5G
+samsung,SM-F415F,en,三星, Galaxy F41
+samsung,SM-E426B,en,三星, Galaxy F42 5G
+samsung,SM-E5260,en,三星, Galaxy F52 5G
+samsung,SM-E546B,en,三星, Galaxy F54 5G
+samsung,SM-E556B,en,三星, Galaxy F55 5G
+samsung,SM-E625F,en,三星, Galaxy F62
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
 smartisan,SM801,cn,锤子, Smartisan T2
