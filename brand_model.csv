@@ -3184,6 +3184,8 @@ meizu,M392Q,cn,魅族, 魅族 20 INFINITY 无界版
 meizu,M461Q,cn,魅族, 魅族 21 公开版
 meizu,M461H,cn,魅族, 魅族 21 国际版
 meizu,M481Q,cn,魅族, 魅族 21 PRO
+meizu,M468Q,cn,魅族, 魅族 21 Note 公开版
+meizu,M468H,cn,魅族, 魅族 21 Note 国际版
 meizu,M852Q,cn,魅族, 魅族 X8 公开版
 meizu,M852H,cn,魅族, 魅族 X8 国际版
 meizu,M813Q,cn,魅族, 魅族 V8 高配版
@@ -3371,6 +3373,8 @@ meizu,M392Q,en,魅族, MEIZU 20 INFINITY
 meizu,M461Q,en,魅族, MEIZU 21 China
 meizu,M461H,en,魅族, MEIZU 21 Global
 meizu,M481Q,en,魅族, MEIZU 21 PRO
+meizu,M468Q,en,魅族, MEIZU 21 Note China
+meizu,M468H,en,魅族, MEIZU 21 Note Global
 meizu,M463H,en,魅族, MEIZU m1 note Global
 meizu,M463M,en,魅族, MEIZU m1 note China Mobile
 meizu,M463U,en,魅族, MEIZU m1 note China Unicom
@@ -4380,6 +4384,8 @@ oppo,PHV110,cn,OPPO, OPPO Reno10 Pro
 oppo,PHU110,cn,OPPO, OPPO Reno10 Pro+
 oppo,PJH110,cn,OPPO, OPPO Reno11
 oppo,PJJ110,cn,OPPO, OPPO Reno11 Pro
+oppo,PJV110,cn,OPPO, OPPO Reno12
+oppo,PJW110,cn,OPPO, OPPO Reno12 Pro
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -6382,7 +6388,6 @@ vivo,V2234,en,VIVO, vivo Y02A
 vivo,V2203,en,VIVO, vivo Y02s
 vivo,V2221,en,VIVO, vivo Y02s
 vivo,V2229,en,VIVO, vivo Y02s
-vivo,V2332,en,VIVO, vivo Y03
 vivo,V2028,en,VIVO, vivo Y11s
 vivo,V2026,en,VIVO, vivo Y12A
 vivo,V2048,en,VIVO, vivo Y12D
@@ -6394,6 +6399,7 @@ vivo,V2310,en,VIVO, vivo Y17s
 vivo,V2331,en,VIVO, vivo Y17s
 vivo,V2333,en,VIVO, vivo Y18
 vivo,V2345,en,VIVO, vivo Y18
+vivo,V2410,en,VIVO, vivo Y18s
 vivo,V2350,en,VIVO, vivo Y18e
 vivo,V2027,en,VIVO, vivo Y20
 vivo,V2037,en,VIVO, vivo Y20G
@@ -6421,6 +6427,8 @@ vivo,V2313,en,VIVO, vivo Y22t
 vivo,V2249,en,VIVO, vivo Y27
 vivo,V2322,en,VIVO, vivo Y27s
 vivo,V2335,en,VIVO, vivo Y27s
+vivo,V2352,en,VIVO, vivo Y28
+vivo,V2353,en,VIVO, vivo Y28
 vivo,V2315,en,VIVO, vivo Y28 5G
 vivo,V2160,en,VIVO, vivo Y30 5G
 vivo,V2036,en,VIVO, vivo Y31
