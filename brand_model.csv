@@ -249,6 +249,12 @@ apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) (�
 apple,A2588,cn,苹果, iPad Air (第 5 代) (无线局域网)
 apple,A2589,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络) (eSIM)
 apple,A2591,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2902,cn,苹果," iPad Air (11 英寸, M2) (无线局域网)"
+apple,A2903,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络)"
+apple,A2904,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A2898,cn,苹果," iPad Air (13 英寸, M2) (无线局域网)"
+apple,A2899,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
+apple,A2900,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络) (中国大陆)"
 apple,A1584,cn,苹果, iPad Pro (12.9 英寸) (无线局域网)
 apple,A1652,cn,苹果, iPad Pro (12.9 英寸) (无线局域网 + 蜂窝网络)
 apple,A1673,cn,苹果, iPad Pro (9.7 英寸) (无线局域网)
@@ -296,6 +302,12 @@ apple,A2436,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网)"
 apple,A2437,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络) (eSIM)"
 apple,A2764,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络) (eSIM, 毫米波)"
 apple,A2766,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A2836,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网)"
+apple,A2837,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3006,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
+apple,A2925,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网)"
+apple,A2926,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3007,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络) (中国大陆)"
 apple,A1432,cn,苹果, iPad mini (无线局域网)
 apple,A1454,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) (中国大陆)
@@ -601,6 +613,12 @@ apple,A2325,en,苹果, iPad Air (4th generation) Wi-Fi + Cellular (China mainlan
 apple,A2588,en,苹果, iPad Air (5th generation) Wi-Fi
 apple,A2589,en,苹果, iPad Air (5th generation) Wi-Fi + Cellular
 apple,A2591,en,苹果, iPad Air (5th generation) Wi-Fi + Cellular (China mainland)
+apple,A2902,en,苹果," iPad Air (11-inch, M2) Wi-Fi"
+apple,A2903,en,苹果," iPad Air (11-inch, M2) Wi-Fi + Cellular"
+apple,A2904,en,苹果," iPad Air (11-inch, M2) Wi-Fi + Cellular (China mainland)"
+apple,A2898,en,苹果," iPad Air (13-inch, M2) Wi-Fi"
+apple,A2899,en,苹果," iPad Air (13-inch, M2) Wi-Fi + Cellular"
+apple,A2900,en,苹果," iPad Air (13-inch, M2) Wi-Fi + Cellular (China mainland)"
 apple,A1584,en,苹果, iPad Pro (12.9-inch) Wi-Fi
 apple,A1652,en,苹果, iPad Pro (12.9-inch) Wi-Fi + Cellular
 apple,A1673,en,苹果, iPad Pro (9.7-inch) Wi-Fi
@@ -648,6 +666,12 @@ apple,A2436,en,苹果," iPad Pro (12.9-inch, 6th generation) Wi-Fi"
 apple,A2437,en,苹果," iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular"
 apple,A2764,en,苹果," iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (mmWave)"
 apple,A2766,en,苹果," iPad Pro (12.9-inch, 6th generation) Wi-Fi + Cellular (China mainland)"
+apple,A2836,en,苹果," iPad Pro (11-inch, M4) Wi-Fi"
+apple,A2837,en,苹果," iPad Pro (11-inch, M4) Wi-Fi + Cellular"
+apple,A3006,en,苹果," iPad Pro (11-inch, M4) Wi-Fi + Cellular (China mainland)"
+apple,A2925,en,苹果," iPad Pro (13-inch, M4) Wi-Fi"
+apple,A2926,en,苹果," iPad Pro (13-inch, M4) Wi-Fi + Cellular"
+apple,A3007,en,苹果," iPad Pro (13-inch, M4) Wi-Fi + Cellular (China mainland)"
 apple,A1432,en,苹果, iPad mini Wi-Fi
 apple,A1454,en,苹果, iPad mini Wi-Fi + Cellular
 apple,A1455,en,苹果, iPad mini Wi-Fi + Cellular (China mainland)
@@ -797,6 +821,8 @@ apple,A3162,cn,苹果, iPad (第 10 代) (无线局域网 + 蜂窝网络) (eSIM)
 apple,A2154,cn,苹果, iPad Air (第 3 代) (无线局域网 + 蜂窝网络) 
 apple,A2325,cn,苹果, iPad Air (第 4 代) (无线局域网 + 蜂窝网络) 
 apple,A2591,cn,苹果, iPad Air (第 5 代) (无线局域网 + 蜂窝网络)
+apple,A2904,cn,苹果," iPad Air (11 英寸, M2) (无线局域网 + 蜂窝网络)"
+apple,A2900,cn,苹果," iPad Air (13 英寸, M2) (无线局域网 + 蜂窝网络)"
 apple,A1675,cn,苹果, iPad Pro (9.7 英寸) (无线局域网 + 蜂窝网络) 
 apple,A1821,cn,苹果," iPad Pro (12.9 英寸, 第 2 代) (无线局域网 + 蜂窝网络) "
 apple,A1852,cn,苹果, iPad Pro (10.5 英寸) (无线局域网 + 蜂窝网络) 
@@ -811,6 +837,9 @@ apple,A2460,cn,苹果," iPad Pro (11 英寸, 第 3 代) (无线局域网 + 蜂�
 apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 8GB RAM)"
 apple,A2462,cn,苹果," iPad Pro (12.9 英寸, 第 5 代) (无线局域网 + 蜂窝网络, 16GB RAM)"
 apple,A2762,cn,苹果," iPad Pro (11 英寸, 第 4 代) (无线局域网 + 蜂窝网络)"
+apple,A2766,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂窝网络)"
+apple,A3006,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络)"
+apple,A3007,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) 
 apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) 
 apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) 
