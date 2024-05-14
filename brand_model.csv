@@ -4503,6 +4503,7 @@ oppo,PGGM10,cn,OPPO, OPPO K10x
 oppo,PJC110,cn,OPPO, OPPO K11
 oppo,PHF110,cn,OPPO, OPPO K11x
 oppo,PJR110,cn,OPPO, OPPO K12
+oppo,PJT110,cn,OPPO, OPPO K12x
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -4932,6 +4933,7 @@ realme,RMX3561,en,真我, realme GT NEO 3
 realme,RMX3563,en,真我, realme GT NEO 3 150W
 realme,RMX3371,en,真我, realme GT NEO 3T
 realme,RMX3709,en,真我, realme GT 3 240W
+realme,RMX3853,en,真我, realme GT 6T
 realme,RMX1805,en,真我, realme C1
 realme,RMX1941,en,真我, realme C2
 realme,RMX1942,en,真我, realme C2
@@ -6119,6 +6121,10 @@ vivo,V2309A,cn,VIVO, vivo X100
 vivo,V2324A,cn,VIVO, vivo X100 Pro
 vivo,V2303A,cn,VIVO, vivo X Fold3
 vivo,V2337A,cn,VIVO, vivo X Fold3 Pro
+vivo,V2359A,cn,VIVO, vivo X100s
+vivo,V2324HA,cn,VIVO, vivo X100s Pro
+vivo,V2366GA,cn,VIVO, vivo X100 Ultra
+vivo,V2366HA,cn,VIVO, vivo X100 Ultra 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -6151,6 +6157,8 @@ vivo,V2285A,cn,VIVO, vivo S17e
 vivo,V2323A,cn,VIVO, vivo S18
 vivo,V2344A,cn,VIVO, vivo S18 Pro
 vivo,V2334A,cn,VIVO, vivo S18e
+vivo,V2364A,cn,VIVO, vivo S19
+vivo,V2362A,cn,VIVO, vivo S19 Pro
 vivo,V1901A,cn,VIVO, vivo Y3 全网通版
 vivo,V1901T,cn,VIVO, vivo Y3 移动全网通版
 vivo,V1930A,cn,VIVO, vivo Y3 标准版 全网通版
@@ -6238,6 +6246,9 @@ vivo,V2313A,cn,VIVO, vivo Y100 5G
 vivo,V2314DA,cn,VIVO, vivo Y100t 5G
 vivo,V2279A,cn,VIVO, vivo Y100i 5G
 vivo,V2312BA,cn,VIVO, vivo Y100i 长续航版 5G
+vivo,V2343A,cn,VIVO, vivo Y200 5G
+vivo,V2361GA,cn,VIVO, vivo Y200 GT 5G
+vivo,V2353DA,cn,VIVO, vivo Y200t 5G
 vivo,V2354A,cn,VIVO, vivo Y200i 5G
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
@@ -6309,6 +6320,7 @@ vivo,V2301A,cn,VIVO, iQOO Neo8
 vivo,V2302A,cn,VIVO, iQOO Neo8 Pro
 vivo,V2338A,cn,VIVO, iQOO Neo9
 vivo,V2339A,cn,VIVO, iQOO Neo9 Pro
+vivo,V2339FA,cn,VIVO, iQOO Neo9S Pro
 vivo,V1986A,cn,VIVO, iQOO Z1
 vivo,V2012A,cn,VIVO, iQOO Z1x
 vivo,V2073A,cn,VIVO, iQOO Z3
@@ -6338,6 +6350,7 @@ vivo,PA2353,cn,VIVO, vivo Pad Air
 vivo,PA2473,cn,VIVO, vivo Pad3 Pro
 vivo,iPA2375,cn,VIVO, iQOO Pad
 vivo,iPA2451,cn,VIVO, iQOO Pad Air
+vivo,iPA2475,cn,VIVO, iQOO Pad2 Pro
 vivo,V1930,en,VIVO, vivo X50e 5G
 vivo,V2006,en,VIVO, vivo X51 5G
 vivo,V2045,en,VIVO, vivo X60
