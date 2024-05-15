@@ -1504,6 +1504,7 @@ honor,FRI-G561,cn,荣耀, 荣耀 MagicBook X 14 Pro 2023 i5 (16GB+1TB)
 honor,FRI-H76,cn,荣耀, 荣耀 MagicBook X 14 Pro 2023 R7 (16GB+512GB)
 honor,FRI-G56,cn,荣耀, 荣耀笔记本 X14 2024 i5 (16GB+512GB)
 honor,FRI-G561,cn,荣耀, 荣耀笔记本 X14 2024 i5 (16GB+1TB)
+honor,FRI-H56,cn,荣耀, 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 honor,FMI-76,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 honor,FMI-721,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
@@ -1518,6 +1519,7 @@ honor,BRN-G561,cn,荣耀, 荣耀 MagicBook X 16 Pro 2023 i5 (16GB+1TB)
 honor,BRN-H76,cn,荣耀, 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
 honor,BRN-G56,cn,荣耀, 荣耀笔记本 X16 2024 i5 (16GB+512GB)
 honor,BRN-G561,cn,荣耀, 荣耀笔记本 X16 2024 i5 (16GB+1TB)
+honor,BRN-H56,cn,荣耀, 荣耀笔记本 X16 2024 R5 (16GB+512GB)
 honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 honor,FRI-F56Z,cn,荣耀, 荣耀 MagicBook Z3 14 2023 i5
@@ -1992,6 +1994,7 @@ huawei,BLK-AL00,cn,华为, HUAWEI nova 12
 huawei,FIN-AL60,cn,华为, HUAWEI nova 12 活力版
 huawei,ADA-AL00,cn,华为, HUAWEI nova 12 Pro
 huawei,ADA-AL00U,cn,华为, HUAWEI nova 12 Ultra
+huawei,ADA-AL10U,cn,华为, HUAWEI nova 12 Ultra 星耀版
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -2174,6 +2177,8 @@ huawei,SCMR-AL09,cn,华为, HUAWEI MatePad 10.8 英寸 全网通版
 huawei,DBY-W09,cn,华为, HUAWEI MatePad 11 英寸 Wi-Fi 版
 huawei,DBR-W00,cn,华为, HUAWEI MatePad 11 英寸 2023 Wi-Fi 版
 huawei,DBR-W10,cn,华为, HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
+huawei,DMG-W00,cn,华为," HUAWEI MatePad 11.5"" S 灵动款 Wi-Fi 版"
+huawei,TGR-W10,cn,华为," HUAWEI MatePad 11.5"" S 柔光版 Wi-Fi 版"
 huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 全网通版
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
@@ -2300,6 +2305,8 @@ huawei,KLVL-W76W,cn,华为, HUAWEI MateBook 14 2021 R7
 huawei,KLVF-16,cn,华为, HUAWEI MateBook 14 2022
 huawei,KLVG-16,cn,华为, HUAWEI MateBook 14 2023 (16GB 内存)
 huawei,KLVG-32,cn,华为, HUAWEI MateBook 14 2023 (32GB 内存)
+huawei,FLMH-16,cn,华为, HUAWEI MateBook 14 2024 (16GB 内存)
+huawei,FLMH-32,cn,华为, HUAWEI MateBook 14 2024 (32GB 内存)
 huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
 huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
 huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
@@ -2412,7 +2419,10 @@ huawei,MRGFZ-7651,cn,华为, HUAWEI MateBook B7-420 i7 (16GB+512GB)
 huawei,MRGFZ-W7611,cn,华为, HUAWEI MateBook B7-420 i7 (16GB+1TB)
 huawei,YTSFZ-5651TP,cn,华为, 华为擎云 S520 i5
 huawei,YTSFZ-7611T,cn,华为, 华为擎云 S520 i7
+huawei,YTGZ-5651SP,cn,华为, 华为擎云 S520 Gen2 i5 (16GB+512GB)
 huawei,YTSGZ-5651TP,cn,华为, 华为擎云 S520 Gen2 i5 (16GB+512GB)
+huawei,YTGZ-5611SP,cn,华为, 华为擎云 S520 Gen2 i5 (16GB+1TB)
+huawei,YTGZ-7611S,cn,华为, 华为擎云 S520 Gen2 i7 (16GB+1TB)
 huawei,YTSGZ-7611TP,cn,华为, 华为擎云 S520 Gen2 i7 (16GB+1TB)
 huawei,YTFZ-5851S,cn,华为, 华为擎云 S540 i5 (U15) (8GB+512GB)
 huawei,YTFZ-5851SP,cn,华为, 华为擎云 S540 i5 (P28) (8GB+512GB)
@@ -2591,6 +2601,8 @@ huawei,ALX-AL10,cn,华为, 华为儿童手表 3X
 huawei,ASN-AL10,cn,华为, 华为儿童手表 4 Pro
 huawei,NIK-AL00,cn,华为, 华为儿童手表 4X
 huawei,KTY-L10,cn,华为, 华为儿童手表 5
+huawei,KTY-L10D,cn,华为, 华为儿童手表 5 新耀版
+huawei,TGR-L10,cn,华为, 华为儿童手表 5 Pro
 huawei,ALA-AL10,cn,华为, 华为儿童手表 5X
 huawei,AHP-AL10,cn,华为, 华为儿童手表 5X Pro
 huawei,CMG0-PER,cn,华为, HUAWEI X GENTLE MONSTER Eyewear
@@ -2920,6 +2932,7 @@ huawei,BTK-AL09,en,华为, HUAWEI MatePad 11.5 LTE
 huawei,DBY-W09,en,华为, HUAWEI MatePad 11 Wi-Fi
 huawei,DBR-W09,en,华为, HUAWEI MatePad 11 2023 Wi-Fi
 huawei,DBR-W19,en,华为, HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
+huawei,TGR-W09,en,华为," HUAWEI MatePad 11.5"" S Wi-Fi"
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
 huawei,MRX-W09,en,华为, HUAWEI MatePad Pro 10.8 Wi-Fi
@@ -5995,7 +6008,8 @@ samsung,SM-M336B,en,三星, Galaxy M33 5G Global
 samsung,SM-M336BU,en,三星, Galaxy M33 5G India
 samsung,SM-M346B,en,三星, Galaxy M34 5G India
 samsung,SM-M346B1,en,三星, Galaxy M34 5G Southeast Asia
-samsung,SM-M346B2,en,三星, Galaxy M34 Global
+samsung,SM-M346B2,en,三星, Galaxy M34 5G Global
+samsung,SM-M356B,en,三星, Galaxy M35 5G
 samsung,SM-M405F,en,三星, Galaxy M40
 samsung,SM-M426B,en,三星, Galaxy M42 5G
 samsung,SM-M515F,en,三星, Galaxy M51
