@@ -3013,6 +3013,7 @@ lenovo,TB138FC,cn,联想, 联想小新 Pad Pro 2022 骁龙版
 lenovo,TB132FU,cn,联想, 联想小新 Pad Pro 2022 迅鲲版
 lenovo,TB371FC,cn,联想, 联想小新 Pad Pro 12.7 骁龙版
 lenovo,TB370FU,cn,联想, 联想小新 Pad Pro 12.7 天玑版
+lenovo,TB351FU,cn,联想, 联想小新 Pad Studio
 lenovo,TB372FC,cn,联想, 联想小新学习平板 12.7
 lenovo,Lenovo,cn,联想, 联想 YOGA Tab 3 8” Wi-Fi 版
 lenovo,YT3-850F,cn,联想, 联想 YOGA Tab 3 8” Wi-Fi 版
@@ -3970,6 +3971,7 @@ motorola,XT2323-3,cn,摩托罗拉, moto razr 40
 motorola,XT2321-2,cn,摩托罗拉, moto razr 40 Ultra
 motorola,XT2343-3,cn,摩托罗拉, moto g54
 motorola,XT2363-4,cn,摩托罗拉, moto g34
+motorola,XT2401-2,cn,摩托罗拉, moto X50 Ultra
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -4825,6 +4827,7 @@ realme,RMX3687,cn,真我, 真我 10 Pro+
 realme,RMX3751,cn,真我, 真我 11
 realme,RMX3770,cn,真我, 真我 11 Pro
 realme,RMX3740,cn,真我, 真我 11 Pro+
+realme,RMX3992,cn,真我, 真我 12
 realme,RMX3993,cn,真我, 真我 12x
 realme,RMX3843,cn,真我, 真我 12 Pro
 realme,RMX3841,cn,真我, 真我 12 Pro+
@@ -6418,6 +6421,9 @@ vivo,V2314,en,VIVO, vivo V30 Lite 5G
 vivo,V2327,en,VIVO, vivo V30 Lite 5G
 vivo,V2327,en,VIVO, vivo V30 SE
 vivo,V2349,en,VIVO, vivo V30 SE
+vivo,V2348,en,VIVO, vivo V40
+vivo,V2347,en,VIVO, vivo V40 Pro
+vivo,V2403,en,VIVO, vivo V40e
 vivo,V2341,en,VIVO, vivo V40 Lite
 vivo,V2337,en,VIVO, vivo V40 SE 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
@@ -6486,6 +6492,7 @@ vivo,V2335,en,VIVO, vivo Y27s
 vivo,V2352,en,VIVO, vivo Y28
 vivo,V2353,en,VIVO, vivo Y28
 vivo,V2315,en,VIVO, vivo Y28 5G
+vivo,V2346,en,VIVO, vivo Y28s 5G
 vivo,V2160,en,VIVO, vivo Y30 5G
 vivo,V2036,en,VIVO, vivo Y31
 vivo,V2036_21,en,VIVO, vivo Y31
@@ -7127,6 +7134,7 @@ xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+ 国行版
 xiaomi,23090RA98G,cn,小米, Redmi Note 13 Pro+ 5G 国际版
 xiaomi,23090RA98I,cn,小米, Redmi Note 13 Pro+ 5G 印度版
 xiaomi,24040RA98R,cn,小米, Redmi Note 13 Pro+ 5G 日本版
+xiaomi,2406ERN9CC,cn,小米, Redmi Note 13R
 xiaomi,2311FRAFDC,cn,小米, Redmi Note 13R Pro
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
@@ -7796,6 +7804,7 @@ xiaomi,23090RA98G,en,小米, Redmi Note 13 Pro+ 5G Global
 xiaomi,23090RA98I,en,小米, Redmi Note 13 Pro+ 5G India
 xiaomi,23090RA98C,en,小米, Redmi Note 13 Pro+ 5G China
 xiaomi,24040RA98R,en,小米, Redmi Note 13 Pro+ 5G Japan
+xiaomi,2406ERN9CC,en,小米, Redmi Note 13R China
 xiaomi,2311FRAFDC,en,小米, Redmi Note 13R Pro China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
