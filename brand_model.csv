@@ -6978,8 +6978,8 @@ xiaomi,2311DRN14I,cn,小米, Redmi 13C 印度版
 xiaomi,23100RN82L,cn,小米, Redmi 13C 拉美版
 xiaomi,23108RN04Y,cn,小米, Redmi 13C 国际版 (NFC)
 xiaomi,23124RN87C,cn,小米, Redmi 13C 5G 国行版 / Redmi 13R 5G
-xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
 xiaomi,23124RN87I,cn,小米, Redmi 13C 5G 印度版
+xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -7213,6 +7213,8 @@ xiaomi,23028RNCAI,cn,小米, Redmi A2+ 印度版
 xiaomi,23129RN51X,cn,小米, Redmi A3 国际版
 xiaomi,23129RN51H,cn,小米, Redmi A3 印度版
 xiaomi,2312CRNCCL,cn,小米, Redmi A3 拉美版
+xiaomi,24048RN6CG,cn,小米, Redmi A3x 国际版
+xiaomi,24048RN6CI,cn,小米, Redmi A3x 印度版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
@@ -7220,6 +7222,7 @@ xiaomi,23073RPBFG,cn,小米, Redmi Pad SE 国际版
 xiaomi,23073RPBFL,cn,小米, Redmi Pad SE 拉美版
 xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro 国行版
 xiaomi,2405CRPFDG,cn,小米, Redmi Pad Pro 国际版
+xiaomi,2405CRPFDL,cn,小米, Redmi Pad Pro 拉美版
 xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G 国行版
 xiaomi,24074RPD2G,cn,小米, Redmi Pad Pro 5G 国际版
 xiaomi,M1805E10A,cn,小米, POCO F1
@@ -7277,6 +7280,7 @@ xiaomi,2207117BPG,cn,小米, POCO M5s 国际版
 xiaomi,2404APC5FG,cn,小米, POCO M6 国际版
 xiaomi,2404APC5FI,cn,小米, POCO M6 印度版
 xiaomi,23128PC33I,cn,小米, POCO M6 5G 印度版
+xiaomi,24066PC95I,cn,小米, POCO M6 Plus 5G 印度版
 xiaomi,2312FPCA6G,cn,小米, POCO M6 Pro 国际版
 xiaomi,23076PC4BI,cn,小米, POCO M6 Pro 5G 印度版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
@@ -7883,6 +7887,8 @@ xiaomi,23028RNCAI,en,小米, Redmi A2+ India
 xiaomi,23129RN51X,en,小米, Redmi A3 Global
 xiaomi,23129RN51H,en,小米, Redmi A3 India
 xiaomi,2312CRNCCL,en,小米, Redmi A3 Latin America
+xiaomi,24048RN6CG,en,小米, Redmi A3x Global
+xiaomi,24048RN6CI,en,小米, Redmi A3x India
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
@@ -7938,6 +7944,7 @@ xiaomi,2207117BPG,en,小米, POCO M5s Global
 xiaomi,2404APC5FG,en,小米, POCO M6 Global
 xiaomi,2404APC5FI,en,小米, POCO M6 India
 xiaomi,23128PC33I,en,小米, POCO M6 5G India
+xiaomi,24066PC95I,en,小米, POCO M6 Plus 5G India
 xiaomi,2312FPCA6G,en,小米, POCO M6 Pro Global
 xiaomi,23076PC4BI,en,小米, POCO M6 Pro 5G India
 xiaomi,M2006C3MI,en,小米, POCO C3 India
@@ -7980,6 +7987,7 @@ xiaomi,23073RPBFC,en,小米, Redmi Pad SE China
 xiaomi,23073RPBFL,en,小米, Redmi Pad SE Latin America
 xiaomi,2405CRPFDG,en,小米, Redmi Pad Pro Global
 xiaomi,2405CRPFDC,en,小米, Redmi Pad Pro China
+xiaomi,2405CRPFDL,en,小米, Redmi Pad Pro Latin America
 xiaomi,24074RPD2G,en,小米, Redmi Pad Pro 5G Global
 xiaomi,24074RPD2C,en,小米, Redmi Pad Pro 5G China
 xiaomi,2405CPCFBG,en,小米, POCO Pad Global
