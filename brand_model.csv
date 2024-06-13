@@ -3799,6 +3799,7 @@ mitv,L32M7-5AIN,en,小米电视, Xiaomi Smart TV 5A 32
 mitv,L40M7-EAIN,en,小米电视, Xiaomi Smart TV 5A 40
 mitv,L43M7-EAIN,en,小米电视, Xiaomi Smart TV 5A 43
 mitv,L32M8-5AIN,en,小米电视, Xiaomi Smart TV A 32
+mitv,L32MA-AIN,en,小米电视, Xiaomi Smart TV A 32 2024 Edition
 mitv,L40M8-5AIN,en,小米电视, Xiaomi Smart TV A 40
 mitv,L43M8-5AIN,en,小米电视, Xiaomi Smart TV A 43
 mitv,L43M7-A2IN,en,小米电视, Xiaomi Smart TV X43
@@ -3823,6 +3824,7 @@ mitv,L50M6-RA,en,小米电视, Redmi Smart TV X50
 mitv,L55M6-RA,en,小米电视, Redmi Smart TV X55
 mitv,L65M6-RA,en,小米电视, Redmi Smart TV X65
 mitv,L32R8-FVIN,en,小米电视, Redmi Smart Fire TV 32
+mitv,L32MA-FVIN,en,小米电视, Redmi Smart Fire TV 32 2024 Edition
 mitv,L43R8-FVIN,en,小米电视, Redmi Smart Fire TV 43
 mitv,MDZ-22-AB,en,小米电视, Mi Box 4K
 mitv,L32M5-AN,en,小米电视, Mi TV 4 / 4A 32
@@ -3886,8 +3888,12 @@ mitv,L86M7-ESME,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESTWN,en,小米电视, Xiaomi 智慧顯示器 Max 86 型
 mitv,L32M8-P2EU,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2EU,en,小米电视, Xiaomi TV A FHD 43
+mitv,L43MA-AUEU,en,小米电视, Xiaomi TV A 43 2025
 mitv,L50M8-P2EU,en,小米电视, Xiaomi TV A 50
+mitv,L50MA-AEU,en,小米电视, Xiaomi TV A 50 2025
 mitv,L55M8-P2EU,en,小米电视, Xiaomi TV A 55
+mitv,L55MA-AEU,en,小米电视, Xiaomi TV A 55 2025
+mitv,L65MA-AEU,en,小米电视, Xiaomi TV A 65 2025
 mitv,L32M8-P2SEA,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2SEA,en,小米电视, Xiaomi TV A FHD 43
 mitv,L55M8-P2SEA,en,小米电视, Xiaomi TV A 55
@@ -3896,9 +3902,13 @@ mitv,L43M8-P2ID,en,小米电视, Xiaomi TV A FHD 43
 mitv,L55M8-P2ID,en,小米电视, Xiaomi TV A 55
 mitv,L32M8-A2EU,en,小米电视, Xiaomi TV A Pro 32
 mitv,L43M8-A2EU,en,小米电视, Xiaomi TV A Pro 43
+mitv,L43MA-SEU,en,小米电视, Xiaomi TV A Pro 43 2025
 mitv,L50M8-A2EU,en,小米电视, Xiaomi TV A Pro 50
 mitv,L55M8-A2EU,en,小米电视, Xiaomi TV A Pro 55
+mitv,L55MA-SEU,en,小米电视, Xiaomi TV A Pro 55 2025
 mitv,L65M8-A2EU,en,小米电视, Xiaomi TV A Pro 65
+mitv,L65MA-SEU,en,小米电视, Xiaomi TV A Pro 65 2025
+mitv,L75MA-SEU,en,小米电视, Xiaomi TV A Pro 75 2025
 mitv,L43M8-A2SEA,en,小米电视, Xiaomi TV A Pro 43
 mitv,L55M8-A2SEA,en,小米电视, Xiaomi TV A Pro 55
 mitv,L65M8-A2SEA,en,小米电视, Xiaomi TV A Pro 65
