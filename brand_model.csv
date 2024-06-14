@@ -4070,6 +4070,7 @@ nubia,NX608J,cn,努比亚, nubia N3
 nubia,NX617J,cn,努比亚, nubia N3
 nubia,NX301J,cn,努比亚, nubia N5
 nubia,Z2352N,cn,努比亚, nubia Neo 2 5G
+nubia,Z2353,cn,努比亚, nubia Music
 nubia,Z6255CA,cn,努比亚, nubia Blade A72
 nubia,LPD-20W,cn,努比亚, nubia Pad 3D
 nubia,NX609J,cn,努比亚, 红魔电竞游戏手机
@@ -4192,8 +4193,6 @@ oneplus,CPH2585,cn,一加, OnePlus 12R 印度版
 oneplus,CPH2609,cn,一加, OnePlus 12R 欧洲版/国际版
 oneplus,CPH2611,cn,一加, OnePlus 12R 北美版
 oneplus,PJF110,cn,一加, OnePlus Ace 3V 国行版
-oneplus,CPH2619,cn,一加, OnePlus Nord 4 印度版
-oneplus,CPH2621,cn,一加, OnePlus Nord 4 欧洲版/国际版
 oneplus,PJX110,cn,一加, OnePlus Ace 3 Pro 国行版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版/国际版
@@ -4210,6 +4209,8 @@ oneplus,CPH2569,cn,一加, OnePlus Nord CE 3 印度版
 oneplus,CPH2465,cn,一加, OnePlus Nord CE 3 Lite 国际版
 oneplus,CPH2467,cn,一加, OnePlus Nord CE 3 Lite 印度版
 oneplus,CPH2613,cn,一加, OnePlus Nord CE4 印度版
+oneplus,CPH2619,cn,一加, OnePlus Nord CE4 Lite 印度版
+oneplus,CPH2621,cn,一加, OnePlus Nord CE4 Lite 欧洲版/国际版
 oneplus,BE2025,cn,一加, OnePlus Nord N10 Metro 版
 oneplus,BE2026,cn,一加, OnePlus Nord N10 北美版
 oneplus,BE2029,cn,一加, OnePlus Nord N10 欧洲版/国际版
@@ -4337,8 +4338,6 @@ oneplus,CPH2585,en,一加, OnePlus 12R India
 oneplus,CPH2609,en,一加, OnePlus 12R EU / Global
 oneplus,CPH2611,en,一加, OnePlus 12R North America
 oneplus,PJF110,en,一加, OnePlus Ace 3V China
-oneplus,CPH2619,en,一加, OnePlus Nord 4 India
-oneplus,CPH2621,en,一加, OnePlus Nord 4 EU / Global
 oneplus,PJX110,en,一加, OnePlus Ace 3 Pro China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord EU / Global
@@ -4355,6 +4354,8 @@ oneplus,CPH2569,en,一加, OnePlus Nord CE 3 India
 oneplus,CPH2465,en,一加, OnePlus Nord CE 3 Lite Global
 oneplus,CPH2467,en,一加, OnePlus Nord CE 3 Lite India
 oneplus,CPH2613,en,一加, OnePlus Nord CE4 India
+oneplus,CPH2619,en,一加, OnePlus Nord CE4 Lite India
+oneplus,CPH2621,en,一加, OnePlus Nord CE4 Lite EU / Global
 oneplus,BE2025,en,一加, OnePlus Nord N10 Metro
 oneplus,BE2026,en,一加, OnePlus Nord N10 North America
 oneplus,BE2029,en,一加, OnePlus Nord N10 EU / Global
@@ -8078,7 +8079,7 @@ zte,A2023,cn,中兴, 中兴 Axon 40 Pro
 zte,A2023P,cn,中兴, 中兴 Axon 40 Ultra
 zte,A2024H,cn,中兴, 中兴 Axon 50 Ultra
 zte,A2025HL,cn,中兴, 中兴 Axon 60 Ultra
-zte,A2025H,cn,中兴, 中兴 Axon 60 Ultra 卫星通信版
+zte,A2025H,cn,中兴, 中兴 Axon 60 Ultra 天通版
 zte,A2023BH,cn,中兴, 中兴天机 A41
 zte,A2023,cn,中兴, 中兴天机 A41 Pro
 zte,A2023H,cn,中兴, 中兴天机 A41 Ultra
