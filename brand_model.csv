@@ -1842,7 +1842,7 @@ huawei,BRA-AL00,cn,华为, HUAWEI Mate 60
 huawei,ALN-AL00,cn,华为, HUAWEI Mate 60 Pro
 huawei,ALN-AL80,cn,华为, HUAWEI Mate 60 Pro
 huawei,ALN-AL10,cn,华为, HUAWEI Mate 60 Pro+
-huawei,ALN-AL10,cn,华为, HUAWEI Mate 60 RS | ULTIMATE DESIGN 非凡大师
+huawei,ALN-AL10,cn,华为, HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
 huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G
@@ -2006,7 +2006,7 @@ huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
 huawei,G7-TL00,cn,华为, 华为 Ascend G7 移动版
-huawei,G7-UL00,cn,华为, 华为 Ascend G7 联通版
+huawei,G7-UL20,cn,华为, 华为 Ascend G7 联通版
 huawei,RIO-TL00,cn,华为, 华为 G7 Plus 移动版
 huawei,RIO-UL00,cn,华为, 华为 G7 Plus 联通版
 huawei,VNS-AL00,cn,华为, HUAWEI G9 青春版 全网通版
@@ -2201,6 +2201,7 @@ huawei,AGS3K-W20,cn,华为, HUAWEI MatePad SE 10.1 英寸 Wi-Fi 版
 huawei,AGS3K-AL20,cn,华为, HUAWEI MatePad SE 10.1 英寸 全网通版
 huawei,AGS5-W00,cn,华为, HUAWEI MatePad SE 10.4 英寸 Wi-Fi 版
 huawei,AGS5-AL00,cn,华为, HUAWEI MatePad SE 10.4 英寸 全网通版
+huawei,AGS6-W00,cn,华为, HUAWEI MatePad SE 11 英寸 Wi-Fi 版
 huawei,HMW-W09,cn,华为, HUAWEI MatePad Paper 10.3 英寸 Wi-Fi 版
 huawei,HMW-AL10,cn,华为, HUAWEI MatePad Paper 典藏版 10.3 英寸 全网通版
 huawei,BZK-W00,cn,华为, 华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版
@@ -2529,7 +2530,7 @@ huawei,Leo-B19,cn,华为, HUAWEI WATCH 2 Classic
 huawei,Leo-L00E,cn,华为, HUAWEI WATCH 2 2018
 huawei,Leo-L09S,cn,华为, HUAWEI WATCH 2 4G
 huawei,Leo-L19E,cn,华为, HUAWEI WATCH 2 Pro
-huawei,LEO-DLXXU,cn,华为, PORSCHE DESIGN | HUAWEI Smartwatch
+huawei,LEO-DLXXU,cn,华为, PORSCHE DESIGN HUAWEI Smartwatch
 huawei,GLL-AL00,cn,华为, HUAWEI WATCH 3
 huawei,GLL-AL30,cn,华为, HUAWEI WATCH 3
 huawei,GLL-AL01,cn,华为, HUAWEI WATCH 3 Pro
@@ -2539,7 +2540,7 @@ huawei,ARC-AL00,cn,华为, HUAWEI WATCH 4
 huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate
-huawei,CLB-B39,cn,华为, HUAWEI WATCH | ULTIMATE DESIGN 非凡大师
+huawei,CLB-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师
 huawei,ELA-B19,cn,华为, HUAWEI WATCH GT 雅致款
 huawei,FTN-B19,cn,华为, HUAWEI WATCH GT 时尚版/运动版
 huawei,DAN-B19,cn,华为, HUAWEI WATCH GT 2 42mm
