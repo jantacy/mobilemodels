@@ -1095,6 +1095,8 @@ honor,BVL-AN16,cn,荣耀, 荣耀 Magic6 Pro
 honor,BVL-AN20,cn,荣耀, 荣耀 Magic6 至臻版
 honor,BVL-AN20,cn,荣耀, 荣耀 Magic6 RSR 保时捷设计
 honor,LRA-AN00,cn,荣耀, 荣耀 Magic V Flip
+honor,FCP-AN10,cn,荣耀, 荣耀 Magic V3
+honor,FLC-AN00,cn,荣耀, 荣耀 Magic Vs3
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
 honor,H60-L03,cn,荣耀, 荣耀 6 移动定制版
@@ -1393,6 +1395,7 @@ honor,HEY2-W19,cn,荣耀, 荣耀平板 9 柔光版 12.1 英寸 Wi-Fi 版
 honor,HEY2-AN00,cn,荣耀, 荣耀平板 9 12.1 英寸 5G 版
 honor,ROD-W09,cn,荣耀, 荣耀平板 9 Pro 12.1 英寸 Wi-Fi 版
 honor,HEY2-AN00,cn,荣耀, 荣耀平板 Z7 12.1 英寸 5G 版
+honor,ROD2-W09,cn,荣耀, 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -1499,6 +1502,9 @@ honor,HGE-W56,cn,荣耀, 荣耀 MagicBook V 14 i5
 honor,HGE-W76,cn,荣耀, 荣耀 MagicBook V 14 i7
 honor,HGF-W56,cn,荣耀, 荣耀 MagicBook V 14 2022 i5
 honor,HGF-W76,cn,荣耀, 荣耀 MagicBook V 14 2022 i7
+honor,MRA-561,cn,荣耀, 荣耀 MagicBook Art 14 Ultra 5 (16GB+1TB)
+honor,MRA-521,cn,荣耀, 荣耀 MagicBook Art 14 Ultra 5 (32GB+1TB)
+honor,MRA-721,cn,荣耀, 荣耀 MagicBook Art 14 Ultra 7 (32GB+1TB)
 honor,NBR-WAI9,cn,荣耀, 荣耀 MagicBook X 14 i3
 honor,NBR-WAH9,cn,荣耀, 荣耀 MagicBook X 14 i5
 honor,NDR-WFH,cn,荣耀, 荣耀 MagicBook X 14 2022 i5 (11 代酷睿)
