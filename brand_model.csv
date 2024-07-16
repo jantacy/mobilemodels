@@ -1259,6 +1259,7 @@ honor,ALI-AN00,cn,荣耀, 荣耀 X50 5G
 honor,ALP-AN00,cn,荣耀, 荣耀 X50 Pro 5G / 荣耀 X50 GT 5G
 honor,CRT-AN00,cn,荣耀, 荣耀 X50i 5G
 honor,LLY-AN00,cn,荣耀, 荣耀 X50i+ 5G
+honor,LYN-AN00,cn,荣耀, 荣耀 X60i
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
 honor,JMM-TL00,cn,荣耀, 荣耀 V9 Play 移动定制标配版
@@ -3173,6 +3174,7 @@ letv,L6,cn,乐视, Letv Y1 Pro
 letv,L6B,cn,乐视, Letv Y1 Pro+
 letv,L7,cn,乐视, Letv Y2 Pro
 letv,L8,cn,乐视, Letv S1 Pro 5G
+letv,L9,cn,乐视, Letv S3 Pro
 meizu,M8,cn,魅族, 魅族 M8
 meizu,M8SE,cn,魅族, 魅族 M8 SE
 meizu,M9,cn,魅族, 魅族 M9
@@ -3343,6 +3345,7 @@ meizu,M811Q,cn,魅族, 魅蓝 6T 公开版
 meizu,M811H,cn,魅族, 魅族 M6T 国际版
 meizu,M2110,cn,魅族, 魅蓝 10
 meizu,M2111,cn,魅族, 魅蓝 10s
+meizu,M421Q,cn,魅族, 魅蓝 20
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
 meizu,S685C,cn,魅族, 魅蓝 Max 电信版
@@ -3532,6 +3535,7 @@ meizu,M810H,en,魅族, MEIZU M8c Global
 meizu,M918H,en,魅族, MEIZU M10 Global
 meizu,M2110,en,魅族, mblu 10
 meizu,M2111,en,魅族, mblu 10s
+meizu,M421Q,en,魅族, mblu 20
 meizu,S685H,en,魅族, MEIZU M3 Max Global
 meizu,S685Q,en,魅族, MEIZU M3 Max China
 meizu,S685M,en,魅族, MEIZU M3 Max China Mobile
