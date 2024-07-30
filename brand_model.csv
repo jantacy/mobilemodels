@@ -2010,6 +2010,7 @@ huawei,FIN-AL60,cn,华为, HUAWEI nova 12 活力版
 huawei,ADA-AL00,cn,华为, HUAWEI nova 12 Pro
 huawei,ADA-AL00U,cn,华为, HUAWEI nova 12 Ultra
 huawei,ADA-AL10U,cn,华为, HUAWEI nova 12 Ultra 星耀版
+huawei,PSD-AL00,cn,华为, HUAWEI nova Flip
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -2285,8 +2286,8 @@ huawei,MRG-W76,cn,华为, HUAWEI MateBook X Pro 2022 i7
 huawei,MRGF-16,cn,华为, HUAWEI MateBook X Pro 2022 12 代酷睿版
 huawei,MRGFG-16,cn,华为, HUAWEI MateBook X Pro 2023 (16GB 内存)
 huawei,MRGFG-32,cn,华为, HUAWEI MateBook X Pro 2023 (32GB 内存)
-huawei,VGHH-16,cn,华为, HUAWEI MateBook X Pro 2024 (16GB 内存)
-huawei,VGHH-32,cn,华为, HUAWEI MateBook X Pro 2024 (32GB 内存)
+huawei,VGHH-16,cn,华为, HUAWEI MateBook X Pro 酷睿 Ultra (16GB 内存)
+huawei,VGHH-32,cn,华为, HUAWEI MateBook X Pro 酷睿 Ultra (32GB 内存)
 huawei,WRT-W19,cn,华为, HUAWEI MateBook 13 i5
 huawei,WRT-W19L,cn,华为, HUAWEI MateBook 13 i5 Linux 版
 huawei,WRT-W29,cn,华为, HUAWEI MateBook 13 i7
@@ -2331,8 +2332,8 @@ huawei,KLVL-W76W,cn,华为, HUAWEI MateBook 14 2021 R7
 huawei,KLVF-16,cn,华为, HUAWEI MateBook 14 2022
 huawei,KLVG-16,cn,华为, HUAWEI MateBook 14 2023 (16GB 内存)
 huawei,KLVG-32,cn,华为, HUAWEI MateBook 14 2023 (32GB 内存)
-huawei,FLMH-16,cn,华为, HUAWEI MateBook 14 2024 (16GB 内存)
-huawei,FLMH-32,cn,华为, HUAWEI MateBook 14 2024 (32GB 内存)
+huawei,FLMH-16,cn,华为, HUAWEI MateBook 14 酷睿 Ultra (16GB 内存)
+huawei,FLMH-32,cn,华为, HUAWEI MateBook 14 酷睿 Ultra (32GB 内存)
 huawei,HKD-W58,cn,华为, HUAWEI MateBook 14s i5 (8GB+512GB)
 huawei,HKD-W56,cn,华为, HUAWEI MateBook 14s i5 (16GB+512GB)
 huawei,HKD-W76,cn,华为, HUAWEI MateBook 14s i7 (16GB+512GB/1TB)
@@ -3272,6 +3273,9 @@ meizu,M822Q,cn,魅族, 魅族 Note8 公开版
 meizu,M822H,cn,魅族, 魅族 Note8 国际版
 meizu,M923Q,cn,魅族, 魅族 Note9 公开版
 meizu,M923H,cn,魅族, 魅族 Note9 国际版
+meizu,M411H,cn,魅族, 魅族 Note 21 国际版
+meizu,M411L,cn,魅族, 魅族 Note 21 国际版
+meizu,M412H,cn,魅族, 魅族 Note 21 Pro 国际版
 meizu,M810H,cn,魅族, 魅族 M8c 国际版
 meizu,M818H,cn,魅族, 魅族 C9 国际版
 meizu,M819H,cn,魅族, 魅族 C9 Pro 国际版
@@ -3351,6 +3355,7 @@ meizu,M811H,cn,魅族, 魅族 M6T 国际版
 meizu,M2112,cn,魅族, 魅蓝 10
 meizu,M2111,cn,魅族, 魅蓝 10s
 meizu,M421Q,cn,魅族, 魅蓝 20
+meizu,M410H,cn,魅族, 魅族 MBLU 国际版
 meizu,S685Q,cn,魅族, 魅蓝 Max 公开版
 meizu,S685M,cn,魅族, 魅蓝 Max 移动版
 meizu,S685C,cn,魅族, 魅蓝 Max 电信版
@@ -3482,6 +3487,9 @@ meizu,M822H,en,魅族, MEIZU Note 8 Global
 meizu,M822Q,en,魅族, MEIZU Note 8 China
 meizu,M923H,en,魅族, MEIZU Note 9 Global
 meizu,M923Q,en,魅族, MEIZU Note 9 China
+meizu,M411H,en,魅族, MEIZU Note 21 Global
+meizu,M411L,en,魅族, MEIZU Note 21 Global
+meizu,M412H,en,魅族, MEIZU Note 21 Pro Global
 meizu,A680H,en,魅族, MEIZU M3E Global
 meizu,A680Q,en,魅族, MEIZU M1 E China
 meizu,A680M,en,魅族, MEIZU M1 E China Mobile
@@ -3541,6 +3549,7 @@ meizu,M918H,en,魅族, MEIZU M10 Global
 meizu,M2112,en,魅族, mblu 10
 meizu,M2111,en,魅族, mblu 10s
 meizu,M421Q,en,魅族, MEIZU M20
+meizu,M410H,en,魅族, MEIZU MBLU Global
 meizu,S685H,en,魅族, MEIZU M3 Max Global
 meizu,S685Q,en,魅族, MEIZU M3 Max China
 meizu,S685M,en,魅族, MEIZU M3 Max China Mobile
