@@ -4051,6 +4051,7 @@ nothing,A063,cn,Nothing, Nothing Phone (1)
 nothing,A065,cn,Nothing, Nothing Phone (2) Global
 nothing,AIN065,cn,Nothing, Nothing Phone (2) India
 nothing,A142,cn,Nothing, Nothing Phone (2a)
+nothing,A142P,cn,Nothing, Nothing Phone (2a) Plus
 nothing,A015,cn,Nothing, CMF Phone 1
 nubia,NX501,cn,努比亚, nubia Z5
 nubia,NX401,cn,努比亚, nubia Z5 mini
@@ -5018,6 +5019,8 @@ realme,RMX3998,en,真我, realme 12x 5G
 realme,RMX3867,en,真我, realme 12+ 5G
 realme,RMX3842,en,真我, realme 12 Pro 5G
 realme,RMX3840,en,真我, realme 12 Pro+ 5G
+realme,RMX3990,en,真我, realme 13 Pro 5G
+realme,RMX3921,en,真我, realme 13 Pro+ 5G
 realme,RMX1901,en,真我, realme X
 realme,RMX1921,en,真我, realme XT Global
 realme,RMX1922,en,真我, realme XT India
@@ -5098,7 +5101,8 @@ realme,RMX3765,en,真我, realme C51s
 realme,RMX3760,en,真我, realme C53 Global
 realme,RMX3762,en,真我, realme C53 India
 realme,RMX3710,en,真我, realme C55
-realme,RMX3939,en,真我, realme C61
+realme,RMX3939,en,真我, realme C61 Global
+realme,RMX3933,en,真我, realme C61 India
 realme,RMX3939,en,真我, realme C63
 realme,RMX3910,en,真我, realme C65
 realme,RMX3997,en,真我, realme C65 5G
@@ -5137,6 +5141,9 @@ realme,RMX3710,en,真我, realme Narzo N55
 realme,RMX3750,en,真我, realme Narzo 60 5G
 realme,RMX3771,en,真我, realme Narzo 60 Pro 5G
 realme,RMX3782,en,真我, realme Narzo 60x 5G
+realme,RMX3933,en,真我, realme NARZO N61
+realme,RMX3939,en,真我, realme NARZO N63
+realme,RMX3997,en,真我, realme NARZO N65 5G
 realme,RMX3869,en,真我, realme NARZO 70 5G
 realme,RMX3868,en,真我, realme NARZO 70 Pro 5G
 realme,RMX3998,en,真我, realme NARZO 70x 5G
@@ -6590,7 +6597,9 @@ vivo,V2331,en,VIVO, vivo Y17s
 vivo,V2333,en,VIVO, vivo Y18
 vivo,V2345,en,VIVO, vivo Y18
 vivo,V2410,en,VIVO, vivo Y18s
+vivo,V2408,en,VIVO, vivo Y18t
 vivo,V2350,en,VIVO, vivo Y18e
+vivo,V2414,en,VIVO, vivo Y18i
 vivo,V2027,en,VIVO, vivo Y20
 vivo,V2037,en,VIVO, vivo Y20G
 vivo,V2032,en,VIVO, vivo Y20i
