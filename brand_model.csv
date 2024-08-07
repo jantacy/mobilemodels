@@ -2178,6 +2178,14 @@ huawei,PCE-W30,cn,华为, HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版
 huawei,PCE-W40,cn,华为, HUAWEI MatePad Pro 13.2 英寸 Wi-Fi 版 (16GB+1TB)
 huawei,PCE-AL30,cn,华为, HUAWEI MatePad Pro 13.2 英寸 全网通版
 huawei,PCE-AL40,cn,华为, HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版
+huawei,MRO-W00,cn,华为, HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版
+huawei,MRO-W10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)
+huawei,MRO-AL10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
+huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
+huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 全网通版
+huawei,BKY-W00,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
+huawei,BKY-W10,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (12GB+256GB)
+huawei,BKY-W20,cn,华为, HUAWEI MatePad Air 12 英寸 柔光版 Wi-Fi 版
 huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
 huawei,BAH3-W59,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
 huawei,BAH3-AL00,cn,华为, HUAWEI MatePad 10.4 英寸 全网通版 (麒麟 810)
@@ -2197,8 +2205,6 @@ huawei,DBR-W10,cn,华为, HUAWEI MatePad 11 英寸 2023 柔光版 Wi-Fi 版
 huawei,TGR-W00,cn,华为," HUAWEI MatePad 11.5"" S Wi-Fi 版"
 huawei,TGR-W10,cn,华为," HUAWEI MatePad 11.5"" S 柔光版 Wi-Fi 版"
 huawei,DMG-W00,cn,华为," HUAWEI MatePad 11.5"" S 灵动款 Wi-Fi 版"
-huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
-huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 全网通版
 huawei,AGS2-W09,cn,华为, 华为畅享平板 10.1 英寸 Wi-Fi 版
 huawei,AGS2-AL00,cn,华为, 华为畅享平板 10.1 英寸 全网通版
 huawei,AGS3-W00D,cn,华为, 华为畅享平板 2 10.1 英寸 Wi-Fi 版 (4GB+64GB)
@@ -2483,6 +2489,7 @@ huawei,HD65FRUB,cn,华为, 华为智慧屏 V 65 三代
 huawei,HD75FRUB,cn,华为, 华为智慧屏 V 75 三代
 huawei,HD75ARKB,cn,华为, 华为智慧屏 V5 75
 huawei,HD85ARKB,cn,华为, 华为智慧屏 V5 85
+huawei,HD98ARKB,cn,华为, 华为智慧屏 V5 98
 huawei,HD75ARKA,cn,华为, 华为智慧屏 V5 Pro 75
 huawei,HD85ARKA,cn,华为, 华为智慧屏 V5 Pro 85
 huawei,HD98ARKA,cn,华为, 华为智慧屏 V5 Pro 98
@@ -2506,6 +2513,7 @@ huawei,HD86AJMS,cn,华为, 华为智慧屏 S3 Pro 86
 huawei,HDB5256H,cn,华为, 华为智慧屏 S5 55
 huawei,HDB5266H,cn,华为, 华为智慧屏 S5 65
 huawei,HDB5276H,cn,华为, 华为智慧屏 S5 75
+huawei,HDB5286H,cn,华为, 华为智慧屏 S5 85
 huawei,HD65AJMN,cn,华为, 华为智慧屏 S5 Pro 65
 huawei,HD75AJMN,cn,华为, 华为智慧屏 S5 Pro 75
 huawei,HD86AJMN,cn,华为, 华为智慧屏 S5 Pro 86
@@ -2541,6 +2549,7 @@ huawei,HD8XQINA,cn,华为, 华为 Vision 智慧屏 4 86
 huawei,HD55KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 55
 huawei,HD65KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 65
 huawei,HD75KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 75
+huawei,HD85KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 85
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
 huawei,HD55KANY,cn,华为, 华为智慧屏 B5-510
@@ -5398,8 +5407,8 @@ samsung,SM-X910,cn,三星, Galaxy Tab S9 Ultra WLAN
 samsung,SM-X916C,cn,三星, Galaxy Tab S9 Ultra 5G
 samsung,SM-X510,cn,三星, Galaxy Tab S9 FE WLAN
 samsung,SM-X516C,cn,三星, Galaxy Tab S9 FE 5G
-samsung,SM-X610,cn,三星, Galaxy Tab S9 FE WLAN
-samsung,SM-X616C,cn,三星, Galaxy Tab S9 FE 5G
+samsung,SM-X610,cn,三星, Galaxy Tab S9 FE+ WLAN
+samsung,SM-X616C,cn,三星, Galaxy Tab S9 FE+ 5G
 samsung,SM-T350,cn,三星, Galaxy Tab A 8.0 WLAN
 samsung,SM-T355C,cn,三星, Galaxy Tab A 8.0 LTE
 samsung,SM-T550,cn,三星, Galaxy Tab A 9.7 WLAN
@@ -7367,6 +7376,9 @@ xiaomi,2405CRPFDI,cn,小米, Redmi Pad Pro 印度版
 xiaomi,2405CRPFDL,cn,小米, Redmi Pad Pro 拉美版
 xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G 国行版
 xiaomi,24074RPD2G,cn,小米, Redmi Pad Pro 5G 国际版
+xiaomi,24075RP89G,cn,小米, Redmi Pad SE 8.7 国际版
+xiaomi,24076RP19G,cn,小米, Redmi Pad SE 8.7 4G 国际版
+xiaomi,24076RP19I,cn,小米, Redmi Pad SE 4G 印度版
 xiaomi,M1805E10A,cn,小米, POCO F1
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
@@ -8135,6 +8147,9 @@ xiaomi,2405CRPFDI,en,小米, Redmi Pad Pro India
 xiaomi,2405CRPFDL,en,小米, Redmi Pad Pro Latin America
 xiaomi,24074RPD2G,en,小米, Redmi Pad Pro 5G Global
 xiaomi,24074RPD2C,en,小米, Redmi Pad Pro 5G China
+xiaomi,24075RP89G,en,小米, Redmi Pad SE 8.7 Global
+xiaomi,24076RP19G,en,小米, Redmi Pad SE 8.7 4G Global
+xiaomi,24076RP19I,en,小米, Redmi Pad SE 4G India
 xiaomi,2405CPCFBG,en,小米, POCO Pad Global
 xiaomi,FYJ01QP,en,小米, Xiaomi Mijia Translator
 xiaomi,21051191C,en,小米, Xiaomi CyberDog Bio-inspired Quadruped Robot
@@ -8236,7 +8251,7 @@ zte,7541N,cn,中兴, 中兴远航 41
 zte,7546N,cn,中兴, 中兴远航 41S
 zte,1021L,cn,中兴, 中兴畅行 40 SE
 zte,7543N,cn,中兴, 中兴小鲜 50 / 中兴畅行 50
-zte,7551N,cn,中兴, 中兴小鲜 60 / 中兴远航 60
+zte,7551N,cn,中兴, 中兴小鲜 60 / 中兴远航 60 / 中兴 V80
 zte,7552N,cn,中兴, 中兴畅行 60
 zte,Z9101,cn,中兴, 中兴远航 3D
 zte,9041N,cn,中兴, 中兴 V70
