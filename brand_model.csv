@@ -1714,7 +1714,10 @@ honor,CRT-NX1,en,荣耀, HONOR 90 Lite
 honor,CRT-NX3,en,荣耀, HONOR 90 Lite
 honor,CLK-NX1,en,荣耀, HONOR 90 Smart
 honor,CLK-NX3,en,荣耀, HONOR 90 Smart
+honor,ELI-NX9,en,荣耀, HONOR 200
+honor,ELP-NX9,en,荣耀, HONOR 200 Pro
 honor,LLY-NX1,en,荣耀, HONOR 200 Lite
+honor,LLY-NX3,en,荣耀, HONOR 200 Lite
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-LX2,en,荣耀, HONOR Magic4 Lite
@@ -1745,6 +1748,10 @@ honor,WDY-LX1,en,荣耀, HONOR X6a
 honor,WDY-LX2,en,荣耀, HONOR X6a
 honor,WDY-LX3,en,荣耀, HONOR X6a
 honor,WDY-LX3,en,荣耀, HONOR X6a Plus
+honor,JDY-LX1,en,荣耀, HONOR X6b
+honor,JDY-LX2,en,荣耀, HONOR X6b
+honor,JDY-LX3,en,荣耀, HONOR X6b
+honor,JDY-LX3P,en,荣耀, HONOR X6b Plus
 honor,CMA-LX1,en,荣耀, HONOR X7
 honor,CMA-LX2,en,荣耀, HONOR X7
 honor,CMA-LX3,en,荣耀, HONOR X7
@@ -5114,8 +5121,10 @@ realme,RMX3760,en,真我, realme C53 Global
 realme,RMX3762,en,真我, realme C53 India
 realme,RMX3710,en,真我, realme C55
 realme,RMX3939,en,真我, realme C61 Global
+realme,RMX3930,en,真我, realme C61 Global
 realme,RMX3933,en,真我, realme C61 India
 realme,RMX3939,en,真我, realme C63
+realme,RMX3950,en,真我, realme C63 5G
 realme,RMX3910,en,真我, realme C65
 realme,RMX3997,en,真我, realme C65 5G
 realme,RMX3890,en,真我, realme C67
@@ -5125,6 +5134,7 @@ realme,RMX1831,en,真我, realme U1
 realme,RMX1833,en,真我, realme U1
 realme,RMX3870,en,真我, realme P1 5G
 realme,RMX3844,en,真我, realme P1 Pro 5G
+realme,RMX3987,en,真我, realme P2 Pro 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
 realme,RMX2020,en,真我, realme Narzo 10A India
