@@ -2572,8 +2572,12 @@ huawei,HD55KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 55
 huawei,HD65KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 65
 huawei,HD75KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 75
 huawei,HD85KUNL,cn,华为, 华为 Vision 智慧屏 4 SE 85
+huawei,HD75ARQD,cn,华为, 华为 Vision 智慧屏 4 Pro 75
+huawei,HD85ARQD,cn,华为, 华为 Vision 智慧屏 4 Pro 85
 huawei,HD55DESB,cn,华为, 华为智慧屏 B3-500
 huawei,HD65DESB,cn,华为, 华为智慧屏 B3-600
+huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
+huawei,HDB326A7,cn,华为, 华为智慧屏 B3 65
 huawei,HD55KANY,cn,华为, 华为智慧屏 B5-510
 huawei,HD65KANY,cn,华为, 华为智慧屏 B5-610
 huawei,HEGE-550AX,cn,华为, 华为智慧屏 B7-500
@@ -4965,8 +4969,10 @@ realme,RMX3770,cn,真我, 真我 11 Pro
 realme,RMX3740,cn,真我, 真我 11 Pro+
 realme,RMX3992,cn,真我, 真我 12
 realme,RMX3993,cn,真我, 真我 12x
-realme,RMX3843,cn,真我, 真我 12 Pro
+realme,RMX3843,cn,真我, 真我 12 Pro / 真我 12 Pro 至尊版
 realme,RMX3841,cn,真我, 真我 12 Pro+
+realme,RMX3989,cn,真我, 真我 13 Pro / 真我 13 Pro 至尊版
+realme,RMX3920,cn,真我, 真我 13 Pro+
 realme,RMX2200,cn,真我, 真我 V3 5G 全网通版
 realme,RMX2201,cn,真我, 真我 V3 5G 运营商定制版
 realme,RMX2111,cn,真我, 真我 V5 5G 全网通版
