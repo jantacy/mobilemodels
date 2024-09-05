@@ -1109,6 +1109,7 @@ honor,BVL-AN20,cn,荣耀, 荣耀 Magic6 至臻版
 honor,BVL-AN20,cn,荣耀, 荣耀 Magic6 RSR 保时捷设计
 honor,LRA-AN00,cn,荣耀, 荣耀 Magic V Flip
 honor,FCP-AN10,cn,荣耀, 荣耀 Magic V3
+honor,FCP-AN20,cn,荣耀, 荣耀 Magic V3 双卫星版
 honor,FLC-AN00,cn,荣耀, 荣耀 Magic Vs3
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
@@ -4175,6 +4176,8 @@ nubia,NX729S,cn,努比亚, 红魔 8S Pro / 红魔 8S Pro+
 nubia,NX769J,cn,努比亚, 红魔 9 Pro / 红魔 9 Pro+
 nubia,NX769J,cn,努比亚, 红魔 9S Pro / 红魔 9S Pro+
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
+nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
+nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
 oneplus,A0001,cn,一加, OnePlus One 全网通版 / 移动版 / 国际版
 oneplus,A1001,cn,一加, OnePlus One 联通版
 oneplus,A2001,cn,一加, OnePlus 2
@@ -7169,7 +7172,6 @@ xiaomi,2404ARN45A,cn,小米, Redmi 13 国际版
 xiaomi,2404ARN45I,cn,小米, Redmi 13 印度版
 xiaomi,24049RN28L,cn,小米, Redmi 13 拉美版
 xiaomi,24040RN64Y,cn,小米, Redmi 13 国际版 (NFC)
-xiaomi,2406ERN9CC,cn,小米, Redmi 13 5G 国行版
 xiaomi,2406ERN9CI,cn,小米, Redmi 13 5G 印度版
 xiaomi,23106RN0DA,cn,小米, Redmi 13C 国际版
 xiaomi,2311DRN14I,cn,小米, Redmi 13C 印度版
@@ -7178,6 +7180,9 @@ xiaomi,23108RN04Y,cn,小米, Redmi 13C 国际版 (NFC)
 xiaomi,23124RN87C,cn,小米, Redmi 13C 5G 国行版 / Redmi 13R 5G
 xiaomi,23124RN87I,cn,小米, Redmi 13C 5G 印度版
 xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
+xiaomi,2409BRN2CA,cn,小米, Redmi 14C 国际版
+xiaomi,2409BRN2CI,cn,小米, Redmi 14C 印度版
+xiaomi,2409BRN2CL,cn,小米, Redmi 14C 拉美版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -7415,6 +7420,7 @@ xiaomi,2312CRNCCL,cn,小米, Redmi A3 拉美版
 xiaomi,24048RN6CG,cn,小米, Redmi A3x 国际版
 xiaomi,24048RN6CI,cn,小米, Redmi A3x 印度版
 xiaomi,24044RN32L,cn,小米, Redmi A3x 拉美版
+xiaomi,2409BRN2CG,cn,小米, Redmi A3 Pro 国际版
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
@@ -7852,7 +7858,6 @@ xiaomi,2404ARN45A,en,小米, Redmi 13 Global
 xiaomi,2404ARN45I,en,小米, Redmi 13 India
 xiaomi,24049RN28L,en,小米, Redmi 13 Latin America
 xiaomi,24040RN64Y,en,小米, Redmi 13 Global (NFC)
-xiaomi,2406ERN9CC,en,小米, Redmi 13 5G China
 xiaomi,2406ERN9CI,en,小米, Redmi 13 5G India
 xiaomi,23106RN0DA,en,小米, Redmi 13C Global
 xiaomi,2311DRN14I,en,小米, Redmi 13C India
@@ -7861,6 +7866,9 @@ xiaomi,23108RN04Y,en,小米, Redmi 13C Global (NFC)
 xiaomi,23124RN87G,en,小米, Redmi 13C 5G Global
 xiaomi,23124RN87I,en,小米, Redmi 13C 5G India
 xiaomi,23124RN87C,en,小米, Redmi 13C 5G China / Redmi 13R 5G China
+xiaomi,2409BRN2CA,en,小米, Redmi 14C Global
+xiaomi,2409BRN2CI,en,小米, Redmi 14C India
+xiaomi,2409BRN2CL,en,小米, Redmi 14C Latin America
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -8098,6 +8106,7 @@ xiaomi,2312CRNCCL,en,小米, Redmi A3 Latin America
 xiaomi,24048RN6CG,en,小米, Redmi A3x Global
 xiaomi,24048RN6CI,en,小米, Redmi A3x India
 xiaomi,24044RN32L,en,小米, Redmi A3x Latin America
+xiaomi,2409BRN2CG,en,小米, Redmi A3 Pro Global
 xiaomi,M1805E10A,en,小米, POCO F1
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
