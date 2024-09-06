@@ -3414,6 +3414,8 @@ meizu,M57AU,cn,魅族, 魅蓝 metal 联通版
 meizu,M57AC,cn,魅族, 魅蓝 metal 电信版
 meizu,M710M,cn,魅族, 魅蓝 A5 移动定制版
 meizu,M710H,cn,魅族, 魅族 M5c 国际版
+meizu,M468Q,cn,魅族, LYNK & CO Phone Note
+meizu,M481S,cn,魅族, LYNK & CO Phone Pro
 meizu,M481S,cn,魅族, Polestar Phone
 meizu,M8,en,魅族, MEIZU M8
 meizu,M8SE,en,魅族, MEIZU M8 SE
@@ -3608,6 +3610,8 @@ meizu,U685M,en,魅族, MEIZU U20 China Mobile
 meizu,U685C,en,魅族, MEIZU U20 China Telecom
 meizu,M818H,en,魅族, MEIZU C9 Global
 meizu,M819H,en,魅族, MEIZU C9 Pro Global
+meizu,M468Q,en,魅族, LYNK & CO Phone Note
+meizu,M481S,en,魅族, LYNK & CO Phone Pro
 meizu,M481S,en,魅族, Polestar Phone
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
@@ -7183,6 +7187,7 @@ xiaomi,23124RN87G,cn,小米, Redmi 13C 5G 国际版
 xiaomi,2409BRN2CA,cn,小米, Redmi 14C 国际版
 xiaomi,2409BRN2CI,cn,小米, Redmi 14C 印度版
 xiaomi,2409BRN2CL,cn,小米, Redmi 14C 拉美版
+xiaomi,2409BRN2CY,cn,小米, Redmi 14C 国际版 (NFC)
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -7869,6 +7874,7 @@ xiaomi,23124RN87C,en,小米, Redmi 13C 5G China / Redmi 13R 5G China
 xiaomi,2409BRN2CA,en,小米, Redmi 14C Global
 xiaomi,2409BRN2CI,en,小米, Redmi 14C India
 xiaomi,2409BRN2CL,en,小米, Redmi 14C Latin America
+xiaomi,2409BRN2CY,en,小米, Redmi 14C Global (NFC)
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
