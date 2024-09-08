@@ -1083,6 +1083,10 @@ google,GBZ4S,cn,Google, Pixel Watch LTE (Global)
 google,G4TSL,cn,Google, Pixel Watch 2 Bluetooth & Wi-Fi
 google,GD2WG,cn,Google, Pixel Watch 2 LTE (US)
 google,GC3G8,cn,Google, Pixel Watch 2 LTE (Global)
+google,GG3HH,cn,Google, Pixel Watch 3 Bluetooth & Wi-Fi (41mm)
+google,GBDU9,cn,Google, Pixel Watch 3 LTE (41mm)
+google,GGE4J,cn,Google, Pixel Watch 3 Bluetooth & Wi-Fi (45mm)
+google,GRY0E,cn,Google, Pixel Watch 3 LTE (45mm)
 honor,NTS-AL00,cn,荣耀, 荣耀 Magic 全网通版
 honor,TNY-AL00,cn,荣耀, 荣耀 Magic2 全网通版
 honor,TNY-AL10,cn,荣耀, 荣耀 Magic2 3D 感光版
@@ -1751,6 +1755,7 @@ honor,BVL-N49,en,荣耀, HONOR Magic6 Pro
 honor,BVL-N59,en,荣耀, PORSCHE DESIGN HONOR Magic6 RSR
 honor,ALI-NX1,en,荣耀, HONOR Magic6 Lite 5G
 honor,ALI-NX3,en,荣耀, HONOR Magic6 Lite 5G
+honor,FCP-N49,en,荣耀, HONOR Magic V3
 honor,VNA-LX2,en,荣耀, HONOR X5
 honor,VNA-LX3,en,荣耀, HONOR X5
 honor,WOD-LX1,en,荣耀, HONOR X5 Plus
@@ -1808,6 +1813,7 @@ honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
 honor,ELN-L03,en,荣耀, HONOR Pad X9 LTE
 honor,ELN-L09,en,荣耀, HONOR Pad X9 LTE
+honor,ROD2-W09,en,荣耀, HONOR MagicPad2
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
@@ -3810,6 +3816,13 @@ mitv,L43RA-RA,cn,小米电视, Redmi 智能电视 A43 2025 款
 mitv,L50RB-RA,cn,小米电视, Redmi 智能电视 A50 2025 款
 mitv,L55RB-RA,cn,小米电视, Redmi 智能电视 A55 2025 款
 mitv,L65RB-RA,cn,小米电视, Redmi 智能电视 A65 2025 款
+mitv,L70RB-RA,cn,小米电视, Redmi 智能电视 A70 2025 款
+mitv,L43RB-AP,cn,小米电视, Redmi 智能电视 A Pro 43
+mitv,L50RB-AP,cn,小米电视, Redmi 智能电视 A Pro 50 节能版
+mitv,L55RB-AP,cn,小米电视, Redmi 智能电视 A Pro 55 节能版
+mitv,L65RB-AP,cn,小米电视, Redmi 智能电视 A Pro 65 节能版
+mitv,L70RB-AP,cn,小米电视, Redmi 智能电视 A Pro 70 节能版
+mitv,L75RB-AP,cn,小米电视, Redmi 智能电视 A Pro 75 节能版
 mitv,L50M5-RK,cn,小米电视, Redmi 智能电视 X50 (2020)
 mitv,L55M5-RK,cn,小米电视, Redmi 智能电视 X55 (2020)
 mitv,L65M5-RK,cn,小米电视, Redmi 智能电视 X65 (2020)
@@ -3831,6 +3844,7 @@ mitv,L75MA-XT,cn,小米电视, Redmi AI 智能电视 X75 2024 款
 mitv,L65R9-XP,cn,小米电视, Redmi 智能电视 X Pro 65
 mitv,L75R9-XP,cn,小米电视, Redmi 智能电视 X Pro 75
 mitv,L85RA-RX,cn,小米电视, Redmi 智能电视 MAX 85 英寸
+mitv,L85RB-MAX,cn,小米电视, Redmi 智能电视 MAX 85 2025 款
 mitv,L86R6-MAX,cn,小米电视, Redmi 智能电视 MAX 86 英寸
 mitv,L90R9-MAX,cn,小米电视, Redmi 智能电视 MAX 90 英寸
 mitv,L98M6-RK,cn,小米电视, Redmi 智能电视 MAX 98 英寸
@@ -6623,6 +6637,7 @@ vivo,V2349,en,VIVO, vivo V30 SE
 vivo,V2348,en,VIVO, vivo V40
 vivo,V2347,en,VIVO, vivo V40 Pro
 vivo,V2403,en,VIVO, vivo V40e
+vivo,V2418,en,VIVO, vivo V40e
 vivo,V2341,en,VIVO, vivo V40 Lite
 vivo,V2337,en,VIVO, vivo V40 SE 5G
 vivo,V2342,en,VIVO, vivo V40 SE 5G
@@ -6641,6 +6656,7 @@ vivo,V2334,en,VIVO, vivo T3 5G
 vivo,V2338,en,VIVO, vivo T3x 5G
 vivo,V2404,en,VIVO, vivo T3 Pro 5G
 vivo,V2356,en,VIVO, vivo T3 Lite 5G
+vivo,V2426,en,VIVO, vivo T3 Ultra 5G
 vivo,V2044,en,VIVO, vivo Y3s
 vivo,V2118,en,VIVO, vivo Y01
 vivo,V2166,en,VIVO, vivo Y01A
@@ -6667,6 +6683,7 @@ vivo,V2410,en,VIVO, vivo Y18s
 vivo,V2408,en,VIVO, vivo Y18t
 vivo,V2350,en,VIVO, vivo Y18e
 vivo,V2414,en,VIVO, vivo Y18i
+vivo,V2419,en,VIVO, vivo Y19s
 vivo,V2027,en,VIVO, vivo Y20
 vivo,V2037,en,VIVO, vivo Y20G
 vivo,V2032,en,VIVO, vivo Y20i
@@ -6731,6 +6748,9 @@ vivo,V2244,en,VIVO, vivo Y78 5G
 vivo,V2222,en,VIVO, vivo Y100A 5G
 vivo,V2307,en,VIVO, vivo Y200 5G
 vivo,V2336,en,VIVO, vivo Y200e 5G
+vivo,V2416,en,VIVO, vivo Y300 5G
+vivo,V2422,en,VIVO, vivo Y300+ 5G
+vivo,V2402,en,VIVO, vivo Y300 Pro 5G
 vivo,I1927,en,VIVO, iQOO 3 4G
 vivo,I1928,en,VIVO, iQOO 3 5G
 vivo,I2009,en,VIVO, iQOO 7
