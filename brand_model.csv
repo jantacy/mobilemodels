@@ -399,6 +399,16 @@ apple,A2984,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表�
 apple,A2985,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 apple,A2986,cn,苹果, Apple Watch Ultra 2 (全球)
 apple,A2987,cn,苹果, Apple Watch Ultra 2 (中国大陆 & 港澳)
+apple,A1218,cn,苹果, Apple TV (第 1 代)
+apple,A1378,cn,苹果, Apple TV (第 2 代)
+apple,A1427,cn,苹果, Apple TV (第 3 代)
+apple,A1469,cn,苹果, Apple TV (第 3 代) (Rev A)
+apple,A1625,cn,苹果, Apple TV HD
+apple,A1842,cn,苹果, Apple TV 4K
+apple,A2169,cn,苹果, Apple TV 4K (第 2 代)
+apple,A2737,cn,苹果, Apple TV 4K (第 3 代) (无线局域网)
+apple,A2843,cn,苹果, Apple TV 4K (第 3 代) (无线局域网 + 以太网)
+apple,A2117,cn,苹果, Apple Vision Pro
 apple,A1213,cn,苹果, iPod touch
 apple,A1288,cn,苹果, iPod touch (第 2 代)
 apple,A1319,cn,苹果, iPod touch (第 2 代) (中国大陆)
@@ -763,6 +773,16 @@ apple,A2984,en,苹果, Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global
 apple,A2985,en,苹果," Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
 apple,A2986,en,苹果, Apple Watch Ultra 2 (Global)
 apple,A2987,en,苹果," Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
+apple,A1218,en,苹果, Apple TV (1st generation)
+apple,A1378,en,苹果, Apple TV (2nd generation)
+apple,A1427,en,苹果, Apple TV (3rd generation)
+apple,A1469,en,苹果, Apple TV (3rd generation) (Rev A)
+apple,A1625,en,苹果, Apple TV HD
+apple,A1842,en,苹果, Apple TV 4K
+apple,A2169,en,苹果, Apple TV 4K (2nd generation)
+apple,A2737,en,苹果, Apple TV 4K (3rd generation) Wi-Fi
+apple,A2843,en,苹果, Apple TV 4K (3rd generation) Wi-Fi + Ethernet
+apple,A2117,en,苹果, Apple Vision Pro
 apple,A1213,en,苹果, iPod touch (1st generation)
 apple,A1288,en,苹果, iPod touch (2nd generation)
 apple,A1319,en,苹果, iPod touch (2nd generation) (China mainland)
@@ -1892,6 +1912,7 @@ huawei,PAL-AL00,cn,华为, HUAWEI Mate Xs 2
 huawei,PAL-AL10,cn,华为, HUAWEI Mate Xs 2
 huawei,ALT-AL00,cn,华为, HUAWEI Mate X3
 huawei,ALT-AL10,cn,华为, HUAWEI Mate X5
+huawei,GRL-AL10,cn,华为, HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
 huawei,U9200,cn,华为, 华为 Ascend P1
 huawei,U9200E,cn,华为, 华为 Ascend P1 XL
 huawei,U9200S,cn,华为, 华为 Ascend P1 S
