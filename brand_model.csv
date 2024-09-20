@@ -205,6 +205,22 @@ apple,A2849,cn,苹果, iPhone 15 Pro Max (美国)
 apple,A3105,cn,苹果," iPhone 15 Pro Max (加拿大, 日本, 墨西哥, 沙特阿拉伯)"
 apple,A3108,cn,苹果, iPhone 15 Pro Max (中国大陆 & 港澳)
 apple,A3106,cn,苹果, iPhone 15 Pro Max (其他国家和地区)
+apple,A3081,cn,苹果, iPhone 16 (美国)
+apple,A3286,cn,苹果," iPhone 16 (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3288,cn,苹果, iPhone 16 (中国大陆 & 港澳)
+apple,A3287,cn,苹果, iPhone 16 (其他国家和地区)
+apple,A3082,cn,苹果, iPhone 16 Plus (美国)
+apple,A3289,cn,苹果," iPhone 16 Plus (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3291,cn,苹果, iPhone 16 Plus (中国大陆 & 港澳)
+apple,A3290,cn,苹果, iPhone 16 Plus (其他国家和地区)
+apple,A3083,cn,苹果, iPhone 16 Pro (美国)
+apple,A3292,cn,苹果," iPhone 16 Pro (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3294,cn,苹果, iPhone 16 Pro (中国大陆 & 港澳)
+apple,A3293,cn,苹果, iPhone 16 Pro (其他国家和地区)
+apple,A3084,cn,苹果, iPhone 16 Pro Max (美国)
+apple,A3295,cn,苹果," iPhone 16 Pro Max (加拿大, 日本, 墨西哥, 部分中东国家)"
+apple,A3297,cn,苹果, iPhone 16 Pro Max (中国大陆 & 港澳)
+apple,A3296,cn,苹果, iPhone 16 Pro Max (其他国家和地区)
 apple,A1219,cn,苹果, iPad (无线局域网)
 apple,A1337,cn,苹果, iPad (无线局域网 + 3G)
 apple,A1395,cn,苹果, iPad 2 (无线局域网)
@@ -399,6 +415,14 @@ apple,A2984,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表�
 apple,A2985,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳) (中国大陆 & 港澳)
 apple,A2986,cn,苹果, Apple Watch Ultra 2 (全球)
 apple,A2987,cn,苹果, Apple Watch Ultra 2 (中国大陆 & 港澳)
+apple,A2997,cn,苹果, Apple Watch Series 10 (GPS) (42 毫米表壳) (全球)
+apple,A2998,cn,苹果," Apple Watch Series 10 (GPS) (42 毫米表壳) (中国大陆, 印度尼西亚)"
+apple,A2999,cn,苹果, Apple Watch Series 10 (GPS) (46 毫米表壳) (全球)
+apple,A3000,cn,苹果," Apple Watch Series 10 (GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)"
+apple,A3001,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
+apple,A3002,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
+apple,A3003,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
+apple,A3206,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
 apple,A1218,cn,苹果, Apple TV (第 1 代)
 apple,A1378,cn,苹果, Apple TV (第 2 代)
 apple,A1427,cn,苹果, Apple TV (第 3 代)
@@ -579,6 +603,22 @@ apple,A2849,en,苹果, iPhone 15 Pro Max (United States)
 apple,A3105,en,苹果," iPhone 15 Pro Max (Canada, Japan, Mexico, Saudi Arabia)"
 apple,A3108,en,苹果," iPhone 15 Pro Max (China mainland, Hong Kong, Macao)"
 apple,A3106,en,苹果, iPhone 15 Pro Max (Rest of the world)
+apple,A3081,en,苹果, iPhone 16 (United States)
+apple,A3286,en,苹果," iPhone 16 (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3288,en,苹果," iPhone 16 (China mainland, Hong Kong, Macao)"
+apple,A3287,en,苹果, iPhone 16 (Rest of the world)
+apple,A3082,en,苹果, iPhone 16 Plus (United States)
+apple,A3289,en,苹果," iPhone 16 Plus (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3291,en,苹果," iPhone 16 Plus (China mainland, Hong Kong, Macao)"
+apple,A3290,en,苹果, iPhone 16 Plus (Rest of the world)
+apple,A3083,en,苹果, iPhone 16 Pro (United States)
+apple,A3292,en,苹果," iPhone 16 Pro (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3294,en,苹果," iPhone 16 Pro (China mainland, Hong Kong, Macao)"
+apple,A3293,en,苹果, iPhone 16 Pro (Rest of the world)
+apple,A3084,en,苹果, iPhone 16 Pro Max (United States)
+apple,A3295,en,苹果," iPhone 16 Pro Max (Bahrain, Canada, Iraq, Guam, Japan, Jordan, Kuwait, Mexico, Oman, Qatar, Saudi Arabia, United Arab Emirates, U.S. Virgin Islands)"
+apple,A3297,en,苹果," iPhone 16 Pro Max (China mainland, Hong Kong, Macao)"
+apple,A3296,en,苹果, iPhone 16 Pro Max (Rest of the world)
 apple,A1219,en,苹果, iPad Wi-Fi
 apple,A1337,en,苹果, iPad Wi-Fi + 3G
 apple,A1395,en,苹果, iPad 2 Wi-Fi
@@ -773,6 +813,14 @@ apple,A2984,en,苹果, Apple Watch Series 9 (GPS + Cellular) (45mm case) (Global
 apple,A2985,en,苹果," Apple Watch Series 9 (GPS + Cellular) (45mm case) (China mainland, Hong Kong, Macao)"
 apple,A2986,en,苹果, Apple Watch Ultra 2 (Global)
 apple,A2987,en,苹果," Apple Watch Ultra 2 (China mainland, Hong Kong, Macao)"
+apple,A2997,en,苹果, Apple Watch Series 10 (GPS) (42mm case) (Global)
+apple,A2998,en,苹果," Apple Watch Series 10 (GPS) (42mm case) (China mainland, Indonesia)"
+apple,A2999,en,苹果, Apple Watch Series 10 (GPS) (46mm case) (Global)
+apple,A3000,en,苹果," Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)"
+apple,A3001,en,苹果, Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
+apple,A3002,en,苹果," Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Hong Kong, Macao, Indonesia)"
+apple,A3003,en,苹果, Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
+apple,A3206,en,苹果," Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Hong Kong, Macao, Indonesia)"
 apple,A1218,en,苹果, Apple TV (1st generation)
 apple,A1378,en,苹果, Apple TV (2nd generation)
 apple,A1427,en,苹果, Apple TV (3rd generation)
@@ -832,6 +880,10 @@ apple,A3092,cn,苹果, iPhone 15
 apple,A3096,cn,苹果, iPhone 15 Plus
 apple,A3104,cn,苹果, iPhone 15 Pro
 apple,A3108,cn,苹果, iPhone 15 Pro Max
+apple,A3288,cn,苹果, iPhone 16
+apple,A3291,cn,苹果, iPhone 16 Plus
+apple,A3294,cn,苹果, iPhone 16 Pro
+apple,A3297,cn,苹果, iPhone 16 Pro Max
 apple,A1460,cn,苹果, iPad (第 4 代) (无线局域网 + 蜂窝网络) 
 apple,A2199,cn,苹果, iPad (第 7 代) (无线局域网 + 蜂窝网络)
 apple,A2430,cn,苹果, iPad (第 8 代) (无线局域网 + 蜂窝网络)
@@ -883,6 +935,10 @@ apple,A2859,cn,苹果, Apple Watch Ultra
 apple,A2983,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (41 毫米表壳)
 apple,A2985,cn,苹果, Apple Watch Series 9 (GPS + 蜂窝网络) (45 毫米表壳)
 apple,A2987,cn,苹果, Apple Watch Ultra 2
+apple,A2998,cn,苹果, Apple Watch Series 10 (GPS) (42 毫米表壳)
+apple,A3000,cn,苹果, Apple Watch Series 10 (GPS) (46 毫米表壳)
+apple,A3002,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳)
+apple,A3206,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳)
 apple,A1319,cn,苹果, iPod touch (第 2 代) 
 asus,_Z01QD,cn,华硕, ROG 游戏手机
 asus,_I001DA,cn,华硕, ROG 游戏手机 2
@@ -2645,6 +2701,9 @@ huawei,FRG-B19,cn,华为, HUAWEI WATCH GT 3 Pro 典藏版
 huawei,ODN-B19,cn,华为, HUAWEI WATCH GT 3 保时捷设计
 huawei,ARA-B19,cn,华为, HUAWEI WATCH GT 4 41mm
 huawei,PNX-B19,cn,华为, HUAWEI WATCH GT 4 46mm
+huawei,JNA-B19,cn,华为, HUAWEI WATCH GT 5 41mm
+huawei,VLI-B19,cn,华为, HUAWEI WATCH GT 5 46mm
+huawei,VLI-B29,cn,华为, HUAWEI WATCH GT 5 Pro 46mm
 huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
 huawei,OCF-B29,cn,华为, HUAWEI WATCH GT 2022 典藏版
@@ -2658,6 +2717,7 @@ huawei,YDA-B19V,cn,华为, HUAWEI WATCH FIT 2
 huawei,SLO-B19,cn,华为, HUAWEI WATCH FIT 3
 huawei,MLY-B10,cn,华为, HUAWEI WATCH D
 huawei,MLY-B11,cn,华为, HUAWEI WATCH D
+huawei,LCA-B11,cn,华为, HUAWEI WATCH D2
 huawei,SGA-B19,cn,华为, HUAWEI WATCH Buds
 huawei,MIL-B29B,cn,华为, HUAWEI WATCH B5-532
 huawei,JPT-B29B,cn,华为, HUAWEI WATCH B5-536
@@ -3032,6 +3092,7 @@ huawei,DBR-W19,en,华为, HUAWEI MatePad 11 2023 PaperMatte Edition Wi-Fi
 huawei,TGR-W09,en,华为," HUAWEI MatePad 11.5"" S Wi-Fi"
 huawei,DBY2-W09,en,华为, HUAWEI MatePad Air Wi-Fi
 huawei,DBY2-L09,en,华为, HUAWEI MatePad Air LTE
+huawei,BKY-W09,en,华为, HUAWEI MatePad 12 X Wi-Fi
 huawei,MRX-W09,en,华为, HUAWEI MatePad Pro 10.8 Wi-Fi
 huawei,MRX-W29,en,华为, HUAWEI MatePad Pro 10.8 Wi-Fi
 huawei,MRX-AL09,en,华为, HUAWEI MatePad Pro 10.8 LTE
@@ -3042,6 +3103,7 @@ huawei,WGR-W09,en,华为, HUAWEI MatePad Pro 12.6 2021 Wi-Fi
 huawei,WGR-W19,en,华为, HUAWEI MatePad Pro 12.6 2021 Wi-Fi
 huawei,WGRR-W09,en,华为, HUAWEI MatePad Pro 12.6 2022 Wi-Fi
 huawei,PCE-W29,en,华为, HUAWEI MatePad Pro 13.2 Wi-Fi
+huawei,MRO-W09,en,华为, HUAWEI MatePad Pro 12.2
 huawei,HMW-W09,en,华为, HUAWEI MatePad Paper Wi-Fi
 huawei,BGO-L03,en,华为, HUAWEI MediaPad T2 7.0 LTE
 huawei,BGO-DL09,en,华为, HUAWEI MediaPad T2 7.0 LTE
