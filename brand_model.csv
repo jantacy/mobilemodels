@@ -420,9 +420,9 @@ apple,A2998,cn,苹果," Apple Watch Series 10 (GPS) (42 毫米表壳) (中国大
 apple,A2999,cn,苹果, Apple Watch Series 10 (GPS) (46 毫米表壳) (全球)
 apple,A3000,cn,苹果," Apple Watch Series 10 (GPS) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 apple,A3001,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (全球)
-apple,A3002,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
+apple,A3002,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (42 毫米表壳) (中国大陆, 印度尼西亚)"
 apple,A3003,cn,苹果, Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (全球)
-apple,A3206,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆 & 港澳, 印度尼西亚)"
+apple,A3206,cn,苹果," Apple Watch Series 10 (GPS + 蜂窝网络) (46 毫米表壳) (中国大陆, 印度尼西亚)"
 apple,A1218,cn,苹果, Apple TV (第 1 代)
 apple,A1378,cn,苹果, Apple TV (第 2 代)
 apple,A1427,cn,苹果, Apple TV (第 3 代)
@@ -818,9 +818,9 @@ apple,A2998,en,苹果," Apple Watch Series 10 (GPS) (42mm case) (China mainland,
 apple,A2999,en,苹果, Apple Watch Series 10 (GPS) (46mm case) (Global)
 apple,A3000,en,苹果," Apple Watch Series 10 (GPS) (46mm case) (China mainland, Indonesia)"
 apple,A3001,en,苹果, Apple Watch Series 10 (GPS + Cellular) (42mm case) (Global)
-apple,A3002,en,苹果," Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Hong Kong, Macao, Indonesia)"
+apple,A3002,en,苹果," Apple Watch Series 10 (GPS + Cellular) (42mm case) (China mainland, Indonesia)"
 apple,A3003,en,苹果, Apple Watch Series 10 (GPS + Cellular) (46mm case) (Global)
-apple,A3206,en,苹果," Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Hong Kong, Macao, Indonesia)"
+apple,A3206,en,苹果," Apple Watch Series 10 (GPS + Cellular) (46mm case) (China mainland, Indonesia)"
 apple,A1218,en,苹果, Apple TV (1st generation)
 apple,A1378,en,苹果, Apple TV (2nd generation)
 apple,A1427,en,苹果, Apple TV (3rd generation)
@@ -1635,6 +1635,8 @@ honor,BRN-G561,cn,荣耀, 荣耀笔记本 X16 2024 i5 (16GB+1TB)
 honor,BRN-H56,cn,荣耀, 荣耀笔记本 X16 2024 R5 (16GB+512GB)
 honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
 honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
+honor,BRG-565,cn,荣耀, 荣耀笔记本 X16 2025 i5 (16GB+512GB)
+honor,BRG-561,cn,荣耀, 荣耀笔记本 X16 2025 i5 (16GB+1TB)
 honor,FRI-F56Z,cn,荣耀, 荣耀 MagicBook Z3 14 2023 i5
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
 honor,FRD-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB) (华为终端)
@@ -2602,6 +2604,7 @@ huawei,HD98ARKB,cn,华为, 华为智慧屏 V5 98
 huawei,HD75ARKA,cn,华为, 华为智慧屏 V5 Pro 75
 huawei,HD85ARKA,cn,华为, 华为智慧屏 V5 Pro 85
 huawei,HD98ARKA,cn,华为, 华为智慧屏 V5 Pro 98
+huawei,HDC0ARIA,cn,华为, 华为智慧屏 V5 Max 110
 huawei,PLAT-760,cn,华为, 华为智慧屏 X65
 huawei,HD55KANB,cn,华为, 华为智慧屏 S 55 60Hz (3GB+16GB)
 huawei,HD55KANC,cn,华为, 华为智慧屏 S 55 60Hz (3GB+32GB)
@@ -2704,6 +2707,7 @@ huawei,ARA-B19,cn,华为, HUAWEI WATCH GT 4 41mm
 huawei,PNX-B19,cn,华为, HUAWEI WATCH GT 4 46mm
 huawei,JNA-B19,cn,华为, HUAWEI WATCH GT 5 41mm
 huawei,VLI-B19,cn,华为, HUAWEI WATCH GT 5 46mm
+huawei,JNA-B29,cn,华为, HUAWEI WATCH GT 5 Pro 42mm
 huawei,VLI-B29,cn,华为, HUAWEI WATCH GT 5 Pro 46mm
 huawei,RUN-B19,cn,华为, HUAWEI WATCH GT Runner
 huawei,RUN-B29,cn,华为, HUAWEI WATCH GT Runner
@@ -4396,6 +4400,7 @@ oneplus,CPH2609,cn,一加, OnePlus 12R 欧洲版 / 国际版 / 原神刻晴定�
 oneplus,CPH2611,cn,一加, OnePlus 12R 北美版 / 原神刻晴定制机
 oneplus,PJF110,cn,一加, OnePlus Ace 3V 国行版
 oneplus,PJX110,cn,一加, OnePlus Ace 3 Pro 国行版
+oneplus,PJZ110,cn,一加, OnePlus 13 国行版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
@@ -4550,6 +4555,7 @@ oneplus,CPH2609,en,一加, OnePlus 12R Europe / Global / Genshin Impact Edition
 oneplus,CPH2611,en,一加, OnePlus 12R North America / Genshin Impact Edition
 oneplus,PJF110,en,一加, OnePlus Ace 3V China
 oneplus,PJX110,en,一加, OnePlus Ace 3 Pro China
+oneplus,PJZ110,en,一加, OnePlus 13 China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -6273,6 +6279,7 @@ samsung,SM-M022G,en,三星, Galaxy M02 India (2GB RAM)
 samsung,SM-M022M,en,三星, Galaxy M02 Latin America
 samsung,SM-M025F,en,三星, Galaxy M02s
 samsung,SM-M045F,en,三星, Galaxy M04
+samsung,SM-M055F,en,三星, Galaxy M05
 samsung,SM-M105G,en,三星, Galaxy M10 Global
 samsung,SM-M105F,en,三星, Galaxy M10 India
 samsung,SM-M105M,en,三星, Galaxy M10 Latin America
@@ -6326,10 +6333,12 @@ samsung,SM-M536B,en,三星, Galaxy M53 5G
 samsung,SM-M546B,en,三星, Galaxy M54 5G
 samsung,SM-M556B,en,三星, Galaxy M55 5G India
 samsung,SM-M556E,en,三星, Galaxy M55 5G Global
+samsung,SM-M558B,en,三星, Galaxy M55s 5G
 samsung,SM-C5560,en,三星, Galaxy C55 5G
 samsung,SM-M625F,en,三星, Galaxy M62
 samsung,SM-E025F,en,三星, Galaxy F02s
 samsung,SM-E045F,en,三星, Galaxy F04
+samsung,SM-E055F,en,三星, Galaxy F05
 samsung,SM-F127G,en,三星, Galaxy F12
 samsung,SM-E135F,en,三星, Galaxy F13
 samsung,SM-E145F,en,三星, Galaxy F14
@@ -6662,6 +6671,7 @@ vivo,V2314A,cn,VIVO, iQOO Z8
 vivo,V2312A,cn,VIVO, iQOO Z8x
 vivo,V2361A,cn,VIVO, iQOO Z9
 vivo,V2352A,cn,VIVO, iQOO Z9 Turbo
+vivo,V2417A,cn,VIVO, iQOO Z9 Turbo+
 vivo,V2353A,cn,VIVO, iQOO Z9x
 vivo,V2023A,cn,VIVO, iQOO U1
 vivo,V2065A,cn,VIVO, iQOO U1x
