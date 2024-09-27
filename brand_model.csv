@@ -4622,6 +4622,9 @@ oppo,PGEM10,cn,OPPO, OPPO Find X6 Pro
 oppo,PHZ110,cn,OPPO, OPPO Find X7
 oppo,PHY110,cn,OPPO, OPPO Find X7 Ultra
 oppo,PHY120,cn,OPPO, OPPO Find X7 Ultra 卫星通信版
+oppo,PKB110,cn,OPPO, OPPO Find X8
+oppo,PKC110,cn,OPPO, OPPO Find X8 Pro
+oppo,PKC130,cn,OPPO, OPPO Find X8 Pro 卫星通信版
 oppo,PEUM00,cn,OPPO, OPPO Find N
 oppo,PGU110,cn,OPPO, OPPO Find N2
 oppo,PGT110,cn,OPPO, OPPO Find N2 Flip
@@ -4767,11 +4770,13 @@ oppo,PGGM10,cn,OPPO, OPPO K10x
 oppo,PJC110,cn,OPPO, OPPO K11
 oppo,PHF110,cn,OPPO, OPPO K11x
 oppo,PJR110,cn,OPPO, OPPO K12
+oppo,PKS110,cn,OPPO, OPPO K12 Plus
 oppo,PJT110,cn,OPPO, OPPO K12x
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
 oppo,OPD2301,cn,OPPO, OPPO Pad Air2
+oppo,OPD2401,cn,OPPO, OPPO Pad 3 Pro
 oppo,OB19B1,cn,OPPO, OPPO Band 标准版 / 名侦探柯南限定版
 oppo,OB19B3,cn,OPPO, OPPO Band NFC 版
 oppo,OB19O0,cn,OPPO, OPPO Band 时尚版
@@ -5814,6 +5819,13 @@ samsung,SM-S928N,en,三星, Galaxy S24 Ultra South Korea
 samsung,SM-S928Q,en,三星, Galaxy S24 Ultra Japan (SIM Free)
 samsung,SCG26,en,三星, Galaxy S24 Ultra Japan (au)
 samsung,SC-52E,en,三星, Galaxy S24 Ultra Japan (NTT Docomo)
+samsung,SM-S721B,en,三星, Galaxy S24 FE Global
+samsung,SM-S721U,en,三星, Galaxy S24 FE US Carrier
+samsung,SM-S721U1,en,三星, Galaxy S24 FE US Unlocked
+samsung,SM-S721W,en,三星, Galaxy S24 FE Canada
+samsung,SM-S7210,en,三星, Galaxy S24 FE HK & TW
+samsung,SCG30,en,三星, Galaxy S24 FE Japan (au)
+samsung,SM-S721N,en,三星, Galaxy S24 FE South Korea
 samsung,SM-N960F,en,三星, Galaxy Note9 Global
 samsung,SM-N960U,en,三星, Galaxy Note9 US Carrier
 samsung,SM-N960U1,en,三星, Galaxy Note9 US Unlocked
@@ -7484,6 +7496,15 @@ xiaomi,23090RA98I,cn,小米, Redmi Note 13 Pro+ 5G 印度版
 xiaomi,24040RA98R,cn,小米, Redmi Note 13 Pro+ 5G 日本版
 xiaomi,2406ERN9CC,cn,小米, Redmi Note 13R
 xiaomi,2311FRAFDC,cn,小米, Redmi Note 13R Pro
+xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
+xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
+xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版
+xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版
+xiaomi,24090RA29G,cn,小米, Redmi Note 14 Pro 5G 国际版
+xiaomi,24090RA29I,cn,小米, Redmi Note 14 Pro 5G 印度版
+xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+ 国行版
+xiaomi,24115RA8EG,cn,小米, Redmi Note 14 Pro+ 5G 国际版
+xiaomi,24115RA8EI,cn,小米, Redmi Note 14 Pro+ 5G 印度版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
 xiaomi,M2003J15SC,cn,小米, Redmi 10X 4G
@@ -8172,6 +8193,15 @@ xiaomi,23090RA98C,en,小米, Redmi Note 13 Pro+ 5G China
 xiaomi,24040RA98R,en,小米, Redmi Note 13 Pro+ 5G Japan
 xiaomi,2406ERN9CC,en,小米, Redmi Note 13R China
 xiaomi,2311FRAFDC,en,小米, Redmi Note 13R Pro China
+xiaomi,24094RAD4G,en,小米, Redmi Note 14 5G Global
+xiaomi,24094RAD4I,en,小米, Redmi Note 14 5G India
+xiaomi,24094RAD4C,en,小米, Redmi Note 14 5G China
+xiaomi,24090RA29G,en,小米, Redmi Note 14 Pro 5G Global
+xiaomi,24090RA29I,en,小米, Redmi Note 14 Pro 5G India
+xiaomi,24090RA29C,en,小米, Redmi Note 14 Pro 5G China
+xiaomi,24115RA8EG,en,小米, Redmi Note 14 Pro+ 5G Global
+xiaomi,24115RA8EI,en,小米, Redmi Note 14 Pro+ 5G India
+xiaomi,24115RA8EC,en,小米, Redmi Note 14 Pro+ 5G China
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
 xiaomi,M2003J15SC,en,小米, Redmi 10X 4G China
