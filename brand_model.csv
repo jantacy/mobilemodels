@@ -1819,6 +1819,8 @@ honor,ELI-NX9,en,荣耀, HONOR 200
 honor,ELP-NX9,en,荣耀, HONOR 200 Pro
 honor,LLY-NX1,en,荣耀, HONOR 200 Lite
 honor,LLY-NX3,en,荣耀, HONOR 200 Lite
+honor,ALT-NX1,en,荣耀, HONOR 200 Smart
+honor,ALT-NX3,en,荣耀, HONOR 200 Smart
 honor,LGE-NX9,en,荣耀, HONOR Magic4 Pro
 honor,ANY-LX1,en,荣耀, HONOR Magic4 Lite
 honor,ANY-LX2,en,荣耀, HONOR Magic4 Lite
@@ -1854,6 +1856,7 @@ honor,JDY-LX1,en,荣耀, HONOR X6b
 honor,JDY-LX2,en,荣耀, HONOR X6b
 honor,JDY-LX3,en,荣耀, HONOR X6b
 honor,JDY-LX3P,en,荣耀, HONOR X6b Plus
+honor,ALT-NX3,en,荣耀, HONOR X6b 5G
 honor,CMA-LX1,en,荣耀, HONOR X7
 honor,CMA-LX2,en,荣耀, HONOR X7
 honor,CMA-LX3,en,荣耀, HONOR X7
@@ -1866,6 +1869,7 @@ honor,CLK-LX2,en,荣耀, HONOR X7b
 honor,CLK-LX3,en,荣耀, HONOR X7b
 honor,CLK-NX1,en,荣耀, HONOR X7b 5G
 honor,CLK-NX2,en,荣耀, HONOR X7b 5G
+honor,ALT-NX1,en,荣耀, HONOR X7c 5G
 honor,TFY-LX1,en,荣耀, HONOR X8
 honor,TFY-LX2,en,荣耀, HONOR X8
 honor,TFY-LX3,en,荣耀, HONOR X8
@@ -1888,6 +1892,7 @@ honor,HEY-W09,en,荣耀, HONOR Pad 8
 honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
 honor,AGM3-AL09HN,en,荣耀, HONOR Pad X8 LTE
 honor,AGM-W09HN,en,荣耀, HONOR Pad X8 Lite
+honor,NDL-W09,en,荣耀, HONOR Pad X8a
 honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
 honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
