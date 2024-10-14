@@ -3867,17 +3867,21 @@ mitv,L65MA-AP,cn,小米电视, 小米电视 A Pro 65
 mitv,L75MA-AP,cn,小米电视, 小米电视 A Pro 75
 mitv,L85RA-EP,cn,小米电视, 小米电视 A Pro 85
 mitv,L55M9-S,cn,小米电视, 小米电视 S55
-mitv,L55MA-SPL,cn,小米电视, 小米电视 S55 Mini LED
 mitv,L65M9-S,cn,小米电视, 小米电视 S65
-mitv,L65MA-SPL,cn,小米电视, 小米电视 S65 Mini LED
 mitv,L75M9-S,cn,小米电视, 小米电视 S75
-mitv,L75MA-SPL,cn,小米电视, 小米电视 S75 Mini LED
 mitv,L85MA-S,cn,小米电视, 小米电视 S85
+mitv,L55MA-SPL,cn,小米电视, 小米电视 S55 Mini LED
+mitv,L65MA-SPL,cn,小米电视, 小米电视 S65 Mini LED
+mitv,L75MA-SPL,cn,小米电视, 小米电视 S75 Mini LED
 mitv,L85MA-SPL,cn,小米电视, 小米电视 S85 Mini LED
 mitv,L65MA-SM,cn,小米电视, 小米电视 S Pro 65 Mini LED
 mitv,L75MA-SM,cn,小米电视, 小米电视 S Pro 75 Mini LED
 mitv,L85MA-SM,cn,小米电视, 小米电视 S Pro 85 Mini LED
 mitv,L100MA-SP,cn,小米电视, 小米电视 S Pro 100
+mitv,L65MB-SP,cn,小米电视, 小米电视 S Pro 65 Mini LED 2025 款
+mitv,L75MB-SP,cn,小米电视, 小米电视 S Pro 75 Mini LED 2025 款
+mitv,L85MB-SP,cn,小米电视, 小米电视 S Pro 85 Mini LED 2025 款
+mitv,L100MB-SP,cn,小米电视, 小米电视 S Pro 100 Mini LED 2025 款
 mitv,L65M5-BH,cn,小米电视, 小米壁画电视 65 英寸
 mitv,L75M5-BH,cn,小米电视, 小米壁画电视 75 英寸
 mitv,L55M6-TM,cn,小米电视, 小米透明电视 55 英寸
@@ -4198,6 +4202,7 @@ motorola,XT2409-5,cn,摩托罗拉, moto S50
 motorola,XT2427-4,cn,摩托罗拉, moto S50 Neo
 motorola,XT2453-2,cn,摩托罗拉, moto razr 50
 motorola,XT2451-4,cn,摩托罗拉, moto razr 50 Ultra
+motorola,XT2435-3,cn,摩托罗拉, moto g55
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
