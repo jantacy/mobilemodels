@@ -1843,6 +1843,9 @@ honor,VNA-LX3,en,荣耀, HONOR X5
 honor,WOD-LX1,en,荣耀, HONOR X5 Plus
 honor,WOD-LX2,en,荣耀, HONOR X5 Plus
 honor,WOD-LX3,en,荣耀, HONOR X5 Plus
+honor,GFY-LX2,en,荣耀, HONOR X5b
+honor,GFY-LX3,en,荣耀, HONOR X5b
+honor,GFY-LX2P,en,荣耀, HONOR X5b Plus
 honor,VNE-LX1,en,荣耀, HONOR X6
 honor,VNE-LX2,en,荣耀, HONOR X6
 honor,VNE-LX3,en,荣耀, HONOR X6
@@ -6491,6 +6494,10 @@ vivo,V2359A,cn,VIVO, vivo X100s
 vivo,V2324HA,cn,VIVO, vivo X100s Pro
 vivo,V2366GA,cn,VIVO, vivo X100 Ultra
 vivo,V2366HA,cn,VIVO, vivo X100 Ultra 卫星通信版
+vivo,V2415A,cn,VIVO, vivo X200
+vivo,V2405A,cn,VIVO, vivo X200 Pro
+vivo,V2405DA,cn,VIVO, vivo X200 Pro 卫星通信版
+vivo,V2419A,cn,VIVO, vivo X200 Pro mini
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -6671,6 +6678,7 @@ vivo,V2254A,cn,VIVO, iQOO 11 Pro
 vivo,V2304A,cn,VIVO, iQOO 11S
 vivo,V2307A,cn,VIVO, iQOO 12
 vivo,V2329A,cn,VIVO, iQOO 12 Pro
+vivo,V2408A,cn,VIVO, iQOO 13
 vivo,V1914A,cn,VIVO, iQOO Neo 全网通版
 vivo,V1914T,cn,VIVO, iQOO Neo 移动全网通版
 vivo,V1936A,cn,VIVO, iQOO Neo 855 版 全网通版
