@@ -1346,13 +1346,16 @@ honor,CHL-AN00,cn,荣耀, 荣耀 X20 SE 5G
 honor,ANY-AN00,cn,荣耀, 荣耀 X30 5G
 honor,TFY-AN00,cn,荣耀, 荣耀 X30i 5G
 honor,KKG-AN70,cn,荣耀, 荣耀 X30 Max 5G
-honor,RMO-AN00,cn,荣耀, 荣耀 X40 5G
-honor,DIO-AN00,cn,荣耀, 荣耀 X40i 5G
-honor,ADT-AN00,cn,荣耀, 荣耀 X40 GT 5G / 荣耀 X40 GT 竞速版 5G
-honor,ALI-AN00,cn,荣耀, 荣耀 X50 5G
-honor,ALP-AN00,cn,荣耀, 荣耀 X50 Pro 5G / 荣耀 X50 GT 5G
-honor,CRT-AN00,cn,荣耀, 荣耀 X50i 5G
-honor,LLY-AN00,cn,荣耀, 荣耀 X50i+ 5G
+honor,RMO-AN00,cn,荣耀, 荣耀 X40
+honor,DIO-AN00,cn,荣耀, 荣耀 X40i
+honor,ADT-AN00,cn,荣耀, 荣耀 X40 GT / 荣耀 X40 GT 竞速版
+honor,ALI-AN00,cn,荣耀, 荣耀 X50
+honor,ALP-AN00,cn,荣耀, 荣耀 X50 Pro / 荣耀 X50 GT
+honor,CRT-AN00,cn,荣耀, 荣耀 X50i
+honor,LLY-AN00,cn,荣耀, 荣耀 X50i+
+honor,BRC-AN00,cn,荣耀, 荣耀 X60
+honor,BRP-AN00,cn,荣耀, 荣耀 X60 Pro
+honor,BRP-AN80,cn,荣耀, 荣耀 X60 Pro 卫星版
 honor,LYN-AN00,cn,荣耀, 荣耀 X60i
 honor,JMM-AL00,cn,荣耀, 荣耀 V9 Play 全网通标配版
 honor,JMM-AL10,cn,荣耀, 荣耀 V9 Play 全网通高配版
@@ -1496,6 +1499,9 @@ honor,ROD-W09,cn,荣耀, 荣耀平板 9 Pro 12.1 英寸 Wi-Fi 版
 honor,ROD-W19,cn,荣耀, 荣耀平板 9 Pro 柔光版 12.1 英寸 Wi-Fi 版
 honor,HEY2-AN00,cn,荣耀, 荣耀平板 Z7 12.1 英寸 5G 版
 honor,ROD2-W09,cn,荣耀, 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
+honor,ROD2-W69,cn,荣耀, 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
+honor,NDL-W09,cn,荣耀, 荣耀平板 X9 11 英寸 Wi-Fi 版
+honor,NDL-AL00,cn,荣耀, 荣耀平板 X9 11 英寸 全网通版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -5311,10 +5317,12 @@ realme,RMX3997,en,真我, realme C65 5G
 realme,RMX3890,en,真我, realme C67
 realme,RMX3782,en,真我, realme C67 5G
 realme,RMX3834,en,真我, realme Note 50
+realme,RMX3933,en,真我, realme Note 60
 realme,RMX1831,en,真我, realme U1
 realme,RMX1833,en,真我, realme U1
 realme,RMX3870,en,真我, realme P1 5G
 realme,RMX3844,en,真我, realme P1 Pro 5G
+realme,RMX5004,en,真我, realme P1 Speed 5G
 realme,RMX3987,en,真我, realme P2 Pro 5G
 realme,RMX2002,en,真我, realme Narzo Indonesia
 realme,RMX2040,en,真我, realme Narzo 10 India
