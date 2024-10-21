@@ -342,6 +342,9 @@ apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) (�
 apple,A2567,cn,苹果, iPad mini (第 6 代) (无线局域网)
 apple,A2568,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (eSIM)
 apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A2993,cn,苹果, iPad mini (A17 Pro) (无线局域网)
+apple,A2995,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
+apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
 apple,A1553,cn,苹果," Apple Watch (第 1 代, 38 毫米表壳)"
 apple,A1554,cn,苹果," Apple Watch (第 1 代, 42 毫米表壳)"
 apple,A1802,cn,苹果, Apple Watch Series 1 (38 毫米表壳)
@@ -740,6 +743,9 @@ apple,A2125,en,苹果, iPad mini (5th generation) Wi-Fi + Cellular (China mainla
 apple,A2567,en,苹果, iPad mini (6th generation) Wi-Fi
 apple,A2568,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular
 apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainland)
+apple,A2993,en,苹果, iPad mini (A17 Pro) Wi-Fi
+apple,A2995,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular
+apple,A2996,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
 apple,A1553,en,苹果," Apple Watch (1st generation, 38mm case)"
 apple,A1554,en,苹果," Apple Watch (1st generation, 42mm case)"
 apple,A1802,en,苹果, Apple Watch Series 1 (38mm case)
@@ -913,8 +919,9 @@ apple,A2766,cn,苹果," iPad Pro (12.9 英寸, 第 6 代) (无线局域网 + 蜂
 apple,A3006,cn,苹果," iPad Pro (11 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A3007,cn,苹果," iPad Pro (13 英寸, M4) (无线局域网 + 蜂窝网络)"
 apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络) 
-apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络) 
-apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) 
+apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
+apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
+apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
 apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) 
 apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) 
 apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) 
