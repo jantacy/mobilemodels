@@ -2144,6 +2144,8 @@ huawei,ADA-AL00,cn,华为, HUAWEI nova 12 Pro
 huawei,ADA-AL00U,cn,华为, HUAWEI nova 12 Ultra
 huawei,ADA-AL10U,cn,华为, HUAWEI nova 12 Ultra 星耀版
 huawei,PSD-AL00,cn,华为, HUAWEI nova Flip
+huawei,BLK-AL80,cn,华为, HUAWEI nova 13
+huawei,MIS-AL00,cn,华为, HUAWEI nova 13 Pro
 huawei,G6-T00,cn,华为, 华为 Ascend G6 移动版
 huawei,G6-U00,cn,华为, 华为 Ascend G6 联通版
 huawei,G6-C00,cn,华为, 华为 Ascend G6 电信版
@@ -2550,10 +2552,12 @@ huawei,GK-G58,cn,华为, HUAWEI MateBook E Go 全网通 (8GB+256GB)
 huawei,GK-G56,cn,华为, HUAWEI MateBook E Go 全网通 (16GB+512GB)
 huawei,GK-W76,cn,华为, HUAWEI MateBook E Go 性能版 Wi-Fi / HUAWEI MateBook E Go 2023 Wi-Fi
 huawei,NBZ-WBH9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+256GB)
-huawei,NBZ-WBM9,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+512GB)
+huawei,NBZ-WBH9B,cn,华为, HUAWEI MateBook B3-410 i5 (8GB+512GB)
 huawei,NBZ-WBE9,cn,华为, HUAWEI MateBook B3-410 i7
-huawei,NDZ-WDH9A,cn,华为, HUAWEI MateBook B3-420 i5 (8GB+512GB)
-huawei,NDZ-WFH9A,cn,华为, HUAWEI MateBook B3-420 i5 (16GB+512GB)
+huawei,NDZ-WDI9A,cn,华为, HUAWEI MateBook B3-420 i3
+huawei,NDZ-WDH9A,cn,华为, HUAWEI MateBook B3-420 i5 集显
+huawei,NDZ-WFH9A,cn,华为, HUAWEI MateBook B3-420 i5 集显
+huawei,NDZ-WFH9B,cn,华为, HUAWEI MateBook B3-420 i5 独显
 huawei,NDZ-WFE9A,cn,华为, HUAWEI MateBook B3-420 i7
 huawei,NFZ-WDH9,cn,华为, HUAWEI MateBook B3-430 i5 (8GB+512GB)
 huawei,NFZ-WFH9,cn,华为, HUAWEI MateBook B3-430 i5 (16GB+512GB)
@@ -2582,8 +2586,8 @@ huawei,MDZ-WDH9B,cn,华为, HUAWEI MateBook B7-410 i5 (8GB+256GB)
 huawei,MDZ-WFH9A,cn,华为, HUAWEI MateBook B7-410 i5 (16GB+512GB)
 huawei,MDZ-WFE9A,cn,华为, HUAWEI MateBook B7-410 i7 (16GB+512GB)
 huawei,MDZ-WFE9B,cn,华为, HUAWEI MateBook B7-410 i7 (16GB+1TB)
-huawei,MRGFZ-5651,cn,华为, HUAWEI MateBook B7-420 i5 (16GB+512GB)
-huawei,MRGFZ-7651,cn,华为, HUAWEI MateBook B7-420 i7 (16GB+512GB)
+huawei,MRGFZ-W5651,cn,华为, HUAWEI MateBook B7-420 i5 (16GB+512GB)
+huawei,MRGFZ-W7651,cn,华为, HUAWEI MateBook B7-420 i7 (16GB+512GB)
 huawei,MRGFZ-W7611,cn,华为, HUAWEI MateBook B7-420 i7 (16GB+1TB)
 huawei,YTSFZ-5651TP,cn,华为, 华为擎云 S520 i5
 huawei,YTSFZ-7611T,cn,华为, 华为擎云 S520 i7
@@ -2598,6 +2602,8 @@ huawei,YTFZ-5651S,cn,华为, 华为擎云 S540 i5 (U15) (16GB+512GB)
 huawei,YTFZ-5651SP,cn,华为, 华为擎云 S540 i5 (P28) (16GB+512GB)
 huawei,YTFZ-7651S,cn,华为, 华为擎云 S540 i7 (U15) (16GB+512GB)
 huawei,YTFZ-7651SP,cn,华为, 华为擎云 S540 i7 (P28) (16GB+512GB)
+huawei,YTSFZ-5651TP,cn,华为, 华为擎云 G540 i5
+huawei,YTSGZ-5651TP,cn,华为, 华为擎云 G540 Gen2 i5
 huawei,KLVG-16Z3-xxx,cn,华为, 华为擎云 G740 i5 (16GB+512GB)
 huawei,KLVG-16Z2-xxx,cn,华为, 华为擎云 G740 i5 (16GB+1TB)
 huawei,KLVG-16Z1-xxx,cn,华为, 华为擎云 G740 i7 (16GB+1TB)
@@ -2709,7 +2715,8 @@ huawei,GLL-AL09,cn,华为, HUAWEI WATCH 3 Pro new 尊享款
 huawei,ARC-AL00,cn,华为, HUAWEI WATCH 4
 huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
-huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate
+huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
+huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
 huawei,CLB-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师
 huawei,ELA-B19,cn,华为, HUAWEI WATCH GT 雅致款
 huawei,FTN-B19,cn,华为, HUAWEI WATCH GT 时尚版/运动版
