@@ -7611,6 +7611,7 @@ xiaomi,23113RKC6C,cn,小米, Redmi K70
 xiaomi,23117RK66C,cn,小米, Redmi K70 Pro
 xiaomi,2311DRK48C,cn,小米, Redmi K70E
 xiaomi,2407FRK8EC,cn,小米, Redmi K70 至尊版
+xiaomi,24117RK2CC,cn,小米, Redmi K80
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
 xiaomi,2016021,cn,小米, 红米 Pro 高配版 / 尊享版
 xiaomi,M1803E6E,cn,小米, 红米 S2 全网通版
@@ -7733,6 +7734,8 @@ xiaomi,2312BPC51X,cn,小米, POCO C61 国际版
 xiaomi,2312BPC51H,cn,小米, POCO C61 印度版
 xiaomi,2310FPCA4G,cn,小米, POCO C65 国际版
 xiaomi,2310FPCA4I,cn,小米, POCO C65 印度版
+xiaomi,2410FPCC5G,cn,小米, POCO C75 国际版
+xiaomi,2410FPCC5I,cn,小米, POCO C75 印度版
 xiaomi,2405CPCFBG,cn,小米, POCO Pad Wi-Fi 国际版
 xiaomi,24074PCD2I,cn,小米, POCO Pad 5G 印度版
 xiaomi,FYJ01QP,cn,小米, 小米米家翻译机
@@ -8315,6 +8318,7 @@ xiaomi,2407FRK8EC,en,小米, Redmi K70 Ultra China
 xiaomi,23113RKC6C,en,小米, Redmi K70 China
 xiaomi,23117RK66C,en,小米, Redmi K70 Pro China
 xiaomi,2311DRK48C,en,小米, Redmi K70E China
+xiaomi,24117RK2CC,en,小米, Redmi K80 China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
 xiaomi,2016021,en,小米, Redmi Pro (64GB & 128GB)
 xiaomi,M1803E6G,en,小米, Redmi S2 Global
@@ -8421,6 +8425,8 @@ xiaomi,2312BPC51X,en,小米, POCO C61 Global
 xiaomi,2312BPC51H,en,小米, POCO C61 India
 xiaomi,2310FPCA4G,en,小米, POCO C65 Global
 xiaomi,2310FPCA4I,en,小米, POCO C65 India
+xiaomi,2410FPCC5G,en,小米, POCO C75 Global
+xiaomi,2410FPCC5I,en,小米, POCO C75 India
 xiaomi,A0101,en,小米, Mi Pad
 xiaomi,2015716,en,小米, Mi Pad 2
 xiaomi,MCE91,en,小米, Mi Pad 3
