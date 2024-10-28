@@ -5108,6 +5108,7 @@ realme,RMX3820,cn,真我, 真我 GT5 150W
 realme,RMX3823,cn,真我, 真我 GT5 240W
 realme,RMX3888,cn,真我, 真我 GT5 Pro
 realme,RMX3800,cn,真我, 真我 GT6
+realme,RMX5010,cn,真我, 真我 GT7 Pro
 realme,RMX3031,cn,真我, 真我 GT Neo 5G
 realme,RMX3350,cn,真我, 真我 GT Neo 闪速版
 realme,RMX3370,cn,真我, 真我 GT Neo2
@@ -5957,6 +5958,10 @@ samsung,SM-F956U1,en,三星, Galaxy Z Fold6 US Unlocked
 samsung,SM-F956W,en,三星, Galaxy Z Fold6 Canada
 samsung,SM-F9560,en,三星, Galaxy Z Fold6 China
 samsung,SM-F956N,en,三星, Galaxy Z Fold6 South Korea
+samsung,SM-F956Q,en,三星, Galaxy Z Fold6 Japan (SIM Free)
+samsung,SCG28,en,三星, Galaxy Z Fold6 Japan (au)
+samsung,SC-55E,en,三星, Galaxy Z Fold6 Japan (NTT Docomo)
+samsung,SM-F958N,en,三星, Galaxy Z Fold Special Edition South Korea
 samsung,SM-F700F,en,三星, Galaxy Z Flip Global
 samsung,SM-F700U,en,三星, Galaxy Z Flip US Carrier
 samsung,SM-F700U1,en,三星, Galaxy Z Flip US Unlocked
@@ -6003,6 +6008,9 @@ samsung,SM-F741U1,en,三星, Galaxy Z Flip6 US Unlocked
 samsung,SM-F741W,en,三星, Galaxy Z Flip6 Canada
 samsung,SM-F7410,en,三星, Galaxy Z Flip6 China
 samsung,SM-F741N,en,三星, Galaxy Z Flip6 South Korea
+samsung,SM-F741Q,en,三星, Galaxy Z Flip6 Japan (SIM Free)
+samsung,SCG29,en,三星, Galaxy Z Flip6 Japan (au)
+samsung,SC-54E,en,三星, Galaxy Z Flip6 Japan (NTT Docomo)
 samsung,SM-A015F,en,三星, Galaxy A01 Global
 samsung,SM-A015U,en,三星, Galaxy A01 US Carrier
 samsung,SM-A015U1,en,三星, Galaxy A01 US Unlocked
