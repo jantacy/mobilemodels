@@ -4230,6 +4230,7 @@ motorola,XT2427-4,cn,摩托罗拉, moto S50 Neo
 motorola,XT2453-2,cn,摩托罗拉, moto razr 50
 motorola,XT2451-4,cn,摩托罗拉, moto razr 50 Ultra
 motorola,XT2435-3,cn,摩托罗拉, moto g55
+motorola,XT2437-4,cn,摩托罗拉, moto g75
 nokia,TA-1000,cn,诺基亚, Nokia 6
 nokia,TA-1054,cn,诺基亚, Nokia 6 (第二代)
 nokia,TA-1041,cn,诺基亚, Nokia 7
@@ -5584,6 +5585,8 @@ samsung,SM-W9023,cn,三星, 三星 W23
 samsung,SM-W7023,cn,三星, 三星 W23 Flip
 samsung,SM-W9024,cn,三星, 三星 W24
 samsung,SM-W7024,cn,三星, 三星 W24 Flip
+samsung,SM-W9025,cn,三星, 三星 W25
+samsung,SM-W7025,cn,三星, 三星 W24 Flip
 samsung,SM-G1600,cn,三星, Galaxy Folder
 samsung,SM-G1650,cn,三星, Galaxy Folder 2
 samsung,SM-G8508S,cn,三星, Galaxy Alpha
@@ -6992,6 +6995,7 @@ xiaomi-wear,M2303B1,cn,小米, 小米手环 8 Pro 国行版
 xiaomi-wear,M2333B1,cn,小米, 小米手环 8 Pro 国际版
 xiaomi-wear,M2345B1,cn,小米, 小米手环 9
 xiaomi-wear,M2346B1,cn,小米, 小米手环 9 NFC 版 / 陶瓷特别版
+xiaomi-wear,M2401B1,cn,小米, 小米手环 9 Pro
 xiaomi-wear,XMWT01,cn,小米, 小米手表
 xiaomi-wear,M2320W1,cn,小米, Xiaomi Watch 2
 xiaomi-wear,M2234W1,cn,小米, Xiaomi Watch 2 Pro 蓝牙版
@@ -7006,11 +7010,15 @@ xiaomi-wear,M2206W1,cn,小米, Xiaomi Watch S2 42mm
 xiaomi-wear,M2207W1,cn,小米, Xiaomi Watch S2 46mm
 xiaomi-wear,M2313W1,cn,小米, Xiaomi Watch S3 蓝牙版
 xiaomi-wear,M2311W1,cn,小米, Xiaomi Watch S3 eSIM 版
+xiaomi-wear,M2425W1,cn,小米, Xiaomi Watch S4 蓝牙版
+xiaomi-wear,M2424W1,cn,小米, Xiaomi Watch S4 eSIM 版
 xiaomi-wear,M2312W1,cn,小米, Xiaomi Watch S4 Sport eSIM 版
 xiaomi-wear,M2230W1,cn,小米, 小米腕部心电血压记录仪 (Xiaomi Watch H1)
+xiaomi-wear,M2412W1,cn,小米, 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 xiaomi-wear,HMSH01GE,cn,小米, Redmi 手环
 xiaomi-wear,M2101B1,cn,小米, Redmi Smart Band Pro 国际版
 xiaomi-wear,M2225B1,cn,小米, Redmi 手环 2
+xiaomi-wear,M2434B1,cn,小米, Redmi 手环 3
 xiaomi-wear,REDMIWT01,cn,小米, Redmi Watch
 xiaomi-wear,M2102W1,cn,小米, Redmi Watch 2
 xiaomi-wear,M2109W1,cn,小米, Redmi Watch 2 Lite 国际版
@@ -7150,9 +7158,10 @@ xiaomi,24031PN0DC,cn,小米, Xiaomi 14 Ultra 国行版
 xiaomi,24030PN60G,cn,小米, Xiaomi 14 Ultra 国际版
 xiaomi,24053PY09I,cn,小米, Xiaomi 14 Civi 印度版
 xiaomi,2406APNFAG,cn,小米, Xiaomi 14T 国际版
-xiaomi,XIG06,cn,小米, Xiaomi 14T 日本版 (KDDI)
+xiaomi,XIG07,cn,小米, Xiaomi 14T 日本版 (KDDI)
 xiaomi,2407FPN8EG,cn,小米, Xiaomi 14T Pro 国际版
 xiaomi,2407FPN8ER,cn,小米, Xiaomi 14T Pro 日本版 (无锁)
+xiaomi,XIG06,cn,小米, Xiaomi 14T Pro 日本版 (KDDI)
 xiaomi,A402XM,cn,小米, Xiaomi 14T Pro 日本版 (SoftBank)
 xiaomi,24129PN74C,cn,小米, Xiaomi 15 国行版
 xiaomi,24129PN74G,cn,小米, Xiaomi 15 国际版
@@ -7572,8 +7581,8 @@ xiaomi,24040RA98R,cn,小米, Redmi Note 13 Pro+ 5G 日本版
 xiaomi,2406ERN9CC,cn,小米, Redmi Note 13R
 xiaomi,2311FRAFDC,cn,小米, Redmi Note 13R Pro
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G 国行版
-xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版
+xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,24116RACCG,cn,小米, Redmi Note 14 Pro 国际版
 xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版
 xiaomi,24090RA29G,cn,小米, Redmi Note 14 Pro 5G 国际版
@@ -7726,6 +7735,7 @@ xiaomi,24066PC95I,cn,小米, POCO M6 Plus 5G 印度版
 xiaomi,2312FPCA6G,cn,小米, POCO M6 Pro 国际版
 xiaomi,23076PC4BI,cn,小米, POCO M6 Pro 5G 印度版
 xiaomi,24108PCE2I,cn,小米, POCO M7 5G 印度版
+xiaomi,2409FPCC4G,cn,小米, POCO M7 Pro 5G 国际版
 xiaomi,M2006C3MI,cn,小米, POCO C3 印度版
 xiaomi,211033MI,cn,小米, POCO C31 印度版
 xiaomi,220333QPG,cn,小米, POCO C40 国际版
@@ -7879,9 +7889,10 @@ xiaomi,24030PN60G,en,小米, Xiaomi 14 Ultra Global
 xiaomi,24031PN0DC,en,小米, Xiaomi 14 Ultra China
 xiaomi,24053PY09I,en,小米, Xiaomi 14 Civi India
 xiaomi,2406APNFAG,en,小米, Xiaomi 14T Global
-xiaomi,XIG06,en,小米, Xiaomi 14T Japan (KDDI)
+xiaomi,XIG07,en,小米, Xiaomi 14T Japan (KDDI)
 xiaomi,2407FPN8EG,en,小米, Xiaomi 14T Pro Global
 xiaomi,2407FPN8ER,en,小米, Xiaomi 14T Pro Japan (SIM Free)
+xiaomi,XIG06,en,小米, Xiaomi 14T Pro Japan (KDDI)
 xiaomi,A402XM,en,小米, Xiaomi 14T Pro Japan (SoftBank)
 xiaomi,24129PN74G,en,小米, Xiaomi 15 Global
 xiaomi,24129PN74I,en,小米, Xiaomi 15 India
@@ -8417,6 +8428,7 @@ xiaomi,24066PC95I,en,小米, POCO M6 Plus 5G India
 xiaomi,2312FPCA6G,en,小米, POCO M6 Pro Global
 xiaomi,23076PC4BI,en,小米, POCO M6 Pro 5G India
 xiaomi,24108PCE2I,en,小米, POCO M7 5G India
+xiaomi,2409FPCC4G,en,小米, POCO M7 Pro 5G Global
 xiaomi,M2006C3MI,en,小米, POCO C3 India
 xiaomi,211033MI,en,小米, POCO C31 India
 xiaomi,220333QPG,en,小米, POCO C40 Global
