@@ -8115,7 +8115,6 @@ xiaomi,23076RA4BR,en,小米, Redmi 12 5G Japan (SIM Free)
 xiaomi,XIG03,en,小米, Redmi 12 5G Japan (KDDI)
 xiaomi,A401XM,en,小米, Redmi 12 5G Japan (SoftBank)
 xiaomi,23076RN4BI,en,小米, Redmi 12 5G India
-xiaomi,23076RA4BC,en,小米, Redmi 12R China
 xiaomi,22120RN86G,en,小米, Redmi 12C Global
 xiaomi,22120RN86H,en,小米, Redmi 12C India
 xiaomi,22120RN86I,en,小米, Redmi 12C India
@@ -8273,7 +8272,7 @@ xiaomi,23021RAA2Y,en,小米, Redmi Note 12 Global (NFC)
 xiaomi,22111317G,en,小米, Redmi Note 12 5G Global
 xiaomi,22111317I,en,小米, Redmi Note 12 5G India
 xiaomi,22101317C,en,小米, Redmi Note 12 5G China / Redmi Note 12R Pro China
-xiaomi,23076RA4BC,en,小米, Redmi Note 12R China
+xiaomi,23076RA4BC,en,小米, Redmi Note 12R China / Redmi 12R China
 xiaomi,2303CRA44A,en,小米, Redmi Note 12S Global
 xiaomi,2303ERA42L,en,小米, Redmi Note 12S Latin America
 xiaomi,23030RAC7Y,en,小米, Redmi Note 12S Global (NFC)
@@ -8323,10 +8322,9 @@ xiaomi,24069RA21C,en,小米, Redmi Turbo 3 China
 xiaomi,M1903F10A,en,小米, Redmi K20 China
 xiaomi,M1903F10C,en,小米, Redmi K20 Chinese Carrier Version
 xiaomi,M1903F10I,en,小米, Redmi K20 India
-xiaomi,M1903F11A,en,小米, Redmi K20 Pro China
+xiaomi,M1903F11A,en,小米, Redmi K20 Pro China / Redmi K20 Pro Premium Edition China
 xiaomi,M1903F11C,en,小米, Redmi K20 Pro Chinese Carrier Version
 xiaomi,M1903F11I,en,小米, Redmi K20 Pro India
-xiaomi,M1903F11A,en,小米, Redmi K20 Pro Premium Edition China
 xiaomi,M2001G7AE,en,小米, Redmi K30 5G China / Redmi K30 5G Speed China
 xiaomi,M2001G7AC,en,小米, Redmi K30 5G China
 xiaomi,M2001G7AC,en,小米, Redmi K30i 5G China
@@ -8489,9 +8487,8 @@ xiaomi,24091RPADC,en,小米, Xiaomi Pad 7 Pro China
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
 xiaomi,23073RPBFG,en,小米, Redmi Pad SE Global
-xiaomi,23073RPBFC,en,小米, Redmi Pad SE China
+xiaomi,23073RPBFC,en,小米, Redmi Pad SE China / Redmi Pad M7 China
 xiaomi,23073RPBFL,en,小米, Redmi Pad SE Latin America
-xiaomi,23073RPBFC,en,小米, Redmi Pad M7 China
 xiaomi,2405CRPFDG,en,小米, Redmi Pad Pro Wi-Fi Global
 xiaomi,2405CRPFDC,en,小米, Redmi Pad Pro Wi-Fi China
 xiaomi,2405CRPFDI,en,小米, Redmi Pad Pro Wi-Fi India
