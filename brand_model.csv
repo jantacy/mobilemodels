@@ -1910,11 +1910,14 @@ honor,ANY-NX1,en,荣耀, HONOR X9 5G
 honor,RMO-NX1,en,荣耀, HONOR X9a 5G
 honor,ALI-NX1,en,荣耀, HONOR X9b 5G
 honor,ALI-NX3P,en,荣耀, HONOR X9b 5G
+honor,BRP-NX1,en,荣耀, HONOR X9c 5G
 honor,HEY-W09,en,荣耀, HONOR Pad 8
 honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
 honor,AGM3-AL09HN,en,荣耀, HONOR Pad X8 LTE
 honor,AGM-W09HN,en,荣耀, HONOR Pad X8 Lite
-honor,NDL-W09,en,荣耀, HONOR Pad X8a
+honor,NDL-W09,en,荣耀, HONOR Pad X8a Wi-Fi
+honor,NDL-L03,en,荣耀, HONOR Pad X8a LTE
+honor,NDL-L09,en,荣耀, HONOR Pad X8a LTE
 honor,HEY2-W09,en,荣耀, HONOR Pad 9 Wi-Fi
 honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
 honor,ELN-W09,en,荣耀, HONOR Pad X9 Wi-Fi
