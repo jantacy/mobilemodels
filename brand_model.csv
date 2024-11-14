@@ -2149,6 +2149,7 @@ huawei,GOA-AL80U,cn,华为, HUAWEI nova 11 Ultra
 huawei,BON-AL00,cn,华为, HUAWEI nova 11 SE
 huawei,BLK-AL00,cn,华为, HUAWEI nova 12
 huawei,FIN-AL60,cn,华为, HUAWEI nova 12 活力版
+huawei,FIN-AL60a,cn,华为, HUAWEI nova 12 活力版
 huawei,ADA-AL00,cn,华为, HUAWEI nova 12 Pro
 huawei,ADA-AL00U,cn,华为, HUAWEI nova 12 Ultra
 huawei,ADA-AL10U,cn,华为, HUAWEI nova 12 Ultra 星耀版
@@ -2932,6 +2933,7 @@ huawei,ANA-NX9,en,华为, HUAWEI P40 Dual SIM
 huawei,ELS-N04,en,华为, HUAWEI P40 Pro Single SIM
 huawei,ELS-NX9,en,华为, HUAWEI P40 Pro Single SIM
 huawei,ELS-NX9,en,华为, HUAWEI P40 Pro Dual SIM
+huawei,ELS-N39,en,华为, HUAWEI P40 Pro+
 huawei,JNY-LX1,en,华为, HUAWEI P40 lite Dual SIM
 huawei,JNY-LX2,en,华为, HUAWEI P40 lite Single SIM
 huawei,CDY-NX9,en,华为, HUAWEI P40 lite 5G
@@ -4355,6 +4357,7 @@ nubia,NX729J,cn,努比亚, 红魔 8 Pro / 红魔 8 Pro+
 nubia,NX729S,cn,努比亚, 红魔 8S Pro / 红魔 8S Pro+
 nubia,NX769J,cn,努比亚, 红魔 9 Pro / 红魔 9 Pro+
 nubia,NX769J,cn,努比亚, 红魔 9S Pro / 红魔 9S Pro+
+nubia,NX789J,cn,努比亚, 红魔 10 Pro / 红魔 10 Pro+
 nubia,NP01J,cn,努比亚, 红魔电竞平板 5G
 nubia,NP03J,cn,努比亚, 红魔电竞平板 Pro
 nubia,NP02J,cn,努比亚, 红魔平板 · 3D 探索版 5G
