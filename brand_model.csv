@@ -3551,10 +3551,10 @@ meizu,M57AU,cn,魅族, 魅蓝 metal 联通版
 meizu,M57AC,cn,魅族, 魅蓝 metal 电信版
 meizu,M710M,cn,魅族, 魅蓝 A5 移动定制版
 meizu,M710H,cn,魅族, 魅族 M5c 国际版
-meizu,M468Q,cn,魅族, LYNK & CO Phone Note
-meizu,M481S,cn,魅族, LYNK & CO Phone Pro
+meizu,M468Q,cn,魅族, Lync & Co Phone Note
+meizu,M481S,cn,魅族, Lync & Co Phone Pro
 meizu,M481S,cn,魅族, Polestar Phone
-meizu,M481R,cn,魅族, HongQi Phone
+meizu,M481R,cn,魅族, HongQi Wonder
 meizu,M8,en,魅族, MEIZU M8
 meizu,M8SE,en,魅族, MEIZU M8 SE
 meizu,M9,en,魅族, MEIZU M9
@@ -3749,10 +3749,10 @@ meizu,U685M,en,魅族, MEIZU U20 China Mobile
 meizu,U685C,en,魅族, MEIZU U20 China Telecom
 meizu,M818H,en,魅族, MEIZU C9 Global
 meizu,M819H,en,魅族, MEIZU C9 Pro Global
-meizu,M468Q,en,魅族, LYNK & CO Phone Note
-meizu,M481S,en,魅族, LYNK & CO Phone Pro
+meizu,M468Q,en,魅族, Lync & Co Phone Note
+meizu,M481S,en,魅族, Lync & Co Phone Pro
 meizu,M481S,en,魅族, Polestar Phone
-meizu,M481R,en,魅族, HongQi Phone
+meizu,M481R,en,魅族, HongQi Wonder
 mitv,L47M1-AA,cn,小米电视, 小米电视 47 英寸
 mitv,L40M2-AA,cn,小米电视, 小米电视 2 40 英寸
 mitv,L49M2-AA,cn,小米电视, 小米电视 2 49 英寸
@@ -8547,6 +8547,7 @@ zhixuan,GAR-AN60,cn,华为智选, Hi 畅享 60s 5G
 zhixuan,LGN-AN00,cn,华为智选, Hi 畅享 60 Pro 5G
 zhixuan,MKY-AN20,cn,华为智选, Hi 畅享 70 5G / Hi 畅享 70m 5G
 zhixuan,BAL-AN20,cn,华为智选, Hi 畅享 70 Pro 5G
+zhixuan,JEY-AN00,cn,华为智选, Hi 畅享 70 Plus
 zte,A2017,cn,中兴, 中兴天机 7
 zte,A2018,cn,中兴, 中兴天机 7S
 zte,C2017,cn,中兴, 中兴天机 7 MAX
