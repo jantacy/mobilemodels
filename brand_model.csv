@@ -4146,7 +4146,11 @@ mitv,L43M8-P2SEA,en,小米电视, Xiaomi TV A FHD 43
 mitv,L55M8-P2SEA,en,小米电视, Xiaomi TV A 55
 mitv,L32M8-P2ID,en,小米电视, Xiaomi TV A 32
 mitv,L43M8-P2ID,en,小米电视, Xiaomi TV A FHD 43
+mitv,L43MA-AFID,en,小米电视, Xiaomi TV A FHD 43 2025
 mitv,L55M8-P2ID,en,小米电视, Xiaomi TV A 55
+mitv,L55MA-AID,en,小米电视, Xiaomi TV A 55 2025
+mitv,L43MA-SID,en,小米电视, Xiaomi TV A Pro 43
+mitv,L55MA-SID,en,小米电视, Xiaomi TV A Pro 55
 mitv,L55MA-ATWN,en,小米电视, Xiaomi TV A 55 2025
 mitv,L65MA-ATWN,en,小米电视, Xiaomi TV A 65 2025
 mitv,L32M8-A2EU,en,小米电视, Xiaomi TV A Pro 32
@@ -7014,6 +7018,7 @@ xiaomi-wear,M2140B1,cn,小米, 小米手环 7 Pro 国行版
 xiaomi-wear,M2141B1,cn,小米, 小米手环 7 Pro 国际版
 xiaomi-wear,M2239B1,cn,小米, 小米手环 8
 xiaomi-wear,M2240B1,cn,小米, 小米手环 8 NFC 版
+xiaomi-wear,M2302B1,cn,小米, 小米手环 8 Active 国际版
 xiaomi-wear,M2303B1,cn,小米, 小米手环 8 Pro 国行版
 xiaomi-wear,M2333B1,cn,小米, 小米手环 8 Pro 国际版
 xiaomi-wear,M2345B1,cn,小米, 小米手环 9
