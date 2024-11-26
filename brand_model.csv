@@ -2337,6 +2337,8 @@ huawei,PCE-AL40,cn,华为, HUAWEI MatePad Pro 13.2 英寸 典藏版 全网通版
 huawei,MRO-W00,cn,华为, HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版
 huawei,MRO-W10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 Wi-Fi 版 (16GB+1TB)
 huawei,MRO-AL10,cn,华为, HUAWEI MatePad Pro 12.2 英寸 全网通版 (16GB+1TB)
+huawei,WEB-W00,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版
+huawei,WEB-W10,cn,华为, HUAWEI MatePad Pro 13.2 英寸 2025 Wi-Fi 版 (16GB+1TB)
 huawei,DBY2-W00,cn,华为, HUAWEI MatePad Air 11.5 英寸 Wi-Fi 版
 huawei,DBY2-AL00,cn,华为, HUAWEI MatePad Air 11.5 英寸 全网通版
 huawei,BKY-W00,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 版 (8GB+256GB)
@@ -2739,7 +2741,8 @@ huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
 huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
-huawei,CLB-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师
+huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
+huawei,EDD-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
 huawei,ELA-B19,cn,华为, HUAWEI WATCH GT 雅致款
 huawei,FTN-B19,cn,华为, HUAWEI WATCH GT 时尚版/运动版
 huawei,DAN-B19,cn,华为, HUAWEI WATCH GT 2 42mm
@@ -4789,6 +4792,8 @@ oppo,PJH110,cn,OPPO, OPPO Reno11
 oppo,PJJ110,cn,OPPO, OPPO Reno11 Pro
 oppo,PJV110,cn,OPPO, OPPO Reno12
 oppo,PJW110,cn,OPPO, OPPO Reno12 Pro
+oppo,PKM110,cn,OPPO, OPPO Reno13
+oppo,PKK110,cn,OPPO, OPPO Reno13 Pro
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
 oppo,PACM00,cn,OPPO, OPPO R15 全网通版
@@ -4888,6 +4893,7 @@ oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
 oppo,OPD2301,cn,OPPO, OPPO Pad Air2
+oppo,OPD2405,cn,OPPO, OPPO Pad 3
 oppo,OPD2401,cn,OPPO, OPPO Pad 3 Pro
 oppo,OB19B1,cn,OPPO, OPPO Band 标准版 / 名侦探柯南限定版
 oppo,OB19B3,cn,OPPO, OPPO Band NFC 版
