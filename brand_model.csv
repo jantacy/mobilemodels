@@ -1295,6 +1295,9 @@ honor,MAA-AN00,cn,荣耀, 荣耀 100
 honor,MAA-AN10,cn,荣耀, 荣耀 100 Pro
 honor,ELI-AN00,cn,荣耀, 荣耀 200
 honor,ELP-AN00,cn,荣耀, 荣耀 200 Pro
+honor,AMM-AN00,cn,荣耀, 荣耀 300
+honor,AMP-AN00,cn,荣耀, 荣耀 300 Pro
+honor,AMP-AN10,cn,荣耀, 荣耀 300 Ultra
 honor,KNT-AL10,cn,荣耀, 荣耀 V8 全网通版
 honor,KNT-AL20,cn,荣耀," 荣耀 V8 全网通版 (麒麟 955, 2K 显示屏)"
 honor,KNT-TL10,cn,荣耀, 荣耀 V8 移动版
@@ -1998,6 +2001,10 @@ huawei,ALN-AL00,cn,华为, HUAWEI Mate 60 Pro
 huawei,ALN-AL80,cn,华为, HUAWEI Mate 60 Pro
 huawei,ALN-AL10,cn,华为, HUAWEI Mate 60 Pro+
 huawei,ALN-AL10,cn,华为, HUAWEI Mate 60 RS ULTIMATE DESIGN 非凡大师
+huawei,CLS-AL00,cn,华为, HUAWEI Mate 70
+huawei,PLR-AL00,cn,华为, HUAWEI Mate 70 Pro
+huawei,PLA-AL10,cn,华为, HUAWEI Mate 70 Pro+
+huawei,PLU-AL10,cn,华为, HUAWEI Mate 70 RS ULTIMATE DESIGN 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
 huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G
@@ -2009,9 +2016,6 @@ huawei,PAL-AL10,cn,华为, HUAWEI Mate Xs 2
 huawei,ALT-AL00,cn,华为, HUAWEI Mate X3
 huawei,ALT-AL10,cn,华为, HUAWEI Mate X5
 huawei,GRL-AL10,cn,华为, HUAWEI Mate XT ULTIMATE DESIGN 非凡大师
-huawei,CLS-AL00,cn,华为, HUAWEI Mate 70
-huawei,PLR-AL00,cn,华为, HUAWEI Mate 70 Pro
-huawei,PLA-AL10,cn,华为, HUAWEI Mate 70 Pro+
 huawei,ICL-AL10,cn,华为, HUAWEI Mate X6
 huawei,ICL-AL20,cn,华为, HUAWEI Mate X6 典藏版
 huawei,U9200,cn,华为, 华为 Ascend P1
@@ -5205,6 +5209,7 @@ realme,RMX3708,cn,真我, 真我 GT Neo5 240W
 realme,RMX3700,cn,真我, 真我 GT Neo5 SE
 realme,RMX3852,cn,真我, 真我 GT Neo6
 realme,RMX3850,cn,真我, 真我 GT Neo6 SE
+realme,RMX5060,cn,真我, 真我 Neo7
 realme,RMX1971,cn,真我, 真我 Q
 realme,RMX2117,cn,真我, 真我 Q2 5G
 realme,RMX2173,cn,真我, 真我 Q2 Pro 5G
@@ -5256,6 +5261,7 @@ realme,RMX3783,cn,真我, 真我 V50
 realme,RMX3781,cn,真我, 真我 V50s
 realme,RMX3995,cn,真我, 真我 V60
 realme,RMX3996,cn,真我, 真我 V60s
+realme,RMX3953,cn,真我, 真我 V60 Pro
 realme,RMP2108,cn,真我, 真我平板 X
 realme,CPH1859,en,真我, realme 1
 realme,CPH1861,en,真我, realme 1
@@ -5360,6 +5366,7 @@ realme,RMX3371,en,真我, realme GT NEO 3T
 realme,RMX3709,en,真我, realme GT 3 240W
 realme,RMX3851,en,真我, realme GT 6
 realme,RMX3853,en,真我, realme GT 6T
+realme,RMX5011,en,真我, realme GT 7 Pro
 realme,RMX1805,en,真我, realme C1
 realme,RMX1941,en,真我, realme C2
 realme,RMX1942,en,真我, realme C2
@@ -5420,6 +5427,7 @@ realme,RMX3910,en,真我, realme C65
 realme,RMX3997,en,真我, realme C65 5G
 realme,RMX3890,en,真我, realme C67
 realme,RMX3782,en,真我, realme C67 5G
+realme,RMX3941,en,真我, realme C75
 realme,RMX3834,en,真我, realme Note 50
 realme,RMX3933,en,真我, realme Note 60
 realme,RMX1831,en,真我, realme U1
