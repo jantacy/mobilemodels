@@ -1315,6 +1315,7 @@ honor,OXF-AN10,cn,荣耀, 荣耀 V30 PRO 5G
 honor,YOK-AN10,cn,荣耀, 荣耀 V40 5G
 honor,ALA-AN70,cn,荣耀, 荣耀 V40 轻奢版 5G
 honor,VCA-AN00,cn,荣耀, 荣耀 V Purse
+honor,AMG-AN00,cn,荣耀, 荣耀 GT
 honor,G750-T00,cn,荣耀, 荣耀 3X 双 3G 版
 honor,G750-U00,cn,荣耀, 荣耀 3X 联通版
 honor,G750-T20,cn,荣耀, 荣耀 3X Pro
@@ -1643,6 +1644,7 @@ honor,FRI-G561,cn,荣耀, 荣耀笔记本 X14 2024 i5 (16GB+1TB)
 honor,FRI-H56,cn,荣耀, 荣耀笔记本 X14 2024 R5 (16GB+512GB)
 honor,FMI-76,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (16GB+512GB)
 honor,FMI-721,cn,荣耀, 荣耀笔记本 X14 Plus 2024 R7 (32GB+1TB)
+honor,FRB-X,cn,荣耀, 荣耀笔记本 X14 Plus 2025
 honor,BBR-WAI9,cn,荣耀, 荣耀 MagicBook X 15 i3
 honor,BBR-WAH9,cn,荣耀, 荣耀 MagicBook X 15 i5
 honor,BDR-WDH,cn,荣耀, 荣耀 MagicBook X 15 2022 i5 (8GB+512GB)
@@ -1656,10 +1658,11 @@ honor,BRN-H76,cn,荣耀, 荣耀 MagicBook X 16 Pro 2023 R7 (16GB+512GB)
 honor,BRN-G56,cn,荣耀, 荣耀笔记本 X16 2024 i5 (16GB+512GB)
 honor,BRN-G561,cn,荣耀, 荣耀笔记本 X16 2024 i5 (16GB+1TB)
 honor,BRN-H56,cn,荣耀, 荣耀笔记本 X16 2024 R5 (16GB+512GB)
-honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
-honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
 honor,BRG-565,cn,荣耀, 荣耀笔记本 X16 2025 i5 (16GB+512GB)
 honor,BRG-561,cn,荣耀, 荣耀笔记本 X16 2025 i5 (16GB+1TB)
+honor,BRI-76,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (16GB+512GB)
+honor,BRI-721,cn,荣耀, 荣耀笔记本 X16 Plus 2024 R7 (32GB+1TB)
+honor,BRB-X,cn,荣耀, 荣耀笔记本 X16 Plus 2025
 honor,FRI-F56Z,cn,荣耀, 荣耀 MagicBook Z3 14 2023 i5
 honor,FRD-WDG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (8GB+512GB) (华为终端)
 honor,FRD-WFG9,cn,荣耀, 荣耀猎人游戏本 V700 i5 (16GB+512GB) (华为终端)
