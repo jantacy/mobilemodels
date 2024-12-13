@@ -2893,6 +2893,7 @@ huawei,TAH-N29m,en,华为, HUAWEI Mate Xs Dual SIM
 huawei,PAL-LX9,en,华为, HUAWEI Mate Xs 2
 huawei,PAL-L29,en,华为, HUAWEI Mate Xs 2
 huawei,ALT-L29,en,华为, HUAWEI Mate X3
+huawei,ICL-LX9,en,华为, HUAWEI Mate X6
 huawei,P6-U06,en,华为, HUAWEI Ascend P6 Single SIM
 huawei,P7-L10,en,华为, HUAWEI Ascend P7
 huawei,P7-L11,en,华为, HUAWEI Ascend P7
@@ -3047,6 +3048,8 @@ huawei,FOA-LX9,en,华为, HUAWEI nova 12s
 huawei,CTR-L81,en,华为, HUAWEI nova 12i
 huawei,BNE-LX1,en,华为, HUAWEI nova 12 SE
 huawei,BNE-LX3,en,华为, HUAWEI nova 12 SE
+huawei,BLK-LX9,en,华为, HUAWEI nova 13
+huawei,MIS-LX9,en,华为, HUAWEI nova 13 Pro
 huawei,WKG-LX9,en,华为, HUAWEI nova Y60
 huawei,EVE-LX9,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
 huawei,EVE-LX9N,en,华为, HUAWEI nova Y61 / HUAWEI nova Y62 / HUAWEI nova Y62 Plus
@@ -3055,7 +3058,7 @@ huawei,MGA-LX9,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y
 huawei,MGA-LX9N,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX3,en,华为, HUAWEI nova Y70 / HUAWEI nova Y70 Plus / HUAWEI nova Y71
 huawei,MGA-LX3,en,华为, HUAWEI nova Y72
-huawei,GFY-LX1,en,华为, HUAWEI nova Y73
+huawei,GFY-LX1,en,华为, HUAWEI nova Y72S
 huawei,CTR-LX1,en,华为, HUAWEI nova Y90
 huawei,CTR-LX2,en,华为, HUAWEI nova Y90
 huawei,CTR-LX3,en,华为, HUAWEI nova Y90
