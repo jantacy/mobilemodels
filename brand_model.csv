@@ -1506,6 +1506,7 @@ honor,AGM3-W09HN,cn,荣耀, 荣耀平板 Z5 10.1 英寸 Wi-Fi 版
 honor,AGM3-AL09HN,cn,荣耀, 荣耀平板 Z5 10.1 英寸 全网通版
 honor,AGM3-W09HN,cn,荣耀, 荣耀平板 X8 10.1 英寸 Wi-Fi 版
 honor,ELN-W09,cn,荣耀, 荣耀平板 X8 Pro 11.5 英寸 Wi-Fi 版
+honor,ELN-W09,cn,荣耀, 荣耀平板 Z6 11.5 英寸 Wi-Fi 版
 honor,HEY-W09,cn,荣耀, 荣耀平板 8 12 英寸 Wi-Fi 版
 honor,BRT-W09,cn,荣耀, 荣耀平板 V8 11 英寸 Wi-Fi 版
 honor,ROD-W09,cn,荣耀, 荣耀平板 V8 Pro 12.1 英寸 Wi-Fi 版
@@ -1520,6 +1521,8 @@ honor,ROD2-W09,cn,荣耀, 荣耀平板 MagicPad 2 12.3 英寸 Wi-Fi 版
 honor,ROD2-W69,cn,荣耀, 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 honor,NDL-W09,cn,荣耀, 荣耀平板 X9 11 英寸 Wi-Fi 版
 honor,NDL-AL00,cn,荣耀, 荣耀平板 X9 11 英寸 全网通版
+honor,ROL-W00,cn,荣耀, 荣耀平板 V9 11.5 英寸 Wi-Fi 版
+honor,ROL-W10,cn,荣耀, 荣耀平板 V9 柔光版 11.5 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
 honor,HDL-W09,cn,荣耀, 荣耀 Waterplay 8 英寸 Wi-Fi 版
@@ -4538,6 +4541,8 @@ oneplus,CPH2611,cn,一加, OnePlus 12R 北美版 / 原神刻晴定制机
 oneplus,PJF110,cn,一加, OnePlus Ace 3V 国行版
 oneplus,PJX110,cn,一加, OnePlus Ace 3 Pro 国行版
 oneplus,PJZ110,cn,一加, OnePlus 13 国行版
+oneplus,PKG110,cn,一加, OnePlus Ace 5 国行版
+oneplus,PKR110,cn,一加, OnePlus Ace 5 Pro 国行版
 oneplus,AC2001,cn,一加, OnePlus Nord 印度版
 oneplus,AC2003,cn,一加, OnePlus Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, OnePlus Nord 2 印度版
@@ -4693,6 +4698,8 @@ oneplus,CPH2611,en,一加, OnePlus 12R North America / Genshin Impact Edition
 oneplus,PJF110,en,一加, OnePlus Ace 3V China
 oneplus,PJX110,en,一加, OnePlus Ace 3 Pro China
 oneplus,PJZ110,en,一加, OnePlus 13 China
+oneplus,PKG110,en,一加, OnePlus Ace 5 China
+oneplus,PKR110,en,一加, OnePlus Ace 5 Pro China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -4893,6 +4900,7 @@ oppo,PKD120,cn,OPPO, OPPO A3m
 oppo,PKD130,cn,OPPO, OPPO A3x
 oppo,PKL110,cn,OPPO, OPPO A3i
 oppo,PJY110,cn,OPPO, OPPO A3 Pro
+oppo,PKP110,cn,OPPO, OPPO A5 Pro
 oppo,PBCM30,cn,OPPO, OPPO K1
 oppo,PCGM00,cn,OPPO, OPPO K3 全网通版
 oppo,PCGT00,cn,OPPO, OPPO K3 移动版
