@@ -1403,6 +1403,7 @@ honor,DIO-AN00,cn,荣耀, 荣耀 Play7T Pro 5G
 honor,CLK-AN00,cn,荣耀, 荣耀 Play8T 5G
 honor,LLY-AN00,cn,荣耀, 荣耀 Play8T Pro 5G
 honor,ALT-AN00,cn,荣耀, 荣耀 Play9T 5G
+honor,LYN-AN00,cn,荣耀, 荣耀 Play9T Pro 5G
 honor,JDY-AN00,cn,荣耀, 荣耀 Play9C 5G
 honor,EDI-AL10,cn,荣耀, 荣耀 Note8 全网通版
 honor,EDI-DL00,cn,荣耀, 荣耀 Note8 移动/联通版
@@ -4950,6 +4951,8 @@ oppo,OWW211,cn,OPPO, OPPO Watch 3 Pro
 oppo,OWW213,cn,OPPO, OPPO Watch SE
 oppo,OWW221,cn,OPPO, OPPO Watch 4 Pro
 oppo,OWW231,cn,OPPO, OPPO Watch X
+oppo,OWW242,cn,OPPO, OPPO Watch
+oppo,OWW251,cn,OPPO, OPPO Watch
 oppo,CPH1871,en,OPPO, OPPO Find X
 oppo,CPH1875,en,OPPO, OPPO Find X
 oppo,CPH2023,en,OPPO, OPPO Find X2
@@ -6958,10 +6961,14 @@ vivo,V2349,en,VIVO, vivo V30 SE
 vivo,V2348,en,VIVO, vivo V40
 vivo,V2347,en,VIVO, vivo V40 Pro
 vivo,V2403,en,VIVO, vivo V40e
-vivo,V2418,en,VIVO, vivo V40e
-vivo,V2341,en,VIVO, vivo V40 Lite
+vivo,V2417,en,VIVO, vivo V40 Lite 5G
+vivo,V2418,en,VIVO, vivo V40 Lite 5G
+vivo,V2342,en,VIVO, vivo V40 SE
 vivo,V2337,en,VIVO, vivo V40 SE 5G
-vivo,V2342,en,VIVO, vivo V40 SE 5G
+vivo,V2418,en,VIVO, vivo V40 SE 80W
+vivo,V2427,en,VIVO, vivo V50
+vivo,V2428,en,VIVO, vivo V50e
+vivo,V2440,en,VIVO, vivo V50 Lite
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2153,en,VIVO, vivo T1
 vivo,V2168,en,VIVO, vivo T1
@@ -7037,6 +7044,7 @@ vivo,V2315,en,VIVO, vivo Y28 5G
 vivo,V2346,en,VIVO, vivo Y28s 5G
 vivo,V2351,en,VIVO, vivo Y28s 5G
 vivo,V2407,en,VIVO, vivo Y28e 5G
+vivo,V2420,en,VIVO, vivo Y29 5G
 vivo,V2160,en,VIVO, vivo Y30 5G
 vivo,V2036,en,VIVO, vivo Y31
 vivo,V2036_21,en,VIVO, vivo Y31
@@ -7047,6 +7055,7 @@ vivo,V2146,en,VIVO, vivo Y33T
 vivo,V2205,en,VIVO, vivo Y35
 vivo,V2248,en,VIVO, vivo Y36 5G
 vivo,V2343,en,VIVO, vivo Y38 5G
+vivo,V2444,en,VIVO, vivo Y39 5G
 vivo,V2024,en,VIVO, vivo Y51
 vivo,V2030,en,VIVO, vivo Y51
 vivo,V2035,en,VIVO, vivo Y51
@@ -7057,6 +7066,7 @@ vivo,V2058,en,VIVO, vivo Y53s
 vivo,V2154,en,VIVO, vivo Y55
 vivo,V2127,en,VIVO, vivo Y55 5G
 vivo,V2355,en,VIVO, vivo Y58 5G
+vivo,V2443,en,VIVO, vivo Y59 5G
 vivo,V2041,en,VIVO, vivo Y72
 vivo,V2060,en,VIVO, vivo Y72 5G
 vivo,V2059,en,VIVO, vivo Y73
