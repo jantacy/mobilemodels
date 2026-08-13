@@ -15,7 +15,7 @@ jobs:
 #    if: github.event.repository.owner.id == github.event.sender.id  # 自己点的 start
     steps:
     - name: Checkout repository and submodules
-      uses: actions/checkout@v4
+      uses: actions/checkout@v7
       with:
         submodules: true
         token: ${{ secrets.GITHUB_TOKEN }}
@@ -24,7 +24,7 @@ jobs:
         git pull --recurse-submodules
         git submodule update --remote --recursive
     - name: Set up Python #安装python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v7
       with:
         python-version: '3.13'
     - name: Install requirements
