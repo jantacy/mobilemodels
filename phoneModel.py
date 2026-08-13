@@ -16,8 +16,10 @@ class PhoneModel:
         # if origin == 0:  # 拉取仓库
         #     repo = Repo.clone_from(repo_address, repo_path)
         # else:  # 拉取最新数据
+        # The MobileModels submodule is already updated to the latest commit by the
+        # workflow's `git submodule update --remote` step, which leaves it in detached
+        # HEAD state, so `repo.remotes.origin.pull()` fails here (no branch to merge into).
         repo = Repo(repo_path)
-        repo.remotes.origin.pull()
         self.new_commit = repo.head.commit.hexsha
         print("MobileModels latest commit: " + str(self.new_commit))
         os.environ["LATEST_COMMIT"] = self.new_commit
@@ -47,13 +49,9 @@ class PhoneModel:
         return model_df
 
     def get_all(self):
-        brand_model = pd.DataFrame(columns=['brand', 'model', 'area', 'brand_name', 'model_name'])
+        frames = [self.get_model(brand) for brand in self.brands]
 
-        for brand in self.brands:
-            self.get_model(brand)
-            brand_model = brand_model.append(self.get_model(brand))
-
-        self.brand_model = brand_model.reset_index(drop=True).drop_duplicates().reset_index(drop=True)
+        self.brand_model = pd.concat(frames, ignore_index=True).drop_duplicates().reset_index(drop=True)
 
     def data_save(self):
         project_path = os.path.dirname(os.path.realpath(__file__))
