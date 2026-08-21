@@ -1838,6 +1838,8 @@ honor,ELN2-W09,cn,荣耀, 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
 honor,NDL2-W09,cn,荣耀, 荣耀平板 X10 11 英寸 Wi-Fi 版
 honor,ELE2-W00,cn,荣耀, 荣耀平板 X10 Pro 11.5 英寸 Wi-Fi 版
 honor,ELE2-W19,cn,荣耀, 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
+honor,YAG-W09,cn,荣耀, 荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版
+honor,YAG-W19,cn,荣耀, 荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版
 honor,ELE2-W19,cn,荣耀, 荣耀护眼学习机 火火兔版 11.5 英寸 Wi-Fi 版
 honor,AGM-W09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 Wi-Fi 版
 honor,AGM-AL09HN,cn,荣耀, 荣耀平板 Z3 9.7 英寸 LTE 版
@@ -2283,6 +2285,9 @@ honor,NIC-LX2,en,荣耀, HONOR X6c
 honor,NIC-LX3,en,荣耀, HONOR X6c
 honor,NLA-NX1,en,荣耀, HONOR X6d 5G
 honor,NLA-NX3,en,荣耀, HONOR X6d 5G
+honor,LBU-LX1,en,荣耀, HONOR X6e
+honor,LBU-LX2,en,荣耀, HONOR X6e
+honor,LBU-LX3,en,荣耀, HONOR X6e
 honor,CMA-LX1,en,荣耀, HONOR X7
 honor,CMA-LX2,en,荣耀, HONOR X7
 honor,CMA-LX3,en,荣耀, HONOR X7
@@ -2306,6 +2311,8 @@ honor,LGN-NX1,en,荣耀, HONOR X7d 5G
 honor,LAB-LX1,en,荣耀, HONOR X7e
 honor,LAB-LX2,en,荣耀, HONOR X7e
 honor,LAB-LX3,en,荣耀, HONOR X7e
+honor,MRK-LX1,en,荣耀, HONOR X7e Plus
+honor,MRK-LX2,en,荣耀, HONOR X7e Plus
 honor,MRK-NX1,en,荣耀, HONOR X7e Plus 5G
 honor,TFY-LX1,en,荣耀, HONOR X8
 honor,TFY-LX2,en,荣耀, HONOR X8
@@ -2323,6 +2330,8 @@ honor,ABR-LX2,en,荣耀, HONOR X8c
 honor,ABR-LX3,en,荣耀, HONOR X8c
 honor,LNA-LX2,en,荣耀, HONOR X8d
 honor,LNA-LX3,en,荣耀, HONOR X8d
+honor,MRK-LX1,en,荣耀, HONOR X8e
+honor,MRK-LX3,en,荣耀, HONOR X8e s
 honor,ANY-LX1,en,荣耀, HONOR X9
 honor,ANY-LX2,en,荣耀, HONOR X9
 honor,ANY-LX3,en,荣耀, HONOR X9
@@ -2333,6 +2342,8 @@ honor,ALI-NX3P,en,荣耀, HONOR X9b 5G
 honor,BRP-NX1,en,荣耀, HONOR X9c
 honor,BRC-NX1,en,荣耀, HONOR X9c Smart
 honor,MTN-NX1,en,荣耀, HONOR X9d
+honor,MTN-NX1,en,荣耀, HONOR X9e s
+honor,MTN-NX3,en,荣耀, HONOR X9e s
 honor,GFY-LX3,en,荣耀, HONOR Play9A
 honor,NIC-LX3P,en,荣耀, HONOR Play9C
 honor,ELA-LX2,en,荣耀, HONOR Play10
@@ -2343,6 +2354,7 @@ honor,HEY2-N09,en,荣耀, HONOR Pad 9 5G
 honor,HEY3-W00,en,荣耀, HONOR Pad 10 Wi-Fi
 honor,HEY3-N09,en,荣耀, HONOR Pad 10 5G
 honor,HEY4-W09,en,荣耀, HONOR Pad 20 Wi-Fi
+honor,MLA-W09,en,荣耀, HONOR Pad 20 Pro Wi-Fi
 honor,ROL-W00,en,荣耀, HONOR Pad V9
 honor,ROD2-W09,en,荣耀, HONOR MagicPad2
 honor,CGA-W00,en,荣耀, HONOR MagicPad3
@@ -2364,6 +2376,8 @@ honor,ELN-L09,en,荣耀, HONOR Pad X9 LTE
 honor,ELN2-W29,en,荣耀, HONOR Pad X9a Wi-Fi
 honor,ELN2-L23,en,荣耀, HONOR Pad X9a LTE
 honor,ELN2-L29,en,荣耀, HONOR Pad X9a LTE
+honor,YAG-W09,en,荣耀, HONOR Pad X9b Max Wi-Fi
+honor,YAG-W19,en,荣耀, HONOR Pad X9b Max Paperlike Edition Wi-Fi
 huawei,MT1-T00,cn,华为, 华为 Ascend Mate 移动版
 huawei,MT1-U06,cn,华为, 华为 Ascend Mate 联通版
 huawei,MT2-U071,cn,华为, 华为 Ascend Mate 2 联通 3G 版
