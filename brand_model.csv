@@ -1824,6 +1824,7 @@ honor,CGA-W00,cn,荣耀, 荣耀平板 MagicPad 3 13.3 英寸 Wi-Fi 版
 honor,CGL-W00,cn,荣耀, 荣耀 MagicPad 3 12.5 英寸 Wi-Fi 版
 honor,YLP-W00,cn,荣耀, 荣耀 MagicPad 3 Pro 13.3 英寸 Wi-Fi 版
 honor,YLE-W09,cn,荣耀, 荣耀 MagicPad 3 Pro 12.3 英寸 Wi-Fi 版
+honor,MLA-W09,cn,荣耀, 荣耀 MagicPad 4 12.1 英寸 Wi-Fi 版
 honor,ROL-W60,cn,荣耀, 荣耀平板 GT 11.5 英寸 Wi-Fi 版
 honor,ROD2-W69,cn,荣耀, 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 honor,CHG-W60,cn,荣耀, 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
@@ -2476,6 +2477,7 @@ huawei,ICL-AL20,cn,华为, HUAWEI Mate X6 典藏版
 huawei,GRL-AL20,cn,华为, HUAWEI Mate XTs 非凡大师
 huawei,DEL-AL10,cn,华为, HUAWEI Mate X7
 huawei,DEL-AL20,cn,华为, HUAWEI Mate X7 典藏版
+huawei,LAP-AL10,cn,华为, HUAWEI Mate XT 2 非凡大师
 huawei,U9200,cn,华为, 华为 Ascend P1
 huawei,U9200E,cn,华为, 华为 Ascend P1 XL
 huawei,U9200S,cn,华为, 华为 Ascend P1 S
@@ -2559,6 +2561,7 @@ huawei,VDE-AL00,cn,华为, HUAWEI Pura X
 huawei,VDE-AL10,cn,华为, HUAWEI Pura X 典藏版
 huawei,HOP-AL00,cn,华为, HUAWEI Pura X Max
 huawei,HOP-AL10,cn,华为, HUAWEI Pura X Max 典藏版
+huawei,VOL-AL00,cn,华为, HUAWEI Pura X View
 huawei,BAL-AL60,cn,华为, HUAWEI Pocket S
 huawei,LEM-AL00,cn,华为, HUAWEI Pocket 2
 huawei,LEM-AL50,cn,华为, HUAWEI Pocket 2 优享版
@@ -2856,6 +2859,8 @@ huawei,BKY-W21,cn,华为, HUAWEI MatePad Air 12 英寸 Wi-Fi 柔光版
 huawei,LRT-W00,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版 (8GB+256GB)
 huawei,LRT-W20,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 版
 huawei,LRT-W30,cn,华为, HUAWEI MatePad Air 12 英寸 2025 Wi-Fi 柔光版
+huawei,WKI-W00,cn,华为, HUAWEI MatePad Air 12 英寸 2026 悦享款 Wi-Fi 版
+huawei,WKI-W10,cn,华为, HUAWEI MatePad Air 12 英寸 2026 Wi-Fi 版
 huawei,BAH3-W09,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 810)
 huawei,BAH3-W59,cn,华为, HUAWEI MatePad 10.4 英寸 Wi-Fi 版 (麒麟 820)
 huawei,BAH3-AL00,cn,华为, HUAWEI MatePad 10.4 英寸 LTE 版 (麒麟 810)
@@ -3359,8 +3364,13 @@ huawei,MDS-AL00,cn,华为, HUAWEI WATCH 4 Pro
 huawei,MDS-AL10,cn,华为, HUAWEI WATCH 4 Pro
 huawei,SOC-AL00,cn,华为, HUAWEI WATCH 5 42mm / HUAWEI WATCH 十周年款 42mm
 huawei,RTS-AL00,cn,华为, HUAWEI WATCH 5 46mm / HUAWEI WATCH 十周年款 46mm
+huawei,LEB-AL00,cn,华为, HUAWEI WATCH 6 42mm
+huawei,NIZ-AL00,cn,华为, HUAWEI WATCH 6 46mm
+huawei,LEB-AL10,cn,华为, HUAWEI WATCH 6 Pro 43mm
+huawei,NIZ-AL00,cn,华为, HUAWEI WATCH 6 Pro 46mm
 huawei,CLB-B19,cn,华为, HUAWEI WATCH Ultimate 非凡大师
 huawei,WDS-B19,cn,华为, HUAWEI WATCH Ultimate 非凡探索
+huawei,MCH-B39,cn,华为, HUAWEI WATCH Ultimate 2 非凡探索
 huawei,MCH-AL00,cn,华为, HUAWEI WATCH Ultimate 2 非凡探索
 huawei,CLB-B19,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 黄金款
 huawei,EDD-B39,cn,华为, HUAWEI WATCH ULTIMATE DESIGN 非凡大师 蓝宝石黄金款
@@ -9348,6 +9358,7 @@ xiaomi-wear,M2419E1,cn,小米, 小米 Air4 SE
 xiaomi-wear,M2341E1,cn,小米, Xiaomi Buds 5
 xiaomi-wear,M2437E1,cn,小米, Xiaomi Buds 5 Pro 蓝牙版
 xiaomi-wear,M2438E1,cn,小米, Xiaomi Buds 5 Pro Wi-Fi 版
+xiaomi-wear,M2610E1,cn,小米, Xiaomi Air5
 xiaomi-wear,M2540E1,cn,小米, Xiaomi Buds 6
 xiaomi-wear,M2503E1,cn,小米, Xiaomi 开放式耳机 Pro
 xiaomi-wear,GCDEJ01LS,cn,小米, Xiaomi 骨传导耳机
@@ -9551,6 +9562,7 @@ xiaomi,2602DPT53I,cn,小米, Xiaomi 17T 印度版
 xiaomi,M025EC,cn,小米, Xiaomi 17T Pro 国行版
 xiaomi,2602EPTC0G,cn,小米, Xiaomi 17T Pro 国际版
 xiaomi,2602EPTC0R,cn,小米, Xiaomi 17T Pro 日本版 (无锁)
+xiaomi,2608BPX34C,cn,小米, Xiaomi 18 Fold
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
 xiaomi,2014618,cn,小米, 小米 Note 移动合约版
@@ -9644,6 +9656,7 @@ xiaomi,25097RP43G,cn,小米, Xiaomi Pad 8 国际版
 xiaomi,25097RP43I,cn,小米, Xiaomi Pad 8 印度版
 xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro 国行版
 xiaomi,25091RP04G,cn,小米, Xiaomi Pad 8 Pro 国际版
+xiaomi,M367FC,cn,小米, Xiaomi Pad 9 Pro Max
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
 xiaomi,2013029,cn,小米, 红米 1S 联通版
@@ -9836,6 +9849,8 @@ xiaomi,26062RN92I,cn,小米, REDMI 17 5G 印度版
 xiaomi,2606FRN72Y,cn,小米, REDMI 17 国际版
 xiaomi,2606FRN72L,cn,小米, REDMI 17 拉美版 / 日本版
 xiaomi,2607FRNEAG,cn,小米, REDMI 17C 5G 国际版
+xiaomi,2607FRNEAI,cn,小米, REDMI 17C 5G 印度版
+xiaomi,2612FRNEAR,cn,小米, REDMI 17C 5G 日本版
 xiaomi,2014018,cn,小米, 红米 Note 联通 3G 标准版
 xiaomi,2013121,cn,小米, 红米 Note 联通 3G 增强版
 xiaomi,2014017,cn,小米, 红米 Note 移动 3G 标准版
@@ -10051,6 +10066,7 @@ xiaomi,2607DRA18I,cn,小米, REDMI Note 17 Pro 5G 印度版
 xiaomi,2607DRA18T,cn,小米, REDMI Note 17 Pro 5G 沙特版
 xiaomi,2609FRA74G,cn,小米, REDMI Note 17 Pro Max 5G 国际版
 xiaomi,2609FRA74I,cn,小米, REDMI Note 17 Pro Max 5G 印度版
+xiaomi,2609FRA56I,cn,小米, REDMI Note 17 Pro Max 5G 印度版
 xiaomi,2609FRA74T,cn,小米, REDMI Note 17 Pro Max 5G 沙特版
 xiaomi,M2004J7AC,cn,小米, Redmi 10X 5G
 xiaomi,M2004J7BC,cn,小米, Redmi 10X Pro 5G
@@ -10575,6 +10591,7 @@ xiaomi,M531DA,en,小米, Xiaomi 17T China
 xiaomi,2602EPTC0G,en,小米, Xiaomi 17T Pro Global
 xiaomi,2602EPTC0R,en,小米, Xiaomi 17T Pro Japan (SIM Free)
 xiaomi,M025EC,en,小米, Xiaomi 17T Pro China
+xiaomi,2608BPX34C,en,小米, Xiaomi 18 Fold China
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
 xiaomi,2014619,en,小米, Mi Note China (Full-network)
@@ -10829,6 +10846,8 @@ xiaomi,26062RN92I,en,小米, REDMI 17 5G India
 xiaomi,2606FRN72Y,en,小米, REDMI 17 Global
 xiaomi,2606FRN72L,en,小米, REDMI 17 Latin America / Japan
 xiaomi,2607FRNEAG,en,小米, REDMI 17C 5G Global
+xiaomi,2607FRNEAI,en,小米, REDMI 17C 5G India
+xiaomi,2612FRNEAR,en,小米, REDMI 17C 5G Japan
 xiaomi,2014018,en,小米, Redmi Note WCDMA (1GB RAM)
 xiaomi,2013121,en,小米, Redmi Note WCDMA (2GB RAM)
 xiaomi,2014017,en,小米, Redmi Note TD-SCDMA (1GB RAM)
@@ -11043,6 +11062,7 @@ xiaomi,2607DRA18I,en,小米, REDMI Note 17 Pro 5G India
 xiaomi,2607DRA18T,en,小米, REDMI Note 17 Pro 5G Saudi Arabia
 xiaomi,2609FRA74G,en,小米, REDMI Note 17 Pro Max 5G Global
 xiaomi,2609FRA74I,en,小米, REDMI Note 17 Pro Max 5G India
+xiaomi,2609FRA56I,en,小米, REDMI Note 17 Pro Max 5G India
 xiaomi,2609FRA74T,en,小米, REDMI Note 17 Pro Max 5G Saudi Arabia
 xiaomi,M2004J7AC,en,小米, Redmi 10X 5G China
 xiaomi,M2004J7BC,en,小米, Redmi 10X Pro 5G China
@@ -11297,6 +11317,7 @@ xiaomi,25097RP43C,en,小米, Xiaomi Pad 8 China
 xiaomi,25097RP43I,en,小米, Xiaomi Pad 8 India
 xiaomi,25091RP04G,en,小米, Xiaomi Pad 8 Pro Global
 xiaomi,25091RP04C,en,小米, Xiaomi Pad 8 Pro China
+xiaomi,M367FC,en,小米, Xiaomi Pad 9 Pro Max China
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
 xiaomi,23073RPBFG,en,小米, Redmi Pad SE Global
