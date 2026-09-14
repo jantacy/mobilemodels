@@ -1760,6 +1760,10 @@ honor,LDY-AN00,cn,荣耀, 荣耀 Magic8 Pro Air
 honor,BKQ-AN20,cn,荣耀, 荣耀 Magic8 RSR 保时捷设计
 honor,PNM-AN10,cn,荣耀, 荣耀 Magic V6
 honor,PNM-AN20,cn,荣耀, 荣耀 Magic V6 (16GB+1TB)
+honor,MLY-AN00,cn,荣耀, 荣耀 Magic9
+honor,MLM-AN00,cn,荣耀, 荣耀 Magic9 超能版
+honor,WKL-AN20,cn,荣耀, 荣耀 Magic9 Pro Max
+honor,WKL-AN80,cn,荣耀, 荣耀 Magic9 Pro Max (16GB+1TB)
 honor,APH-AN00,cn,荣耀, 荣耀 Robot Phone
 honor,H60-L01,cn,荣耀, 荣耀 6 移动版
 honor,H60-L02,cn,荣耀, 荣耀 6 联通版
@@ -2361,7 +2365,9 @@ honor,TUR-L19,cn,荣耀, 荣耀手表 5 Ultra
 honor,IVY-B39,cn,荣耀, 荣耀手表 GS 5 / 荣耀手表 Fit
 honor,LWS-WB10,cn,荣耀, 荣耀手表 X5
 honor,WTS-B19,cn,荣耀, 荣耀手表 X5i
+honor,WSS-B19,cn,荣耀, 荣耀手表 X5s
 honor,ROM-B19,cn,荣耀, 荣耀手表 6 Plus
+honor,HLO-B19,cn,荣耀, 荣耀手表 6 Pro
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -6291,6 +6297,9 @@ oppo,PLG120,cn,OPPO, OPPO Find X9 Pro 卫星通信版
 oppo,PME110,cn,OPPO, OPPO Find X9s Pro
 oppo,PMA110,cn,OPPO, OPPO Find X9 Ultra
 oppo,PMA120,cn,OPPO, OPPO Find X9 Ultra 卫星通信版
+oppo,PMW110,cn,OPPO, OPPO Find X10
+oppo,PNA110,cn,OPPO, OPPO Find X10 E
+oppo,PMX110,cn,OPPO, OPPO Find X10 Pro Max
 oppo,PEUM00,cn,OPPO, OPPO Find N
 oppo,PGU110,cn,OPPO, OPPO Find N2
 oppo,PGT110,cn,OPPO, OPPO Find N2 Flip
@@ -6526,6 +6535,7 @@ oppo,OWW251,cn,OPPO, OPPO Watch X2
 oppo,OWW262,cn,OPPO, OPPO Watch S
 oppo,OWW261,cn,OPPO, OPPO Watch X3
 oppo,OWW263,cn,OPPO, OPPO Watch X3 Mini
+oppo,OWW265,cn,OPPO, OPPO Watch S2
 oppo,CPH1871,en,OPPO, OPPO Find X
 oppo,CPH1875,en,OPPO, OPPO Find X
 oppo,CPH2023,en,OPPO, OPPO Find X2
@@ -7846,6 +7856,11 @@ samsung,SM-S948Z,en,三星, Galaxy S26 Ultra Japan (SoftBank)
 samsung,SM-S948C,en,三星, Galaxy S26 Ultra Japan (Rakuten Mobile)
 samsung,SCG37,en,三星, Galaxy S26 Ultra Japan (au)
 samsung,SC-53G,en,三星, Galaxy S26 Ultra Japan (NTT Docomo)
+samsung,SM-S741B,en,三星, Galaxy S26 FE Global
+samsung,SM-S741U,en,三星, Galaxy S26 FE US Carrier
+samsung,SM-S741U1,en,三星, Galaxy S26 FE US Unlocked
+samsung,SM-S741W,en,三星, Galaxy S26 FE Canada
+samsung,SM-S741N,en,三星, Galaxy S26 FE South Korea
 samsung,SM-N960F,en,三星, Galaxy Note9 Global
 samsung,SM-N960U,en,三星, Galaxy Note9 US Carrier
 samsung,SM-N960U1,en,三星, Galaxy Note9 US Unlocked
@@ -8104,6 +8119,10 @@ samsung,SM-A075M,en,三星, Galaxy A07 Latin America
 samsung,SM-A076E,en,三星, Galaxy A07 5G Global
 samsung,SM-A076B,en,三星, Galaxy A07 5G Global
 samsung,SM-A076M,en,三星, Galaxy A07 5G Latin America
+samsung,SM-A077F,en,三星, Galaxy A07s Global
+samsung,SM-A077M,en,三星, Galaxy A07s Latin America
+samsung,SM-A085F,en,三星, Galaxy A08 Global
+samsung,SM-A085M,en,三星, Galaxy A08 Latin America
 samsung,SM-A105F,en,三星, Galaxy A10 Global
 samsung,SM-A015FN,en,三星, Galaxy A10 Global
 samsung,SM-A015G,en,三星, Galaxy A10 Global
@@ -8190,6 +8209,9 @@ samsung,SM-A176U1,en,三星, Galaxy A17 5G US Unlocked
 samsung,SM-S176V,en,三星, Galaxy A17 5G TracFone
 samsung,SM-A176W,en,三星, Galaxy A17 5G Canada
 samsung,SM-A1760,en,三星, Galaxy A17 5G HK & TW
+samsung,SM-A185F,en,三星, Galaxy A18 Global (Exynos)
+samsung,SM-A185N,en,三星, Galaxy A18 South Korea
+samsung,SM-A185G,en,三星, Galaxy A18 Global (MediaTek)
 samsung,SM-A260F,en,三星, Galaxy A2 Core Global
 samsung,SM-A260G,en,三星, Galaxy A2 Core India
 samsung,SM-A205F,en,三星, Galaxy A20 Global
@@ -8454,6 +8476,7 @@ samsung,SM-M045F,en,三星, Galaxy M04
 samsung,SM-M055F,en,三星, Galaxy M05
 samsung,SM-M066B,en,三星, Galaxy M06 5G
 samsung,SM-M075F,en,三星, Galaxy M07
+samsung,SM-M085F,en,三星, Galaxy M08
 samsung,SM-M105G,en,三星, Galaxy M10 Global
 samsung,SM-M105F,en,三星, Galaxy M10 India
 samsung,SM-M105M,en,三星, Galaxy M10 Latin America
@@ -8521,6 +8544,7 @@ samsung,SM-E045F,en,三星, Galaxy F04
 samsung,SM-E055F,en,三星, Galaxy F05
 samsung,SM-E066B,en,三星, Galaxy F06 5G
 samsung,SM-E075F,en,三星, Galaxy F07
+samsung,SM-E085F,en,三星, Galaxy F08
 samsung,SM-F127G,en,三星, Galaxy F12
 samsung,SM-E135F,en,三星, Galaxy F13
 samsung,SM-E145F,en,三星, Galaxy F14
@@ -8540,6 +8564,7 @@ samsung,SM-E556B,en,三星, Galaxy F55 5G
 samsung,SM-E566B,en,三星, Galaxy F56 5G
 samsung,SM-E625F,en,三星, Galaxy F62
 samsung,SM-E076B,en,三星, Galaxy F70e 5G
+samsung,SM-E476B,en,三星, Galaxy F70 Pro 5G
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
 smartisan,SM801,cn,锤子, Smartisan T2
@@ -8951,6 +8976,11 @@ vivo,V2547A,cn,VIVO, vivo X300 Ultra
 vivo,V2547DA,cn,VIVO, vivo X300 Ultra 卫星通信版
 vivo,V2612A,cn,VIVO, vivo X300 E
 vivo,V2545A,cn,VIVO, vivo X Fold6
+vivo,V2609A,cn,VIVO, vivo X500
+vivo,V2608A,cn,VIVO, vivo X500 Pro
+vivo,V2608DA,cn,VIVO, vivo X500 Pro eSIM 版
+vivo,V2602A,cn,VIVO, vivo X500 Pro Max
+vivo,V2602DA,cn,VIVO, vivo X500 Pro Max 卫星通信版
 vivo,V1831A,cn,VIVO, vivo S1 全网通版
 vivo,V1831T,cn,VIVO, vivo S1 移动全网通版
 vivo,V1832A,cn,VIVO, vivo S1 Pro 全网通版
@@ -9246,6 +9276,7 @@ vivo,iPA2556,cn,VIVO, iQOO Pad5
 vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,iPA2537,cn,VIVO, iQOO Pad5e / iQOO Pad5c
 vivo,iPA2673,cn,VIVO, iQOO Pad6 Pro
+vivo,iPA2691,cn,VIVO, iQOO Pad Ultra
 vivo,WA2052,cn,VIVO, vivo WATCH 42mm
 vivo,WA2056,cn,VIVO, vivo WATCH 46mm
 vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
@@ -9257,6 +9288,8 @@ vivo,WA2556A,cn,VIVO, vivo WATCH 5 蓝牙版
 vivo,WA2556B,cn,VIVO, vivo WATCH 5 eSIM 版
 vivo,WA2536A,cn,VIVO, vivo WATCH GT 2 蓝牙版
 vivo,WA2536B,cn,VIVO, vivo WATCH GT 2 eSIM 版
+vivo,WA2656A,cn,VIVO, vivo WATCH 6 蓝牙版
+vivo,WA2656B,cn,VIVO, vivo WATCH 6 eSIM 版
 vivo,iWA2356A,cn,VIVO, iQOO WATCH eSIM 版
 vivo,iWA2356C,cn,VIVO, iQOO WATCH 蓝牙版
 vivo,iWA2456A,cn,VIVO, iQOO WATCH GT eSIM 版
@@ -9990,6 +10023,11 @@ xiaomi,25097RP43G,cn,小米, Xiaomi Pad 8 国际版
 xiaomi,25097RP43I,cn,小米, Xiaomi Pad 8 印度版
 xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro 国行版
 xiaomi,25091RP04G,cn,小米, Xiaomi Pad 8 Pro 国际版
+xiaomi,M656BA,cn,小米, Xiaomi Pad 9 国行版
+xiaomi,26103RP65G,cn,小米, Xiaomi Pad 9 国际版
+xiaomi,26103RP65I,cn,小米, Xiaomi Pad 9 印度版
+xiaomi,2612CRPFFC,cn,小米, Xiaomi Pad 9 Pro 国行版
+xiaomi,2612CRPFFG,cn,小米, Xiaomi Pad 9 Pro 国际版
 xiaomi,M367FC,cn,小米, Xiaomi Pad 9 Pro Max
 xiaomi,2013022,cn,小米, 红米手机 移动版
 xiaomi,2013023,cn,小米, 红米手机 联通版
@@ -10544,7 +10582,7 @@ xiaomi,2604ERP4DG,cn,小米, REDMI Pad 2 9.7 4G 国际版
 xiaomi,2604ERP4DI,cn,小米, REDMI Pad 2 9.7 4G 印度版
 xiaomi,25079RPDCC,cn,小米, REDMI K Pad
 xiaomi,26048RP6AC,cn,小米, REDMI K Pad 2
-xiaomi,M1805E10A,cn,小米, POCO F1
+xiaomi,M1805E10A,cn,小米, POCO F1 国际版
 xiaomi,M2004J11G,cn,小米, POCO F2 Pro 国际版
 xiaomi,M2012K11AG,cn,小米, POCO F3 国际版
 xiaomi,M2104K10I,cn,小米, POCO F3 GT 印度版
@@ -10710,6 +10748,8 @@ xiaomi,2410CRP4CC,cn,小米, Xiaomi Pad 7
 xiaomi,24091RPADC,cn,小米, Xiaomi Pad 7 Pro
 xiaomi,25097RP43C,cn,小米, Xiaomi Pad 8
 xiaomi,25091RP04C,cn,小米, Xiaomi Pad 8 Pro
+xiaomi,M656BA,cn,小米, Xiaomi Pad 9
+xiaomi,2612CRPFFC,cn,小米, Xiaomi Pad 9 Pro
 xiaomi,2016030,cn,小米, 红米 3S
 xiaomi,M1908C3KE,cn,小米, Redmi 8A
 xiaomi,M2004J19C,cn,小米, Redmi 9
@@ -11502,7 +11542,7 @@ xiaomi,25128RN17L,en,小米, REDMI A7 Pro Latin America
 xiaomi,26020RN1AI,en,小米, REDMI A7 Pro 5G India
 xiaomi,26020RN1AC,en,小米, REDMI R70 5G China / REDMI R70m 5G China
 xiaomi,26062RN92C,en,小米, REDMI M100 China
-xiaomi,M1805E10A,en,小米, POCO F1
+xiaomi,M1805E10A,en,小米, POCO F1 Global
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
 xiaomi,M2104K10I,en,小米, POCO F3 GT India
@@ -11651,6 +11691,11 @@ xiaomi,25097RP43C,en,小米, Xiaomi Pad 8 China
 xiaomi,25097RP43I,en,小米, Xiaomi Pad 8 India
 xiaomi,25091RP04G,en,小米, Xiaomi Pad 8 Pro Global
 xiaomi,25091RP04C,en,小米, Xiaomi Pad 8 Pro China
+xiaomi,26103RP65G,en,小米, Xiaomi Pad 9 Global
+xiaomi,26103RP65I,en,小米, Xiaomi Pad 9 India
+xiaomi,M656BA,en,小米, Xiaomi Pad 9 China
+xiaomi,2612CRPFFG,en,小米, Xiaomi Pad 9 Pro Global
+xiaomi,2612CRPFFC,en,小米, Xiaomi Pad 9 Pro China
 xiaomi,M367FC,en,小米, Xiaomi Pad 9 Pro Max China
 xiaomi,22081283G,en,小米, Redmi Pad Global
 xiaomi,22081283C,en,小米, Redmi Pad China
