@@ -3745,6 +3745,9 @@ huawei,MLY-B11,cn,华为, HUAWEI WATCH D 米白色氟橡胶表带
 huawei,LCA-B10,cn,华为, HUAWEI WATCH D2 幻夜黑
 huawei,LCA-B11,cn,华为, HUAWEI WATCH D2 晨曦金
 huawei,LCA-B29,cn,华为, HUAWEI WATCH D2 星云蓝
+huawei,RIV-B10,cn,华为, HUAWEI WATCH D3 曜石黑
+huawei,RIV-B11,cn,华为, HUAWEI WATCH D3 羽砂金
+huawei,RIV-B12,cn,华为, HUAWEI WATCH D3 摩卡金
 huawei,SGA-B19,cn,华为, HUAWEI WATCH Buds
 huawei,LBA-B19,cn,华为, HUAWEI WATCH Buds 2
 huawei,MIL-B29B,cn,华为, HUAWEI WATCH B5-532
@@ -5122,6 +5125,10 @@ mitv,L55RC-AP,cn,小米电视, REDMI 电视 A Pro 55 2026
 mitv,L65RC-AP,cn,小米电视, REDMI 电视 A Pro 65 2026
 mitv,L70RB-APD,cn,小米电视, REDMI 电视 A Pro 70 2026
 mitv,L75RC-AP,cn,小米电视, REDMI 电视 A Pro 75 2026
+mitv,L55RD-APD,cn,小米电视, REDMI 电视 A Pro 55 2027 优选版
+mitv,L65RD-APD,cn,小米电视, REDMI 电视 A Pro 65 2027 优选版
+mitv,L75RD-APD,cn,小米电视, REDMI 电视 A Pro 75 2027 优选版
+mitv,L85RD-APD,cn,小米电视, REDMI 电视 A Pro 85 2027 优选版
 mitv,L50M5-RK,cn,小米电视, Redmi 智能电视 X50 (2020)
 mitv,L55M5-RK,cn,小米电视, Redmi 智能电视 X55 (2020)
 mitv,L65M5-RK,cn,小米电视, Redmi 智能电视 X65 (2020)
