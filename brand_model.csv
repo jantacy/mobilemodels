@@ -9701,6 +9701,8 @@ xiaomi-wear,M2230W1,cn,小米, 小米腕部心电血压记录仪 (Xiaomi Watch H
 xiaomi-wear,M2412W1,cn,小米, 小米腕部血压记录仪 (Xiaomi Watch H1 E)
 xiaomi-wear,M2530W1,cn,小米, Xiaomi Watch S5 蓝牙版
 xiaomi-wear,M2517W1,cn,小米, Xiaomi Watch S5 eSIM 版
+xiaomi-wear,M2606W1,cn,小米, Xiaomi Watch S5 41mm
+xiaomi-wear,M2607W1,cn,小米, Xiaomi Watch S5 透明版
 xiaomi-wear,M2442G1,cn,小米, Xiaomi AI Glasses
 xiaomi-wear,HMSH01GE,cn,小米, Redmi 手环
 xiaomi-wear,M2101B1,cn,小米, Redmi Smart Band Pro 国际版
@@ -9764,6 +9766,7 @@ xiaomi-wear,M2420E1,cn,小米, Redmi Buds 6 Play 国际版
 xiaomi-wear,M2411E1,cn,小米, REDMI Buds SE
 xiaomi-wear,M2455E1,cn,小米, REDMI Buds 7S
 xiaomi-wear,M2544E1,cn,小米, REDMI Buds 8
+xiaomi-wear,M2545E1,cn,小米, REDMI Buds 8S
 xiaomi-wear,M2535E1,cn,小米, REDMI Buds 8 Pro
 xiaomi-wear,M2537E1,cn,小米, REDMI Buds 8 活力版 / REDMI Buds 8 Active 国际版
 xiaomi-wear,M2539E1,cn,小米, REDMI Buds 8 青春版 / REDMI Buds 8 Lite 国际版
@@ -9938,6 +9941,13 @@ xiaomi,2602DPT53I,cn,小米, Xiaomi 17T 印度版
 xiaomi,M025EC,cn,小米, Xiaomi 17T Pro 国行版
 xiaomi,2602EPTC0G,cn,小米, Xiaomi 17T Pro 国际版
 xiaomi,2602EPTC0R,cn,小米, Xiaomi 17T Pro 日本版 (无锁)
+xiaomi,M610BB,cn,小米, Xiaomi 18 Pro 国行版
+xiaomi,2609BPN61G,cn,小米, Xiaomi 18 Pro 国际版
+xiaomi,2609BPN61I,cn,小米, Xiaomi 18 Pro 印度版
+xiaomi,M154FF,cn,小米, Xiaomi 18 Pro Max 国行版
+xiaomi,2611FPNFAG,cn,小米, Xiaomi 18 Pro Max 国际版
+xiaomi,2611FPNFAI,cn,小米, Xiaomi 18 Pro Max 印度版
+xiaomi,2611FPNFAR,cn,小米, Xiaomi 18 Pro Max 日本版
 xiaomi,2608BPX34C,cn,小米, Xiaomi 18 Fold
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
 xiaomi,2014619,cn,小米, 小米 Note 全网通版
@@ -10556,10 +10566,9 @@ xiaomi,26020RN1AI,cn,小米, REDMI A7 Pro 5G 印度版
 xiaomi,26062RN92C,cn,小米, REDMI M100
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
-xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版
+xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版 / Redmi Pad M7
 xiaomi,23073RPBFG,cn,小米, Redmi Pad SE 国际版
 xiaomi,23073RPBFL,cn,小米, Redmi Pad SE 拉美版
-xiaomi,23073RPBFC,cn,小米, Redmi Pad M7
 xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro Wi-Fi 国行版
 xiaomi,2405CRPFDG,cn,小米, Redmi Pad Pro Wi-Fi 国际版
 xiaomi,2405CRPFDI,cn,小米, Redmi Pad Pro Wi-Fi 印度版
@@ -10588,7 +10597,6 @@ xiaomi,2603ARP14C,cn,小米, REDMI Pad 2 SE 国行版
 xiaomi,2603ARP14G,cn,小米, REDMI Pad 2 9.7 国际版
 xiaomi,2604ERP4DC,cn,小米, REDMI Pad 2 SE 4G 国行版
 xiaomi,2604ERP4DG,cn,小米, REDMI Pad 2 9.7 4G 国际版
-xiaomi,2604ERP4DI,cn,小米, REDMI Pad 2 9.7 4G 印度版
 xiaomi,25079RPDCC,cn,小米, REDMI K Pad
 xiaomi,26048RP6AC,cn,小米, REDMI K Pad 2
 xiaomi,M1805E10A,cn,小米, POCO F1 国际版
@@ -10746,6 +10754,8 @@ xiaomi,2512BPNDAC,cn,小米, Xiaomi 17 Ultra / Xiaomi 17 Ultra by Leica (非卫�
 xiaomi,25128PNA1C,cn,小米, Xiaomi 17 Ultra by Leica (卫星通讯)
 xiaomi,M531DA,cn,小米, Xiaomi 17T
 xiaomi,M025EC,cn,小米, Xiaomi 17T Pro
+xiaomi,M610BB,cn,小米, Xiaomi 18 Pro
+xiaomi,M154FF,cn,小米, Xiaomi 18 Pro Max
 xiaomi,M1810E5E,cn,小米, 小米 MIX 3
 xiaomi,2405CPX3DC,cn,小米, Xiaomi MIX Flip
 xiaomi,2505APX7BC,cn,小米, Xiaomi MIX Flip 2
@@ -10801,7 +10811,7 @@ xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro
 xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5
 xiaomi,26020RN1AC,cn,小米, REDMI R70 5G / REDMI R70m 5G
 xiaomi,22081283C,cn,小米, Redmi Pad
-xiaomi,23073RPBFC,cn,小米, Redmi Pad SE
+xiaomi,23073RPBFC,cn,小米, Redmi Pad SE / Redmi Pad M7
 xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro Wi-Fi
 xiaomi,24074RPD2C,cn,小米, Redmi Pad Pro 5G
 xiaomi,25040RP0AC,cn,小米, REDMI Pad 2
@@ -10974,6 +10984,13 @@ xiaomi,M531DA,en,小米, Xiaomi 17T China
 xiaomi,2602EPTC0G,en,小米, Xiaomi 17T Pro Global
 xiaomi,2602EPTC0R,en,小米, Xiaomi 17T Pro Japan (SIM Free)
 xiaomi,M025EC,en,小米, Xiaomi 17T Pro China
+xiaomi,2609BPN61G,en,小米, Xiaomi 18 Pro Global
+xiaomi,2609BPN61I,en,小米, Xiaomi 18 Pro India
+xiaomi,M610BB,en,小米, Xiaomi 18 Pro China
+xiaomi,2611FPNFAG,en,小米, Xiaomi 18 Pro Max Global
+xiaomi,2611FPNFAI,en,小米, Xiaomi 18 Pro Max India
+xiaomi,2611FPNFAR,en,小米, Xiaomi 18 Pro Max Japan
+xiaomi,M154FF,en,小米, Xiaomi 18 Pro Max China
 xiaomi,2608BPX34C,en,小米, Xiaomi 18 Fold China
 xiaomi,2015011,en,小米, Mi Note Global
 xiaomi,2014616,en,小米, Mi Note China (Dual-network)
@@ -11738,7 +11755,6 @@ xiaomi,2509BRP2DC,en,小米, REDMI Pad 2 Pro 5G China
 xiaomi,2603ARP14G,en,小米, REDMI Pad 2 9.7 Global
 xiaomi,2603ARP14C,en,小米, REDMI Pad 2 SE China
 xiaomi,2604ERP4DG,en,小米, REDMI Pad 2 9.7 4G Global
-xiaomi,2604ERP4DI,en,小米, REDMI Pad 2 9.7 4G India
 xiaomi,2604ERP4DC,en,小米, REDMI Pad 2 SE 4G China
 xiaomi,25079RPDCC,en,小米, REDMI K Pad China
 xiaomi,26048RP6AC,en,小米, REDMI K Pad 2 China
