@@ -5166,6 +5166,10 @@ mitv,L65RC-RX,cn,小米电视, REDMI 电视 X65 2026
 mitv,L75RC-RX,cn,小米电视, REDMI 电视 X75 2026
 mitv,L85RC-RX,cn,小米电视, REDMI 电视 X85 2026
 mitv,L98RC-RX,cn,小米电视, REDMI 电视 X98 2026
+mitv,L55RD-RX,cn,小米电视, REDMI 电视 X55 RGB-Mini LED 2027 竞技版
+mitv,L65RD-RX,cn,小米电视, REDMI 电视 X65 RGB-Mini LED 2027 竞技版
+mitv,L75RD-RX,cn,小米电视, REDMI 电视 X75 RGB-Mini LED 2027 竞技版
+mitv,L85RD-RX,cn,小米电视, REDMI 电视 X85 RGB-Mini LED 2027 竞技版
 mitv,L65R9-XP,cn,小米电视, Redmi 智能电视 X Pro 65
 mitv,L75R9-XP,cn,小米电视, Redmi 智能电视 X Pro 75
 mitv,L85RA-RX,cn,小米电视, Redmi 智能电视 MAX 85 英寸
@@ -6376,7 +6380,7 @@ oppo,PKZ110,cn,OPPO, OPPO Reno14 Pro
 oppo,PLW110,cn,OPPO, OPPO Reno15
 oppo,PLV110,cn,OPPO, OPPO Reno15 Pro
 oppo,PMD110,cn,OPPO, OPPO Reno15c
-oppo,PMM110,cn,OPPO, OPPO Reno16
+oppo,PMM110,cn,OPPO, OPPO Reno16 / OPPO Reno16t
 oppo,PMK110,cn,OPPO, OPPO Reno16 Pro
 oppo,PCLM10,cn,OPPO, OPPO Reno Ace
 oppo,PDHM00,cn,OPPO, OPPO Ace2
