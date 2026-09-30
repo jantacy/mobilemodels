@@ -6503,6 +6503,8 @@ oppo,PLE110,cn,OPPO, OPPO K13 Turbo Pro
 oppo,PYD110,cn,OPPO, OPPO K15
 oppo,PMH110,cn,OPPO, OPPO K15 Pro
 oppo,PMG110,cn,OPPO, OPPO K15 Pro+
+oppo,PYE130,cn,OPPO, OPPO K15s
+oppo,PLT150,cn,OPPO, OPPO K15x
 oppo,OPD2101,cn,OPPO, OPPO Pad
 oppo,OPD2102,cn,OPPO, OPPO Pad Air
 oppo,OPD2201,cn,OPPO, OPPO Pad 2
@@ -9039,6 +9041,7 @@ vivo,V2528A,cn,VIVO, vivo S50 / vivo S50t / vivo S50t 元气版
 vivo,V2527A,cn,VIVO, vivo S50 Pro mini
 vivo,V2571A,cn,VIVO, vivo S60
 vivo,V2572A,cn,VIVO, vivo S60 元气版
+vivo,V2620A,cn,VIVO, vivo S60t
 vivo,V1901A,cn,VIVO, vivo Y3 全网通版
 vivo,V1901T,cn,VIVO, vivo Y3 移动全网通版
 vivo,V1930A,cn,VIVO, vivo Y3 标准版 全网通版
@@ -9409,10 +9412,12 @@ vivo,V2552,en,VIVO, vivo V70 FE
 vivo,V2558,en,VIVO, vivo V70 FE
 vivo,V2615,en,VIVO, vivo V70 Lite 5G
 vivo,V2637,en,VIVO, vivo V70 Lite 5G
+vivo,V2648,en,VIVO, vivo V80
 vivo,V2626,en,VIVO, vivo V80 Lite 5G
 vivo,V2655,en,VIVO, vivo V80 Lite 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
 vivo,V2576,en,VIVO, vivo S2
+vivo,V2640,en,VIVO, vivo S2 FE
 vivo,V2153,en,VIVO, vivo T1
 vivo,V2168,en,VIVO, vivo T1
 vivo,V2141,en,VIVO, vivo T1 5G
