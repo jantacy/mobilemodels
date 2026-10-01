@@ -2764,6 +2764,12 @@ huawei,SGT-AL50,cn,华为, HUAWEI Mate 80 Pro (麒麟 9030)
 huawei,SGT-AL00,cn,华为, HUAWEI Mate 80 Pro (麒麟 9030 Pro)
 huawei,SGT-AL10,cn,华为, HUAWEI Mate 80 Pro Max / HUAWEI Mate 80 Pro Max 风驰版
 huawei,SGU-AL10,cn,华为, HUAWEI Mate 80 RS 非凡大师
+huawei,HLS-AL00,cn,华为, HUAWEI Mate 90
+huawei,CMS-AL20,cn,华为, HUAWEI Mate 90 Pro
+huawei,CMM-AL00,cn,华为, HUAWEI Mate 90 Pro Max (麒麟 9050)
+huawei,CMM-AL10,cn,华为, HUAWEI Mate 90 Pro Max (麒麟 9050 Pro)
+huawei,CMM-AL10,cn,华为, HUAWEI Mate 90 Pro Max 典藏版
+huawei,CMU-AL10,cn,华为, HUAWEI Mate 90 RS 非凡大师
 huawei,TAH-AN00,cn,华为, HUAWEI Mate X
 huawei,TAH-AN00m,cn,华为, HUAWEI Mate Xs
 huawei,TET-AN00,cn,华为, HUAWEI Mate X2 5G
@@ -9343,6 +9349,7 @@ vivo,V2429,en,VIVO, vivo X Fold5
 vivo,V2515,en,VIVO, vivo X300
 vivo,V2514,en,VIVO, vivo X300 Pro
 vivo,V2562,en,VIVO, vivo X300 Ultra
+vivo,V2559,en,VIVO, vivo X Fold6
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
