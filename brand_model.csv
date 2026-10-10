@@ -6011,6 +6011,7 @@ oneplus,CPH2805,cn,一加, 一加 Nord CE 6 印度版
 oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
 oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版
 oneplus,PYR110,cn,一加, 一加 Turbo 6X Pro 国行版
+oneplus,PYB110,cn,一加, 一加 16 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -6217,6 +6218,7 @@ oneplus,CPH2805,en,一加, OnePlus Nord CE 6 India
 oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
 oneplus,PYS110,en,一加, OnePlus Turbo 6X China
 oneplus,PYR110,en,一加, OnePlus Turbo 6X Pro China
+oneplus,PYB110,en,一加, OnePlus 16 China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -9170,7 +9172,7 @@ vivo,V2516A,cn,VIVO, vivo Y500 Pro
 vivo,V2531A,cn,VIVO, vivo Y500i / vivo Y500s / vivo Y6 / vivo Y6a
 vivo,V2617A,cn,VIVO, vivo Y500k / vivo Y600i / vivo Y600i m 版
 vivo,V2607A,cn,VIVO, vivo Y600
-vivo,V2561A,cn,VIVO, vivo Y600 Pro
+vivo,V2561A,cn,VIVO, vivo Y600 Pro / vivo Y600s Pro
 vivo,V2553A,cn,VIVO, vivo Y600 Turbo / vivo Y600k Turbo
 vivo,V2115A,cn,VIVO, vivo T1
 vivo,V2123A,cn,VIVO, vivo T1x
@@ -9257,6 +9259,7 @@ vivo,V2426A,cn,VIVO, iQOO Neo10 Pro
 vivo,V2463A,cn,VIVO, iQOO Neo10 Pro+
 vivo,V2520A,cn,VIVO, iQOO Neo11
 vivo,V2573A,cn,VIVO, iQOO Neo11 至尊版
+vivo,V2618A,cn,VIVO, iQOO Neo12
 vivo,V1986A,cn,VIVO, iQOO Z1
 vivo,V2012A,cn,VIVO, iQOO Z1x
 vivo,V2073A,cn,VIVO, iQOO Z3
@@ -9310,6 +9313,7 @@ vivo,iPA2575,cn,VIVO, iQOO Pad5 Pro
 vivo,iPA2537,cn,VIVO, iQOO Pad5e / iQOO Pad5c
 vivo,iPA2673,cn,VIVO, iQOO Pad6 Pro
 vivo,iPA2691,cn,VIVO, iQOO Pad Ultra
+vivo,iPA2693,cn,VIVO, iQOO Pad Pro 8.8
 vivo,WA2052,cn,VIVO, vivo WATCH 42mm
 vivo,WA2056,cn,VIVO, vivo WATCH 46mm
 vivo,WA2156A,cn,VIVO, vivo WATCH 2 eSIM 版
