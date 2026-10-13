@@ -2120,6 +2120,7 @@ honor,MLA-W09,cn,荣耀, 荣耀 MagicPad 4 12.1 英寸 Wi-Fi 版
 honor,ROL-W60,cn,荣耀, 荣耀平板 GT 11.5 英寸 Wi-Fi 版
 honor,ROD2-W69,cn,荣耀, 荣耀平板 GT Pro 12.3 英寸 Wi-Fi 版
 honor,CHG-W60,cn,荣耀, 荣耀平板 GT2 Pro 12.5 英寸 Wi-Fi 版
+honor,HES-W00,cn,荣耀, 荣耀 WIN 平板
 honor,7D-501u,cn,荣耀, 荣耀 X1 3G 版
 honor,7D-503L,cn,荣耀, 荣耀 X1 4G 版
 honor,7D-503LT,cn,荣耀, 荣耀 X1 移动 4G 版
@@ -2147,8 +2148,9 @@ honor,ELN2-W09,cn,荣耀, 荣耀平板 X9 Pro 11.5 英寸 Wi-Fi 版
 honor,NDL2-W09,cn,荣耀, 荣耀平板 X10 11 英寸 Wi-Fi 版
 honor,ELE2-W00,cn,荣耀, 荣耀平板 X10 Pro 11.5 英寸 Wi-Fi 版
 honor,ELE2-W19,cn,荣耀, 荣耀平板 X10 Pro 柔光版 11.5 英寸 Wi-Fi 版
-honor,YAG-W09,cn,荣耀, 荣耀平板 10 Pro Max 13 英寸 Wi-Fi 版
-honor,YAG-W19,cn,荣耀, 荣耀平板 10 Pro Max 柔光版 13 英寸 Wi-Fi 版
+honor,YAG-W09,cn,荣耀, 荣耀平板 X10 Pro Max 13 英寸 Wi-Fi 版
+honor,YAG-W19,cn,荣耀, 荣耀平板 X10 Pro Max 柔光版 13 英寸 Wi-Fi 版
+honor,ONL-W09,cn,荣耀, 荣耀平板 X10 Mini 9.7 英寸 Wi-Fi 版
 honor,ELE2-W19,cn,荣耀, 荣耀护眼学习机 火火兔版 11.5 英寸 Wi-Fi 版
 honor,HDN-W09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 Wi-Fi 版
 honor,HDN-L09,cn,荣耀, 荣耀 Waterplay 10.1 英寸 LTE 版
@@ -2553,6 +2555,8 @@ honor,MBH-N49,en,荣耀, HONOR Magic V5
 honor,BKQ-N49,en,荣耀, HONOR Magic8 Pro
 honor,MTN-NX1M,en,荣耀, HONOR Magic8 Lite
 honor,MTN-NX3,en,荣耀, HONOR Magic8 Lite
+honor,BSN-NX1M,en,荣耀, HONOR Magic9 Lite+
+honor,BSN-NX3,en,荣耀, HONOR Magic9 Lite+
 honor,VNA-LX2,en,荣耀, HONOR X5
 honor,VNA-LX3,en,荣耀, HONOR X5
 honor,WOD-LX1,en,荣耀, HONOR X5 Plus
@@ -2668,6 +2672,7 @@ honor,CGA-W00,en,荣耀, HONOR MagicPad3
 honor,YLE-W09,en,荣耀, HONOR MagicPad4
 honor,JMS-W09,en,荣耀, HONOR Pad X7 Wi-Fi
 honor,JMS-L09,en,荣耀, HONOR Pad X7 LTE
+honor,ONL-W09,en,荣耀, HONOR Pad X7b Wi-Fi
 honor,AGM3-W09HN,en,荣耀, HONOR Pad X8 Wi-Fi
 honor,AGM3-AL09HN,en,荣耀, HONOR Pad X8 LTE
 honor,AGM-W09HN,en,荣耀, HONOR Pad X8 Lite
