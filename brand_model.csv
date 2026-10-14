@@ -3529,6 +3529,9 @@ huawei,HDC0ARIA,cn,华为, 华为智慧屏 V5 Max 110
 huawei,HD75ARIC,cn,华为, 华为智慧屏 V6 75
 huawei,HD85ARIC,cn,华为, 华为智慧屏 V6 85
 huawei,HD98ARIC,cn,华为, 华为智慧屏 V6 98
+huawei,HD75ARIA,cn,华为, 华为智慧屏 V7 教育版 75
+huawei,HD85ARIA,cn,华为, 华为智慧屏 V7 教育版 85
+huawei,HD98ARIA,cn,华为, 华为智慧屏 V7 教育版 98
 huawei,PLAT-760,cn,华为, 华为智慧屏 X65
 huawei,HD65EDIH,cn,华为, 华为智慧屏 MateTV 65 英寸
 huawei,HD75EDIH,cn,华为, 华为智慧屏 MateTV 75 英寸
@@ -3679,11 +3682,18 @@ huawei,HDB325A7,cn,华为, 华为智慧屏 B3 55
 huawei,HDB326A7,cn,华为, 华为智慧屏 B3 65
 huawei,HD55KANY,cn,华为, 华为智慧屏 B5-510
 huawei,HD65KANY,cn,华为, 华为智慧屏 B5-610
+huawei,HDB525A7,cn,华为, 华为智慧屏 B5 55
+huawei,HDB526A7,cn,华为, 华为智慧屏 B5 65
+huawei,HDB527A7,cn,华为, 华为智慧屏 B5 75
 huawei,HEGE-550AX,cn,华为, 华为智慧屏 B7-500
 huawei,HEGE-550X,cn,华为, 华为智慧屏 B7-510
 huawei,HD65FRUN,cn,华为, 华为智慧屏 B7 65
 huawei,HD75FRUN,cn,华为, 华为智慧屏 B7 75
 huawei,HD86FRUN,cn,华为, 华为智慧屏 B7 86
+huawei,HD1XARIN,cn,华为, 华为智慧屏 B7 65A
+huawei,HD77ARIN,cn,华为, 华为智慧屏 B7 75A
+huawei,HD85ARIN,cn,华为, 华为智慧屏 B7 85A
+huawei,HD98ARIN,cn,华为, 华为智慧屏 B7 98A
 huawei,HDB729A7,cn,华为, 华为智慧屏 B9 98
 huawei,BLM-00,cn,华为, 华为小精灵学习智慧屏 / 华为智慧屏便携版 / 华为全屋智能中控屏（桌面版）
 huawei,Leo-B09,cn,华为, HUAWEI WATCH 2 蓝牙版
