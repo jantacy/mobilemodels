@@ -10503,7 +10503,7 @@ xiaomi,26021RN18C,cn,小米, REDMI Note 17 国行版
 xiaomi,26021RN18I,cn,小米, REDMI Note 17 5G 印度版
 xiaomi,26081RA18G,cn,小米, REDMI Note 17 5G 国际版
 xiaomi,26081RA18L,cn,小米, REDMI Note 17 5G 拉美版
-xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro 国行版
+xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro 国行版 / REDMI Note 17 Pro 焕新版
 xiaomi,2607DRA18G,cn,小米, REDMI Note 17 Pro 5G 国际版
 xiaomi,2607DRA18I,cn,小米, REDMI Note 17 Pro 5G 印度版
 xiaomi,2607DRA18T,cn,小米, REDMI Note 17 Pro 5G 沙特版
@@ -10564,6 +10564,7 @@ xiaomi,25102RKBEC,cn,小米, REDMI K90 Pro Max
 xiaomi,25102RK69C,cn,小米, REDMI K90 Pro Max 冠军版
 xiaomi,2604FRK1EC,cn,小米, REDMI K90 Max
 xiaomi,M332BF,cn,小米, REDMI K90 至尊版
+xiaomi,M786BC,cn,小米, REDMI K100
 xiaomi,M511CD,cn,小米, REDMI K100 Pro
 xiaomi,M098FE,cn,小米, REDMI K100 Pro Max
 xiaomi,2016020,cn,小米, 红米 Pro 标准版
@@ -10859,7 +10860,7 @@ xiaomi,25098RA98C,cn,小米, REDMI Note 15
 xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro
 xiaomi,2510ERA8BC,cn,小米, REDMI Note 15 Pro+
 xiaomi,26021RN18C,cn,小米, REDMI Note 17
-xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro
+xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版
 xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5
 xiaomi,26020RN1AC,cn,小米, REDMI R70 5G / REDMI R70m 5G
 xiaomi,22081283C,cn,小米, Redmi Pad
@@ -11509,7 +11510,7 @@ xiaomi,26021RN18C,en,小米, REDMI Note 17 5G China
 xiaomi,26021RN18I,en,小米, REDMI Note 17 5G India
 xiaomi,26081RA18L,en,小米, REDMI Note 17 5G Latin America
 xiaomi,2607DRA18G,en,小米, REDMI Note 17 Pro 5G Global
-xiaomi,2607DRA18C,en,小米, REDMI Note 17 Pro 5G China
+xiaomi,2607DRA18C,en,小米, REDMI Note 17 Pro 5G China / REDMI Note 17 Pro New Edition China
 xiaomi,2607DRA18I,en,小米, REDMI Note 17 Pro 5G India
 xiaomi,2607DRA18T,en,小米, REDMI Note 17 Pro 5G Saudi Arabia
 xiaomi,2609FRA74G,en,小米, REDMI Note 17 Pro Max 5G Global
@@ -11568,6 +11569,7 @@ xiaomi,25102RKBEC,en,小米, REDMI K90 Pro Max China
 xiaomi,25102RK69C,en,小米, REDMI K90 Pro Max Automobili Lamborghini Squadra Corse China
 xiaomi,2604FRK1EC,en,小米, REDMI K90 Max China
 xiaomi,M332BF,en,小米, REDMI K90 Ultra China
+xiaomi,M786BC,en,小米, REDMI K100 China
 xiaomi,M511CD,en,小米, REDMI K100 Pro China
 xiaomi,M098FE,en,小米, REDMI K100 Pro Max China
 xiaomi,2016020,en,小米, Redmi Pro (32GB)
