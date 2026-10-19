@@ -519,6 +519,7 @@ apple,A1842,cn,苹果, Apple TV 4K
 apple,A2169,cn,苹果, Apple TV 4K (第 2 代)
 apple,A2737,cn,苹果, Apple TV 4K (第 3 代) (无线局域网)
 apple,A2843,cn,苹果, Apple TV 4K (第 3 代) (无线局域网 + 以太网)
+apple,A3593,cn,苹果, Apple TV 4K (第 4 代)
 apple,A2117,cn,苹果, Apple Vision Pro
 apple,A3416,cn,苹果, Apple Vision Pro (M5)
 apple,A1213,cn,苹果, iPod touch
@@ -635,6 +636,9 @@ apple,A2937,cn,苹果, AirTag (第 2 代)
 apple,A1639,cn,苹果, HomePod
 apple,A2374,cn,苹果, HomePod mini
 apple,A2825,cn,苹果, HomePod (第 2 代)
+apple,A3374,cn,苹果, HomePod mini 2
+apple,A3218,cn,苹果, Apple HomeView
+apple,A3300,cn,苹果, Apple HomeView (壁挂式)
 apple,A1203,en,苹果, iPhone
 apple,A1241,en,苹果, iPhone 3G
 apple,A1324,en,苹果, iPhone 3G (China mainland)
@@ -1110,6 +1114,7 @@ apple,A1842,en,苹果, Apple TV 4K
 apple,A2169,en,苹果, Apple TV 4K (2nd generation)
 apple,A2737,en,苹果, Apple TV 4K (3rd generation) Wi-Fi
 apple,A2843,en,苹果, Apple TV 4K (3rd generation) Wi-Fi + Ethernet
+apple,A3593,en,苹果, Apple TV 4K (4th generation)
 apple,A2117,en,苹果, Apple Vision Pro
 apple,A3416,en,苹果, Apple Vision Pro (M5)
 apple,A1213,en,苹果, iPod touch (1st generation)
@@ -1226,6 +1231,9 @@ apple,A2937,en,苹果, AirTag (2nd generation)
 apple,A1639,en,苹果, HomePod (1st generation)
 apple,A2374,en,苹果, HomePod mini
 apple,A2825,en,苹果, HomePod (2nd generation)
+apple,A3374,en,苹果, HomePod mini 2
+apple,A3218,en,苹果, Apple HomeView
+apple,A3300,en,苹果, Apple HomeView (Wall Mounted)
 apple,A1324,cn,苹果, iPhone 3G 
 apple,A1325,cn,苹果, iPhone 3GS (无 WLAN 功能)
 apple,A1332,cn,苹果, iPhone 4
@@ -8617,6 +8625,7 @@ samsung,SM-E556B,en,三星, Galaxy F55 5G
 samsung,SM-E566B,en,三星, Galaxy F56 5G
 samsung,SM-E625F,en,三星, Galaxy F62
 samsung,SM-E076B,en,三星, Galaxy F70e 5G
+samsung,SM-E176E,en,三星, Galaxy F70 5G
 samsung,SM-E476B,en,三星, Galaxy F70 Pro 5G
 smartisan,SM701,cn,锤子, Smartisan T1 3G 版
 smartisan,SM705,cn,锤子, Smartisan T1 4G 版
