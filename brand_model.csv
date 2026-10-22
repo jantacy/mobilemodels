@@ -6039,6 +6039,8 @@ oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
 oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版
 oneplus,PYR110,cn,一加, 一加 Turbo 6X Pro 国行版
 oneplus,PYB110,cn,一加, 一加 16 国行版
+oneplus,PYF110,cn,一加, 一加 Ace 7 国行版
+oneplus,PMS110,cn,一加, 一加 Ace 7 Pro 国行版
 oneplus,AC2001,cn,一加, 一加 Nord 印度版
 oneplus,AC2003,cn,一加, 一加 Nord 欧洲版 / 国际版
 oneplus,DN2101,cn,一加, 一加 Nord 2 印度版
@@ -6246,6 +6248,8 @@ oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
 oneplus,PYS110,en,一加, OnePlus Turbo 6X China
 oneplus,PYR110,en,一加, OnePlus Turbo 6X Pro China
 oneplus,PYB110,en,一加, OnePlus 16 China
+oneplus,PYF110,en,一加, OnePlus Ace 7 China
+oneplus,PMS110,en,一加, OnePlus Ace 7 Pro China
 oneplus,AC2001,en,一加, OnePlus Nord India
 oneplus,AC2003,en,一加, OnePlus Nord Europe / Global
 oneplus,DN2101,en,一加, OnePlus Nord 2 India
@@ -6610,6 +6614,8 @@ oppo,OPG07,en,OPPO, OPPO Find X9 (KDDI)
 oppo,CPH2791,en,OPPO, OPPO Find X9 Pro
 oppo,CPH2873,en,OPPO, OPPO Find X9s
 oppo,CPH2841,en,OPPO, OPPO Find X9 Ultra
+oppo,CPH2911,en,OPPO, OPPO Find X10
+oppo,CPH2913,en,OPPO, OPPO Find X10 Pro Max
 oppo,CPH2439,en,OPPO, OPPO Find N2
 oppo,CPH2437,en,OPPO, OPPO Find N2 Flip
 oppo,CPH2499,en,OPPO, OPPO Find N3
@@ -9390,6 +9396,10 @@ vivo,V2515,en,VIVO, vivo X300
 vivo,V2514,en,VIVO, vivo X300 Pro
 vivo,V2562,en,VIVO, vivo X300 Ultra
 vivo,V2559,en,VIVO, vivo X Fold6
+vivo,V2656,en,VIVO, vivo X500 E
+vivo,V2621,en,VIVO, vivo X500 Pro
+vivo,V2622,en,VIVO, vivo X500 Pro
+vivo,V2610,en,VIVO, vivo X500 Pro Max
 vivo,V2025,en,VIVO, vivo V20
 vivo,V2022,en,VIVO, vivo V20 SE
 vivo,V2023,en,VIVO, vivo V20 SE
@@ -9460,6 +9470,7 @@ vivo,V2558,en,VIVO, vivo V70 FE
 vivo,V2615,en,VIVO, vivo V70 Lite 5G
 vivo,V2637,en,VIVO, vivo V70 Lite 5G
 vivo,V2648,en,VIVO, vivo V80
+vivo,V2649,en,VIVO, vivo V80
 vivo,V2626,en,VIVO, vivo V80 Lite 5G
 vivo,V2655,en,VIVO, vivo V80 Lite 5G
 vivo,V1937,en,VIVO, vivo S1 Prime
@@ -9588,6 +9599,9 @@ vivo,V2533,en,VIVO, vivo Y31e 5G
 vivo,V2614,en,VIVO, vivo Y31s 5G
 vivo,V2571,en,VIVO, vivo Y31t 5G
 vivo,V2574,en,VIVO, vivo Y31t 5G
+vivo,V2638,en,VIVO, vivo Y32
+vivo,V2641,en,VIVO, vivo Y32
+vivo,V2642,en,VIVO, vivo Y32
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
@@ -9682,6 +9696,7 @@ vivo,J2510,en,VIVO, JOVI X300 Ultra
 vivo,V2427,en,VIVO, JOVI V50
 vivo,V2440,en,VIVO, JOVI V50 Lite 5G
 vivo,J2507,en,VIVO, JOVI V70 5G
+vivo,J2607,en,VIVO, JOVI V80
 vivo,J2502,en,VIVO, JOVI T1 5G
 vivo,V2425,en,VIVO, JOVI Y19s
 vivo,V2454,en,VIVO, JOVI Y19s
