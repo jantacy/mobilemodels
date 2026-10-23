@@ -16,6 +16,8 @@ This repo pulls that project in as a git submodule, parses every brand's markdow
 | `brand_name` | Brand name in Chinese (e.g. `小米`) |
 | `model_name` | Human-readable model name (e.g. `小米 1 联通版`) |
 
+A device can report more than one raw model code (e.g. a mobile-carrier and a general variant sharing one name), in which case each code gets its own row with the same `model_name`.
+
 ## Auto-update
 
 A GitHub Actions workflow ([`update.yml`](.github/workflows/update.yml)) runs daily:
