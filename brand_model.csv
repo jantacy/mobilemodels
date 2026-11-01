@@ -6063,7 +6063,7 @@ oneplus,PMB110,cn,一加, 一加 Ace 6 至尊版 国行版
 oneplus,PLU110,cn,一加, 一加 Turbo 6 国行版
 oneplus,CPH2793,cn,一加, 一加 Nord 6 印度版
 oneplus,CPH2795,cn,一加, 一加 Nord 6 国际版
-oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版
+oneplus,PLY110,cn,一加, 一加 Turbo 6V 国行版 / 一加 Turbo 6Vs 国行版
 oneplus,CPH2805,cn,一加, 一加 Nord CE 6 印度版
 oneplus,CPH2807,cn,一加, 一加 Nord CE 6 国际版
 oneplus,PYS110,cn,一加, 一加 Turbo 6X 国行版
@@ -6272,7 +6272,7 @@ oneplus,PMB110,en,一加, OnePlus Ace 6 Ultra China
 oneplus,PLU110,en,一加, OnePlus Turbo 6 China
 oneplus,CPH2793,en,一加, OnePlus Nord 6 India
 oneplus,CPH2795,en,一加, OnePlus Nord 6 Global
-oneplus,PLY110,en,一加, OnePlus Turbo 6V China
+oneplus,PLY110,en,一加, OnePlus Turbo 6V China / OnePlus 6Vs China
 oneplus,CPH2805,en,一加, OnePlus Nord CE 6 India
 oneplus,CPH2807,en,一加, OnePlus Nord CE 6 Global
 oneplus,PYS110,en,一加, OnePlus Turbo 6X China
@@ -10640,7 +10640,7 @@ xiaomi,24094RAD4I,cn,小米, Redmi Note 14 5G 印度版 / Redmi Note 14 SE 5G �
 xiaomi,24094RAD4G,cn,小米, Redmi Note 14 5G 国际版
 xiaomi,2502FRA65G,cn,小米, Redmi Note 14S 国际版
 xiaomi,24116RACCG,cn,小米, Redmi Note 14 Pro 国际版
-xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版
+xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro 国行版 / REDMI M100 Pro 国行版
 xiaomi,24090RA29G,cn,小米, Redmi Note 14 Pro 5G 国际版
 xiaomi,24090RA29I,cn,小米, Redmi Note 14 Pro 5G 印度版
 xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+ 国行版
@@ -11026,7 +11026,7 @@ xiaomi,2312DRA50C,cn,小米, Redmi Note 13 Pro (LPDDR4x + UFS 2.2)
 xiaomi,2312CRAD3C,cn,小米, Redmi Note 13 Pro (LPDDR5 + UFS 3.1)
 xiaomi,23090RA98C,cn,小米, Redmi Note 13 Pro+
 xiaomi,24094RAD4C,cn,小米, Redmi Note 14 5G / REDMI Note 15R Pro
-xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro
+xiaomi,24090RA29C,cn,小米, Redmi Note 14 Pro / REDMI M100 Pro
 xiaomi,24115RA8EC,cn,小米, Redmi Note 14 Pro+
 xiaomi,25098RA98C,cn,小米, REDMI Note 15
 xiaomi,25080RABDC,cn,小米, REDMI Note 15 Pro
@@ -11659,7 +11659,7 @@ xiaomi,2502FRA65G,en,小米, Redmi Note 14S Global
 xiaomi,24116RACCG,en,小米, Redmi Note 14 Pro Global
 xiaomi,24090RA29G,en,小米, Redmi Note 14 Pro 5G Global
 xiaomi,24090RA29I,en,小米, Redmi Note 14 Pro 5G India
-xiaomi,24090RA29C,en,小米, Redmi Note 14 Pro 5G China
+xiaomi,24090RA29C,en,小米, Redmi Note 14 Pro 5G China / REDMI M100 Pro China
 xiaomi,24115RA8EG,en,小米, Redmi Note 14 Pro+ 5G Global
 xiaomi,24115RA8EI,en,小米, Redmi Note 14 Pro+ 5G India
 xiaomi,24115RA8EC,en,小米, Redmi Note 14 Pro+ 5G China
