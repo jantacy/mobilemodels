@@ -413,6 +413,9 @@ apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络) (�
 apple,A2993,cn,苹果, iPad mini (A17 Pro) (无线局域网)
 apple,A2995,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
 apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
+apple,A3595,cn,苹果, iPad mini (A20 Pro) (无线局域网)
+apple,A3596,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)
+apple,A3597,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络) (中国大陆)
 apple,A1603,cn,苹果, Apple Pencil (第 1 代)
 apple,A2051,cn,苹果, Apple Pencil (第 2 代)
 apple,A3085,cn,苹果, Apple Pencil (USB-C)
@@ -584,12 +587,19 @@ apple,A3426,cn,苹果," MacBook Pro (14 英寸, M5 Pro)"
 apple,A3427,cn,苹果," MacBook Pro (14 英寸, M5 Max)"
 apple,A3428,cn,苹果," MacBook Pro (16 英寸, M5 Pro)"
 apple,A3429,cn,苹果," MacBook Pro (16 英寸, M5 Max)"
+apple,A3536,cn,苹果," MacBook Pro (14 英寸, M6)"
+apple,A3468,cn,苹果," MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Pro)"
+apple,A3375,cn,苹果," MacBook Pro (14 英寸 PROLED XDR 显示屏, M5 Max)"
+apple,A3469,cn,苹果," MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Pro)"
+apple,A3376,cn,苹果," MacBook Pro (16 英寸 PROLED XDR 显示屏, M5 Max)"
 apple,A2438,cn,苹果," iMac (24 英寸, M1) (2 个 USB-C 端口)"
 apple,A2439,cn,苹果," iMac (24 英寸, M1) (4 个 USB-C 端口)"
 apple,A2874,cn,苹果," iMac (24 英寸, M3) (2 个 USB-C 端口)"
 apple,A2873,cn,苹果," iMac (24 英寸, M3) (4 个 USB-C 端口)"
 apple,A3247,cn,苹果," iMac (24 英寸, M4) (2 个 USB-C 端口)"
 apple,A3137,cn,苹果," iMac (24 英寸, M4) (4 个 USB-C 端口)"
+apple,A3589,cn,苹果," iMac (24 英寸, M6) (2 个 USB-C 端口)"
+apple,A3590,cn,苹果," iMac (24 英寸, M6) (4 个 USB-C 端口)"
 apple,A2348,cn,苹果, Mac mini (M1)
 apple,A2686,cn,苹果, Mac mini (M2)
 apple,A2816,cn,苹果, Mac mini (M2 Pro)
@@ -1033,6 +1043,9 @@ apple,A2569,en,苹果, iPad mini (6th generation) Wi-Fi + Cellular (China mainla
 apple,A2993,en,苹果, iPad mini (A17 Pro) Wi-Fi
 apple,A2995,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular
 apple,A2996,en,苹果, iPad mini (A17 Pro) Wi-Fi + Cellular (China mainland)
+apple,A3595,en,苹果, iPad mini (A20 Pro) Wi-Fi
+apple,A3596,en,苹果, iPad mini (A20 Pro) Wi-Fi + Cellular
+apple,A3597,en,苹果, iPad mini (A20 Pro) Wi-Fi + Cellular (China mainland)
 apple,A1603,en,苹果, Apple Pencil (1st generation)
 apple,A2051,en,苹果, Apple Pencil (2nd generation)
 apple,A3085,en,苹果, Apple Pencil (USB-C)
@@ -1204,12 +1217,19 @@ apple,A3426,en,苹果," MacBook Pro (14-inch, M5 Pro)"
 apple,A3427,en,苹果," MacBook Pro (14-inch, M5 Max)"
 apple,A3428,en,苹果," MacBook Pro (16-inch, M5 Pro)"
 apple,A3429,en,苹果," MacBook Pro (16-inch, M5 Max)"
+apple,A3536,en,苹果," MacBook Pro (14-inch, M6)"
+apple,A3468,en,苹果," MacBook Pro (14-inch PROLED XDR Display, M5 Pro)"
+apple,A3375,en,苹果," MacBook Pro (14-inch PROLED XDR Display, M5 Max)"
+apple,A3469,en,苹果," MacBook Pro (16-inch PROLED XDR Display, M5 Pro)"
+apple,A3376,en,苹果," MacBook Pro (16-inch PROLED XDR Display, M5 Max)"
 apple,A2438,en,苹果," iMac (24-inch, M1) (2 USB-C ports)"
 apple,A2439,en,苹果," iMac (24-inch, M1) (4 USB-C ports)"
 apple,A2874,en,苹果," iMac (24-inch, M3) (2 USB-C ports)"
 apple,A2873,en,苹果," iMac (24-inch, M3) (4 USB-C ports)"
 apple,A3247,en,苹果," iMac (24-inch, M4) (2 USB-C ports)"
 apple,A3137,en,苹果," iMac (24-inch, M4) (4 USB-C ports)"
+apple,A3589,en,苹果," iMac (24-inch, M6) (2 USB-C ports)"
+apple,A3590,en,苹果," iMac (24-inch, M6) (4 USB-C ports)"
 apple,A2348,en,苹果, Mac mini (M1)
 apple,A2686,en,苹果, Mac mini (M2)
 apple,A2816,en,苹果, Mac mini (M2 Pro)
@@ -1367,6 +1387,7 @@ apple,A1455,cn,苹果, iPad mini (无线局域网 + 蜂窝网络)
 apple,A2125,cn,苹果, iPad mini (第 5 代) (无线局域网 + 蜂窝网络)
 apple,A2569,cn,苹果, iPad mini (第 6 代) (无线局域网 + 蜂窝网络)
 apple,A2996,cn,苹果, iPad mini (A17 Pro) (无线局域网 + 蜂窝网络)
+apple,A3597,cn,苹果, iPad mini (A20 Pro) (无线局域网 + 蜂窝网络)
 apple,A1890,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (38 毫米表壳) 
 apple,A1892,cn,苹果, Apple Watch Series 3 (GPS + 蜂窝网络) (42 毫米表壳) 
 apple,A2007,cn,苹果, Apple Watch Series 4 (GPS + 蜂窝网络) (40 毫米表壳) 
@@ -2422,6 +2443,7 @@ honor,WTS-B19,cn,荣耀, 荣耀手表 X5i
 honor,WSS-B19,cn,荣耀, 荣耀手表 X5s
 honor,ROM-B19,cn,荣耀, 荣耀手表 6 Plus
 honor,HLO-B19,cn,荣耀, 荣耀手表 6 Pro
+honor,RIO-B09,cn,荣耀, 荣耀手表 Fit 6
 honor,NYX-B10HN,cn,荣耀, 荣耀手环 3 标准版
 honor,NYX-B20HN,cn,荣耀, 荣耀手环 3 NFC 版
 honor,CRS-B19,cn,荣耀, 荣耀手环 4 标准版
@@ -3146,7 +3168,7 @@ huawei,JUY-AL00,cn,华为, 华为畅享 80
 huawei,JUY-AL80,cn,华为, 华为畅享 90
 huawei,JUY-AL50,cn,华为, 华为畅享 90 Plus / 华为畅享 90m Plus
 huawei,CHZ-AL00,cn,华为, 华为畅享 90 Pro Max
-huawei,JAL-AL90,cn,华为, 华为畅享 100
+huawei,JAL-AL90,cn,华为, 华为畅享 100 / 华为畅享 100m
 huawei,CHZ-AL60,cn,华为, 华为畅享 100 Pro
 huawei,YEW-AL80,cn,华为, 华为畅享 100 Pro Max (麒麟 8020A)
 huawei,YEW-AL90,cn,华为, 华为畅享 100 Pro Max (麒麟 8020)
@@ -5311,6 +5333,7 @@ mitv,L55MA-AIN,en,小米电视, Xiaomi Smart TV X 55 2024
 mitv,L43MB-AIN,en,小米电视, Xiaomi 4K TV X 43
 mitv,L50MB-AIN,en,小米电视, Xiaomi 4K TV X 50
 mitv,L55MB-AIN,en,小米电视, Xiaomi 4K TV X 55
+mitv,L65MB-AIN,en,小米电视, Xiaomi 4K TV X 65
 mitv,L32MB-FIN,en,小米电视, Xiaomi Smart TV F 32
 mitv,L43MB-FIN,en,小米电视, Xiaomi 4K TV FX 43
 mitv,L55MB-FIN,en,小米电视, Xiaomi 4K TV FX 55
@@ -5619,27 +5642,6 @@ mitv,L75MA-SPLEA,en,小米电视, Xiaomi TV S Mini LED 75 2025
 mitv,L55MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 55 2025
 mitv,L65MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 65 2025
 mitv,L75MA-SPLME,en,小米电视, Xiaomi TV S Mini LED 75 2025
-mitv,L55MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
-mitv,L55MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
-mitv,L65MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
-mitv,L75MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
 mitv,L55MC-SEU,en,小米电视, Xiaomi TV S Mini LED 55 2026
 mitv,L65MC-SEU,en,小米电视, Xiaomi TV S Mini LED 65 2026
 mitv,L75MC-SEU,en,小米电视, Xiaomi TV S Mini LED 75 2026
@@ -5688,6 +5690,47 @@ mitv,L65MC-SMX,en,小米电视, Xiaomi TV S Mini LED 65 2026
 mitv,L75MC-SMX,en,小米电视, Xiaomi TV S Mini LED 75 2026
 mitv,L85MC-SMX,en,小米电视, Xiaomi TV S Mini LED 85 2026
 mitv,L98MC-SMX,en,小米电视, Xiaomi TV S Mini LED 98 2026
+mitv,L55MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SEU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SRU,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-STWN,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SSEA,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SME,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SPH,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L55MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 55 2026
+mitv,L65MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 65 2026
+mitv,L75MB-SMX,en,小米电视, Xiaomi TV S Pro Mini LED 75 2026
+mitv,L43MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMEU,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMRU,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMSEA,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-SMME,en,小米电视, Xiaomi TV X Mini LED 43
+mitv,L55MC-SMME,en,小米电视, Xiaomi TV X Mini LED 55
+mitv,L65MC-SMME,en,小米电视, Xiaomi TV X Mini LED 65
+mitv,L75MC-SMME,en,小米电视, Xiaomi TV X Mini LED 75
+mitv,L43MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 43
+mitv,L55MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 55
+mitv,L65MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 65
+mitv,L75MC-FSMEU,en,小米电视, Xiaomi TV FX Mini LED 75
 mitv,L86M7-ESRU,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESTWN,en,小米电视, Xiaomi TV Max 86
 mitv,L86M7-ESME,en,小米电视, Xiaomi TV Max 86
@@ -5872,7 +5915,6 @@ nubia,NX617J,cn,努比亚, nubia N3
 nubia,NX301J,cn,努比亚, nubia N5
 nubia,LPD-20W,cn,努比亚, nubia Pad 3D
 nubia,NP02J,cn,努比亚, nubia Pad 3D II
-nubia,K99J,cn,努比亚, nubia Pad SE
 nubia,NT01,cn,努比亚, nubia Pad Pro
 nubia,NX609J,cn,努比亚, 红魔电竞游戏手机
 nubia,NX619J,cn,努比亚, 红魔 Mars 电竞手机
@@ -5911,6 +5953,7 @@ nubia,Z2464N,en,努比亚, nubia Neo 3 5G
 nubia,Z2465N,en,努比亚, nubia Neo 3 GT 5G
 nubia,Z2571N,en,努比亚, nubia Neo 5 5G
 nubia,Z2570N,en,努比亚, nubia Neo 5 GT 5G
+nubia,Z2572N,en,努比亚, nubia Neo 5 Max 5G
 nubia,Z2353,en,努比亚, nubia Music
 nubia,Z2460,en,努比亚, nubia Music 2 / nubia Music Pro
 nubia,Z2455,en,努比亚, nubia Focus
@@ -5919,20 +5962,48 @@ nubia,Z2462N,en,努比亚, nubia Focus 2 5G
 nubia,Z2463N,en,努比亚, nubia Focus 2 Ultra 5G
 nubia,A502ZT,en,努比亚, nubia Fold SoftBank
 nubia,Z2468N,en,努比亚, nubia Air
+nubia,Z2587N,en,努比亚, nubia Air Pro
 nubia,Z2473,en,努比亚, nubia A56
+nubia,Z2581,en,努比亚, nubia A57
 nubia,Z6255CA,en,努比亚, nubia A75
 nubia,Z2474,en,努比亚, nubia A76
 nubia,Z6657CA,en,努比亚, nubia A76
 nubia,Z2469N,en,努比亚, nubia A76 5G
+nubia,Z2582,en,努比亚, nubia A77
 nubia,nubia 8550,en,努比亚, nubia V50 Vita
 nubia,Z2356,en,努比亚, nubia V60
 nubia,Z2350,en,努比亚, nubia V60 Design
 nubia,Z2459,en,努比亚, nubia V70
 nubia,Z2458,en,努比亚, nubia V70 Design
 nubia,Z2467,en,努比亚, nubia V70 Max
+nubia,Z2576,en,努比亚, nubia V80 Pro
+nubia,Z2575,en,努比亚, nubia V80 Design
+nubia,Z2577,en,努比亚, nubia V80 Max
 nubia,A403ZT,en,努比亚, nubia S 5G SoftBank
 nubia,A507ZT,en,努比亚, nubia S2e SoftBank
 nubia,Z6305R,en,努比亚, nubia S2R
+nubia,NX619J,en,努比亚, REDMAGIC Mars
+nubia,NX629J,en,努比亚, REDMAGIC 3
+nubia,NX659J,en,努比亚, REDMAGIC 5G / REDMAGIC 5S
+nubia,NX651J,en,努比亚, REDMAGIC 5G Lite
+nubia,NX669J,en,努比亚, REDMAGIC 6
+nubia,NX669J-P,en,努比亚, REDMAGIC 6 Pro
+nubia,NX666J,en,努比亚, REDMAGIC 6R
+nubia,NX669J-S,en,努比亚, REDMAGIC 6S Pro
+nubia,NX679J,en,努比亚, REDMAGIC 7
+nubia,NX709J,en,努比亚, REDMAGIC 7 Pro
+nubia,NX709S,en,努比亚, REDMAGIC 7S Pro
+nubia,NX729J,en,努比亚, REDMAGIC 8 Pro / REDMAGIC 8S Pro
+nubia,NX769J,en,努比亚, REDMAGIC 9 Pro / REDMAGIC 9S Pro
+nubia,NX789J,en,努比亚, REDMAGIC 10 Pro / REDMAGIC 10S Pro
+nubia,NX779J,en,努比亚, REDMAGIC 10 Air
+nubia,NX809J,en,努比亚, REDMAGIC 11 Pro / REDMAGIC 11S Pro
+nubia,NX799J,en,努比亚, REDMAGIC 11 Air
+nubia,NX819J,en,努比亚, REDMAGIC 12 Pro
+nubia,K99J,en,努比亚, nubia Pad SE
+nubia,NP03J,en,努比亚, REDMAGIC Nova Gaming Tablet
+nubia,NP05J,en,努比亚, REDMAGIC Astra Gaming Tablet
+nubia,NP06J,en,努比亚, REDMAGIC Astra 2 Gaming Tablet
 oneplus,ONE A0001,cn,一加, 一加手机 全网通版 / 移动版 / 国际版
 oneplus,ONE A1001,cn,一加, 一加手机 联通版
 oneplus,ONE A2001,cn,一加, 一加手机 2
@@ -8984,6 +9055,12 @@ sony,XQ-GE74,cn,索尼, Xperia 1 VIII Asia Pacific
 sony,A601SO,cn,索尼, Xperia 1 VIII Japan (SoftBank)
 sony,SO-51G,cn,索尼, Xperia 1 VIII Japan (NTT Docomo)
 sony,SOG17,cn,索尼, Xperia 1 VIII Japan (KDDI)
+sony,XQ-GH44,cn,索尼, Xperia 10 VIII Japan (SIM Free)
+sony,XQ-GH54,cn,索尼, Xperia 10 VIII Global
+sony,XQ-GH74,cn,索尼, Xperia 10 VIII Asia Pacific
+sony,A502SO,cn,索尼, Xperia 10 VIII Japan (SoftBank)
+sony,SO-52G,cn,索尼, Xperia 10 VIII Japan (NTT Docomo)
+sony,SOG18,cn,索尼, Xperia 10 VIII Japan (KDDI)
 sony,SGP712,cn,索尼, Xperia Z4 Tablet Wi-Fi
 sony,SGP771,cn,索尼, Xperia Z4 Tablet LTE
 sony,SO-05G,cn,索尼, Xperia Z4 Tablet LTE Japan (NTT Docomo)
@@ -9570,13 +9647,11 @@ vivo,V2568,en,VIVO, vivo T5 Pro
 vivo,V2602,en,VIVO, vivo T5 Pro
 vivo,V2545,en,VIVO, vivo T5x 5G
 vivo,V2628,en,VIVO, vivo T5e
-vivo,V2603,en,VIVO, vivo T5 Lite 5G
 vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G
 vivo,vivo 1929,en,VIVO, vivo Y1s
 vivo,vivo 2015,en,VIVO, vivo Y1s
 vivo,vivo 2015_21,en,VIVO, vivo Y1s
 vivo,V2044,en,VIVO, vivo Y3s
-vivo,vivo 1902,en,VIVO, vivo Y5
 vivo,V2118,en,VIVO, vivo Y01
 vivo,V2166,en,VIVO, vivo Y01A
 vivo,V2213,en,VIVO, vivo Y02
@@ -9716,6 +9791,7 @@ vivo,V2574,en,VIVO, vivo Y31t 5G
 vivo,V2638,en,VIVO, vivo Y32
 vivo,V2641,en,VIVO, vivo Y32
 vivo,V2642,en,VIVO, vivo Y32
+vivo,V2639,en,VIVO, vivo Y32 5G
 vivo,V2057,en,VIVO, vivo Y33
 vivo,V2109-EG,en,VIVO, vivo Y33A
 vivo,V2109,en,VIVO, vivo Y33s
@@ -9742,7 +9818,6 @@ vivo,V2127,en,VIVO, vivo Y55 5G
 vivo,V2225,en,VIVO, vivo Y56 5G
 vivo,V2311,en,VIVO, vivo Y56 5G
 vivo,V2355,en,VIVO, vivo Y58 5G
-vivo,V2443,en,VIVO, vivo Y59 5G
 vivo,V2041,en,VIVO, vivo Y72 5G Global
 vivo,V2060,en,VIVO, vivo Y72 5G India
 vivo,V2059,en,VIVO, vivo Y73
@@ -9765,7 +9840,6 @@ vivo,V2401,en,VIVO, vivo Y200 Pro 5G
 vivo,V2336,en,VIVO, vivo Y200e 5G
 vivo,V2416,en,VIVO, vivo Y300 5G
 vivo,V2422,en,VIVO, vivo Y300+ 5G
-vivo,V2402,en,VIVO, vivo Y300 Pro 5G
 vivo,V2455,en,VIVO, vivo Y400
 vivo,V2506,en,VIVO, vivo Y400 5G
 vivo,V2439,en,VIVO, vivo Y400 Pro 5G
@@ -9821,8 +9895,8 @@ vivo,I2410,en,VIVO, iQOO Z10R 5G India
 vivo,I2505,en,VIVO, iQOO Z10R 5G Global
 vivo,I2512,en,VIVO, iQOO Z11 5G
 vivo,I2507,en,VIVO, iQOO Z11x 5G
+vivo,I2605,en,VIVO, iQOO Z11xa 5G
 vivo,I2510,en,VIVO, iQOO Z11 Lite 5G
-vivo,I2510,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,I2515,en,VIVO, iQOO Z11 Lite 44W 5G
 vivo,J2505,en,VIVO, JOVI X300 FE
 vivo,J2510,en,VIVO, JOVI X300 Ultra
