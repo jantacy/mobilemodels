@@ -10248,7 +10248,6 @@ xiaomi,2609BPN61G,cn,小米, Xiaomi 18 Pro 国际版
 xiaomi,2609BPN61I,cn,小米, Xiaomi 18 Pro 印度版
 xiaomi,M154FF,cn,小米, Xiaomi 18 Pro Max 国行版
 xiaomi,2611FPNFAG,cn,小米, Xiaomi 18 Pro Max 国际版
-xiaomi,2611FPNFAI,cn,小米, Xiaomi 18 Pro Max 印度版
 xiaomi,2611FPNFAR,cn,小米, Xiaomi 18 Pro Max 日本版
 xiaomi,2608BPX34C,cn,小米, Xiaomi 18 Fold
 xiaomi,2014616,cn,小米, 小米 Note 双网通版
@@ -10534,9 +10533,10 @@ xiaomi,2508CRN2BG,cn,小米, REDMI 15C 5G 国际版
 xiaomi,2508CRN2BE,cn,小米, REDMI 15C 5G 欧洲版
 xiaomi,2508CRN2BI,cn,小米, REDMI 15C 5G 印度版
 xiaomi,2508CRN2BR,cn,小米, REDMI 15C 5G 日本版
-xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G
+xiaomi,25082RNC1C,cn,小米, REDMI 15R 5G / REDMI R80 5G / REDMI R80m 5G
 xiaomi,2602BRNA4I,cn,小米, REDMI 15A 5G 印度版
 xiaomi,2602BRNA4C,cn,小米, REDMI 17 5G 国行版
+xiaomi,26062RN92C,cn,小米, REDMI M100 国行版
 xiaomi,26062RN92G,cn,小米, REDMI 17 5G 国际版
 xiaomi,26062RN92I,cn,小米, REDMI 17 5G 印度版
 xiaomi,2606FRN72Y,cn,小米, REDMI 17 国际版
@@ -10870,7 +10870,6 @@ xiaomi,25128RN17I,cn,小米, REDMI A7 Pro 印度版
 xiaomi,25128RN17L,cn,小米, REDMI A7 Pro 拉美版
 xiaomi,26020RN1AC,cn,小米, REDMI R70 5G 国行版 / REDMI R70m 5G 国行版
 xiaomi,26020RN1AI,cn,小米, REDMI A7 Pro 5G 印度版
-xiaomi,26062RN92C,cn,小米, REDMI M100
 xiaomi,22081283C,cn,小米, Redmi Pad 国行版
 xiaomi,22081283G,cn,小米, Redmi Pad 国际版
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE 国行版 / Redmi Pad M7
@@ -11118,6 +11117,7 @@ xiaomi,26021RN18C,cn,小米, REDMI Note 17
 xiaomi,2607DRA18C,cn,小米, REDMI Note 17 Pro / REDMI Note 17 Pro 焕新版
 xiaomi,2511FRT34C,cn,小米, REDMI Turbo 5
 xiaomi,26020RN1AC,cn,小米, REDMI R70 5G / REDMI R70m 5G
+xiaomi,26062RN92C,cn,小米, REDMI M100
 xiaomi,22081283C,cn,小米, Redmi Pad
 xiaomi,23073RPBFC,cn,小米, Redmi Pad SE / Redmi Pad M7
 xiaomi,2405CRPFDC,cn,小米, Redmi Pad Pro Wi-Fi
@@ -11302,7 +11302,6 @@ xiaomi,2609BPN61G,en,小米, Xiaomi 18 Pro Global
 xiaomi,2609BPN61I,en,小米, Xiaomi 18 Pro India
 xiaomi,M610BB,en,小米, Xiaomi 18 Pro China
 xiaomi,2611FPNFAG,en,小米, Xiaomi 18 Pro Max Global
-xiaomi,2611FPNFAI,en,小米, Xiaomi 18 Pro Max India
 xiaomi,2611FPNFAR,en,小米, Xiaomi 18 Pro Max Japan
 xiaomi,M154FF,en,小米, Xiaomi 18 Pro Max China
 xiaomi,2608BPX34C,en,小米, Xiaomi 18 Fold China
@@ -11552,11 +11551,12 @@ xiaomi,2508CRN2BG,en,小米, REDMI 15C 5G Global
 xiaomi,2508CRN2BE,en,小米, REDMI 15C 5G Europe
 xiaomi,2508CRN2BI,en,小米, REDMI 15C 5G India
 xiaomi,2508CRN2BR,en,小米, REDMI 15C 5G Japan
-xiaomi,25082RNC1C,en,小米, REDMI 15R 5G China
+xiaomi,25082RNC1C,en,小米, REDMI 15R 5G China / REDMI R80 5G China / REDMI R80m 5G China
 xiaomi,2602BRNA4I,en,小米, REDMI 15A 5G India
 xiaomi,2602BRNA4C,en,小米, REDMI 17 5G China
 xiaomi,26062RN92G,en,小米, REDMI 17 5G Global
 xiaomi,26062RN92I,en,小米, REDMI 17 5G India
+xiaomi,26062RN92C,en,小米, REDMI M100 China
 xiaomi,2606FRN72Y,en,小米, REDMI 17 Global
 xiaomi,2606FRN72L,en,小米, REDMI 17 Latin America / Japan
 xiaomi,2607FRNEAG,en,小米, REDMI 17C 5G Global
@@ -11886,7 +11886,6 @@ xiaomi,25128RN17I,en,小米, REDMI A7 Pro India
 xiaomi,25128RN17L,en,小米, REDMI A7 Pro Latin America
 xiaomi,26020RN1AI,en,小米, REDMI A7 Pro 5G India
 xiaomi,26020RN1AC,en,小米, REDMI R70 5G China / REDMI R70m 5G China
-xiaomi,26062RN92C,en,小米, REDMI M100 China
 xiaomi,M1805E10A,en,小米, POCO F1 Global
 xiaomi,M2004J11G,en,小米, POCO F2 Pro Global
 xiaomi,M2012K11AG,en,小米, POCO F3 Global
