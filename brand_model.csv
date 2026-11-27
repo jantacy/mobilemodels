@@ -5202,6 +5202,9 @@ mitv,L55RB-RAE,cn,小米电视, REDMI 电视 A55 2025 节能版 (一级能效)
 mitv,L65RB-RAE,cn,小米电视, REDMI 电视 A65 2025 节能版 (一级能效)
 mitv,L70RB-RAE,cn,小米电视, REDMI 电视 A70 2025 节能版 (一级能效)
 mitv,L75MA-RAE,cn,小米电视, REDMI 电视 A75 2025 节能版 (一级能效)
+mitv,L55RD-RAE,cn,小米电视, REDMI 电视 A55 2027 一级能效版
+mitv,L65RD-RAE,cn,小米电视, REDMI 电视 A65 2027 一级能效版
+mitv,L75RD-RAE,cn,小米电视, REDMI 电视 A75 2027 一级能效版
 mitv,L43RB-AP,cn,小米电视, Redmi 智能电视 A Pro 43
 mitv,L50RB-AP,cn,小米电视, Redmi 智能电视 A Pro 50 节能版 (二级能效)
 mitv,L55RB-AP,cn,小米电视, Redmi 智能电视 A Pro 55 节能版 (二级能效)
@@ -9623,9 +9626,11 @@ vivo,V2615,en,VIVO, vivo V70 Lite 5G
 vivo,V2637,en,VIVO, vivo V70 Lite 5G
 vivo,V2648,en,VIVO, vivo V80
 vivo,V2649,en,VIVO, vivo V80
+vivo,V2624,en,VIVO, vivo V80 FE
 vivo,V2576,en,VIVO, vivo V80 Lite 5G
 vivo,V2643,en,VIVO, vivo V80 Lite 5G
 vivo,V2644,en,VIVO, vivo V80 Lite 5G
+vivo,V2675,en,VIVO, vivo V80 Lite 5G
 vivo,V2626,en,VIVO, vivo V80 Lite 5G
 vivo,V2655,en,VIVO, vivo V80 Lite 5G
 vivo,vivo 1907,en,VIVO, vivo S1
@@ -9662,7 +9667,8 @@ vivo,V2568,en,VIVO, vivo T5 Pro
 vivo,V2602,en,VIVO, vivo T5 Pro
 vivo,V2545,en,VIVO, vivo T5x 5G
 vivo,V2628,en,VIVO, vivo T5e
-vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G
+vivo,V2557,en,VIVO, vivo T5 Lite 44W 5G`
+vivo,V2667,en,VIVO, vivo T6 Lite 5G
 vivo,vivo 1929,en,VIVO, vivo Y1s
 vivo,vivo 2015,en,VIVO, vivo Y1s
 vivo,vivo 2015_21,en,VIVO, vivo Y1s
@@ -9697,6 +9703,7 @@ vivo,V2556,en,VIVO, vivo Y05i
 vivo,V2650,en,VIVO, vivo Y05i
 vivo,V2575,en,VIVO, vivo Y11 5G
 vivo,V2028,en,VIVO, vivo Y11s
+vivo,V2669,en,VIVO, vivo Y11s 5G
 vivo,V2555,en,VIVO, vivo Y11d
 vivo,V2578,en,VIVO, vivo Y11d
 vivo,V2580,en,VIVO, vivo Y11d
@@ -9768,6 +9775,7 @@ vivo,V2560,en,VIVO, vivo Y21d
 vivo,V2525,en,VIVO, vivo Y21e (2025)
 vivo,V2553,en,VIVO, vivo Y21 5G
 vivo,V2554,en,VIVO, vivo Y21 5G
+vivo,V2670,en,VIVO, vivo Y21s 5G
 vivo,V2207,en,VIVO, vivo Y22
 vivo,V2238,en,VIVO, vivo Y22
 vivo,V2206,en,VIVO, vivo Y22s
